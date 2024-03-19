@@ -43979,3 +43979,127 @@ http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0583_full/1500kb/hls/inde
 http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0584_full/1500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Новые каналы",Hot
 http://21470.vod.redtraffic.xyz/ph57c095422d990/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",SRT  FM SUNGURLU
+https://srtfm.ozelip.com/9902/stream
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",TÜRKÜLERLE TÜRKİYE
+https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",RADYO BANKO
+https://stream.netradyom.com/listen/radyobanko/radio.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",EKİN RADYO
+https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",AVRASYA TÜRK
+https://sslyayin.netyayin.net:10909/;/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",TÜRKÜ7
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",GÖNÜL FM
+https://27823.live.streamtheworld.com/SC020_SO1_SC?/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",ARABESK RADYO
+https://yayin.radyoarabesk.com.tr:8000/stream
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",İMBAT FM
+https://yayin.radyoarabesk.com.tr:8000/stream
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",MEGA SİTE
+https://stream.netradyom.com/listen/megasite/radio.mp3/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",BABA RADYO
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",SEYMEN
+https://25703.live.streamtheworld.com/SC008_SO1_SC?/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",CEM RADYO
+https://erzincan.80.yayin.com.tr/stream/1/?icy=http/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KRAL FM
+https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KRAL POP
+https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KESKİN FM
+http://yayin1.canliyayin.org:8286/;
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",PARK FM
+https://yayin5.radyohizmeti.com:10816/;
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",RADYO HARMAN
+https://25583.live.streamtheworld.com/SC020_SO1_SC
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=", RADYO GÜNEY
+https://radyodinle1.turkhosted.com/yayin?uri=sunucu2.radyolarburada.com:8250/&tkn=5UA0uV3yGsz5Dx2ETxIkaw&tms=1706750738
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo="karataş fm
+https://ssl22.radyotelekom.com/8156/stream
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo="Slow Karadeniz TV https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo="Rize Türk TV https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KASTAMONU FM
+http://yayin.turkhosted.com:6004/;
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KAYSERİ 38 KENT FM
+http://yayin2.yayindakiler.com:4056/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KAYSERİ GÖZDE FM
+http://yayin1.yayindakiler.com:3056/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KENT FM
+https://ssl4.radyotvonline.com/radyohome/kentfmhome.stream_aac/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KENT RADYO
+https://anadolu.liderhost.com.tr:10906/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KERVAN FM
+http://yayin2.canliyayin.org:9374/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KEŞAN FM
+http://sunucu.radyodinle.com:2234/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KEYF FM
+http://duble.radyotvyayini.com:9998/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KIRKLARELİ SOYLU FM
+http://yayin.yayindakiler.com:4034/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KIZILTEPE RADYO EMEK
+http://yayin1.radyohizmeti.com:8585/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KIZILTEPE RADYO ZERGAN
+http://yayin.yayindakiler.com:3194/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KİLİS SULTAN RADYO
+http://sunucu.radyodinle.com:7979/;
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KİSS FM TÜRKİYE
+https://topradio-de-hz-fal-stream03-cluster01.radiohost.de/kissfm-tuerkisch_aac-64
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KİSS LOVE RADYO
+https://anadolu.liderhost.com.tr:10964/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KİSS RADYO
+http://92.42.36.188:8040/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KİSS TURK
+https://17753.live.streamtheworld.com/KISS_TURK128AAC.aac
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KLAS RADİO
+https://anadolu.liderhost.com.tr:10929/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KLASİK HOME
+https://moondigitalmaster.radyotvonline.net/klasikhome/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KOCAELİ RADYO NİKOMEDYA
+http://yayin.netyayin.net:2631/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KOLEJ FM
+http://yayin2.yayindakiler.com:4130/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KONYA FM
+http://212.175.65.102:8001/live
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KONYA GÖZYAŞI FM
+http://yayin1.canliyayin.org:8700/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KONYA RADYO EN
+http://yayin2.canliyayin.org:7222/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KONYA TİRYAKİ FM
+http://yayin.turkhosted.com:6056/mp3
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KOPAR FM
+https://radyo1.radyo-dinle.tc:7061/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KORGANIN SESİ FM
+https://anadolu.liderhost.com.tr:10908/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KOZAN FM
+http://sunucu.radyodinle.com:3401/;
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBERLİSDE_RADYOLARI" logo=",KÖRFEZ FM Edremit
+http://159.253.39.180:9954/;
