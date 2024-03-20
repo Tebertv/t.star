@@ -36,6 +36,12 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ Tv
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailli_medya/chunklist_w663062282.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA Tv
+http://cors.tundracast.com:2000/https://rpn3.bozztv.com/ssh101/ssh101/esmatv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
+http://cdn-yardimlitv.yayin.com.tr/yardimlitv/yardimlitv/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TELE ON TV 
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
 
@@ -648,6 +654,126 @@ http://stream.tvcdn.net/yerel/tokat-web-tv.m3u8
 https://vdo.digitalbox.xyz:3925/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KD.AKUSTİK TV 
 https://ythls.armelin.one/channel/UCFwOubbFrIGY1G6ik2tT2QA.m3u8
+
+#EXTINF:0,AzTV
+#EXTGRP:Azerbaijan Channels
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0,Ictimai TV
+#EXTGRP:Azerbaijan Channels
+http://213.239.195.222/azerbaijan/ictimai_stream_1801/playlist.m3u8
+#EXTINF:0,Real TV
+#EXTGRP:Azerbaijan Channels
+http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,Real TV (rez)
+#EXTGRP:Azerbaijan Channels
+http://mfe01.cliptv.az/dash/Real_TV_SDdfg0108_re.ism/playlist.mpd
+#EXTINF:0,Idman
+#EXTGRP:Azerbaijan Channels
+http://mfe02.cliptv.az/dash/Idman_HDthd1400_re.ism/playlist.mpd
+#EXTINF:0,ARB 24
+#EXTGRP:Azerbaijan Channels
+http://213.239.195.222/azerbaijan/24_stream_1801/playlist.m3u8
+#EXTINF:0,ARB 24 (rez)
+#EXTGRP:Azerbaijan Channels
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:0,ARB Canli AZ
+#EXTGRP:Azerbaijan Channels
+http://65.21.196.155:80/azerbaijan/arb_stream_0812/playlist.m3u8
+#EXTINF:0,ARB Canli AZ (rez)
+#EXTGRP:Azerbaijan Channels
+http://mfe02.cliptv.az/dash/ARB_SDwdv0100_re.ism/playlist.mpd
+#EXTINF:0,Azad TV
+#EXTGRP:Azerbaijan Channels
+http://213.239.195.222:80/azerbaijan/atv_stream_1801/playlist.m3u8
+#EXTINF:0,Azad TV (rez)
+#EXTGRP:Azerbaijan Channels
+http://mfe.cliptv.az/dash/ATV_SDthm0700_re.ism/playlist.mpd
+#EXTINF:0,Xazar TV
+#EXTGRP:Azerbaijan Channels
+http://mfe.cliptv.az/dash/Xezer_SDuk.0006_re.ism/playlist.mpd
+#EXTINF:0,Xazar TV (rez)
+#EXTGRP:Azerbaijan Channels
+http://str.yodacdn.net/xazar/index.m3u8
+#EXTINF:0,CBC Sport
+#EXTGRP:Azerbaijan Channels
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:0,CBC Sport (rez)
+#EXTGRP:Azerbaijan Channels
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb01501_re.ism/playlist.mpd
+#EXTINF:0,AGRO TV Azərbaycan
+#EXTGRP:Azerbaijan Channels
+https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
+#EXTINF:0,Baku.TV
+#EXTGRP:Azerbaijan Channels
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF:0,Medeniyyet
+#EXTGRP:Azerbaijan Channels
+http://213.239.195.222:80/azerbaijan/medeniyyet_stream_1801/playlist.m3u8
+#EXTINF:0,Medeniyyet (rez)
+#EXTGRP:Azerbaijan Channels
+http://de3.seetv.cc/438/video.m3u8?token=E5E8424564E73AE
+#EXTINF:0,ALVIN TV
+#EXTGRP:Azerbaijan Channels
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0,AN.T HD
+#EXTGRP:Azerbaijan Channels
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:0,APA TV
+#EXTGRP:Azerbaijan Channels
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,AZSTAR TV
+#EXTGRP:Azerbaijan Channels
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:0,CBC
+#EXTGRP:Azerbaijan Channels
+http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,DUNYA TV
+#EXTGRP:Azerbaijan Channels
+http://213.239.195.222/azerbaijan/dunya_1801/playlist.m3u8
+#EXTINF:0,EL TV
+#EXTGRP:Azerbaijan Channels
+https://proxy.canlitvplayer.com/str.yodacdn.net/eltv/mono.m3u8?token=564819378f387faefbeb7582dfc4fa82bf01a7d6-f8eda5e1f17ffabe6ca96e832119b66f-1705930158-1705919358
+#EXTINF:0,FTV AZ
+#EXTGRP:Azerbaijan Channels
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:0,Günaz TV
+#EXTGRP:Azerbaijan Channels
+http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,Kanal S
+#EXTGRP:Azerbaijan Channels
+http://65.21.196.155/azerbaijan/start_tv_az/playlist.m3u8
+#EXTINF:0,Kəpəz tv
+#EXTGRP:Azerbaijan Channels
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0,Könül Tv1
+#EXTGRP:Azerbaijan Channels
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:0,LiveTV Az
+#EXTGRP:Azerbaijan Channels
+http://213.239.195.222:80/azerbaijan/livetv2/chunks.m3u8
+#EXTINF:0,Muz TV
+#EXTGRP:Azerbaijan Channels
+http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,Naxçıvan TV
+#EXTGRP:Azerbaijan Channels
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+#EXTINF:0,Qafqaz TV
+#EXTGRP:Azerbaijan Channels
+https://proxy.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=0e3bc059205680458049d4010e57f0a2e651e9f3-1d58fe1ef44a90492744e2fba61340f5-1705930369-1705919569
+#EXTINF:0,Sehiyye TV
+#EXTGRP:Azerbaijan Channels
+https://node2-az-baku-delta.sweet.tv/stream/56h79hyvb7yc2tgayme4eyz8gej2nzedi6db9hhfttwgkx5ajt4dq5rf4v5qs68hf6inqify4p84y2nnfkk8emufmkfeehgctthgghabz8ticafbwmsprm2v72higtwaf7hyixrjdu2tu6i4bdxsbtjp28adkcqwmn======.m3u8
+#EXTINF:0,SHOW PLUS TV
+#EXTGRP:Azerbaijan Channels
+https://250weu.bozztv.com/ssh101/ssh101/showplus/chunks.m3u8
+#EXTINF:0,Space TV
+#EXTGRP:Azerbaijan Channels
+http://65.21.196.155:80/azerbaijan/space_stream_0812/playlist.m3u8
+#EXTINF:0,TMB Azerbaycan
+#EXTGRP:Azerbaijan Channels
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+
+------------------2lişilik wep kanallar-------------------------------------------------
 
 ***iptv***http*://dt0811.xyz:8080//get.php?username=vkn7823&password=vkn00&type=m3*u****link**
 
