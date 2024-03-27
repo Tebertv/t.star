@@ -52,7 +52,16 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailli_medya/chunklist_w663
 http://cors.tundracast.com:2000/https://rpn3.bozztv.com/ssh101/ssh101/esmatv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
+https://yardimlitv.interweb.com.tr:3433/multi_web/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Htv Sinema
+https://hasantv.ozelip.com:3799/multi_web/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",MEYXANA TV
 http://cdn-yardimlitv.yayin.com.tr/yardimlitv/yardimlitv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Ctv Music
+https://ctv.interweb.com.tr:3718/multi_web/play.m3u8
 
 #EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8
@@ -1814,7 +1823,6 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279351_1406/index.m3u8
 #EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995ac6933ccb3900a61cb5.jpg" group-title="Evde Sinema",Kurtuluş
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279319_13c6/index.m3u8
-
 
 ---------------2lişilik wep kanallar----------------------
 
