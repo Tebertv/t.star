@@ -13,7 +13,7 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 4K
-http://103.161.34.2:8080/zmXNeKerxKmt/fUgP6M6zTCV9/160629
+https://tls.tc/aOPoa
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT5 TÜRK 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
