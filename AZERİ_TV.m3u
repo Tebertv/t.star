@@ -1,0 +1,148 @@
+﻿#EXTM3U
+
+NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ SADECE GÜNCELLEME YAPILDIĞI İÇİN 50 TL İŞCİLİK ÜCRETİ ALINIR ODA EMEK KARŞILIĞI OLDUĞU İÇİN KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLAR VE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN ALINARAK GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
+PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  SAYGILARIMLA TEBER GURUP PAYLAŞIM SAYFASI.....2024..
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ Tv
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailli_medya/chunklist_w663062282.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA Tv
+http://cors.tundracast.com:2000/https://rpn3.bozztv.com/ssh101/ssh101/esmatv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
+http://cdn-yardimlitv.yayin.com.tr/yardimlitv/yardimlitv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
+http://cdn-yardimlitv.yayin.com.tr/yardimlitv/yardimlitv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2134.png" group-title="Азербайджан | Azərbaycan",AzTV
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2559.png" group-title="Азербайджан | Azərbaycan",Azad TV
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2200/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2558.png" group-title="Азербайджан | Azərbaycan",Xazar TV
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2199/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2553.png" group-title="Азербайджан | Azərbaycan",Space TV
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2190/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2635.png" group-title="Азербайджан | Azərbaycan",ARB TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2187/index.m3u8
+#EXTINF:-1 group-title="Азербайджан",BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2551.png" group-title="Азербайджан | Azərbaycan",ARB 24 HD
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2188/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2637.png" group-title="Азербайджан | Azərbaycan",Idman
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2198/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2435.png" group-title="Азербайджан | Azərbaycan",Dunya TV AZ
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2192/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2158.png" group-title="Азербайджан | Azərbaycan",CBC AZ
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/1050/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2555.png" group-title="Азербайджан | Azərbaycan",Ictimai TV
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2195/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2557.png" group-title="Азербайджан | Azərbaycan",Medeniyyet
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2197/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2552.png" group-title="Азербайджан | Azərbaycan",ARB Gunes HD
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2189/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2636.png" group-title="Азербайджан | Azərbaycan",CBC Sport
+http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2193/index.m3u8
+#EXTINF:-1 group-title="Азербайджан",Real TV
+http://edge02.odtv.az/o2/realtv/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан",BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1,Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News",APA TV (720p)
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 group-title="Азербайджан",Az News TV1
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан",Al Zahra TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="General",NNTV  FTV AZ
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 group-title="General",NNTV  Az Star TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 group-title="General",NNTV  HADI TV
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 group-title="☆ 🇦🇿 Azərbaycan | Azerbaijan ☆",KANAL S (ŞƏKİ)
+https://api1.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=82bbd00d7fb65a3654fe88d1dfe5fe34bf40e785-4221b47f550cf9698f62cfb4191590d9-1687631153-1687620353
+#EXTINF:-1 group-title="☆ 🇦🇿 Azərbaycan | Azerbaijan ☆",KƏPƏZ TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 group-title="☆ 🇦🇿 Azərbaycan | Azerbaijan ☆",Səhiyyyə TV
+https://api1.canlitvplayer.com/str.yodacdn.net/shtv/mono.m3u8?token=8d460f9cbbb69a61568dfd02ef7b7151bd04f322-376c885768bae3d865ca74aa325406a7-1690158352-1690147552
+#EXTINF:-1 group-title="☆ 🇦🇿 Azərbaycan | Azerbaijan ☆",FTV (SUMQAYIT)
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 group-title="☆ 🇦🇿 Azərbaycan | Azerbaijan ☆",LIVE TV AZ
+http://213.239.195.222/azerbaijan/livetv2/playlist.m3u8
+#EXTINF:-1 group-title="☆ 🇦🇿 Azərbaycan | Azerbaijan ☆",SHOW PLUS
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
+#EXTINF:-1 group-title="☆ 🎶 Musiqi | Music ☆",TMB AZ
+https://api1.canlitvplayer.com/str.yodacdn.net/tmbaz/mono.m3u8?token=8d460f9cbbb69a61568dfd02ef7b7151bd04f322-376c885768bae3d865ca74aa325406a7-1690158352-1690147552
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2556.png" group-title="Азербайджан | Azərbaycan",CBC
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2196/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2551.png" group-title="Азербайджан | Azərbaycan",ARB 24 HD
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2188/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2637.png" group-title="Азербайджан | Azərbaycan",Idman
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2198/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2553.png" group-title="Азербайджан | Azərbaycan",Space TV
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2190/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2559.png" group-title="Азербайджан | Azərbaycan",Azad TV
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2200/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2435.png" group-title="Азербайджан | Azərbaycan",Dunya TV AZ
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2192/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2158.png" group-title="Азербайджан | Azərbaycan",CBC AZ
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/1050/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2555.png" group-title="Азербайджан | Azərbaycan",Ictimai TV
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2195/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2635.png" group-title="Азербайджан | Azərbaycan",ARB TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2187/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2557.png" group-title="Азербайджан | Azərbaycan",Medeniyyet
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2197/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2552.png" group-title="Азербайджан | Azərbaycan",ARB Gunes HD
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2189/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2558.png" group-title="Азербайджан | Azərbaycan",Xazar TV
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/2199/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV Azərbaycan Televiziyası
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ NEWS
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ STAR
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",ATV AZ
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",BAKU TV
+https://rtmp.baku.tv/live/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",MEDENİYYET
+http://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",ICTIMAI TV
+https://edge02.odtv.az/o1/ictimai/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="|TR| GENEL/1",ATV https://trkvz-dev.daioncdn.net/atv/atv.m3u8?ce=3&app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
+ #EXTINF:-1 group-title="Azİslam",Hadi TV 3 (azərbaycanca)1
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 group-title="Azİslam",Hadi TV 7 Türkçe 720p
+https://live.ishiacloud.com/hls/37166b77-128d-425c-91bf-8195071c217d_720p.m3u8
+#EXTINF:-1 group-title="Azİslam",Hadi TV 7 Türkçe 480p
+https://live.ishiacloud.com/hls/37166b77-128d-425c-91bf-8195071c217d_480p.m3u8
+#EXTINF:-1 group-title="Azİslam",On4 TV 1920*1080
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 group-title="AzXəbər",Baku TV960*540
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF:-1 group-title="AzXəbər",Baku TV 1280*720
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 group-title="AzXəbər",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 group-title="AzXəbər",Az News TV1
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 group-title="AzXəbər",Az News TV2
+https://edge1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
+#EXTINF:-1 group-title="AzXəbər",Az News TV3
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
+#EXTINF:-1 group-title="AzXəbər",Az News TV 720p
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1 group-title="AzXəbər",Az News TV 360p
+https://edge1.socialsmart.tv/aznews/smil/aznews/360p/chunks.m3u8
+#EXTINF:-1 group-title="HD Azərbaycan",CBC Sport Online HD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 group-title="HD Azərbaycan",Baku TV HD1
+https://rtmp.baku.tv/live/bakutv_1080p.m3u8
+#EXTINF:-1 group-title="HD Azərbaycan",Baku TV HD2
+https://rtmp.baku.tv/streams/bakutv.m3u8
+#EXTINF:-1 group-title="HD Azərbaycan",AzStar TV HD
+https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1595449153_b3096000.m3u8
