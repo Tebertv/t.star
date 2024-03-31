@@ -144,6 +144,9 @@ https://k1.ozelip.net:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",FİLM
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SURİYELİLERİN_TÜRKİYEDE_AÇDIĞI_KANAL"1,Grand Cinema Tv 
+https://gcinemahls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Balkan Türk TV
 https://tv.digitalbox.xyz:19360/balkanlartv/balkanlartv.m3u8
 
