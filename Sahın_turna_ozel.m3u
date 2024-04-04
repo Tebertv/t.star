@@ -39,6 +39,8 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_TEZENE_TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",RİZE TÜRK TV 
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:0,SUPERTURK_TV 
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
@@ -1177,6 +1179,8 @@ http://stream.tvcdn.net/diger-muzik/slow-karadeniz-tv.m3u8
 http://stream.tvcdn.net/diger-muzik/yansima-muzik-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0d968d1e-6164-4b8a-b8d5-98d24e318a55.jpg" group-title="Diğer-Müzik",Demirci TV
 http://stream.tvcdn.net/diger-muzik/demirci-tv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",SLOW KARADENİZ TV 
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9e0d7b87-1ba4-4b1f-b769-4406a38a9851.jpeg" group-title="Diğer-Müzik",Fora Müzik
 http://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8
 #EXTINF:1 tvg-id="GencKrallarTV.tr" tvg-logo="http://assets.tvcdn.net/6b1d3b33-8f67-40fe-90e8-3d57db6c6318.jpg" group-title="Diğer-Müzik",Genç Kral TV
@@ -1596,6 +1600,7 @@ http://65.21.196.155:80/azerbaijan/space_stream_0812/playlist.m3u8
 #EXTGRP:Azerbaijan Channels
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
+
 *************TEBER DUBLAJ FİLM****************************
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",PERİLİ KÖŞK
@@ -1975,8 +1980,6 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279351_1406/index.m3u8
 #EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995ac6933ccb3900a61cb5.jpg" group-title="Evde Sinema",Kurtuluş
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279319_13c6/index.m3u8
-
-
 
 
 *******************2kişilik wep kanallar***********************
