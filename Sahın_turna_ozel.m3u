@@ -63,14 +63,8 @@ http://cors.tundracast.com:2000/https://rpn3.bozztv.com/ssh101/ssh101/esmatv/pla
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
 https://yardimlitv.interweb.com.tr:3433/multi_web/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Htv Sinema
-https://hasantv.ozelip.com:3799/multi_web/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",MEYXANA TV
-http://cdn-yardimlitv.yayin.com.tr/yardimlitv/yardimlitv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Ctv Music
-https://ctv.interweb.com.tr:3718/multi_web/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Tele play Sinema
+http://nntv.eu.org/play/mSbuK-s4FeJGKBVzbt86EAjijqMQViz_Lw3OIfb3mSs/m3u8
 
 #EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8
@@ -1294,20 +1288,41 @@ http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="Diğer-Eğlence",Zeki & Metin 
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 
-------------AZ-----------------------------
+------------AZTV---------------------------
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",İSMAYİLLİ Tv
+#EXTINF:0,By Kerimoff[055-483-45-94]
+#EXTGRP:Azərbaycan
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:0,Yardimli Tv HD
+#EXTGRP:Azərbaycan
+https://yardimlitv.interweb.com.tr:3433/multi_web/play_720.m3u8
+#EXTINF:0,TvPlusAz
+#EXTGRP:Azərbaycan
+https://tvplusaz.interweb.com.tr:3290/multi_web/play_720.m3u8
+#EXTINF:0,İsmayilli tv
+#EXTGRP:Azərbaycan
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailli_medya/chunklist_w663062282.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA Tv
-http://cors.tundracast.com:2000/https://rpn3.bozztv.com/ssh101/ssh101/esmatv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
+#EXTINF:0,Meyxana Tv
+#EXTGRP:Azərbaycan
 http://cdn-yardimlitv.yayin.com.tr/yardimlitv/yardimlitv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YARDIMLI Tv
-http://cdn-yardimlitv.yayin.com.tr/yardimlitv/yardimlitv/playlist.m3u8
- 
+#EXTINF:0,Esma Tv
+#EXTGRP:Azərbaycan
+https://rpn3.bozztv.com/ssh101/ssh101/esmatv/playlist.m3u8
+#EXTINF:0,Kanal 15
+#EXTGRP:Azərbaycan
+https://kanal15.interweb.com.tr:3038/hybrid/play.m3u8
+#EXTINF:0,CTV MUSIC
+#EXTGRP:Azərbaycan
+https://ctvmedia.interweb.com.tr:3206/multi_web/play_720.m3u8
+#EXTINF:0,Qebele tv
+#EXTGRP:Azərbaycan
+https://qebeletv.ozelip.net:3918/stream/play.m3u8
+#EXTINF:0,H Tv Sinema
+#EXTGRP:Azərbaycan
+https://hasantv.interweb.com.tr:3799/multi_web/play.m3u8
+#EXTINF:0,H Tv Musiqi
+#EXTGRP:Azərbaycan
+https://cdn-hasantv19871206.yayin.com.tr/hasantv19871206/hasantv19871206/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2134.png" group-title="Азербайджан | Azərbaycan",AzTV
 https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2559.png" group-title="Азербайджан | Azərbaycan",Azad TV
@@ -1580,7 +1595,6 @@ http://65.21.196.155:80/azerbaijan/space_stream_0812/playlist.m3u8
 #EXTINF:0,TMB Azerbaycan
 #EXTGRP:Azerbaijan Channels
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-
 
 *************TEBER DUBLAJ FİLM****************************
 
