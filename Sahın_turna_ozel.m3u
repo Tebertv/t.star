@@ -39,6 +39,9 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/57a6028b-7ad4-467f-85a8-48dbef52116b.png" group-title="Yerel",İSM LAHİC TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/LAHIC-TV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/57a6028b-7ad4-467f-85a8-48dbef52116b.png" group-title="Yerel",Çankırı TV
 http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
 
