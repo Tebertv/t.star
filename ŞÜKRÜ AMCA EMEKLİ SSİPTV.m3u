@@ -3,7 +3,7 @@
 NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ SADECE GÜNCELLEME YAPILDIĞI İÇİN 50 TL İŞCİLİK ÜCRETİ ALINIR ODA EMEK KARŞILIĞI OLDUĞU İÇİN KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLAR VE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN ALINARAK GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
 PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  SAYGILARIMLA TEBER GURUP PAYLAŞIM SAYFASI.....2024..
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TEBER STAR1 DUBLE
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TEBER STAR1 MAX
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR/chunklist_w1373314934.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TEBER STAR2 EHLİBEYT
@@ -435,17 +435,17 @@ http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702518
 #EXTINF:-1 tvg-id="tgrtbelgesel.tr" tvg-name="TGRT BELGESEL" tvg-logo="http://onecentcdn.com/newpicon/TR/tgrt_belgesel.png" group-title="TR ⋅ BELGESEL",TGRT BELGESEL
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/142
 
-********************************************************
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KASTAMONU TV  
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL EGE Tv 
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/chunklist_w1737792438.m3u8
 #EXTINF: -1 group-title="HÇRT",MEDYA ON
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
-
+********************************************************
 ***tvcdn*ye*katkılarından Dolayı teşekkür ederiz*TBRT Medya********
 
-#EXTM3U url-tvg="http://epg.tvcdn.net/guide/tr-guide.xml"
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
@@ -536,8 +536,12 @@ http://stream.tvcdn.net/ekonomi/a-para.m3u8
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekotürk
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Ekonomi",Finans Türk
+http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e87da323-5076-4ea7-a70a-5f2b1ebe00a4.png" group-title="Ekonomi",Expo Vizyon
 http://stream.tvcdn.net/ekonomi/expo-vizyon.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8a9bb676-fd2d-47c5-9332-804e2aae533b.jpeg" group-title="Ekonomi",Business Channel Türk
+http://stream.tvcdn.net/ekonomi/business-channel-turk.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Eğlence",TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Eğlence",a2
@@ -676,8 +680,6 @@ http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 http://stream.tvcdn.net/cocuk-egitim/konusan-tom-ve-arkadaslari.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5bc78cad-9532-427d-91c2-683ea2b63318.jpeg" group-title="Çocuk&Eğitim",Mutlu Çocuk
 http://stream.tvcdn.net/cocuk-egitim/mutlu-cocuk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9fed159a-2a27-44e6-a5b5-e0db636149b7.jpeg" group-title="Çocuk&Eğitim",Küçük Kamyon Leo
-http://stream.tvcdn.net/cocuk-egitim/kucuk-kamyon-leo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7e5a471b-d773-4b32-9866-e0f1672bfafb.png" group-title="Çocuk&Eğitim",Kukuli
 http://stream.tvcdn.net/cocuk-egitim/kukuli.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7d8047ee-dc9a-47c8-9a41-d3f3ab88226b.png" group-title="Çocuk&Eğitim",Kukuli Şarkılar
@@ -702,14 +704,14 @@ http://stream.tvcdn.net/dini/tv-5.m3u8
 http://stream.tvcdn.net/dini/berat-tv.m3u8
 #EXTINF:-1 tvg-id="DiyarTV.tr" tvg-logo="http://assets.tvcdn.net/ea4fe219-8fe0-4476-b636-3242ae8d2bf5.png" group-title="Dini",Diyar TV
 http://stream.tvcdn.net/dini/diyar-tv.m3u8
-#EXTINF:-1 tvg-id="FMTV.tr" tvg-logo="http://assets.tvcdn.net/612e52b4-e7a7-4daa-a3fb-07a133815686.png" group-title="Dini",FM TV
-http://stream.tvcdn.net/dini/fm-tv.m3u8
 #EXTINF:-1 tvg-id="GoncaTV.tr" tvg-logo="http://assets.tvcdn.net/1e57f122-68ae-4bd2-8aa1-ad5cdd7e5000.png" group-title="Dini",Gonca TV
 http://stream.tvcdn.net/dini/gonca-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/58500568-8b50-4b69-8b43-d303c933ca61.png" group-title="Dini",İLK TV
 http://stream.tvcdn.net/dini/ilk-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2c5ca955-eefe-4c69-81fa-007da1d9d18f.png" group-title="Dini",Kudüs TV
 http://stream.tvcdn.net/dini/kudus-tv.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-logo="http://assets.tvcdn.net/97578c5d-493f-4a99-ab6b-aedc02609cf0.png" group-title="Dini",Lalegül TV
+http://stream.tvcdn.net/dini/lalegul-tv.m3u8
 #EXTINF:-1 tvg-id="On4TV.tr" tvg-logo="http://assets.tvcdn.net/6023b7ab-402a-4f5f-aefa-210d9f97b562.png" group-title="Dini",On4 TV
 http://stream.tvcdn.net/dini/on4-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cbf5e44c-689a-42d4-bee5-83f6cf5f8939.png" group-title="Dini",Rehber TV
@@ -746,12 +748,10 @@ http://stream.tvcdn.net/dini/sat-7-turk.m3u8
 http://stream.tvcdn.net/dini/kanal-hayat.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/19146761-32ae-46ad-a0f0-2862c2f887e9.png" group-title="Dini",ABN Turkey
 http://stream.tvcdn.net/dini/abn-turkey.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f53f2be-ffec-441a-a97f-f295ef884201.png" group-title="Dini",Huzur Pınarı
-http://stream.tvcdn.net/dini/huzur-pinari.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a887c58-7e53-416d-a7d2-d34a13045813.png" group-title="Dini",Aşk-ı Neva
-http://stream.tvcdn.net/dini/ask-i-neva.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/23b391ac-5edb-4e37-8664-27da64fb0785.png" group-title="Dini",Mukabele TV
 http://stream.tvcdn.net/dini/mukabele-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/580ec706-821b-4a03-ba0c-a12108c3e7aa.png" group-title="Kurumlar",ABB TV
+http://stream.tvcdn.net/kurumlar/abb-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1012ecd1-2b9a-421f-bb59-2b4e96cb4e52.png" group-title="Kurumlar",Angara TV (Keçiören Belediyesi)
 http://stream.tvcdn.net/kurumlar/angara-tv-kecioren-belediyesi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d3d061ac-30c5-4268-9dc1-16f612f74243.png" group-title="Kurumlar",Beşiktaş Web TV
@@ -796,8 +796,22 @@ http://stream.tvcdn.net/yerel/ahi-tv.m3u8
 http://stream.tvcdn.net/yerel/aksu-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e1e20ac4-fc50-4c80-87a8-c85f100f5cfb.png" group-title="Yerel",Alanya Posta TV
 http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0b006053-533a-485c-9b31-f159ab832c5e.png" group-title="Yerel",Alanya TV
+http://stream.tvcdn.net/yerel/alanya-tv.m3u8
+#EXTINF:-1 tvg-id="AltasTV.tr" tvg-logo="http://assets.tvcdn.net/affcd564-54ac-45d2-a36d-897e865b563c.png" group-title="Yerel",Altaş TV
+http://stream.tvcdn.net/yerel/altas-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cd25605b-4c62-4c1e-ab69-4dbccecc1c01.png" group-title="Yerel",Anadolu Dernek TV
 http://stream.tvcdn.net/yerel/anadolu-dernek-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/472809ea-d9ac-4d73-8d17-0474528384a0.png" group-title="Yerel",Anadolu Dost TV
+http://stream.tvcdn.net/yerel/anadolu-dost-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2befe401-b51c-42f5-b750-a8e4d8b085a4.png" group-title="Yerel",Anadolu Net TV
+http://stream.tvcdn.net/yerel/anadolu-net-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a8d92984-feab-4408-803e-014ec5829d66.png" group-title="Yerel",Anadolu TV
+http://stream.tvcdn.net/yerel/anadolu-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f300230c-4870-4323-8a1e-df767ae280f6.png" group-title="Yerel",Aras TV
+http://stream.tvcdn.net/yerel/aras-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0605466d-2bd1-450a-9182-8ccb12567b8b.png" group-title="Yerel",ART Amasya
+http://stream.tvcdn.net/yerel/art-amasya.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-logo="http://assets.tvcdn.net/448471a0-f688-4ac5-a279-1771f384b6de.png" group-title="Yerel",As TV
 http://stream.tvcdn.net/yerel/as-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/848da551-eb89-4032-936e-c9c6b77b8653.png" group-title="Yerel",Bartın TV
@@ -828,6 +842,8 @@ http://stream.tvcdn.net/yerel/drt-tv.m3u8
 http://stream.tvcdn.net/yerel/duzce-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f6c97d79-05e5-476e-a9ad-f9bc1546e162.png" group-title="Yerel",Edessa TV
 http://stream.tvcdn.net/yerel/edessa-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/498a97e1-d327-4478-b243-62c3b20209f6.png" group-title="Yerel",Edirne TV
+http://stream.tvcdn.net/yerel/edirne-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/340b9448-0386-40be-becf-378a308c361e.jpg" group-title="Yerel",Efes Dost TV
 http://stream.tvcdn.net/yerel/efes-dost-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9cfe6005-d198-450c-9b05-0a2a206cde90.png" group-title="Yerel",Ege A Türk TV
@@ -850,17 +866,12 @@ http://stream.tvcdn.net/yerel/erzurum-web-tv.m3u8
 http://stream.tvcdn.net/yerel/es-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/537bd1f7-01d3-4afc-93ea-819a4ee26393.png" group-title="Yerel",ETV Kayseri
 http://stream.tvcdn.net/yerel/etv-kayseri.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/215cb110-1ffa-4f64-923f-b3969e482ced.png" group-title="Yerel",ETV Manisa
-http://stream.tvcdn.net/yerel/etv-manisa.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fdd32b72-e1c5-4d16-8530-d6705a2d57b8.png" group-title="Yerel",FRT Fethiye
-http://stream.tvcdn.net/yerel/frt-fethiye.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9b067b0d-7ada-4315-bcbe-8699a396b27d.png" group-title="Yerel",Gökkuşağı TV
 http://stream.tvcdn.net/yerel/gokkusagi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a4f9eb99-fd80-407c-9c87-8e5a8d3ae12e.png" group-title="Yerel",Görele TV
 http://stream.tvcdn.net/yerel/gorele-tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b5e4826b-9330-49ed-b3b3-2bc653497c77.png" group-title="Yerel",GTV Güneydoğu
-http://stream.tvcdn.net/yerel/gtv-guneydogu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8364e951-2aa7-4e58-9579-69eac7d56cd2.png" group-title="Yerel",GRT Gaziantep
+http://stream.tvcdn.net/yerel/grt-gaziantep.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b7ecbf31-2fc5-48db-bc59-2fb920c731be.png" group-title="Yerel",Gurbet 24 TV
 http://stream.tvcdn.net/yerel/gurbet-24-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d1369b16-75de-49dd-893f-8a197d7b1130.png" group-title="Yerel",Haber 61 TV
@@ -895,8 +906,6 @@ http://stream.tvcdn.net/yerel/kanal-23.m3u8
 http://stream.tvcdn.net/yerel/kanal-26.m3u8
 #EXTINF:-1 tvg-id="Kanal28.tr" tvg-logo="http://assets.tvcdn.net/5b89a44c-768f-4723-b534-fc995cf8f1a6.png" group-title="Yerel",Kanal 28
 http://stream.tvcdn.net/yerel/kanal-28.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8f937d9e-b63c-4110-b734-fc6cfc11a6e8.png" group-title="Yerel",Kanal 32
-http://stream.tvcdn.net/yerel/kanal-32.m3u8
 #EXTINF:-1 tvg-id="Kanal33.tr" tvg-logo="http://assets.tvcdn.net/3045a8ca-99c6-45ac-835f-44e99e3f0e6b.png" group-title="Yerel",Kanal 33
 http://stream.tvcdn.net/yerel/kanal-33.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/dd542b6c-6472-4661-90af-016c86db6aca.png" group-title="Yerel",Kanal 34
@@ -953,8 +962,6 @@ http://stream.tvcdn.net/yerel/konya-olay-tv.m3u8
 http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a3db9643-bdfc-4287-9c9d-58315d650b0e.jpg" group-title="Yerel",Konya TV
 http://stream.tvcdn.net/yerel/konya-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98332ddc-a62d-4a9e-b697-a4db71a0cce0.png" group-title="Yerel",Köroğlu TV
-http://stream.tvcdn.net/yerel/koroglu-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f88b7dbb-f8c6-4f97-b790-8863504802c4.png" group-title="Yerel",Kuzey TV
 http://stream.tvcdn.net/yerel/kuzey-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9a5fc361-21cb-40f8-afa9-bf3ca70a5caf.png" group-title="Yerel",Life TV Kayseri
@@ -971,6 +978,8 @@ http://stream.tvcdn.net/yerel/mavi-karadeniz.m3u8
 http://stream.tvcdn.net/yerel/mercan-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f704dc84-6442-47d5-ab97-c244c0a25cc0.png" group-title="Yerel",Merkez TV Muğla
 http://stream.tvcdn.net/yerel/merkez-tv-mugla.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4201374b-528e-4f2b-b4ee-5b13091766b6.png" group-title="Yerel",Metropol TV
+http://stream.tvcdn.net/yerel/metropol-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/47deb27a-c05d-42b1-9622-4cfed00f6f9b.png" group-title="Yerel",Muğla Türk TV
 http://stream.tvcdn.net/yerel/mugla-turk-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/afe78c1d-bead-4f39-84a9-3474996840ba.png" group-title="Yerel",Nil RTV
@@ -985,8 +994,8 @@ http://stream.tvcdn.net/yerel/olay-turk.m3u8
 http://stream.tvcdn.net/yerel/on6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/447e9b7b-7911-4e38-a11f-22f84615b791.png" group-title="Yerel",On Medya
 http://stream.tvcdn.net/yerel/on-medya.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d83e24e0-5f5d-4a30-b19e-b04f82ae0207.png" group-title="Yerel",ORT TV
-http://stream.tvcdn.net/yerel/ort-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b99fecaa-dfd3-4b6e-8fd2-51e9545ee425.png" group-title="Yerel",Öncü RTV
+http://stream.tvcdn.net/yerel/oncu-rtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e1fd5c94-16c7-4e29-a02c-a07378f2edb2.png" group-title="Yerel",Pazarcık TV
 http://stream.tvcdn.net/yerel/pazarcik-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ffb891c-b700-4d7a-8c47-b9aaa732caa5.jpeg" group-title="Yerel",Rize Türk
@@ -1021,6 +1030,8 @@ http://stream.tvcdn.net/yerel/tokat-tv.m3u8
 http://stream.tvcdn.net/yerel/tokat-web-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27885d5b-6c49-4257-bd09-f20f63489090.png" group-title="Yerel",Turhal Süper TV
 http://stream.tvcdn.net/yerel/turhal-super-tv.m3u8
+#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="http://assets.tvcdn.net/7b8dbf43-064f-4458-9c93-71089eaf493b.png" group-title="Yerel",Türk Haber
+http://stream.tvcdn.net/yerel/turk-haber.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d7296b88-706a-423b-85a1-54c09d9197eb.png" group-title="Yerel",TV 264
 http://stream.tvcdn.net/yerel/tv-264.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/21c47acc-3f31-454c-89b9-abf622b80404.png" group-title="Yerel",TV 38
@@ -1031,8 +1042,12 @@ http://stream.tvcdn.net/yerel/tv-41.m3u8
 http://stream.tvcdn.net/yerel/tv-42.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/da621b46-9ced-4d17-90ff-90c116ab0018.png" group-title="Yerel",TV 48
 http://stream.tvcdn.net/yerel/tv-48.m3u8
+#EXTINF:-1 tvg-id="TV52.tr" tvg-logo="http://assets.tvcdn.net/1c27dd5e-0bd9-4928-8b1e-20c5da6118c3.png" group-title="Yerel",TV 52
+http://stream.tvcdn.net/yerel/tv-52.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0d3de4c3-5086-4917-9b25-969292858a8e.png" group-title="Yerel",TV A
 http://stream.tvcdn.net/yerel/tv-a.m3u8
+#EXTINF:-1 tvg-id="TVDen.tr" tvg-logo="http://assets.tvcdn.net/d2435c44-27b1-4673-a846-8eb815c332d1.png" group-title="Yerel",TV DEN
+http://stream.tvcdn.net/yerel/tv-den.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b9fd9a9a-849c-4d83-8f99-34402e15c52a.png" group-title="Yerel",TV Kayseri
 http://stream.tvcdn.net/yerel/tv-kayseri.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/232aa8e5-a3c8-49b3-b54d-2a4a21ef04d1.png" group-title="Yerel",Urfanatik TV
@@ -1083,8 +1098,6 @@ http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
 http://stream.tvcdn.net/dizi-youtube/kurtlar-vadisi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png" group-title="Dizi-Youtube",Güldür Güldür
 http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e83f6574-4011-4247-b034-c5b4b2f02f71.png" group-title="Dizi-Youtube",ÇGHB
-http://stream.tvcdn.net/dizi-youtube/cghb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ea14170-18a5-4953-9601-dacfdaf70a13.png" group-title="Dizi-Youtube",Emret Komutanım
 http://stream.tvcdn.net/dizi-youtube/emret-komutanim.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c9893fec-8914-49a5-9b85-e17a5ac9cbc9.png" group-title="Dizi-Youtube",Kiralık Aşk
@@ -1099,8 +1112,6 @@ http://stream.tvcdn.net/dizi-youtube/dila-hanim.m3u8
 http://stream.tvcdn.net/dizi-youtube/kurt-seyit-ve-sura.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8bcaa15a-cde7-4f7d-a5c2-a681caa664b8.png" group-title="Dizi-Youtube",Arıza
 http://stream.tvcdn.net/dizi-youtube/ariza.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f5a2dd8f-0260-4059-8ab9-ea282a189244.jpeg" group-title="Dizi-Youtube",Çilek Kokusu
-http://stream.tvcdn.net/dizi-youtube/cilek-kokusu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a8b27d2d-5937-4f30-84a4-0062ad73c473.jpg" group-title="Dizi-Youtube",Fazilet Hanım ve Kızları
 http://stream.tvcdn.net/dizi-youtube/fazilet-hanim-ve-kizlari.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cf695d77-9ea2-44f2-8508-c4c2ce9117f9.jpg" group-title="Dizi-Youtube",Göç Zamanı
@@ -1109,8 +1120,6 @@ http://stream.tvcdn.net/dizi-youtube/goc-zamani.m3u8
 http://stream.tvcdn.net/dizi-youtube/hanim-koylu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f69aa54-6bc1-403c-88e2-455ccb3e3662.jpeg" group-title="Dizi-Youtube",Hayat Bazen Tatlıdır
 http://stream.tvcdn.net/dizi-youtube/hayat-bazen-tatlidir.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d4339df7-f3ee-434f-a383-de6aadff9d3f.png" group-title="Dizi-Youtube",Jet Sosyete
-http://stream.tvcdn.net/dizi-youtube/jet-sosyete.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3d0ed3af-6d73-41ba-bdf9-8c2a23dd64ee.jpg" group-title="Dizi-Youtube",Kalbimin Sultanı
 http://stream.tvcdn.net/dizi-youtube/kalbimin-sultani.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/005904e3-22a9-472b-b39e-d183b8e56e8f.png" group-title="Dizi-Youtube",Kuzey Yıldızı: İlk Aşk
@@ -1133,8 +1142,6 @@ http://stream.tvcdn.net/diger/akademik-bakis.m3u8
 http://stream.tvcdn.net/diger/ajans-express.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0e2d6141-3d4e-441e-af18-812b0fc1dc8c.png" group-title="Diğer",AVM TV
 http://stream.tvcdn.net/diger/avm-tv.m3u8
-#EXTINF:-1 tvg-id="BeykentTV.tr" tvg-logo="http://assets.tvcdn.net/741e0ecf-3d17-41c7-a3c8-ac731a160809.png" group-title="Diğer",BEA
-http://stream.tvcdn.net/diger/bea.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/48f27124-9154-491f-bfdf-ccfff0bdd5fc.jpg" group-title="Diğer",Birgün TV
 http://stream.tvcdn.net/diger/birgun-tv.m3u8
 #EXTINF:-1 tvg-id="CaddeTV.tr" tvg-logo="http://assets.tvcdn.net/ef23f646-4b13-4221-9a6f-f38aab4734ff.png" group-title="Diğer",Cadde TV
@@ -1171,8 +1178,6 @@ http://stream.tvcdn.net/diger/luys-tv.m3u8
 http://stream.tvcdn.net/diger/moda-magazin-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0c93ed36-4504-4cad-83b5-8a32a7d76256.png" group-title="Diğer",SDM TV
 http://stream.tvcdn.net/diger/sdm-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f9c3956b-1ec1-489c-9d60-f1afb99df70c.png" group-title="Diğer",TV EM
-http://stream.tvcdn.net/diger/tv-em.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",Türkiye Klinikleri
 http://stream.tvcdn.net/diger/turkiye-klinikleri.m3u8
 #EXTINF:-1 tvg-id="TurkmeneliTV.iq" tvg-logo="http://assets.tvcdn.net/aaa2df8e-7690-490c-a31e-71619d93e803.png" group-title="Diğer",Türkmeneli TV
@@ -1189,6 +1194,8 @@ http://stream.tvcdn.net/diger/woman-life-tv.m3u8
 http://stream.tvcdn.net/diger/woman-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bfd91450-80c7-4952-b87b-1745d31bbf28.png" group-title="Diğer",World Plus TV
 http://stream.tvcdn.net/diger/world-plus-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6feeb5fd-1392-4230-aba7-c36319321758.png" group-title="Diğer",Yaşam TV
+http://stream.tvcdn.net/diger/yasam-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/071cb04d-910a-46ec-a5b7-21d68f91be4e.png" group-title="Diğer-Müzik",Yıldız En TV
 http://stream.tvcdn.net/diger-muzik/yildiz-en-tv.m3u8
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="Diğer-Müzik",Finest TV
@@ -1253,8 +1260,8 @@ http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="Diğer-Eğlence",Deniz Postası TV
 http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="Diğer-Eğlence",Film Atölyesi
-http://stream.tvcdn.net/diger-eglence/film-atolyesi.m3u8
+#EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",Fark Türk TV
+http://stream.tvcdn.net/diger-eglence/fark-turk-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/95971854-97bc-45cb-86cd-fd991296d189.jpg" group-title="Diğer-Eğlence",Göpsen TV
 http://stream.tvcdn.net/diger-eglence/gopsen-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8e85fa7f-571e-4f55-bf56-22eb3ab59620.jpg" group-title="Diğer-Eğlence",İlkgün TV
@@ -1269,8 +1276,6 @@ http://stream.tvcdn.net/diger-eglence/kobim-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/lugat-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6241e642-d1a3-496f-97d5-3850c31b93d3.png" group-title="Diğer-Eğlence",Malkoçoğlu (Murat Film)
 http://stream.tvcdn.net/diger-eglence/malkocoglu-murat-film.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1ff3d8e7-2ad1-47a3-ac89-67300903fac4.png" group-title="Diğer-Eğlence",Rehbermi TV
-http://stream.tvcdn.net/diger-eglence/rehbermi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1f23a3b4-a964-4c8f-8234-373ed11b2c17.png" group-title="Diğer-Eğlence",Sky Haber TV
 http://stream.tvcdn.net/diger-eglence/sky-haber-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="Diğer-Eğlence",Sudurağı TV
@@ -1287,6 +1292,8 @@ http://stream.tvcdn.net/diger-eglence/saban-tv-3-gulsah-film.m3u8
 http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:-1 tvg-id="" group-title="Diğer-Eğlence",TV 70
+http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/795f7c0b-6ae9-452a-b8e7-995423827498.jpg" group-title="Diğer-Eğlence",TV 90
 http://stream.tvcdn.net/diger-eglence/tv-90.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="Diğer-Eğlence",Viyana TV
@@ -1800,1314 +1807,4 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279351_1406/index.m3u8
 #EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995ac6933ccb3900a61cb5.jpg" group-title="Evde Sinema",Kurtuluş
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279319_13c6/index.m3u8
-
-------------AZTV---------------------------
-
-#EXTINF:0,By Kerimoff[055-483-45-94]
-#EXTGRP:Azərbaycan
-http://iptv.prosto.tv:7000/ch328/video.m3u8
-#EXTINF:0,Yardimli Tv HD
-#EXTGRP:Azərbaycan
-https://yardimlitv.interweb.com.tr:3433/multi_web/play_720.m3u8
-#EXTINF:0,TvPlusAz
-#EXTGRP:Azərbaycan
-https://tvplusaz.interweb.com.tr:3290/multi_web/play_720.m3u8
-#EXTINF:0,İsmayilli tv
-#EXTGRP:Azərbaycan
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/ismailli_medya/chunklist_w663062282.m3u8
-#EXTINF:0,Meyxana Tv
-#EXTGRP:Azərbaycan
-http://cdn-yardimlitv.yayin.com.tr/yardimlitv/yardimlitv/playlist.m3u8
-#EXTINF:0,Esma Tv
-#EXTGRP:Azərbaycan
-https://rpn3.bozztv.com/ssh101/ssh101/esmatv/playlist.m3u8
-#EXTINF:0,Kanal 15
-#EXTGRP:Azərbaycan
-https://kanal15.interweb.com.tr:3038/hybrid/play.m3u8
-#EXTINF:0,CTV MUSIC
-#EXTGRP:Azərbaycan
-https://ctvmedia.interweb.com.tr:3206/multi_web/play_720.m3u8
-#EXTINF:0,Qebele tv
-#EXTGRP:Azərbaycan
-https://qebeletv.ozelip.net:3918/stream/play.m3u8
-#EXTINF:0,H Tv Sinema
-#EXTGRP:Azərbaycan
-https://hasantv.interweb.com.tr:3799/multi_web/play.m3u8
-#EXTINF:0,H Tv Musiqi
-#EXTGRP:Azərbaycan
-https://cdn-hasantv19871206.yayin.com.tr/hasantv19871206/hasantv19871206/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2134.png" group-title="Азербайджан | Azərbaycan",AzTV
-https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2559.png" group-title="Азербайджан | Azərbaycan",Azad TV
-http://rhsbjv7k.tvclub.xyz/iptv/WZQYKS3Q74GGQR/2200/index.m3u8
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 group-title="Azerbaijan Channels",AzTV
-http://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV
-http://135.181.115.81:8000/play/a01n/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV (rez)
-http://str.yodacdn.net/ictimai/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/bb/Real_TV_loqosu.png" group-title="Azerbaijan Channels",Real TV
-http://135.181.115.81:8000/play/a01t/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Azerbaijan Channels",Real TV (rez)
-http://edge02.odtv.az/o2/realtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/88/%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png" group-title="Azerbaijan Channels",Idman
-http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azerbaijan Channels",ARB 24
-http://135.181.115.81:8000/play/a01x/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Azerbaijan Channels",ARB 24 (rez)
-http://str.yodacdn.net/arb24/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/8/86/ARB.png/800px-ARB.png" group-title="Azerbaijan Channels",ARB Canli AZ
-http://135.181.115.81:8000/play/a01w/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Azerbaijan Channels",ARB Canli AZ (rez)
-http://edge02.odtv.az/o1/arbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/474px-Azad_Azerbaycan_TV_logosu.png" group-title="Azerbaijan Channels",Azad TV
-http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Azerbaijan Channels",Azad TV (rez)
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_240p500kbps.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV
-http://135.181.115.81:8000/play/a01r/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV (rez)
-http://str.yodacdn.net/xazar/index.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport
-http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
-#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport (rez)
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" group-title="Azerbaijan Channels",AGRO TV Azərbaycan
-https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/Baku_Tv.png" group-title="Azerbaijan Channels",Baku.TV
-https://rtmp.baku.tv/live/bakutv_540p.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Medeniyyet
-http://135.181.115.81:8000/play/a01p/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Azerbaijan Channels",Medeniyyet (rez)
-https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Alvin_Channel_TV_-_AZE.png" group-title="Azerbaijan Channels",ALVIN TV
-http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/96/AN.T_%28loqo%29.jpg" group-title="Azerbaijan Channels",AN.T HD
-https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://news.unec.edu.az/images/APA_TV.png" group-title="Azerbaijan Channels",APA TV
-http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCbvaiZoNmS3qdp2LAtLDRMMqg5XMb7C0GjxcnJg30g&s" group-title="Azerbaijan Channels",AZSTAR TV
-http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",CBC
-http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azerbaijan Channels",DUNYA TV
-http://135.181.115.81:8000/play/a01l/index.m3u8?token=livetv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/EL_TV_%282020-h.h.%29.png" group-title="Azerbaijan Channels",EL TV
-http://85.132.53.162:1935/live/eltv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://ftv.az/assets/img/logo.png" group-title="Azerbaijan Channels",FTV AZ
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/a3/G%C3%BCnAz_TV.png" group-title="Azerbaijan Channels",Günaz TV
-http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Kanal_S_%282022%29.png" group-title="Azerbaijan Channels",Kanal S
-http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="Azerbaijan Channels",Kəpəz tv
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/b3/93/51/b39351c3-9a0a-d43f-8868-aac3f41961f4/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" group-title="Azerbaijan Channels",LiveTV Az
-http://213.239.195.222:80/azerbaijan/livetv2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/1280px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="Azerbaijan Channels",Muz TV
-http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png" group-title="Azerbaijan Channels",Naxçıvan TV
-http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" group-title="Azerbaijan Channels",Qafqaz TV
-http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/c/cd/S%C9%99hiyy%C9%99_TV.png" group-title="Azerbaijan Channels",Sehiyye TV
-http://65.21.85.175:8000/play/a02v/index.m3u8?token=livetv
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/show-plus-logo-437157D85E-seeklogo.com.png" group-title="Azerbaijan Channels",SHOW PLUS TV
-https://250weu.bozztv.com/ssh101/ssh101/showplus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Space_TV_loqosu_%282023-h.h.%29.png/948px-Space_TV_loqosu_%282023-h.h.%29.png" group-title="Azerbaijan Channels",Space TV
-http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvqZ-frFWw-AxIuFd44A9afmcVevrU0ZHiDfInVqUsw&s" group-title="Azerbaijan Channels",TMB Azerbaycan
-http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-
-
-*************TEBER DUBLAJ FİLM****************************
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",PERİLİ KÖŞK
-https://rovideo.xyz/169/tt1695843.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",KADİM KÖTÜLÜK
-https://rovideo.xyz/141/tt14145436.1080p.tr.m3u8
-
-#,EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",EJDERİN DOĞUŞU
-https://rovideo.xyz/272/tt2720826.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",EjDER KILICI
-https://rovideo.xyz/367/tt3672840.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",ZAMAN YOLCUSUNUN KARISI TR DUB 
-https://rovideo.xyz/045/tt0452694.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",İNTİGAM MELEKLERİ TR DUB 4 
-https://rovideo.xyz/329/tt3291150.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Kuşatma TR DUB 
-https://rovideo.xyz/161/tt16156592.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Einstein ve Atom Bombası TR DUB 
-https://rovideo.xyz/287/tt28756876.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", MEA CULPA TR DUB  
-https://rovideo.xyz/268/tt26861992.480p.tr.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",ÖLÜMCÜL ÇARPIŞMA TR DUB
-https://rovideo.xyz/687/tt6879446.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",İntikam Gecesi TR DUB
-https://rovideo.xyz/265/tt26533869.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Büyük LOGUN X MAN TR DUB
-https://rovideo.xyz/331/tt3315342.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Büyük kırmızı köpek TR DUB
-https://rovideo.xyz/239/tt2397461.480p.tr.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Kapdan Marvel TR DUB
-https://rovideo.xyz/106/tt10676048.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Dehşetin yüzü 2 TR DUB
-https://rovideo.xyz/101/tt10160976.720p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Ölümcül Çarpışma TR DUB
-https://rovideo.xyz/687/tt6879446.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", AYI TED TR DUB
-https://v2.photour.org/v/41r1a5r7bgk4/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", GENÇ RUH TR DUB
-https://puk-oxpc3-ot.vmrange.lat/hls/xqx2pltpmjokjiqbte4slpirxdfrtkteqz6lh55dlvxu6vkbpda22uleoe3a/index-v1-a1.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ŞAKRAK JANGLENİN NOEL HİKAYESİ TR DUB
-https://rovideo.xyz/773/tt7736496.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", YARATICI
-https://rovideo.xyz/118/tt11858890.720p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", A MİLON
-https://rovideo.xyz/219/tt21940010.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", MEG2 (ÇUKUR2)
-https://rovideo.xyz/922/tt9224104.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", KAPTAN MARVEL2
-https://rovideo.xyz/106/tt10676048.720p.en.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", FOE
-https://rovideo.xyz/825/tt8258502.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", MEŞUR HAYALET
-https://rovideo.xyz/779/tt7798604.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", BEN GELECEKDEN GELİYORUM
-https://rovideo.xyz/137/tt13786042.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", AMBULANS
-https://rovideo.xyz/499/tt4998632.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", KAYIP ADA
-https://rovideo.xyz/045/tt0457400.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", KARAYILAN İNLİYOR
-https://rovideo.xyz/046/tt0462200.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", TARZAN EVSANESİ
-https://rovideo.xyz/091/tt0918940.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", TARZAN çizgi film
-https://rovideo.xyz/012/tt0120855.480p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Yarının Dünyası 
-https://rovideo.xyz/196/tt1964418.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", JUNGLE TR DUB
-https://rovideo.xyz/223/tt22352848.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", BULU BADLE 
-https://rovideo.xyz/936/tt9362930.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", SÜPER KIZ 
-https://rovideo.xyz/227/tt22769820.1080p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ÖRÜMCEK EVRENİNDE
-https://rovideo.xyz/936/tt9362722.720p.tr.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ISTASYON TV 
-http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", ARIM BALIM PETEGIM 
-http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", SATİN ALİNAN KOCA 
-http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", KUCUK SEVGILIM HD 
-http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", OYUN BITTI HD 
-http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", YADELLER HD 
-http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", BATAN GÜNEŞ HD 
-https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
-------------------------uzun film-1-------------------------------
-#EXTM3U
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Bizim İçin Şampiyon
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Bi Küçük Eylül Meselesi
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d1244d5a-5581-4a46-bd3f-1d135e4fd21a&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",İstanbul Kırmızısı
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834772_B87D749E&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Bacurau
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_832163_06AF4EA7&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Bir Aşk İki Hayat
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816365_3015F603&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Özgür Dünya
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816403_99E23A60&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Dede Korkut Hikayeleri: Bamsı Beyrek
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_835226_F3F13119&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Gişe Memuru
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834770_A3DDC625&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Cebimdeki Yabancı
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834767_DECC725E&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Yola Geldik
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1ab07d33-920a-4980-9264-f934c1162b56&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",8 Saniye
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834785_EAE5ACB4&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Silsile
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834778_B289DDBC&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Saklı Yüzler
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834777_578E6D11&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",İstanbul Kırmızısı
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834772_B87D749E&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Gergedan Mevsimi
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834768_D7C05BCB&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Büyük Adam Küçük Aşk
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834766_2FE2DA04&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Beynelmilel
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834765_79CB5D73&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Anons
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834762_32B05878&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Annemin Yarası
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834761_D3F5EE77&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Bizim İçin Şampiyon
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816371_0B81DC13&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Bir Aşk İki Hayat
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816365_3015F603&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Napoli'nin Sırrı
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834776_8F8B03E0&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",İncir Reçeli 2
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834771_3F4F407A&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Bi Küçük Eylül Meselesi
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d1244d5a-5581-4a46-bd3f-1d135e4fd21a&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Bacurau
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_832163_06AF4EA7&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Filmler",Özgür Dünya
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816403_99E23A60&SecretKey=NtvApiSecret2014*&.m3u8
------------------uzun film2------------------------------------------------------
-#EXTM3U
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1619" group-title="Filmler",Mutlu Aile Tablosu
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Mutlu-Aile-Tablosu&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1618" group-title="Filmler",Yalancı Sevgilim
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yalanci-Sevgilim&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1605" group-title="Filmler",Küçük Yalanlar
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kucuk-Yalanlar&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1587" group-title="Filmler",Vay Halime
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Vay-Halime&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1583" group-title="Filmler",Petrol Sevdası
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Petrol-Sevdasi&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1522" group-title="Filmler",Aşkımızın Son Tekmesi
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Askimizin-Son-Tekmesi&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1521" group-title="Filmler",Sabahlar Olmasın
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sabahlar-Olmasin&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1519" group-title="Filmler",Bir Aşk İki Hayat
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bir-Ask-Iki-Hayat&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1516" group-title="Filmler",Canavar Gibi: Türk İşi Frankeştayn
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Canavar-Gibi-Turk-Isi-Frankestayn&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1504" group-title="Filmler",Bizim İçin Şampiyon
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bizim-Icin-Sampiyon&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1489" group-title="Filmler",Hayatımız Film
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Hayatimiz-Film&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1488" group-title="Filmler",Başımız Belada
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Basimiz-Belada&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1487" group-title="Filmler",Anamız Var 2
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Anamiz-Var-2&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1485" group-title="Filmler",Cingöz Recai: Bir Efsanenin Dönüşü
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Cingoz-Recai-Bir-Efsanenin-Donusu&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1479" group-title="Filmler",25 Litre
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=25-Litre&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1392" group-title="Filmler",Anamız Var
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Anamiz-Var&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1391" group-title="Filmler",Ağlak Arif
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Aglak-Arif&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1384" group-title="Filmler",Kız Babası
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kiz-Babasi&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1381" group-title="Filmler",Prangalı Yarim
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Prangali-Yarim&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1380" group-title="Filmler",Yol Ayrımı
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yol-Ayrimi&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1370" group-title="Filmler",Organik Aşk
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Organik-Ask&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1363" group-title="Filmler",Ölümü Gör
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Olumu-Gor&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1359" group-title="Filmler",Şansa Bak
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sansa-Bak&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1357" group-title="Filmler",Aşktroloji
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Asktroloji&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1351" group-title="Filmler",Sosyetik Gelin
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sosyetik-Gelin&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1350" group-title="Filmler",Yalancı Damat
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yalanci-Damat&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1348" group-title="Filmler",Koca Bulma Sanatı
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Koca-Bulma-Sanati&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1343" group-title="Filmler",Eski Köye Yeni Adet
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Eski-Koye-Yeni-adet&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1322" group-title="Filmler",4N1K 2
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=4N1K-2&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1315" group-title="Filmler",Hadi Be Oğlum
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Hadi-Be-Oglum&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1309" group-title="Filmler",Kan Kardeşler
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kan-Kardesler&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1308" group-title="Filmler",Badem Şekeri 5
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Badem-Sekeri-5&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1299" group-title="Filmler",Badem Şekeri 3
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Badem-Sekeri-3&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1273" group-title="Filmler",Babası
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Babasi&episode=1&.m3u8
-#EXTINF:1 tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1084" group-title="Filmler",Benden Bu Kadar
-https://uzunmuhalefet.serv00.net/nowtv.php?serie=Benden-Bu-Kadar&episode=1&.m3u8
-
-----------------uzun film3------------------------------------------------------
-#EXTM3U
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7632bb3ab1662564e12bff.jpg" group-title="Evde Sinema",Yeniden Başlamak
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277935_08f6/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76623044539512c8d2bc3e.jpg" group-title="Evde Sinema",Çetin Ceviz 2
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277929_08ea/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76637844539512c8d2bc52.jpg" group-title="Evde Sinema",Aşkın 5 Hali
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277909_08c2/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7665b944539512c8d2bc8b.jpg" group-title="Evde Sinema",Boşu Bir Yerde
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277916_08d0/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7637f43ab1662564e12c1e.jpg" group-title="Evde Sinema",Muhbir
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278077_0a12/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e763a013ab1662564e12c46.jpg" group-title="Evde Sinema",Siyah ya da Beyaz
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277937_08fa/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7664fc44539512c8d2bc76.jpg" group-title="Evde Sinema",Beceriksiz Katil
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277913_08ca/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e766bd344539512c8d2bcee.jpg" group-title="Evde Sinema",Deli Saçması
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277930_08ec/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e763c0c3ab1662564e12c79.jpg" group-title="Evde Sinema",Uyuyana Kadar
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277914_08cc/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e763d713ab1662564e12cab.jpg" group-title="Evde Sinema",Suçlu
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277990_0964/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e766dcf44539512c8d2bd03.jpg" group-title="Evde Sinema",Mahrumlar
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277936_08f8/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7667d544539512c8d2bca6.jpg" group-title="Evde Sinema",Elimiz Mahkum
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277931_08ee/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76693044539512c8d2bccb.jpg" group-title="Evde Sinema",Şimdi Aşk
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277942_0904/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e766e6944539512c8d2bd29.jpg" group-title="Evde Sinema",Zengin Kısmet
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277945_090a/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e764bf244539512c8d2bba3.jpg" group-title="Evde Sinema",Ölümcül Takip
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278080_0a18/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e764e2144539512c8d2bbaf.jpg" group-title="Evde Sinema",Son Vurgun
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277902_08b4/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76505744539512c8d2bbc7.jpg" group-title="Evde Sinema",Sahte Cennet
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/277979_094e/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e786620933ccb0fa400f421.jpg" group-title="Evde Sinema",Çete Savaşları
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278349_0c32/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7daead44539531d08da1e8.jpg" group-title="Evde Sinema",Hudut
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278495_0d56/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7daf7d44539531d08da1ff.jpg" group-title="Evde Sinema",Aşk Bilmecesi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278467_0d1e/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db04b44539531d08da219.jpg" group-title="Evde Sinema",Vikingler
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278525_0d92/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db15f44539531d08da232.jpg" group-title="Evde Sinema",Yaz Aşkım
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278526_0d94/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db30e44539531d08da261.jpg" group-title="Evde Sinema",Katil Deniz Kızı
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278505_0d6a/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db3df44539531d08da280.jpg" group-title="Evde Sinema",Vatikan Kayıtları
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278527_0d96/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db49f44539531d08da293.jpg" group-title="Evde Sinema",Yüzde Yüz Kaşmir
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278523_0d8e/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db56f44539531d08da2b6.jpg" group-title="Evde Sinema",Burada mısın?
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278454_0d04/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db69044539531d08da2d4.jpg" group-title="Evde Sinema",Ekim Fırtınası
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278506_0d6c/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db8d944539531d08da2f0.jpg" group-title="Evde Sinema",Gerilim Odası
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/278528_0d98/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e8494c2ebc8302ac09bc6bd.jpg" group-title="Evde Sinema",88 Numaralı Oda
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279152_1278/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e849618ebc8302ac09bc6ff.jpg" group-title="Evde Sinema",Sevimli Kukla
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279156_1280/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e849a9ee2260103fc70491d.jpg" group-title="Evde Sinema",Podyumdaki Kül Kedisi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279157_1282/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a14ce2260103fc704a84.jpg" group-title="Evde Sinema",Agorafobi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279154_127c/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a247e2260103fc704a9b.jpg" group-title="Evde Sinema",Karartma
-https://kanaldvod.duhnet.tv/S11/MP4/KANALD/HDP1A_-279180_12b0-_1500.mp4
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a360e2260103fc704acd.jpg" group-title="Evde Sinema",Sevgili Kardeşim
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279158_1284/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a52ee2260103fc704b47.jpg" group-title="Evde Sinema",Kirli Oyun
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279186_12bc/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a5fae2260103fc704b77.jpg" group-title="Evde Sinema",Yansıma
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279187_12be/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a8a1e2260103fc704c0e.jpg" group-title="Evde Sinema",French Dolls
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279171_129e/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84ab1ae2260103fc704c4b.jpg" group-title="Evde Sinema",Şeytan Tepesi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279173_12a2/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84ac75e2260103fc704ca9.jpg" group-title="Evde Sinema",Büyük Aşk
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279192_12c8/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84adc3e2260103fc704cd4.jpg" group-title="Evde Sinema",Elveda Dünya
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279172_12a0/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84b369e2260103fc704d82.jpg" group-title="Evde Sinema",Karanlık Kutu
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279189_12c2/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97f3cfebc83025149a1752.jpg" group-title="Evde Sinema",Jane'in İntikamı
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279205_12e2/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97f4d4ebc83025149a1766.jpg" group-title="Evde Sinema",Katil Joe
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279204_12e0/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97f5c5ebc83025149a1776.jpg" group-title="Evde Sinema",Kanlı Dövüş
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279214_12f4/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97f6b7ebc83025149a1789.jpg" group-title="Evde Sinema",Vasiyet
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279217_12fa/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97fb833ab1661830df1af4.jpg" group-title="Evde Sinema",Bayan Meadows
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279221_1302/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97fd9b3ab1661830df1b08.jpg" group-title="Evde Sinema",Zıt Kardeşler
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279220_1300/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e9801c53ab1661830df1b55.jpg" group-title="Evde Sinema",Cinayet Planı
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279277_1372/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e984e49933ccb2d9c23afc1.jpg" group-title="Evde Sinema",Balerin ve Afacan Mucit
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279324_13d0/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e985137933ccb2d9c23b003.jpg" group-title="Evde Sinema",Bodybuilder
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279312_13b8/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e985376933ccb2d9c23b034.jpg" group-title="Evde Sinema",Downer's Grove Laneti
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279313_13ba/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e9856e7933ccb2d9c23b086.jpg" group-title="Evde Sinema",Büyümek ve Diğer Yalanlar
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279331_13de/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e985960933ccb2d9c23b0d3.jpg" group-title="Evde Sinema",Şifacı
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279318_13c4/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995144933ccb3900a61bc4.jpg" group-title="Evde Sinema",Dört Psikopat
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279320_13c8/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995302933ccb3900a61bee.jpg" group-title="Evde Sinema",Kanunun Kuvveti
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279346_13fc/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995752933ccb3900a61c51.jpg" group-title="Evde Sinema",Ölüm Kalım Evi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279299_139e/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e99586e933ccb3900a61c8a.jpg" group-title="Evde Sinema",Dehşet Gecesi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995990933ccb3900a61c9e.jpg" group-title="Evde Sinema",Dehşet Gemisi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279351_1406/index.m3u8
-#EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995ac6933ccb3900a61cb5.jpg" group-title="Evde Sinema",Kurtuluş
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279319_13c6/index.m3u8
-
-******2kişilik wep kanallar***********
-#EXTINF:-1,TR: TRT 4K
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/160629
-#EXTINF:-1,TR | TRT 1 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113425
-#EXTINF:-1,TR | TRT1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113419
-#EXTINF:-1,TR | ATV FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113428
-#EXTINF:-1,TR | ATV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113427
-#EXTINF:-1,TR |  SHOWTV FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113449
-#EXTINF:-1,TR | SHOW TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113429
-#EXTINF:-1,TR: SHOW MAX HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/199289
-#EXTINF:-1,TR | KANAL D HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113423
-#EXTINF:-1,TR | KANAL D  FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113431
-#EXTINF:-1,TR | STARTV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113446
-#EXTINF:-1,TR | STAR TV FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113430
-#EXTINF:-1,TR | FOXTV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113420
-#EXTINF:-1,TR | FOX TV FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113432
-#EXTINF:-1,TR | TV8 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113444
-#EXTINF:-1,TR: TV8 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/169160
-#EXTINF:-1,TR | TV 8.5 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113433
-#EXTINF:-1,TR | KANAL7 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113445
-#EXTINF:-1,TR | KANAL 7 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113447
-#EXTINF:-1,TR |  BEYAZTV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113448
-#EXTINF:-1,TR | TEVE 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113424
-#EXTINF:-1,TR | 360 TV FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113417
-#EXTINF:-1,TR | A2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113439
-#EXTINF:-1,TR | EUROSTAR HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113440
-#EXTINF:-1,TR | ATV AVRUPA HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113441
-#EXTINF:-1,TR | EURO D HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113438
-#EXTINF:-1,TR | KANAL 7 AVRUPA HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113443
-#EXTINF:-1,TR | TRT 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/113426
-#EXTINF:-1,TR: FLASH HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/216544
-#EXTINF:-1,TR: TRT AVAZ
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/352960
-#EXTINF:-1,TR: BEYAZ TV FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421928
-#EXTINF:-1,TR: TEVE 2 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421929
-#EXTINF:-1,TR: A2 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421930
-#EXTINF:-1,TR: TRT 2 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421931
-#EXTINF:-1,TR: TRT 1 Hevc
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/393157
-#EXTINF:-1,TR: ATV Hevc
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371812
-#EXTINF:-1,TR: SHOW TV Hevc
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/393158
-#EXTINF:-1,TR: KANAL D Hevc
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/393159
-#EXTINF:-1,TR: STAR TV Hevc
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/393160
-#EXTINF:-1,TR: FOX TV Hevc
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/393161
-#EXTINF:-1,TR: TV 8 Hevc
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371814
-#EXTINF:-1,TR: TV 8.5 Hevc
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371813
-#EXTINF:-1,TR: KANAL 7 HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/393156
-#EXTINF:-1,TR: CNN TÜRK HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371821
-#EXTINF:-1,TR: TV 100 HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371817
-#EXTINF:-1,TR: TRT TURK HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371818
-#EXTINF:-1,TR: TRT WORLD HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371819
-#EXTINF:-1,TR: A HABER HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371820
-#EXTINF:-1,TR: TRT HABER HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371822
-#EXTINF:-1,TR: TEVE 2 HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371815
-#EXTINF:-1,TR: A2 HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371816
-#EXTINF:-1,TR: BLOOMBERG HT HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371823
-#EXTINF:-1,TR: HABER TURK HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371824
-#EXTINF:-1,TR: TGRT HABER HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371825
-#EXTINF:-1,TR: A SPOR HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371826
-#EXTINF:-1,TR: DMAX HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371828
-#EXTINF:-1,TR: VIASAT HISTORY HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371829
-#EXTINF:-1,TR: TRT BELGESEL HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371830
-#EXTINF:-1,TR: BEYAZ TV HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421925
-#EXTINF:-1,TR: 360 HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421926
-#EXTINF:-1,TR: TRT 2 HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421927
-#EXTINF:-1,TR: TRT 1 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371831
-#EXTINF:-1,TR: TRT2 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371832
-#EXTINF:-1,TR: ATV RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371833
-#EXTINF:-1,TR: Show TV RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371834
-#EXTINF:-1,TR: STAR TV RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371835
-#EXTINF:-1,TR: KANAL D RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371836
-#EXTINF:-1,TR: FOX TV RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371837
-#EXTINF:-1,TR: TV 8 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371838
-#EXTINF:-1,TR: TV 8 5 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371839
-#EXTINF:-1,TR: A2 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371840
-#EXTINF:-1,TR: BEYAZ TV RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371841
-#EXTINF:-1,TR: KANAL 7 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371842
-#EXTINF:-1,TR: teve2 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371843
-#EXTINF:-1,TR: NTV RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371844
-#EXTINF:-1,TR: CNN TÜRK RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371845
-#EXTINF:-1,TR: A HABER RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371846
-#EXTINF:-1,TR: A NEWS RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371847
-#EXTINF:-1,TR: 24 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371850
-#EXTINF:-1,TR: 360 RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371851
-#EXTINF:-1,TR: BLOOMBERGHT RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371852
-#EXTINF:-1,TR: TRT BELGESEL RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371853
-#EXTINF:-1,TR: TRT COCUK RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371854
-#EXTINF:-1,TR: TRT HABER RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371855
-#EXTINF:-1,TR: TRT TURK RAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/371858
-#EXTINF:-1,✪✪✪✪✪ TURK EXXEN SPORTS ✪✪✪✪✪
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/118303
-#EXTINF:-1,EXXEN SPORT 1 HD**
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/422731
-#EXTINF:-1,EXXEN SPORT 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/422732
-#EXTINF:-1,TR: EXXEN 1 [HD] maçta aktif
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/417944
-#EXTINF:-1,TR: EXXEN 1 [FHD] maçta aktif
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/417945
-#EXTINF:-1,EXXEN SPORT 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/422733
-#EXTINF:-1,EXXEN SPORT 3
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/422734
-#EXTINF:-1,[TR] EXXEN SPORTS 3 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/256705
-#EXTINF:-1,[TR] EXXEN SPORTS 4 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/256706
-#EXTINF:-1,[TR] EXXEN SPORTS 5 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/256707
-#EXTINF:-1,[TR] EXXEN SPORTS 6 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/256708
-#EXTINF:-1,[TR] EXXEN SPORTS 8 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/276700
-#EXTINF:-1,✪✪✪✪✪ TURK SARAN S SPORTS ✪✪✪✪✪
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/118667
-#EXTINF:-1,TR| S-SPORT 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277908
-#EXTINF:-1,TR| S SPOR HD +1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277898
-#EXTINF:-1,TR| S-SPORT 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277909
-#EXTINF:-1,TR | S Sport PLUS 2 (Mac Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/392773
-#EXTINF:-1,TR: TRT SPOR HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259371
-#EXTINF:-1,TR: TRT SPOR HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259372
-#EXTINF:-1,TR| A SPOR HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277913
-#EXTINF:-1,TR: S Sport+1 Mac Saati
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/116517
-#EXTINF:-1,TR: S Sport+2 Mac Saati
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/116518
-#EXTINF:-1,TR: S Sport+3 Mac Saati
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/116519
-#EXTINF:-1,TR: S Sport+4 Mac Saati
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/116520
-#EXTINF:-1,TR: S Sport+5 Mac Saati
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/116521
-#EXTINF:-1,TR: S SPORT + 6 Mac Saati
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/287082
-#EXTINF:-1,EXXEN SPORTS 3 (Mac Zamani Acik)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/278014
-#EXTINF:-1,TR | SPOR SMART FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/76320
-#EXTINF:-1,TR | SPOR SMART HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/76321
-#EXTINF:-1,TR: SPOR SMART 2 [](maçta açık,)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277011
-#EXTINF:-1,TR | TIVIBUSPOR 4 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/95859
-#EXTINF:-1,TR: NBA TV HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259368
-#EXTINF:-1,TR: NBA TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259369
-#EXTINF:-1,TR: TRT SPOR YILDIZ HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259373
-#EXTINF:-1,TR: TRT SPOR YILDIZ HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259374
-#EXTINF:-1,TR: TRT 3 SPOR
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259375
-#EXTINF:-1,TR: EUROSPORT 2 HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259377
-#EXTINF:-1,TR| EURO SPORT 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277903
-#EXTINF:-1,TR| SPORT SMART 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277905
-#EXTINF:-1,TR| TRT SPOR 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277910
-#EXTINF:-1,TR| TRT SPOR 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277911
-#EXTINF:-1,TR: GS TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259379
-#EXTINF:-1,TR: TJK TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259380
-#EXTINF:-1,TR| FB TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/277914
-#EXTINF:-1,TR: EXXEN 1 SD+ (maczamani)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/406842
-#EXTINF:-1,TR: TIVIBUSPOR 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409365
-#EXTINF:-1,TR • TİVİBUSPOR FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409368
-#EXTINF:-1,TR • TİVİBUSPOR 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409371
-#EXTINF:-1,TR • TİVİBUSPOR 2 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409372
-#EXTINF:-1,TR: TiViBUSPOR 2 HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409362
-#EXTINF:-1,TR • TİVİBUSPOR 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409373
-#EXTINF:-1,TR: TIVIBUSPOR 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409366
-#EXTINF:-1,TR: TiViBUSPOR 3 HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409363
-#EXTINF:-1,TR • TİVİBUSPOR 3 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409375
-#EXTINF:-1,TR: TIVIBUSPOR 3 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409367
-#EXTINF:-1,TR: TIVIBUSPOR 4(maczamani)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/409364
-#EXTINF:-1,TR: S SPORT + HD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412168
-#EXTINF:-1,TR: S SPORT + FHD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412169
-#EXTINF:-1,TR: S SPORT + FHD YDK (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/439307
-#EXTINF:-1,TR: S SPORT + 2 HD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412170
-#EXTINF:-1,TR: S SPORT + 2 FHD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412171
-#EXTINF:-1,TR: S SPORT + 3 HD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412172
-#EXTINF:-1,TR: S SPORT + 4 HD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412173
-#EXTINF:-1,TR: S SPORT + 6 HD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412175
-#EXTINF:-1,TR: S SPORT + 7 HD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412176
-#EXTINF:-1,TR: S SPORT + 9 HD (Maç Zamanı)
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412178
-#EXTINF:-1,TR: EDGE SPORT HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421978
-#EXTINF:-1,TR: SPORTS TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421979
-#EXTINF:-1,✪✪✪✪✪ Bein Sport ✪✪✪✪✪
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412957
-#EXTINF:-1,[TR] BEIN SPORTS 1 SD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/428026
-#EXTINF:-1,[TR] BEIN SPORTS 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/428027
-#EXTINF:-1,[TR] BEIN-SPORTS 1 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/428028
-#EXTINF:-1,| TR | b**N SPORTS 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399652
-#EXTINF:-1,TR | beIN SPORT 1 HD*
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/78345
-#EXTINF:-1,[TR] BEIN SPORTS 1 FHD¹ 50 FPS
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/428030
-#EXTINF:-1,| TR | b**N SPORTS 1 FHD HEVC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399649
-#EXTINF:-1,| TR | BEIN SPORTS 1 [ 4K ]
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/411955
-#EXTINF:-1,[TR] BeIN SPORTS 1 4K HECV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/428029
-#EXTINF:-1,[TR] BEIN SPORTS 1 4K UYDU
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/428031
-#EXTINF:-1,TR | beIN SPORT 1 HD**
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/350195
-#EXTINF:-1,TR | beIN SPORT HABER FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/412301
-#EXTINF:-1,| TR | BEIN SPORTS 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399655
-#EXTINF:-1,| TR | BEIN SPORTS 2 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399654
-#EXTINF:-1,| TR | BEIN SPORTS 3 SD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399659
-#EXTINF:-1,| TR | BEIN SPORTS 3 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399658
-#EXTINF:-1,| TR | BEIN SPORTS 3 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399657
-#EXTINF:-1,| TR | BEIN SPORTS 4 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399661
-#EXTINF:-1,| TR | BEIN SPORTS 4 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/399660
-#EXTINF:-1,TR: b**N SP0RT MAX 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/442433
-#EXTINF:-1,TR: b**N SP0RT MAX 2 HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/408714
-#EXTINF:-1,TR: b**N SP0RT MAX 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/408715
-#EXTINF:-1,TR | beIN SPORT 2 HD**
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259317
-#EXTINF:-1,TR | beIN SPORT 2 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259318
-#EXTINF:-1,TR| beIN SPORT 5 FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/285817
-#EXTINF:-1,TR: beIN SPORT 1 FEED
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/248301
-#EXTINF:-1,TR: b**N CNNECT 2 maczamani
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/408717
-#EXTINF:-1,✪✪✪✪✪ TURK HABER ✪✪✪✪✪
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/97389
-#EXTINF:-1,TR: TRT HABER HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404134
-#EXTINF:-1,TR: TRT HABER HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404135
-#EXTINF:-1,TR: HABER TURK HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404136
-#EXTINF:-1,TR: HABER TURK HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404137
-#EXTINF:-1,TR: CNN TURK HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404138
-#EXTINF:-1,TR: CNN TURK HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404139
-#EXTINF:-1,TR: NTV HABER HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404140
-#EXTINF:-1,TR: NTV HABER HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404141
-#EXTINF:-1,TR: GLOBAL HABER HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404142
-#EXTINF:-1,TR: GLOBAL HABER HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404143
-#EXTINF:-1,TR: A HABER HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404147
-#EXTINF:-1,TR | TELE 1 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/106783
-#EXTINF:-1,TR | HALK TV FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/106784
-#EXTINF:-1,TR: ULUSAL KANAL HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259819
-#EXTINF:-1,TR Sözcü TV 
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/352661
-#EXTINF:-1,TR: ARTI TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/353180
-#EXTINF:-1,TR: HALK TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404144
-#EXTINF:-1,TR: A PARA HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404145
-#EXTINF:-1,TR: A PARA HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404146
-#EXTINF:-1,TR: KRT TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404149
-#EXTINF:-1,TR: ULKETV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404150
-#EXTINF:-1,TR: TV 100 HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404151
-#EXTINF:-1,TR: Bloomberg HT
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404152
-#EXTINF:-1,TR: KANAL 24 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404153
-#EXTINF:-1,TR: TGRT HABER HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404154
-#EXTINF:-1,TR: A NEWS HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404156
-#EXTINF:-1,TR: UZAY HABER
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404159
-#EXTINF:-1,TR: TH TURKHABER
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/404160
-#EXTINF:-1,TR: HABER GLOBAL HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421975
-#EXTINF:-1,TR: TV NET HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421977
-#EXTINF:-1,TR: KANAL AVRUPA
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413029
-#EXTINF:-1,TR: BENGU TURK
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413030
-#EXTINF:-1,TR: CEM TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413031
-#EXTINF:-1,TR: YOL TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413032
-#EXTINF:-1,TR: ZAZA TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413040
-#EXTINF:-1,TR: AKILLI TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413042
-#EXTINF:-1,TR: Meclis TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413043
-#EXTINF:-1,TR: GUNEYDOGU TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413046
-#EXTINF:-1,TR: PAMUKKALE TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413050
-#EXTINF:-1,TR: KANAL 23
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413052
-#EXTINF:-1,TR: DIYAR TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413061
-#EXTINF:-1,TR: A VUSLAT TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413062
-#EXTINF:-1,TR: ADA TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413063
-#EXTINF:-1,TR: ASTV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413065
-#EXTINF:-1,TR: DEHA TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413067
-#EXTINF:-1,TR: EDESSA TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413068
-#EXTINF:-1,TR: ER TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413069
-#EXTINF:-1,TR: GRT TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413070
-#EXTINF:-1,TR: KANAL 15
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413071
-#EXTINF:-1,TR: KANAL 26
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413072
-#EXTINF:-1,TR: KANAL 68
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413074
-#EXTINF:-1,TR: KANAL T
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413075
-#EXTINF:-1,TR: KIBRIS TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413077
-#EXTINF:-1,TR: KOY TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413078
-#EXTINF:-1,TR: ORDU ALTAS TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413080
-#EXTINF:-1,TR: TV 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413086
-#EXTINF:-1,TR: TV 4 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413087
-#EXTINF:-1,TR: TV 41
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413088
-#EXTINF:-1,TR: TV 52
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413089
-#EXTINF:-1,TR: TVDEN
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413091
-#EXTINF:-1,TR: VIZYON 58
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413093
-#EXTINF:-1,TR: KANAL URFA
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413095
-#EXTINF:-1,TR: KON TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413096
-#EXTINF:-1,TR: LINE TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413097
-#EXTINF:-1,TR: AKSU TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413098
-#EXTINF:-1,TR: BEYKENT TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413100
-#EXTINF:-1,TR: AKSU TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413103
-#EXTINF:-1,TR: ALANYA TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413104
-#EXTINF:-1,TR: BURSA TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413109
-#EXTINF:-1,TR: KANAL 15
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413116
-#EXTINF:-1,TR: KANAL 23
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413117
-#EXTINF:-1,TR: KANAL 26
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413118
-#EXTINF:-1,TR: KANAL 3
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413119
-#EXTINF:-1,TR: KANAL 33
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413120
-#EXTINF:-1,TR: KANAL 5
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413122
-#EXTINF:-1,TR: KANAL 58
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413123
-#EXTINF:-1,TR: KANAL 68
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413124
-#EXTINF:-1,TR: KANAL B
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413125
-#EXTINF:-1,TR: KANAL FIRAT
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/413127
-#EXTINF:-1,TR: KIBRIS ADA TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421980
-#EXTINF:-1,TR: KIBRIS TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421981
-#EXTINF:-1,#### TURK BELGESEL ####
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243193
-#EXTINF:-1,TR: TLC TV HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243194
-#EXTINF:-1,TR: BBC Earth HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243198
-#EXTINF:-1,TR: beIN IZ HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243201
-#EXTINF:-1,TR: DISCOVERY CHANNEL HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243202
-#EXTINF:-1,TR: DISCOVERY CHANNEL HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243203
-#EXTINF:-1,TR: DISCOVERY IDX
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243204
-#EXTINF:-1,TR: DISCOVERY IDX HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243205
-#EXTINF:-1,TR: ViASAT HiSTORY HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243206
-#EXTINF:-1,TR: VIASAT NATURE HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/226120
-#EXTINF:-1,TR: History FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243209
-#EXTINF:-1,TR: DOCUBOX HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243210
-#EXTINF:-1,TR: TGRT BELGESEL
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243212
-#EXTINF:-1,TR: LOVE NATURE HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243213
-#EXTINF:-1,TR: DMAX HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243216
-#EXTINF:-1,TR: DMAX HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243217
-#EXTINF:-1,TR: National Geographic HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243218
-#EXTINF:-1,TR: National Geographic HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243219
-#EXTINF:-1,TR: Nat Geo Wild HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243221
-#EXTINF:-1,TR: TRT BELGESEL HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243222
-#EXTINF:-1,TR: TRT Belgesel HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/243223
-#EXTINF:-1,TR: DISCOVERY SCIENCE FHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/259820
-#EXTINF:-1,TR: TLC TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/374324
-#EXTINF:-1,TR: Animal Planet HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/374325
-#EXTINF:-1,TR: BBC Earth HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/374326
-#EXTINF:-1,TR: beiN GURME HD+
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/374327
-#EXTINF:-1,TR: TARIM TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/374329
-#EXTINF:-1,TR: KÖY TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/374330
-#EXTINF:-1,TR: ViASAT EXPLORER
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/416422
-#EXTINF:-1,TR: TARIH TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421982
-#EXTINF:-1,✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/97391
-#EXTINF:-1,TR | beIN SERIES VICE HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92373
-#EXTINF:-1,TR | beIN SERIES COMEDY HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92374
-#EXTINF:-1,TR | beIN SERIES SCI-FI HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92375
-#EXTINF:-1,TR | beIN MOVIES TURK HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92376
-#EXTINF:-1,TR | beIN MOVIES FAMILY HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92380
-#EXTINF:-1,TR | beIN MOVIES ACTION HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92381
-#EXTINF:-1,TR | beIN MOVIES ACTION 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92382
-#EXTINF:-1,TR | MOVIESMART TURK HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92385
-#EXTINF:-1,TR | MOVIESMART PREMIUM HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92386
-#EXTINF:-1,TR | MOVIESMART CLASSIC HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92388
-#EXTINF:-1,TR | DIZISMART PREMIUM HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92389
-#EXTINF:-1,TR | DIZI SMART MAX HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92390
-#EXTINF:-1,TR | FX HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92392
-#EXTINF:-1,TR | SiNEMA TV YERLi HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92393
-#EXTINF:-1,TR | SiNEMA TV 1001 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92394
-#EXTINF:-1,TR | SiNEMA TV AiLE HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92395
-#EXTINF:-1,TR | SiNEMA TV AiLE 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/411982
-#EXTINF:-1,TR | SiNEMA TV AKSiYON HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92396
-#EXTINF:-1,TR | SiNEMA TV HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92397
-#EXTINF:-1,TR | SINEMA TV AKSIYON 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92398
-#EXTINF:-1,TR | SINEMA TV 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92399
-#EXTINF:-1,TR | SINEMA TV KOMEDI HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92400
-#EXTINF:-1,TR | SINEMA TV KOMEDI 2 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/411981
-#EXTINF:-1,TR | SINEMA TV 1002 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/92402
-#EXTINF:-1,TR: SINEMA YERLI 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421974
-#EXTINF:-1,✪ TR | 24 /7 FILMLER ✪
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/287350
-#EXTINF:-1,TR: TV 100 HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/248819
-#EXTINF:-1,REDBOX 4K UHD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449566
-#EXTINF:-1,REDBOX 3D
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449567
-#EXTINF:-1,REDBOX VIZYON 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449568
-#EXTINF:-1,REDBOX VIZYON 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449569
-#EXTINF:-1,REDBOX BOXSET
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449570
-#EXTINF:-1,REDBOX BOXSET TURK
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449571
-#EXTINF:-1,REDBOX BOXSET KIDS
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449572
-#EXTINF:-1,REDBOX TURK SINEMA 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449573
-#EXTINF:-1,REDBOX TURK SINEMA 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449574
-#EXTINF:-1,REDBOX TURK SINEMA 3
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449575
-#EXTINF:-1,REDBOX KONUSANLAR
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449576
-#EXTINF:-1,REDBOX  SAW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449577
-#EXTINF:-1,REDBOX RAMBO
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449578
-#EXTINF:-1,REDBOX JURASSIC
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449579
-#EXTINF:-1,REDBOX KURTLAR VADiSi
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449580
-#EXTINF:-1,REDBOX MATRIX
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449581
-#EXTINF:-1,REDBOX HARRY  POTTER
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449582
-#EXTINF:-1,REDBOX AKSIYON 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449583
-#EXTINF:-1,REDBOX AKSIYON 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449584
-#EXTINF:-1,REDBOX AKSIYON 3
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449585
-#EXTINF:-1,REDBOX ANIMASYON 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449586
-#EXTINF:-1,REDBOX ANIMASYON 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449587
-#EXTINF:-1,REDBOX BELGESEL
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449588
-#EXTINF:-1,REDBOX BILIMKURGU 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449589
-#EXTINF:-1,REDBOX BILIMKURGU 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449590
-#EXTINF:-1,REDBOX 007___&gt;&gt;&gt;
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449591
-#EXTINF:-1,REDBOX MARVEL
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449592
-#EXTINF:-1,REDBOX PREMIERE
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449593
-#EXTINF:-1,REDBOX KOVBOY
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449594
-#EXTINF:-1,REDBOX STAR WARS
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449595
-#EXTINF:-1,REDBOX GOLD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449596
-#EXTINF:-1,REDBOX TOLGSHOW
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449597
-#EXTINF:-1,REDBOX GULDUR GULDUR
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449598
-#EXTINF:-1,REDBOX KOMEDI 90'S
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449599
-#EXTINF:-1,REDBOX CEM YILMAZ
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449600
-#EXTINF:-1,REDBOX DRAMA 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449601
-#EXTINF:-1,REDBOX DRAMA 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449602
-#EXTINF:-1,REDBOX DRAMA 3
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449603
-#EXTINF:-1,REDBOX KOMEDI 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449604
-#EXTINF:-1,REDBOX KOMEDI 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449605
-#EXTINF:-1,REDBOX KOMEDI 3
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449606
-#EXTINF:-1,REDBOX KORKU 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449607
-#EXTINF:-1,REDBOX KORKU 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449608
-#EXTINF:-1,REDBOX KORKU 3
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449609
-#EXTINF:-1,REDBOX MIX 1
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449610
-#EXTINF:-1,REDBOX MIX 2
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449611
-#EXTINF:-1,REDBOX MIX 3
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449612
-#EXTINF:-1,REDBOX MIX 4
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449613
-#EXTINF:-1,REDBOX MIX 5
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449614
-#EXTINF:-1,REDBOX MIX 6
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449615
-#EXTINF:-1,REDBOX MIX 7
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449616
-#EXTINF:-1,REDBOX MIX 8
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449617
-#EXTINF:-1,REDBOX MIX 9
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449618
-#EXTINF:-1,REDBOX MIX 10
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449619
-#EXTINF:-1,REDBOX CIZGI FILM
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449627
-#EXTINF:-1,REBDOX SCOOBY DOO
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449628
-#EXTINF:-1,REDBOX HAYALET CASPER
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449629
-#EXTINF:-1,REDBOX WARNER BROS
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449630
-#EXTINF:-1,REDBOX LiMON iLE ZEYTiN
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449631
-#EXTINF:-1,REDBOX RAFADAN TAYFA
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449632
-#EXTINF:-1,REDBOX TAS DEVRI
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449633
-#EXTINF:-1,REDBOX ARI MAYA
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449634
-#EXTINF:-1,REDBOX HEIDI
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449635
-#EXTINF:-1,REDBOX REDKIT
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449636
-#EXTINF:-1,REDBOX SIRINLER
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/449637
-#EXTINF:-1,TR: TRT ÇOCUK HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/415478
-#EXTINF:-1,TR: MOONBUG KIDS TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/415479
-#EXTINF:-1,TR: MINIKA COCUK
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/415480
-#EXTINF:-1,TR: NICKTOONS HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/415481
-#EXTINF:-1,TR: DISNEY JR. HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/415482
-#EXTINF:-1,TR: CARTOON NETWORK
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/415483
-#EXTINF:-1,TR: BABY TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421970
-#EXTINF:-1,TR: BOOMERANG HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421971
-#EXTINF:-1,TR: MINIKA GO
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421972
-#EXTINF:-1,TR: DUCK TV
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421973
-#EXTINF:-1,TR: TRT MUZİK ʜᴅ
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/416380
-#EXTINF:-1,TR: KRAL POP ʜᴅ 1080
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/416381
-#EXTINF:-1,TR: POWERTURK ʜᴅ 720
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/416383
-#EXTINF:-1,TR: NR1 ASK
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421964
-#EXTINF:-1,TR: NR1 DAMAR
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421965
-#EXTINF:-1,TR: NR1 TURK HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421967
-#EXTINF:-1,TR: POWER HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421968
-#EXTINF:-1,TR: POWER TURK HD
-http://103.161.34.173:8080/Habilabi/ME6EHDc63a/421969
 
