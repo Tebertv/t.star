@@ -12,11 +12,11 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TeberStar_2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR3  
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_EHLIBEYT_TV/chunklist_w1246576528.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",VİZON TELE ON TV
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEVE ON
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Halkin_sesi_tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE ON
-https://live.euromediacenter.com/teleon/tracks-v1a1/mono.m3u8
+https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TON TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
@@ -113,6 +113,69 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
 
 #EXTINF: -1 group-title="Ulusal", TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",gurmetv
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",balkanturktv
+https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",kanal34
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",bha
+https://live.euromediacenter.com/bha/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",filistintv
+https://live.euromediacenter.com/filistintv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",uretenturkiye
+https://tv.digitalbox.xyz:19360/uretenturkiye/uretenturkiye.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",hurtv
+https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",bizimocaktv
+https://live.euromediacenter.com/bizimocaktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",sen1ordusun
+https://live.euromediacenter.com/sen1ordusun/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",bulturktv
+https://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",aktueltv
+https://live.euromediacenter.com/aktueltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",nowturk
+https://live.euromediacenter.com/nowturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",trsestv
+https://live.euromediacenter.com/trsestv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",pusulatv
+https://live.euromediacenter.com/pusulatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",worldturktv
+https://live.euromediacenter.com/worldturktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",cine5tv
+https://live.euromediacenter.com/cine5tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",cine5tv
+http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",belemturktv
+https://edge1.socialsmart.tv/belemturktv/bant1/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",genctv
+https://live.euromediacenter.com/genctv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",muglatv
+https://live.euromediacenter.com/muglatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",nehabertv
+https://live.euromediacenter.com/nehabertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-34 tvg-id="NowTurkey.tr"tvg-name="Now.tr" tvg-logo="https://picon-13398.kxcdn.com/Novhd.jpg" group-title="ULUSAL",TVA ᵁᴴᴰ⁺ 
 https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
