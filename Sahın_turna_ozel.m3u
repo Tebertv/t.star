@@ -508,6 +508,18 @@ https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/chunklist_w1737792438.m3u8
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
 ***tvcdn*ye*katkılarından Dolayı teşekkür ederiz*TBRT Medya********
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL EGE Tv 
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/chunklist_w1737792438.m3u8
+#EXTINF: -1 group-title="HÇRT",MEDYA ON
+https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
+
+***tvcdn*ye*katkılarından Dolayı teşekkür ederiz*TBRT Medya********
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL EGE Tv 
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/chunklist_w1737792438.m3u8
+#EXTINF: -1 group-title="HÇRT",MEDYA ON
+https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
+
+***tvcdn*ye*katkılarından Dolayı teşekkür ederiz*TBRT Medya********
 
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
