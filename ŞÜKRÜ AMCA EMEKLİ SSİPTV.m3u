@@ -27,6 +27,10 @@ https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÖNMEZ TV
 https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 
+#EXTINF: -1 tvg-name="(TR) XP Tufan Alta\u015f HD" group-title="TR - MÜZİK",Tufan Altaş HD
+
+https://m3u-editor.com/serve/101fcd50-0fd3-11ef-96d0-8dd5681121e4/1160041642
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TON TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 
@@ -40,7 +44,8 @@ https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
 https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1 
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://m3u-editor.com/serve/101fcd50-0fd3-11ef-96d0-8dd5681121e4/1160041459
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 2 
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
@@ -48,8 +53,8 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TRT 3 HABER 
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 4K
-https://m3u-editor.com/serve/101fcd50-0fd3-11ef-96d0-8dd5681121e4/1160041968.m3u8
+#EXTINF: -1 tvg-name="(TR) TRT 4K+",TRT 4K 
+https://m3u-editor.com/serve/101fcd50-0fd3-11ef-96d0-8dd5681121e4/1160041968
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT5 TÜRK 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -75,7 +80,6 @@ https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo=".png" group-title="TURK ULUSAL",CNBC-E 
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
-
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
 http://canli.haber365.com.tr/tr/startv/index.m3u8
 
@@ -93,6 +97,10 @@ http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV AVRUPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
+
+#EXTINF: -1 tvg-name="(TR) A2 4K+" group-title="TR - ULUSAL", (TR) A2 4K+
+https://m3u-editor.com/serve/101fcd50-0fd3-11ef-96d0-8dd5681121e4/1160041471
+
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",TV 360 FHD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
