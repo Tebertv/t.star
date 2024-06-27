@@ -48,6 +48,15 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",SLOW KARADENIZ TV 
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",RIZE TURK TV 
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",KANAL 53 
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ZEKİ-METİN TV
 https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
 
@@ -76,7 +85,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",VRT TV HD
 https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",SİNEMAM TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",SİNEMAM TV
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/turkfilmleritv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
@@ -334,6 +343,7 @@ http://stream.tvcdn.net/diger/eva-tv.m3u8
 http://stream.tvcdn.net/kibris/torba-tv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL G 28
 https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",Hocwan tv
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0b006053-533a-485c-9b31-f159ab832c5e.png" group-title="Yerel",Alanya TV
@@ -563,8 +573,7 @@ https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 ***tvcdn*ye*katkılarından Dolayı teşekkür ederiz*TBRT Medya********
 
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
+
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
@@ -1426,8 +1435,19 @@ http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="Diğer-Eğlence",Zeki & Metin 
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 
-------------AZTV---------------------------
+***********RADYO***************************
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",SLOW KARADENIZ FM 
+https://dinle.slowkaradenizfm.com:9578/;
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",KARADENIZ TURK FM
+https://furuncu.kesintisizyayin.com:8042/;
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",RIZE TURK FM
+https://furuncu.kesintisizyayin.com:8042/;
+
+
+------------AZTV---------------------------
 #EXTGRP:Azərbaycan
 http://iptv.prosto.tv:7000/ch328/video.m3u8
 #EXTINF:0,Yardimli Tv HD
