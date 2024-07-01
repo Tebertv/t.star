@@ -13,7 +13,7 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TeberStar_2/playlist.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_STAR3/chunklist_w722466183.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT4 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_HBB/chunklist_w1569476193.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_TEZENE_TV/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT5
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT5/chunklist_w759740941.m3u8
@@ -32,6 +32,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_ON/chunklist_w273134753.
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE ON
 https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HBB 
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_HBB/chunklist_w1569476193.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÖNMEZ TV
 https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
