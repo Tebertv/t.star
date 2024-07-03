@@ -56,8 +56,8 @@ https://live.filbox.com.tr/filmclubfamily/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", FILODI TV 
 https://live.filbox.com.tr/filodi/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", SKY HABER TV
-https://stream.tvcdn.net/diger-eglence/sky-haber-tv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", PLAY TV
+https://tls.tc/sCtP6
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", DOCU MAX TV
 https://live.filbox.com.tr/documax/index.m3u8
@@ -208,8 +208,8 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",KARADENUZ TV SUDUR DAA UŞAUM
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/karadenizakustik.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", SKY HABER TV
+https://stream.tvcdn.net/diger-eglence/sky-haber-tv.m3u8
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",FENER BAHCE TV 
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/fbtv.m3u8
@@ -1473,16 +1473,17 @@ http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="Diğer-Eğlence",Zeki & Metin 
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 
-***********RADYO***************************
+**********SLOW KARADENIZ*RADYOLARI***************************
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",SLOW KARADENIZ FM 
+#EXTINF:0 type="stream" channelId="-1" group-title="KARADENIZ RADYOSU" logo=".png",SLOW KARADENIZ FM 
 https://dinle.slowkaradenizfm.com:9578/;
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",KARADENIZ TURK FM
+#EXTINF:0 type="stream" channelId="-1" group-title="KARADENIZ RADYOSU" logo=".png",KARADENIZ TURK FM
 https://furuncu.kesintisizyayin.com:8042/;
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_SLOW_KARADENİZ_MEDYA" logo=".png",RIZE TURK FM
-https://furuncu.kesintisizyayin.com:8042/;
+#EXTINF:0 type="stream" channelId="-1" group-title="RIZE RADYOSU" logo=".png",RIZE TURK FM
+https://furuncu.kesintisizyayin.com:8044/;
+
 
 
 ------------AZTV---------------------------
