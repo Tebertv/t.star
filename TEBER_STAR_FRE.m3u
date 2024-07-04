@@ -58,8 +58,11 @@ https://live.filbox.com.tr/filmclubfamily/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", FILODI TV 
 https://live.filbox.com.tr/filodi/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", PLAY TV
-https://tls.tc/sCtP6
+EXTINF:0,SUPERTURK_TV 
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:0,SUPERTURK_MAX 
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", DOCU MAX TV
 https://live.filbox.com.tr/documax/index.m3u8
@@ -127,6 +130,18 @@ https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",ESMA TV
 https://ssh101-fl.bozztv.com/ssh101/esma/index.m3u8
+
+#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Kanal 65
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Kanal 65 Music
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cumburloptv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", PLAY TV
+https://tls.tc/sCtP6
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 2 
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
@@ -338,12 +353,6 @@ http://stream.tvcdn.net/yerel/tr-ses-tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bdc5ba66-e446-4a25-8e5c-e7a7f306abca.png" group-title="Yerel",Süper Kanal
 http://stream.tvcdn.net/yerel/super-kanal.m3u8
-
-#EXTINF:0,SUPERTURK_TV 
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-
-#EXTINF:0,SUPERTURK_MAX 
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27885d5b-6c49-4257-bd09-f20f63489090.png" group-title="Yerel",Turhal Süper TV
 http://stream.tvcdn.net/yerel/turhal-super-tv.m3u8
