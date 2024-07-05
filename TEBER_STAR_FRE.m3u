@@ -134,15 +134,14 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/esmatv.az/chunklist_w20418005
 #EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Kanal 65
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 
-#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Kanal 65 Music
+#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",STV
 https://cdn-kanal65music.yayin.com.tr/kanal65music/kanal65music/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", PLAY TV
 https://tls.tc/sCtP6
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
-
+https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 2 
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
@@ -694,8 +693,9 @@ http://stream.tvcdn.net/haber/flash-haber.m3u8
 http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="Haber",Bengütürk TV
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
-#EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="Haber",Yol TV
-http://stream.tvcdn.net/haber/yol-tv.m3u8
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="Haber",TRT1
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Haber",TBMM TV
 http://stream.tvcdn.net/haber/tbmm-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 1

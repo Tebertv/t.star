@@ -131,16 +131,14 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/esmatv.az/chunklist_w20418005
 #EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Kanal 65
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 
-#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Kanal 65 Music
+#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",STV
 https://cdn-kanal65music.yayin.com.tr/kanal65music/kanal65music/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", PLAY TV
 https://tls.tc/sCtP6
 
-
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
-
+https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 2 
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
