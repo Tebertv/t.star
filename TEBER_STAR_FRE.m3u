@@ -135,8 +135,11 @@ http://77.68.121.3/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",İSMAYILLI TV
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 
-#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",65 MTV
-https://cdn-kanal65music.yayin.com.tr/kanal65music/kanal65music/playlist.m3u8
+#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",ŞUŞA TV
+https://susatv.interweb.com.tr:3432/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",ÜNÜVERSAL TV
+https://cdnvideo.webvideocore.net/enc4_tiej837icb3231km3g9dbg0vma6ta7vk0p5fkn44bvdcp82g0os8hh8mpm0prpr5l7dtumaghqh8fl85dguqta12f8fn9m0r23kgle6pkp1ga7qlllgq1b4rci8a58e1c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
