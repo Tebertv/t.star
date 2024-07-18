@@ -107,12 +107,6 @@ https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",Kanal 19
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="Diğer-Eğlence",YEŞİLÇAM FİLMLERİ TV1
-http://tgn.bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8?nimblesessionid=140722702&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDI0IDE6NDc6MjggUE0maGFzaF92YWx1ZT1reXhFcWZCTTBQL2VuSEJvektKWTFRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
-
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="Diğer-Eğlence",YEŞİLÇAM FİLMLERİ TV2
-http://tgn.bozztv.com/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8?nimblesessionid=140713040&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDI0IDE6NDU6MjMgUE0maGFzaF92YWx1ZT15TFBRSTduK1lDTXEyYXNKc1duYklnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
-
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="Diğer-Eğlence",Şaban TV 1
 http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
 
