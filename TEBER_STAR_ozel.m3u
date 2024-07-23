@@ -234,7 +234,7 @@ https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w565699999.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w784946490.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️GRO TV  
-https://yayin30.haber100.com/live/agrotv/media_w751255415_44243.ts
+http://stream.tvcdn.net/belgesel/agro-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",BERAAT TV  
 https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w1688813753.m3u8
@@ -270,7 +270,7 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️Hİ TV  
-https://yayin1.canlitv.fun/canlitv/ahitv.stream/media_w324961663_27580.ts
+http://stream.tvcdn.net/yerel/ahi-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Ⓜ️K HABER TV 
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
