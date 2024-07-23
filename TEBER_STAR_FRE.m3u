@@ -227,79 +227,110 @@ https://stream.tvcdn.net/diger-eglence/sky-haber-tv.m3u8
 
 #EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ZEYNO TV  https://yayin.santraltr.com/hls/zeynotv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YABAN TV  https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w565699999.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",💫ZEYNO TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️TV alanya https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w784946490.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YABAN TV
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w565699999.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️GRO TV  https://yayin30.haber100.com/live/agrotv/media_w751255415_44243.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️TV alanya 
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w784946490.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅱️ERAAT TV  https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w1688813753.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️GRO TV  
+https://yayin30.haber100.com/live/agrotv/media_w751255415_44243.ts
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️RAS TV https://2.rtmp.org/tv217/yayin.stream/chunklist_w1515668576.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",BERAAT TV  
+https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w1688813753.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅱️ARTIN TV  https://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w1442863722.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️RAS TV 
+https://2.rtmp.org/tv217/yayin.stream/chunklist_w1515668576.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🤴KRAL POP  https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅱️ARTIN TV
+https://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w1442863722.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🏠ETV https://edge1.socialsmart.tv/manisaetv/bant1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🤴KRAL POP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️K İT TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🏠ETV 
+https://edge1.socialsmart.tv/manisaetv/bant1/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️K İT TV  
 https://akittv-live.ercdn.net/akittv/akittv_720p-1721739730.ts
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÜPER SPORT TV  https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÜPER SPORT TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",👍FB TV https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",👍FB TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🙊DMAX TV  
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🙊DMAX TV
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",DENİZ POSTASI https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",DENİZ POSTASI  
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🌈TATLISES TV  https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🌈TATLISES TV  
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️Hİ TV  https://yayin1.canlitv.fun/canlitv/ahitv.stream/media_w324961663_27580.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️Hİ TV  
+https://yayin1.canlitv.fun/canlitv/ahitv.stream/media_w324961663_27580.ts
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Ⓜ️K HABER TV  https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Ⓜ️K HABER TV 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",EV TV  https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",EV TV 
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️KSU TV https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️KSU TV 
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",✨ANADOLU STAR TV  https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",✨ANADOLU STAR TV   
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",💫FİNANS TÜRK TV 
 https://yayin30.haber100.com/live/finansturk/chunklist_w1052997646.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",👨‍👩‍👧‍👧 EVİM TV https://yayin.edirnetv.com:8088/hls/etvcanliyayin-1721741179117.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ETV
+logo=".png",https://yayin.edirnetv.com:8088/hls/etvcanliyayin-1721741179117.ts
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",K.YILDIZI TV  https://kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KIBRIS TV
+https://play.kibristv.com/stream/hls/stream.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️DA TV           https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w2012698020.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",K.YILDIZI TV  
+https://kuzeykibris.tv/m3u8/kktv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅱️RT 1            https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist_w1013272129.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️DA TV 
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w2012698020.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅱️RT 2            https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w1321999161.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅱️RT 1 
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist_w1013272129.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🧒GENÇ TV         https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w711876310.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅱️RT 2 
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w1321999161.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KIBRIS TV      https://play.kibristv.com/stream/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🧒GENÇ TV  
+https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w711876310.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️MED TV     http://live.amedradyotv.net:2020/hls/ferat.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️MED TV
+http://live.amedradyotv.net:2020/hls/ferat.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KANAL 35   https://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KANAL 35   
+https://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️Y🅰️Z TV 
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_800k.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🪐SPACE TV  https://str.yodacdn.net/space/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🪐SPACE TV
+https://str.yodacdn.net/space/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",💐REAL TV       https://str.yodacdn.net/real/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",💐REAL TV  
+https://str.yodacdn.net/real/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",UYGUR TÜRK TV   https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w572083400.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",UYGUR TÜRK TV 
+https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w572083400.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",faaşione tv  https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",FASHİON ONE 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",cine1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
