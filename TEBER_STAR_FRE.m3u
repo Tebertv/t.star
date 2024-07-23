@@ -58,6 +58,12 @@ https://live.euromediacenter.com/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",CANKIRI TV
 http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",Kanal 19
+http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KIBRIS TV
+https://play.kibristv.com/stream/hls/stream.m3u8
+
 #EXTINF:0,SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
@@ -112,9 +118,6 @@ http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
 https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",Kanal 19
-http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="Diğer-Eğlence",Şaban TV 1
 http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
@@ -232,7 +235,7 @@ http://stream.tvcdn.net/haber/tele-1.m3u8
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",YABAN TV
-https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w565699999.m3u8
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️TV alanya 
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w784946490.m3u8
@@ -254,9 +257,6 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🏠ETV 
 https://edge1.socialsmart.tv/manisaetv/bant1/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",🅰️K İT TV  
-https://akittv-live.ercdn.net/akittv/akittv_720p-1721739730.ts
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÜPER SPORT TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
@@ -292,9 +292,6 @@ https://yayin30.haber100.com/live/finansturk/chunklist_w1052997646.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ETV
 logo=".png",https://yayin.edirnetv.com:8088/hls/etvcanliyayin-1721741179117.ts
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KIBRIS TV
-https://play.kibristv.com/stream/hls/stream.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",K.YILDIZI TV  
 https://kuzeykibris.tv/m3u8/kktv.m3u8
