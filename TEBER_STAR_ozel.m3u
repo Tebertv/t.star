@@ -229,8 +229,8 @@ https://stream.tvcdn.net/diger-eglence/sky-haber-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",cine1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",tivi6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Varsa tv
+http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",birtv
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",tva
