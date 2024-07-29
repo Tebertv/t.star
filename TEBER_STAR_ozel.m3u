@@ -34,10 +34,10 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt_9/chunklist_w795132578.m
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT ON
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt_on/chunklist_w2002637938.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HBB TBRT11
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT HBB 11
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_HBB_11/chunklist_w2016642606.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT STAR12 DÜĞÜN TV
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT 12 DÜĞÜN TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt12max/chunklist_w2129295119.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
@@ -58,14 +58,20 @@ http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",Kanal 19
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KIBRIS TV
-https://play.kibristv.com/stream/hls/stream.m3u8
-
 #EXTINF:0,SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:0,SUPERTURK_MAX 
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KIBRIS TV
+https://play.kibristv.com/stream/hls/stream.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="Kıbrıs",Torba TV
+http://stream.tvcdn.net/kibris/torba-tv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL G 28
+https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TON TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
@@ -522,9 +528,6 @@ https://live.euromediacenter.com/bha/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",filistin tv
 https://live.euromediacenter.com/filistintv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Üreten Turkiye
-https://tv.digitalbox.xyz:19360/uretenturkiye/uretenturkiye.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ac49e4a5-d9c2-435d-a1f2-9e9eb06f86b6.png" group-title="Yerel",Hür Türk TV
 http://stream.tvcdn.net/yerel/hur-turk-tv.m3u8
 
@@ -612,12 +615,6 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/424a3ef8-fa7b-489a-8057-27af0f0e2d01.jpg" group-title="Diğer",SERHAT TV
 http://stream.tvcdn.net/diger/eva-tv.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="Kıbrıs",Torba TV
-http://stream.tvcdn.net/kibris/torba-tv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL G 28
-https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",Hocwan tv
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 
@@ -673,14 +670,9 @@ http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/pl
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
-#EXTINF:1 tvg-id="DoganayTV.tr" tvg-logo=".png" group-title="Diğer-Eğlence",KANAL 53
-https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c66ed7a4-24d2-4c23-aa1e-61e6fc26fa8e.png" group-title="Yerel",5 Ocak TV
 http://stream.tvcdn.net/yerel/5-ocak-tv.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ffb891c-b700-4d7a-8c47-b9aaa732caa5.jpeg" group-title="Yerel",Rize Türk
-http://stream.tvcdn.net/yerel/rize-turk.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4dbccb66-328c-41b2-ae3e-ad3b3475dc49.png" group-title="Yerel",Kanal 68
 http://stream.tvcdn.net/yerel/kanal-68.m3u8
 
