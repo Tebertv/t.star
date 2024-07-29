@@ -357,6 +357,35 @@ http://stream.tvcdn.net/yerel/vangolu-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/91735481-57ae-4f0e-b03a-6a5734ac447f.png" group-title="Yerel",VTV Türk
 http://stream.tvcdn.net/yerel/vtv-turk.m3u8
 
+***************Nat Geo******************
+
+#EXTINF:-1,National Geographic HD
+#EXTGRP:Турецкие
+http://135.125.235.54/0968/video.m3u8?token=B78B2543524F
+#EXTINF:-1,Nat Geo Wild HD
+#EXTGRP:Турецкие
+http://135.125.235.54/0969/video.m3u8?token=B78B2543524F
+
+**************SPOR***tv**********************************
+
+#EXTINF:-1,SPORSMART HD
+#EXTGRP:Турецкие
+http://135.125.235.54/0962/video.m3u8?token=B78B2543524F
+#EXTINF:-1,Tivibuspor 1 HD
+#EXTGRP:Турецкие
+http://135.125.235.54/0975/video.m3u8?token=B78B2543524F
+#EXTINF:-1,Tivibuspor 2 HD
+#EXTGRP:Турецкие
+http://135.125.235.54/0976/video.m3u8?token=B78B2543524F
+#EXTINF:-1,S SPORT HD
+#EXTGRP:Турецкие
+http://135.125.235.54/0977/video.m3u8?token=B78B2543524F
+#EXTINF:-1,S SPORT2 HD
+#EXTGRP:Турецкие
+http://135.125.235.54/0978/video.m3u8?token=B78B2543524F
+#EXTINF:-1,A Spor
+#EXTGRP:Турецкие
+http://135.125.235.54/0972/video.m3u8?token=B78B2543524F
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07ad58c8-f914-4aba-9ecb-3cdbca94961d.png" group-title="Yerel",Yarımada TV
 http://stream.tvcdn.net/yerel/yarimada-tv.m3u8
 
