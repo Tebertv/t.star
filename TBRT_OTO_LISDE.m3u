@@ -22,7 +22,7 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/tbrt5/chunklist_w1176117124.m
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER6/chunklist_w2115621428.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
-https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+https://fl1002.bozztv.com/ssh101/yansinemaatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",cine1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -64,10 +64,10 @@ http://stream.tvcdn.net/diger/clc-medya-tv.m3u8
 http://stream.tvcdn.net/yerel/kuzey-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA Müzik
-https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
+https://fl1002.bozztv.com/ssh101/yansiimamuziktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/559756c0-d9b8-4ff6-8ff9-d4bb087b6167.png" group-title="Diğer-Müzik",Pala TV
-http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
+https://fl1002.bozztv.com/ssh101/yansiimamuziktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c28cd83b-9edd-4c9f-afc0-6f1f1efd97bb.png" group-title="Diğer-Eğlence",Kobim TV
 http://stream.tvcdn.net/diger-eglence/kobim-tv.m3u8
