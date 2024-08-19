@@ -3,17 +3,29 @@
 NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ SADECE GÜNCELLEME YAPILDIĞI İÇİN 50 TL İŞCİLİK ÜCRETİ ALINIR ODA EMEK KARŞILIĞI OLDUĞU İÇİN KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLAR VE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN ALINARAK GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
 PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  SAYGILARIMLA TEBER GURUP PAYLAŞIM SAYFASI.....2024..
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT1 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT1
 https://ssh101.bozztv.com/ssh101/TBRT1/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT2
 https://ssh101.bozztv.com/ssh101/TBRT2/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT3 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT3
 https://ssh101.bozztv.com/ssh101/TBRT3/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT4 
 https://ssh101.bozztv.com/ssh101/TBRT4/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT1  YDK
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT2  YDK
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w107231613.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT3 YDK
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w59012189.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT4 YDK
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
 https://fl1002.bozztv.com/ssh101/yansinemaatv/tracks-v1a1/mono.m3u8
@@ -195,8 +207,8 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/aee18023-d4a7-4a75-88d2-0fba2357bede.png" group-title="Diğer",Ekin Türk TV
 http://stream.tvcdn.net/diger/ekin-turk-tv.m3u8
 
-#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1
-http://stream.tvcdn.net/haber/tele-1.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",HT-SPOR TV
+https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",kanal34
 https://panel4.euromediacenter.com:3299/live/kanal34live.m3u8
