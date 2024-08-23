@@ -18,6 +18,9 @@ https://ssh101.bozztv.com/ssh101/TBRT4/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT ANADOLU
 https://ssh101.bozztv.com/ssh101/TBRT DİNAMİX/chunks.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
+https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
 https://fl1002.bozztv.com/ssh101/yansinemaatv/tracks-v1a1/mono.m3u8
 
@@ -62,9 +65,6 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",TEVE 6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",KANAL 7 DİZİ
-https://ythls.armelin.one/channel/UCqp8v7nhAKQFtDT2VEI2lDg.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -270,9 +270,6 @@ https://fl1002.bozztv.com/ssh101/yansiimamuziktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Diğer-Eğlence",İsviçre TV
 http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=.png" group-title="Yerel",ANADOLU TV
-http://stream.tvcdn.net/yerel/anadolu-tv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo=.png" group-title="Yerel",Anadolu net TV
 http://stream.tvcdn.net/yerel/anadolu-net-tv.m3u8
 
@@ -385,17 +382,23 @@ http://77.68.121.3/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",İSMAYILLI TV
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 
-#EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",ŞUŞA TV
-https://susatv.interweb.com.tr:3432/stream/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",BABAK TV
+https://tivi191.ozelip.com:3745/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",ESMA TV
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",KANAL 65 TV
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",SHOWPLUS TV
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 
 #EXTINF:1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",TH MEDYA
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",💫ZEYNO TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
-https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/caaac704-e0c2-4e8a-ada7-565e4a68a46e.jpg" group-title="Diğer-Müzik",NEGA TV 
 http://stream.tvcdn.net/diger-muzik/mega-tv-iskenderun.m3u8
@@ -779,7 +782,6 @@ http://stream.tvcdn.net/yerel/ilke-tv.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",KANAL13 
 https://k1.ozelip.net:3784/stream/play.m3u8
 
-
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",TRT Müzik
 http://stream.tvcdn.net/muzik/trt-muzik.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik",Dream Türk
@@ -832,21 +834,6 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 
 **************AZERBAYCAN TV*****************************************
-
-#EXTINF:0,İSMAYILLI TV
-https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-#EXTINF:0,ŞUŞA TV
-https://susatv.interweb.com.tr:3432/stream/play.m3u8
-#EXTINF:0,ESMA TV
-https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:0,KANAL 65 TV
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:0,SHOWPLUS TV
-https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
-#EXTINF:0,KTV TV
-https://tv170.radyotelekom.com.tr:21764/nihat/nihat/playlist.m3u8
-#EXTINF:0,TTV TV
-https://tivi191.ozelip.com:3339/stream/play.m3u8
 #EXTINF:0,EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:0,KEPEZ TV
