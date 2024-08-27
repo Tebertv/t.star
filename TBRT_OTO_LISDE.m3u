@@ -595,6 +595,106 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",VOSTOK TV
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/rehber/tr-rehber.xml"
+#EXTINF:-1 tvg-name="ESMA TV" group-title="Без группы", ESMA TV
+#EXTGRP:Без группы
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+#EXTINF:-1 tvg-name="İSMAYILLI TV" group-title="Без группы", İSMAYILLI TV
+#EXTGRP:Без группы
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="BABƏK-TV" group-title="Без группы", BABƏK-TV
+#EXTGRP:Без группы
+https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:-1 tvg-name="TTV TV" group-title="Без группы", TTV TV
+#EXTGRP:Без группы
+https://tivi191.ozelip.com:3016/stream/play.m3u8
+#EXTINF:-1 tvg-name="KANAL 65 TV" group-title="Без группы", KANAL 65 TV
+#EXTGRP:Без группы
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="EL TV" group-title="Без группы", EL TV
+#EXTGRP:Без группы
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="KEPEZ TV" group-title="Без группы", KEPEZ TV
+#EXTGRP:Без группы
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-name="NAXCİVAN TV" group-title="Без группы", NAXCİVAN TV
+#EXTGRP:Без группы
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+#EXTINF:-1 tvg-name="KANAL 35 TV" group-title="Без группы", KANAL 35 TV
+#EXTGRP:Без группы
+http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-name="QAFQAZ TV" group-title="Без группы", QAFQAZ TV
+#EXTGRP:Без группы
+https://api1.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=b923f4779a1004c1857d8149a5d6f34bfeb229ae-fa831afab2def0fec4e5108f2daf4c69-1689634029-1689623229
+#EXTINF:-1 tvg-name="BAKU TV" group-title="Без группы", BAKU TV
+#EXTGRP:Без группы
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF:-1 tvg-name="AYAZ TV" group-title="Без группы", AYAZ TV
+#EXTGRP:Без группы
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
+#EXTINF:-1 tvg-name="AZAD SÖZ TV" group-title="Без группы", AZAD SÖZ TV
+#EXTGRP:Без группы
+http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
+#EXTINF:-1 tvg-name="ALVİN TV" group-title="Без группы", ALVİN TV
+#EXTGRP:Без группы
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="LİVE TV" group-title="Без группы", LİVE TV
+#EXTGRP:Без группы
+http://213.239.195.222/azerbaijan/livetv2/playlist.m3u8
+#EXTINF:-1 tvg-name="QEBELE TV" group-title="Без группы", QEBELE TV
+#EXTGRP:Без группы
+https://qebeletv.ozelip.net:3918/stream/play.m3u8
+#EXTINF:-1 tvg-name="POP STAR TV" group-title="Без группы", POP STAR TV
+#EXTGRP:Без группы
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-name="SES TV" group-title="Без группы", SES TV
+#EXTGRP:Без группы
+http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
+#EXTINF:-1 tvg-name="FTV TV" group-title="Без группы", FTV TV
+#EXTGRP:Без группы
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 tvg-name="ARI TV" group-title="Без группы", ARI TV
+#EXTGRP:Без группы
+http://arimusicmugam77.ozelip.com:26546/mugam/mugam/playlist.m3u8
+#EXTINF:-1 tvg-name="CTV AZERBAYCAN" group-title="Без группы", CTV AZERBAYCAN
+#EXTGRP:Без группы
+https://spectrectvmedya.interweb.com.tr:3923/stream/play.m3u8
+#EXTINF:-1 tvg-name="SHOWPLUS TV" group-title="Без группы", SHOWPLUS TV
+#EXTGRP:Без группы
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
+#EXTINF:-1 tvg-name="APA TV" group-title="Без группы", APA TV
+#EXTGRP:Без группы
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-name="TMB AZ TV" group-title="Без группы", TMB AZ TV
+#EXTGRP:Без группы
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-name="SEHER AZ TV" group-title="Без группы", SEHER AZ TV
+#EXTINF:-1 tvg-name="SEHER AZ TV" group-title="Без группы", SEHER AZ TV
+#EXTGRP:Без группы
+http://154.58.202.131:8000/play/a08c
+#EXTINF:-1 tvg-name="BİZ TV UZ" group-title="Без группы", BİZ TV UZ
+#EXTGRP:Без группы
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BİZ TV SİNEMA UZ" group-title="Без группы", BİZ TV SİNEMA UZ
+#EXTGRP:Без группы
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BİZ TV UZ MUZİK UZ" group-title="Без группы", BİZ TV UZ MUZİK UZ
+#EXTGRP:Без группы
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="SİLAM TV TR MUZİK" group-title="Без группы", SİLAM TV TR MUZİK
+#EXTGRP:Без группы
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTGRP:Без группы
+http://50.7.218.122:8080/azeri/index.m3u8
+#EXTINF:-1 tvg-name="AYA TV" group-title="Без группы", AYA TV
+#EXTGRP:Без группы
+https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ctv spor" group-title="Без группы", ctv spor
+#EXTGRP:Без группы
+https://spectrectvmedya.interweb.com.tr:3923/live/spectreclive.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Tv A
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",kanal 68
@@ -784,7 +884,24 @@ http://stream.tvcdn.net/yerel/ilke-tv.m3u8
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",KANAL13 
 https://k1.ozelip.net:3784/stream/play.m3u8
-
+#EXTINF:-1 tvg-name="RU TV RUS MUZİK" group-title="Без группы", RU TV RUS MUZİK
+#EXTGRP:Без группы
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:-1 tvg-name="AVİVA TV TR MUZİK" group-title="Без группы", AVİVA TV TR MUZİK
+#EXTGRP:Без группы
+https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
+#EXTINF:-1 tvg-name="TOP POP TV TR MUZİK" group-title="Без группы", TOP POP TV TR MUZİK
+#EXTGRP:Без группы
+https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
+#EXTINF:-1 tvg-name="KANAL 32 TV TR" group-title="Без группы", KANAL 32 TV TR
+#EXTGRP:Без группы
+https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
+#EXTINF:-1 tvg-name="KRAL POP TV TR MUZİK" group-title="Без группы", KRAL POP TV TR MUZİK
+#EXTGRP:Без группы
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8
+#EXTINF:-1 tvg-name="EZO TV TR MUZİK" group-title="Без группы", EZO TV TR MUZİK
+#EXTGRP:Без группы
+https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",TRT Müzik
 http://stream.tvcdn.net/muzik/trt-muzik.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik",Dream Türk
