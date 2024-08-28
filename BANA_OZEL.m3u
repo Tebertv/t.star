@@ -42,6 +42,12 @@ https://fl1002.bozztv.com/ssh101/yansinemaatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DÜZGÜN TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HOCWAN TV 
+https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ALMANYA TV TR
+https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",teleon
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CroFXgpPGi2awr4C9rO_m54F-swoEYFpqMti8Ig8q6QaSsH1lwhUqQomiME53jNWTMF677FpyOKL_VINMToaTkaqQgs7spJNVM8ZHzbkUfvkLBzlqzZqxvCdAZtgNqoa1wXiBxH46wmKhgnOBWsgiuHygUqzjJ47sefwWQd5xtCyafhjJvEuBc8aylb81eMBFjTnFV9voXmKtqOSwICN9TIxg2ZSwYw3wY1_MyfpQKEu7PperyI5YUBOILKKDFu95KVKHz7iDILvPNbXaIIq5GMxdjwvVqs_tUvG05dxzBF9L9Uf-5yyE42j6xueX39NTQAPggFQBDV43K0AvE_XaIHAGMGq1jYP0vQJfIT4Y0wl-Z7GjcewEZ9qR4ZdsELQCEoHjuF74yexjXBBroZqW4RqRWgql0G6mAe1aFD9RJ0FmSi0LOeUArjE3Snb4M2ZKvS0cuOGk6TXkCLo85mVIWxK7Kgjkk-arGL-Wp6AHcRjq1L7EBlZ1rzGpGQ41Fuxw-VQIAXuJEmOyJ-Dp8-HIwZmnOEzwM9rU2PD6HrvaKQLcRvJ48d6ydo-b8S3daAzFF2l6UCxKDFnGfpZI_rGnXeW36FG9fH67Xl9HR6WMsSaC8rUwOp3CvX_F9lwHPW5dUIpKeVl2YFaElpsmYGyfb8JmMWNzCWFcAlACl6wIIANKwB-hiS_lKOQcyvQ1ozQ7XnFCaIGDLbhjb7L0oqQwajjFKXmIpl3LpOEaXIE0MQr8rmz9ODVuRacVeTnIJcBW_L7ZGosk30NuikbojZtdIWxDG-IzBZ3RABpox9yoyWvHZLGmYpSyMCAIOWScPkuCOU1PTVTI8ubMz7eti4JAWk38Fam_IH9Y5J0p5gtwytN4X9V8XsBY-l-6BBMod2Q_fnjrhR-bM5CDI-V16XGD6HF8mXwrsaLZHct5NAaDMUoZ0vIHdk96R-XJyABKglldS13ZXN0LTIwoAo.m3u8
 
