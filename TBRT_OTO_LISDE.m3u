@@ -72,6 +72,12 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:1, 5 OCAK TV
 http://stream.tvcdn.net/yerel/5-ocak-tv.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",KANAL 3 
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TV3 
+https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT6 AVAZ 
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
