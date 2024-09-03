@@ -18,8 +18,17 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT AVRASİA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w519862134.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
-https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA TV AKS YON HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QlhaM0toRkNuUDRySVBlM2d4U0F1cjBkTHJpS3IwY0k1bGtrRHlidkIrczA2Z3ZKUlN1VzZMUkVFdHlETlVTYg==
+
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA AKS YON 2 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SHpDc0RhNUJZbmYrQ09TUElHV0RvclJXdGdCV0FaaVQrUWpkMEZXUS85SWh3UWY4NlRtMytqb3hkT3BiTFZZcQ==
+
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA YERL HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QXNHNHh4Rm53MkhpWWErWEJROXRlcEkzZHIzWGh5NlJJczMxQUFWNTNBSjhCQUREQXE4cm5xM2hnQ04zaEVjMQ==
+
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA YERL 2 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dkN5ZnVCWE1DcE9sMkRFRmVrMFlIeUFhWmF3Y2hWMk9wN1M5d2J2cTgvcXByUnZEem9naklMU0x3Q082UURRbQ==
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
 https://fl1002.bozztv.com/ssh101/yansinemaatv/tracks-v1a1/mono.m3u8
@@ -141,6 +150,9 @@ http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 #EXTINF:-1, A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: A2 HD2 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZDRTSnhIQnBrMU9VSGRGeGYxdWxHUEtidGp4elZUZHczVmxzdXVha3g2QTAzY1M0b1dwQTVKREdnaHh5bXgydA==
+
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV AVRUPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 
@@ -149,45 +161,6 @@ http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", KANAL AVRUPA
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA 1002 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MzBNc2lJZGxPQ0gwTmtObWJzK3pZR0o3VlRoaFBqeU9nZm1BcTRVaXlLUzZURWo0VjZMTUlZcVFYS2pRL0pHVA==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA A LE 2 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Vy9manhaekVDUUszWEt5blFOTXdnbFp6Mk1zeUdIR1pOZGkwbEYzeExjbVJYY1RQcVlGbWl2allPUXdpVkQ0SA==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA A LE HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZDRTSnhIQnBrMU9VSGRGeGYxdWxHUEtidGp4elZUZHczVmxzdXVha3g2QTAzY1M0b1dwQTVKREdnaHh5bXgydA==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA AKS YON 2 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SHpDc0RhNUJZbmYrQ09TUElHV0RvclJXdGdCV0FaaVQrUWpkMEZXUS85SWh3UWY4NlRtMytqb3hkT3BiTFZZcQ==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA KOMED HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SWZMYnJtUWlWSGc0d1lIVUtOUFA2RDRyODU1WEtnaFJjRkJzRXFwRWZoOEhHSHhDempBZlpZMEkreFZBWExNNQ==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA TV 1001 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WVlhV2hkK2R0b0krOVFyTjNhNDZ4cTBCaWY4OXlOcndYNnhINzJ3NlBpTmpibVVIZVdOZkJMazZpT3QwWFdVeg==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA TV 2 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=VFNRZ2Q2c0lReURCWjRic1g5S3p2MWQ1K0ZVc2pGQlAwb3RyTVVGMXprZjg2eTZiYkVUcitMWlF1ZHhEcXU3bg==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA TV AKS YON HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QlhaM0toRkNuUDRySVBlM2d4U0F1cjBkTHJpS3IwY0k1bGtrRHlidkIrczA2Z3ZKUlN1VzZMUkVFdHlETlVTYg==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA TV HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cjh2cks2cVI0Sk1ISkI3T292aG8vVmhkd2ppMDl4d1hURmppOEVXUTVUWkhtcU4wY3ladU8zdU10Nk9GTFJaMQ==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA YERL 2 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dkN5ZnVCWE1DcE9sMkRFRmVrMFlIeUFhWmF3Y2hWMk9wN1M5d2J2cTgvcXByUnZEem9naklMU0x3Q082UURRbQ==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA YERL HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QXNHNHh4Rm53MkhpWWErWEJROXRlcEkzZHIzWGh5NlJJczMxQUFWNTNBSjhCQUREQXE4cm5xM2hnQ04zaEVjMQ==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S SPORT 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=T3dIVTdDQXY5UVVJdzZVV0M0Wjc2dEx3MzdHSGFSWnZMcVJvcmRWUGtOTkNKMDh0U1VyUXZHV0RsQm5GZTFCZQ==
-
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S SPORT 2 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=S2ZRYWVoNG9DWEJNWk5hVFdjclM2VkRHWUhGeGwxTnUycHZhMXRpNXE3VUNLeFRqZ2hDd29jRmUwYzBXcm90Zg==
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL",CNBC-E 
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
@@ -236,6 +209,9 @@ http://stream.tvcdn.net/diger/lider-haber.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", BENGU TURK
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
+https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
