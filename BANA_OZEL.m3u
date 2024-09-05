@@ -45,13 +45,6 @@ https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TVBEN
 https://cdn-tvben.yayin.com.tr/tvben/tvben/chunklist_w1556420969.m3u8
 
-#EXTINF:0,PENA_TV
-https://ythls.armelin.one/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
-
-#EXTINF:0,ZEKİTV_METİN TV
-https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
-
-
 #EXTINF:0,SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
