@@ -259,7 +259,7 @@ http://stream.tvcdn.net/diger/ekin-turk-tv.m3u8
 http://stream.tvcdn.net/haber/haberturk.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",HT-SPOR TV
-https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÜPER SPORT TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
