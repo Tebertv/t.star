@@ -3,31 +3,31 @@
 NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ SADECE GÜNCELLEME YAPILDIĞI İÇİN 50 TL İŞCİLİK ÜCRETİ ALINIR ODA EMEK KARŞILIĞI OLDUĞU İÇİN KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLAR VE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN ALINARAK GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
 PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  SAYGILARIMLA TEBER GURUP PAYLAŞIM SAYFASI.....2024..
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT1
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TEBER1
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT2
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TEBER2
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w107231613.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_GÜNDEM" logo="/İPTV_GÜNDEM-logo-2.png", TBRT3
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_GÜNDEM" logo="/İPTV_GÜNDEM-logo-2.png",TEBER3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w59012189.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT4 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER4 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT AVRASİA
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER AVRASİA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w519862134.m3u8
 
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA TV AKS YON HD 
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: SİNEMA TV AKSİYON HD 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QlhaM0toRkNuUDRySVBlM2d4U0F1cjBkTHJpS3IwY0k1bGtrRHlidkIrczA2Z3ZKUlN1VzZMUkVFdHlETlVTYg==
 
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA AKS YON 2 HD 
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: SİNEMA AKSİYON 2 HD 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SHpDc0RhNUJZbmYrQ09TUElHV0RvclJXdGdCV0FaaVQrUWpkMEZXUS85SWh3UWY4NlRtMytqb3hkT3BiTFZZcQ==
 
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA YERL HD 
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: SİNEMA YERLİ HD 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QXNHNHh4Rm53MkhpWWErWEJROXRlcEkzZHIzWGh5NlJJczMxQUFWNTNBSjhCQUREQXE4cm5xM2hnQ04zaEVjMQ==
 
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: S NEMA YERL 2 HD 
+#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: SİNEMA YERLİ 2 HD 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dkN5ZnVCWE1DcE9sMkRFRmVrMFlIeUFhWmF3Y2hWMk9wN1M5d2J2cTgvcXByUnZEem9naklMU0x3Q082UURRbQ==
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA SİNEMA TV
