@@ -211,66 +211,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flashhabertv.com/assets/images/logo.png" tvg-name="Flash Haber" group-title="🇹🇷 TURKEY",Flash Haber-2
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png" tvg-name="Sports TV" group-title="🇹🇷 TURKEY",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" tvg-name="EUROSPORT" group-title="🇹🇷 TURKEY", EUROSPORT 1
-http://195.189.62.140:8002/play/a00q
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" tvg-name="EUROSPORT" group-title="🇹🇷 TURKEY", EUROSPORT 2
-http://195.189.62.140:8002/play/a00r
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPOTS1 SD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=a0F6eVhJa0NFdzlVMWxnd2k5bHdRQzVxRVVsM3MrZGtTbVBrczZMQWE5aVJsU1FWL1lPM2hBbUswa05DQ09VWA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN 1 SD (360P)
-https://home.us2-gpiktv.workers.dev/playlist.m3u8?i=S0tkbVNpUGliUFhQbEQ4WXo1UkREdnpiN1hSUGlrNUJhSDRVekVOUnhFd0xUbUJhUGkxdVdOYnNnTmdodWlyRA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN 1 SD (480P) 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cGlxeXRoajdVUEIrL2U0UHE5N090N0tHdUlTVExhWElERWZRWWFlY2piU2d3Y3YyYzJCR2VyTHRjN2hhdEtQdA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN 1 FEED (720P) 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=R2RYdFljZ0FjYVFyRi9aL0xMUytjdzBlZm11L0tkMWd4T28vVWt4d2U3amcxTlFMZHRkZk9VSjFaS0NWRlJqZQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 8K FEED 
-https://home.us5-gpiktv.workers.dev/playlist.m3u8?i=QWJiVEk0Tkg3aGJQODVxQnBPWVBuc2pJa05HWWg2bEZoelRyTnZWU3k5TWZrTS9lZ24rSTBnWThqUVV2bDR0Mw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS FEED (OZEL FEED YAYIN) 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MTJOQnExU2g5SjlvaEt1MXFBWmR0akJZajIwNG0zc2JwR2dxZ0lmaGQ1RlZIVUtOaWpEVG5jaGJFUFRGSW5MTQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4K FEED(KUTU) 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MlV3SkRQMkNadFkvZUNHNEtGbXh1bTl0TE1MSVZZWDlqUXFuVUc5VVhpb3RxdTZYQzQ2QnpqTHV5M1RuajBDTA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4K FEED(UYDU) 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z0xmWHVPR0xKSktoeUtBVTdyWENmZG40ejFNYU5FNTRtK3QxOXNtNzExZit4VUNTK2hHWEhyN1FxZFZlYTRVcw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 (720P) 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Zy9JeEJ1MXdRdEhYdms5NzhTR0diOEd6QjBJY3JHMmN6UWYzNFlIM1k1UmZvcThhSm95aUZSZVArTytIUlp5dA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 (720PFEED) 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MkIwaWR5Z0VXait5anJPTENPZzNTSTNXZDJXdGZ3SCtlc012ek0zQTM5bDdDNVVDTGxpVGZEVzlaUDkvUU9BaQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RFlQYmtabGxsdWltRVlMdW5vSmRDcTFuVXFyaExqQlJ1N3lOMWpCS0g1Zm02T3lLOUNPZlY5ZUhRdktlaWRUQw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 + 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dTQ0UEtsWHZmemM2OXhSVFlIakFvaXBZWGJuMFdvSmRGODhJOUQ2ZGdpUjdSSmxJOWJsRHBhbjl2N3NOdHdkdQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=NitPZjJWckt6TTFhVUp5OSsxczNKQXNNV3hHanI3cFNIVG1LOUVMdEkzT0lydWZKcHZTTEFNMjF5c1g3VmNSNQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 50 FPS 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WnJvYks1QUxWRm8wOUNXMlYzK0lIYjVnR2cySjJqc1NqS3VZTTV2K0dGZXdjd0pvRDJWRUxIWTcwVjB5VHAwZw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 H265 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RGxlZ2ZmZTZaOWtVUTRoTXFnVFBwWkszZjkwLzB5Z2crM2pwK0tXcmJqWVRxTEt0T3F4YTJuNitYVTNaUlhIdw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 HD
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TndBUE1xU1J0L2lheVI2SGIvRllPV1ZkOGhUcWtzK3pRckl3eXdPNzg5VStjR0pwWTRNcWhsd1F6cjhiZWlmSw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 HD
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Zk83ZG05YnRNQ0lGZWZBdlRVZTdBNGQwV3h1NW9ldVV5dVZTR3BIdEk4elR5QWFnTmdFcWxxemx0bkwyTHdkQw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 720P FEED 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TjB5dHd6VW40NHhkYmZzK3BVZzFKblFYaUtvME1MNHFBSmdqb3dsT3g2WTBGa2RrMUsvZjJ3TkU4ekZVbDRZVQ==
 
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",4K TR: TRT1 HD 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZHdtcnJST1c4Vnc5YTVhL0NMNnRKSlNORlR2RGd3Sko4VzVXNTZrQXJhRkZyNjRzNG5UaFd5WlkzQ2FGb2lSQw==
@@ -397,12 +337,6 @@ https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=M2tQK2lwK3paeTJ4UGhCZ3hHVExN
 
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",4K TR: EPIC DRAMA 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WUFQZzJIdmRGb2d4ajFXK2w4VEtzMFE0aVpFSitERTdJUHdBcFBtVTl3ZE9jSkpOa0hTU1NHdkJYL1dhaXpFNw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",4K TR: EUROSPORT 1 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cEJzZlpvUG5zMHVmbmZNTGlTMm15azlrNnlhOFZkbFBZYk4wSFFITStOVzM0Q2xKR1JuYTl0RkJJNWduaWVheg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",4K TR: EUROSPORT 2 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QnAwRlRKRzNORzdpTHgvdnE4UUYxSm5oSkk0VXRoU0Fvc2hBMUdUdGFZNHZGUlRKYnd5N1kxUWJCYS9nVnRyQg==
 
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",4K TR: EXXEN TV 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SHJjMXdrMHRKZC9mWG0zdHVnNXZzandES09XejVOTENHQjQ1Tmc3WjZla09LalV5VFpERjVLOVBENDd0YSsxdQ==
@@ -622,24 +556,6 @@ https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=M0tsTFBXQUNzd1YrclQ4c3ZQSlVx
 
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",A PARA RAW 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=N0R1dzRjSnRGRFZ4QW52RjdEWTljZkgwUXVOZkRCTTRJT0ROYXRTT2hDdENlejh1c3hWTUQwcHozWFVtdzdhRA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=VHl0M2YvSHQ4OVNSZ0YwMWp3b0tpNjl6eFFZMnhrd0pXczRZKzMra0piM2lZakNpOTdTc3M1UThhSk9QTUxFbg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZmUvR0lPOGJMaW1Wd1RrYW1YUFZqQzl4bjh3VW4weG5yL2N3K1I3Q0Q2cTduZTBRLysyTnBsRDhpMjdDendSRQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR FHD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=aUJpeDA2RmxuTFY0NzJkSkd1RTNKaVN6NUJHVEpjR1NySUlRVFJ5K3BMRDBrSktTZUdkdkFicEhwTUV4S3VIOQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cEVBM2taeS9ST1YwNVRySktzU204SVE2aEc0WEwydXowTDNjdENYNXJ3dEVnQ1ZSWTcrREJOZSs5M2MvdE9LWQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR HEVC 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=L0p3ZGh1RkNhYWNxaDJCRlRsZDNmNTBOdkpyOGhvZGo3bmFuVG9RWTRTbDBhaUg4bE9rZUpwQUp6ekRpdGlOOA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR RAW 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=a0JRU3pOdytXVlFNY2ZZKzdIazIyQWc1Z0FBZ3FhV2RrRkRoYnRiM2ZMV3ZYMDlPbmhZdGt6YXhIMUtGbTRwcA==
 
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",A2 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=amtDMjh3U3NvUGIwMUtMVGltR3NOUDFYcEs1VVRrUGZONlhkU1dNYkthR29LUm9ER0Evb0gyR3B0S2wxdW9rUg==
@@ -911,95 +827,13 @@ https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=enJYcjZKQUw2Njhwa29LVWVhMDJO
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SERIES VICE 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=M2o5aUQ1dy9PazVyLzRZZEh0OXRyYnc3Y1RaV0djNURZeDV5Ry9YRTA5MDlWdlJVODFWeGxoMldZSklDODlnNQ==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=eGRXSHROV3pqWXpKaTdtaG82ZzhvREU4a2pFN2tOa0RtNGpqcTFjMVdldmpCUUtad1R3dXZXNjJVbnpJSGc4Nw==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z2ZlbjFmbE5KMkVYdDdubzRnOTRQb0dWSVcyUlhRdXdXMUs0aTViMEZVWjlGdmREMGRLMDdlU1p4dFlFRkdnYg==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WE11aktnRUo5OHRuNFZDNEEvSzE4V3RXdmNPTlFWM1JTVHZIeUkyNVdCekttbGxKWEMxNVNTMUhmRHFvU0gzcQ==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 SD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z201TDcvbGxFeTZLZmJvRHpoT2FuN3A2THV5S2tRTElyYkZNQWJFTmdmSHNqMENGQjNJd2tUTHdoVERvVUNhNA==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 UHD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SDNwWWNQVU5pajU4WjNobUNsUytjdjBobjY2ZWxkd3dPcEpURTZUY28zdWVLbkRYaEhhU09aZVYyeXlWcVVZTA==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=amZSeXFqdzBZbGxrR0FRZnA2YUdaTHFHOGpla1JscjB4bFphcWJIYWM4SEVFR0hEVk44NVYyUjQrQkZjdjQwSA==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=UmVaUGlQSGphTTc4dmVFY3FIaHJ5VGQ1R09DM2RBaVhNa3cyQ2k4VEFVVGdqM0c2dnVYUmV4akl4MldoNzZXSQ==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=bHVzU3BZMzQvSmpBSUpaZE1DcENDM1hxOExPRm9NbkQyNS9jMVB3N3huMkpabTZGSTY4cTRSYlIzdTJ2VTZZTQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3 SD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=NHM5aGJ5TlJ2RnljMVBaZFc3NTJaQnJ1UU1ramplWWRaVURHMjNVMVh1bE5uSzZTREx0T1lyVXpsNDlTZWVYTw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3 UHD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MkN6VU01d0NHMVZNdXE2elF5bVRsSWdMeVlseml0WnVyVEdva2M2NVYxenYxdEJTaVRTTW1NazUvUlpLWkVWUg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=L3Zhc2ZPeEkxSWVKQm9yQmJJaTJPVXFuV3pJTFF1c0NuMmpiNVZ6L2prTXNrTEVsTUovZ3pRK096ZDV5ZjN2dg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dEsrVk40dURCNUNSdFlOSmw2MkdYUmxtMUYvQWs1TDdrZ25ubEtiYWpJcEh3UGZmRUdXY29BcTB6SHV6UWR2Ng==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=VXdocVBsby9TNXg4L2tIVkZ5a2RPSHVETmwyVjFQR0ZpS3IwZVpaT1M3N2JvOUFGa1c3WWpUd2V2MTlHaWlwKw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4 UHD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dVk4c3Bzc2lNWTk2SG91QlV4T0pRWUUzSXN6YUN6cDlRRGp5S29PQTI1N0tLL05ZUW5ibVRBWnNLcU1VV0xnVQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 5 (MATCH TIME) 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=R05hTmx2NmxxbHBVY25MdlZqR1U4a0xGdWkwUkx0ejR0REhrNEpiUkI2NkpnaVpsY0t4R25iTy9DSFRtd2ZvYg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 5 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=NWdWMURSaXJKcDhld1VYeU9Pcnl0UzV3ekI3blZJUXpaMGl6Qm5yM0hwWjAvNXRoYkFsWVFFUUJFaXlDU1hSOQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 5 FHD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MFJpcEh0Vjd4WGJXSklOaHM3OTdtNW5sUGZ6UzY0Q3BWSEtxdlM2MkJPRnhPbG4rYlVNRVNQUDVsaWxmc09BSQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 5 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=eTNXbDRpOXpXbVB0ek5oMDRFcmZiMlhBUDFpRHZsbWdLNTY1anVlczBSblI5NWU1VEgrZE56QVlVTkZvc0t0WQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS HABER 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TmxWZ0ZTRWNTRTRZWm1vS0VNeVg1L3duQStlclJlZ3VtSVZmSkV0YVA4MEtoeXA4R1ZaMnhpKzlwOURZLzRKTg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS HABER 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dVp0QjkwY1V3UUs5V1ltanJjQmk3OWM3SXkyT2VMdFl6UXJlWFZXV0RpMnk1TjF0bDJvR3E3cldqZS91NzM2ZA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS HABER HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZTlSdVR1a1M1dUtQWGpoSzVVRGtyTVdvSmxmQlFLWndFRXpnaXdDanJ2bVFaUS9FcTcwOEYzdXVHdkRlNlNUSQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS HABER RAW 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cUNkR0NOZENUMmgrTE55SWRJcHhZQUZQTHlIaWdkdU5hUlBCRGhJN1Y1QnRCdTBya21KWis5aERtZEhJZ1p4Nw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 1 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Nkk4YTAxMEpUcEZydmlpb0pQcW9lenZSdWYxeitGV2ltQVNVSkR3cjR4VlRXMWw2djI2MFB1eUZ5cG1NZnJpQQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 1
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZFhydkNadS9uNS9mZWxmMmZSbUtEUmhFWmcwY1FVazd1bzBGYXRVMDFHd0xxUzNCVW1GRG1Ea20zelVLL0ZoNw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 1 FHD
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RW9URllaYWZDVXFvbXdxeHFoeW9vcFVIVGE1L0F2ZkFiTm12MEZmbFdXWnZMeXN5ZkxPV2YvNklNbWJYK1dqYw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 1 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QlZoVSt4RzdvMlc5S3NlNzZLSzVTRU8wWkloNTRsV0FPRldJYXhlQ3N1RzBYMXdac2dBaC9BaHpaT0hEV21icA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 2
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=M2Z6cENFUnU3VE5OY2x3aVMrYldSTENGZVhCdndiZnRJZTdsdFg1Q0xsVTdPdVR2N0tBTWNWRCtzc2dDUlZENg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 2
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SWdWbkJ3VmFIMHNoRElCZEwwRkZiNUpkSW1yKzNFVmFpckZ0U01NeXEvRFVmQzdJSWpNalVnd1ZuZnBwRHRQYw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 2 FHD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RDFzeFlSTlBsZWw5Q3UvdVVJWFpRaHpYYlUrbFZYNkszaWxPck9kZnhOdkFDdC9HM3VWbkc0a0tSZnBnNVZ3VA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 2 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=V0hoMi9wY3hHSktkTy9TdE91Y0tGcmUyZlFGd2U4Z1N3RndJWjl4ZTNFSVd4SEd1WDVYVS82aFovNTcrQzR6Yg==
 
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEN 10 TV 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WmZiVU1CQ1d6WHpaS0FJdkM0bFdNV2duSkZoS2xSWjlQZUJ6dWhpbnpXRDhvbzhoTmhaYXI0a3JqWUJaRlNIaQ==
@@ -1628,115 +1462,9 @@ https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QTZDbStEQVBTMGRlaUI1Ym04T1Nk
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",EURO STAR 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=YlpLSmJ6YVRUR3ZaYUgvdk4zWGw1NDF2dmg0VnZOWlRMa1BHQks3dnVrSDc0NnI4SUw1OGhuWFEvcDRhWHR0Mw==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT 1 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TXJQbDhuMUpoL0QxNEhRN3ROK1VrTkx0WHA0NlFzdkxaQ0dHUSs1bHpNMWZ1eWt6QlJMdThWZ1dyWENDZm9DMA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT 1 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=T1ZpOXBabVlqRnh2SjR3cjJ1MFhRMDUxajBBUVZFdmg2Y1RPd0FjOGo1dU5KR0k0N0piT1B4MDJLbEFwYTJ2QQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT 2 [LIVE DURING EVENTS ONLY] 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=V2tnQUJvKzcrOGx1Z21PYUkySmlXZXc2VzY5ZFNOMkZTamhOSWh6K25IL3VURXFYOUs4OXZFY2dML0dpcmZYSg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT 2 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=a2k5NHZNWHpPdWZtQjBDc2NUSWhHTlFWUFhlNWc5VENxTldHb05QZlNuak11YzlUUUFLbk8xQXM2aW56QTdXLw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT1 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=di9GSTFnUVVwYng4MXFoeEt1WnRjUm8wakhOSyt4SDgvYnN0c01oanRSUWh3VHYwd0FZeEVpd0lBNUFaQlV0RQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT2 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=VzA3aVpjM3BHcmVoaENCeWNneHpaNWdDRExoNWhjRVpmTVlEWk4yUnprU0djNlcrNUd6WWViWlNFUUZIOHNpdg==
-
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSTAR
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dFdack51eWlsWUVSZjZQWUZPUzlVWkdSNUxpSC9CYmVvZmhQK0hFbVEyTUUxTWIvb2tKRFJYWThsd0RiK29acQ==
 
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPOR 1 SD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=aktqQWR4SlF3WFNmM205NVNqTGNxNmtmTENVU1ppczZ1eWlRdnY0WXkvVWxFeDJnSGIvNFY3MTA4NUh2T2Zhdg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 1 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=bWZCdkhrdklzV3E2eG5XV3FrNmpiVE1UVWVab25QQjJ1NnJrRWVvWkpxdnBqbFQ5Z3FwR3ZwVTBRcTJTeFllUw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 1 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Vm9Pa0FTSWFNYm9GelUvdWZURFljNnIvMkpZY1pLeXRNUTFvRTJvbVVHWW9JSVBnc2tJR3RnUks2VEtWZ244Sg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 2 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Q0o1VUUrSnc4TG4ycXArL21FOVhBTTc4WWJEdWJscmMvUlV4eVZwQVFuODFlbDZOeXRPbWc5WFlFZFE4L3lvVg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 2 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=NDZGbHhONVVOWitKUm5oMGpwTU4vWTVacTEwRmRTNW4vTmhjS2VvZXVQbUtaMlFZeitRelg1T0dtbVlnTTZTZA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=eFk3YVp1UlhnUnRROTFaeGxLbFF3RjR6L2NuUjZrU0lhRFZDdGlkQWVBQWZZbHY4bmh2dzBpRlRQTkdNaVluRQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 4 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZVVqRDdXdWFvQVlTNW95TFZxWldISVNTbC9sRFJCbE00QlBUbkhoc2ZsRWpSY0tVaDQya0V1L3IzZno3Qk1Jdg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 5 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RTJBR0RhdjljN2hSWGVoVGFqd1pBN09TcXloc2JkZlpJV2QyaURsWVBTY2EvNkVNaVRzU2kxZXZ1SXhLSXhDWg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cmRFVVJRUXB3OEdXckhPSDFOeEpPZnA4NVBnN3U4U1V4L2F5M1gxN0hLb2NWWlhDQ3FmVU5aMUwzSENUTld4TQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 7 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=bDVuZ3lzRW9zcFc3ZitGcXhJN2hLQnB3c1NsNG5SclNpZ0dVU2hrOVo0SXNmdGxQVzJVWmgyVFowSUFFZyswNg==
-
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=K2FpQlBTeEhIWEhXY3lLQURlRm1JNXlWMTEvZS94Y1BxZHJ0dFM4L2RuOERLYkxXanRVWDJ4ZndWcktrWGJPTg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z2Q5ZndBK3pwOG9ZNDlvUGtVdXBBSTdRUTJiM1Q3UUg4ODU5NUxxMDNFNWthZnYwajM0MXpNNERHdjQ3ZmpwYw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WGxhKzEwTzB3dC9aNmpUZVpjdHRxYTJBc3pSU2Y5UXRMRDlwM1R3RTFpcy9iWTh4SmNLTmlYMFBnbjBKbHVVag==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 720P 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dUtORkR2NjQzcnJHMTU4bHNzcU1ScDEvNHljWElWUStnT2VTWmJhV1FHZlpaSzlNTXFvUFl4ZC9veVptOENORw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 FEED 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=U0ZlNkZKaDQvQlNoWC9IcFl1azFzVXBaNUhQMExta1BYdHVjZlhNMDA2T1JORDUwYk1YejJZa1B6ZnV0ZENpbw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 HD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZlI5dlNHTkw5OFZKcGZLWlU5MVhtaFBsQjkwNldtT2F2a29kakUxQk5aaHNIOHFiK2NOVmJpeC9LNW9pa2dacA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 UHD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QUhPcEZHU0VIQ2NMVjgvL2RQYW5Qckh1ZDZJMFkvSnZBVFBGZnQ5UzNvbXk0VkpPczNmWkpTVmtlZnlVd1pnKw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 2 HD
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dlFvdFhmcHJQNUp1cGhDTUNtMG4rbXlxVlJPbzAvbVhQZWNWdG14R24xdHpUa0RGRktlOXR4MTlYTXorUkRSSw==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 2 UHD 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Rk1jZUhpSWdpMXdrOWI4OWhvUDAxRVJkZllMWkFVUkhGTHFSY3hLNmVMZzYyWWJ2Q3YzMGZJK0M3Qk5SSnlNdA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 3 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SWNPa0pRbGdqUVFNQ3NEWHF3YVlJeUxiLzNhWkNRRk9JNlg3eUY2NFUxUFNyQkJyZzRQZjVqRHJWWUpGRmw1OQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 4 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZW5EUFd5S2Fvbk5Ic2NWQnJsMGh6SEZXeWNtREFHRDZhSmJlTUZJend5SEVnTTVSMk5Eb000L0dkUSs4MmUyMQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 5 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WnJlTXpvRmRHcDV2L0FBeVJzVHg5VTRBaHFEamlGM0ExS0lybTNrNUJuTktsb0ZRWGR6K2RDTWRXbkxwajBKbQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 6 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=OGIwL2xKUXRDbC9weGVVMVNXeFhRcVVzeXI1NjRJcnVLRWU0cVlSWmpOZElrMFVpZlhvNUc1WnNQUVZLNHIrVQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 7 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=eU0yQzB4RmNBOWRyME4zeC9xR3NSR3Bod0NxdDZ4VFpyV0tSdCt1Ym56OVlHODhVVWhYL1FrK0k5bWxrK25mbQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 8 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dm1PMHQ5Z0JySHhQMURsRzVKbDRzQUszTTYydTZxNFd6WHJDa256TVBDUnNTcFZQcFMzZVhxaUErVTd4U3h5NQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FASIL NEVIZADE GECELERI 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QVJWTXpZNGxIRW5STlJ4Q0pyWTVYcUpCWjB2bzcxRTJKMFdudTlrUVk1RWFiLzc0czJiU0dxTWF0UnFXUnRLZg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FAST AND FUN 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZmF2bnZSQ0tVY3N3RC9TZHdIRXhkUlVzSTBySjJmMXNTeG9NNHowVE1VTUVlQXZvWXZjYnJsaVNLOTZpK2p3WQ==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FB TV 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WDhYOE9reGhXZm10WlhLYjZ2VmVocE5JUEZzSU9ZNm5Wb0FweExuZTU5eWVhT0ZzbTBNR1NoSXpVMEttVXNacA==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FB TV 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z01hNkxCV21HS0FXNm9hSmZJellpR1E1MzUzdFYycUN4QmpXZlBUcE04dU9UN1RhdXJuYSs1d2xjc2o0eE5EZg==
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FB TV 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=My9UeTU0LzVKVjNZNTNNYWdPNU5Pb2pndHhVbFA5cFRVbXRBYXhqRC9SdnBGdk96RjhHdUlrV3BwYUJXM0RjRA==
 
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",FIBERBOX AKSIYON 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MHNNOCtrejl3c1Y2TjBtL0E3TEozYkhyZ3QvWjFFRmVSdEIxYVNST0ppbkszRWl6SGFOQW9COUpId212bzFCZA==
@@ -2578,6 +2306,292 @@ https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZWZFS1hCQnZ2YUdzOUVLZmdsOGti
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",S PER FM T RK E POP 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TU84NUFRaGNJMVQ2MmpuK1Jua0FlWjdzWUdNcDlsTUZMRmg3U0w3cG91UmsvNEIzQXJRNjJta0xjb0k1YzlYRw==
 
+****************SPORTV*******************************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png" tvg-name="Sports TV" group-title="🇹🇷 TURKEY",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT 1 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TXJQbDhuMUpoL0QxNEhRN3ROK1VrTkx0WHA0NlFzdkxaQ0dHUSs1bHpNMWZ1eWt6QlJMdThWZ1dyWENDZm9DMA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT 1 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=T1ZpOXBabVlqRnh2SjR3cjJ1MFhRMDUxajBBUVZFdmg2Y1RPd0FjOGo1dU5KR0k0N0piT1B4MDJLbEFwYTJ2QQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT 2 [LIVE DURING EVENTS ONLY] 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=V2tnQUJvKzcrOGx1Z21PYUkySmlXZXc2VzY5ZFNOMkZTamhOSWh6K25IL3VURXFYOUs4OXZFY2dML0dpcmZYSg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT 2 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=a2k5NHZNWHpPdWZtQjBDc2NUSWhHTlFWUFhlNWc5VENxTldHb05QZlNuak11YzlUUUFLbk8xQXM2aW56QTdXLw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT1 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=di9GSTFnUVVwYng4MXFoeEt1WnRjUm8wakhOSyt4SDgvYnN0c01oanRSUWh3VHYwd0FZeEVpd0lBNUFaQlV0RQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EUROSPORT2 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=VzA3aVpjM3BHcmVoaENCeWNneHpaNWdDRExoNWhjRVpmTVlEWk4yUnprU0djNlcrNUd6WWViWlNFUUZIOHNpdg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",4K TR: EUROSPORT 1 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cEJzZlpvUG5zMHVmbmZNTGlTMm15azlrNnlhOFZkbFBZYk4wSFFITStOVzM0Q2xKR1JuYTl0RkJJNWduaWVheg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",4K TR: EUROSPORT 2 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QnAwRlRKRzNORzdpTHgvdnE4UUYxSm5oSkk0VXRoU0Fvc2hBMUdUdGFZNHZGUlRKYnd5N1kxUWJCYS9nVnRyQg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=VHl0M2YvSHQ4OVNSZ0YwMWp3b0tpNjl6eFFZMnhrd0pXczRZKzMra0piM2lZakNpOTdTc3M1UThhSk9QTUxFbg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZmUvR0lPOGJMaW1Wd1RrYW1YUFZqQzl4bjh3VW4weG5yL2N3K1I3Q0Q2cTduZTBRLysyTnBsRDhpMjdDendSRQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR FHD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=aUJpeDA2RmxuTFY0NzJkSkd1RTNKaVN6NUJHVEpjR1NySUlRVFJ5K3BMRDBrSktTZUdkdkFicEhwTUV4S3VIOQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cEVBM2taeS9ST1YwNVRySktzU204SVE2aEc0WEwydXowTDNjdENYNXJ3dEVnQ1ZSWTcrREJOZSs5M2MvdE9LWQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR HEVC 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=L0p3ZGh1RkNhYWNxaDJCRlRsZDNmNTBOdkpyOGhvZGo3bmFuVG9RWTRTbDBhaUg4bE9rZUpwQUp6ekRpdGlOOA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",A SPOR RAW 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=a0JRU3pOdytXVlFNY2ZZKzdIazIyQWc1Z0FBZ3FhV2RrRkRoYnRiM2ZMV3ZYMDlPbmhZdGt6YXhIMUtGbTRwcA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=eGRXSHROV3pqWXpKaTdtaG82ZzhvREU4a2pFN2tOa0RtNGpqcTFjMVdldmpCUUtad1R3dXZXNjJVbnpJSGc4Nw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z2ZlbjFmbE5KMkVYdDdubzRnOTRQb0dWSVcyUlhRdXdXMUs0aTViMEZVWjlGdmREMGRLMDdlU1p4dFlFRkdnYg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WE11aktnRUo5OHRuNFZDNEEvSzE4V3RXdmNPTlFWM1JTVHZIeUkyNVdCekttbGxKWEMxNVNTMUhmRHFvU0gzcQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 SD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z201TDcvbGxFeTZLZmJvRHpoT2FuN3A2THV5S2tRTElyYkZNQWJFTmdmSHNqMENGQjNJd2tUTHdoVERvVUNhNA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 2 UHD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SDNwWWNQVU5pajU4WjNobUNsUytjdjBobjY2ZWxkd3dPcEpURTZUY28zdWVLbkRYaEhhU09aZVYyeXlWcVVZTA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=amZSeXFqdzBZbGxrR0FRZnA2YUdaTHFHOGpla1JscjB4bFphcWJIYWM4SEVFR0hEVk44NVYyUjQrQkZjdjQwSA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=UmVaUGlQSGphTTc4dmVFY3FIaHJ5VGQ1R09DM2RBaVhNa3cyQ2k4VEFVVGdqM0c2dnVYUmV4akl4MldoNzZXSQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=bHVzU3BZMzQvSmpBSUpaZE1DcENDM1hxOExPRm9NbkQyNS9jMVB3N3huMkpabTZGSTY4cTRSYlIzdTJ2VTZZTQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3 SD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=NHM5aGJ5TlJ2RnljMVBaZFc3NTJaQnJ1UU1ramplWWRaVURHMjNVMVh1bE5uSzZTREx0T1lyVXpsNDlTZWVYTw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 3 UHD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MkN6VU01d0NHMVZNdXE2elF5bVRsSWdMeVlseml0WnVyVEdva2M2NVYxenYxdEJTaVRTTW1NazUvUlpLWkVWUg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=L3Zhc2ZPeEkxSWVKQm9yQmJJaTJPVXFuV3pJTFF1c0NuMmpiNVZ6L2prTXNrTEVsTUovZ3pRK096ZDV5ZjN2dg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dEsrVk40dURCNUNSdFlOSmw2MkdYUmxtMUYvQWs1TDdrZ25ubEtiYWpJcEh3UGZmRUdXY29BcTB6SHV6UWR2Ng==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=VXdocVBsby9TNXg4L2tIVkZ5a2RPSHVETmwyVjFQR0ZpS3IwZVpaT1M3N2JvOUFGa1c3WWpUd2V2MTlHaWlwKw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4 UHD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dVk4c3Bzc2lNWTk2SG91QlV4T0pRWUUzSXN6YUN6cDlRRGp5S29PQTI1N0tLL05ZUW5ibVRBWnNLcU1VV0xnVQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 5 (MATCH TIME) 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=R05hTmx2NmxxbHBVY25MdlZqR1U4a0xGdWkwUkx0ejR0REhrNEpiUkI2NkpnaVpsY0t4R25iTy9DSFRtd2ZvYg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 5 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=NWdWMURSaXJKcDhld1VYeU9Pcnl0UzV3ekI3blZJUXpaMGl6Qm5yM0hwWjAvNXRoYkFsWVFFUUJFaXlDU1hSOQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 5 FHD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MFJpcEh0Vjd4WGJXSklOaHM3OTdtNW5sUGZ6UzY0Q3BWSEtxdlM2MkJPRnhPbG4rYlVNRVNQUDVsaWxmc09BSQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 5 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=eTNXbDRpOXpXbVB0ek5oMDRFcmZiMlhBUDFpRHZsbWdLNTY1anVlczBSblI5NWU1VEgrZE56QVlVTkZvc0t0WQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS HABER 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TmxWZ0ZTRWNTRTRZWm1vS0VNeVg1L3duQStlclJlZ3VtSVZmSkV0YVA4MEtoeXA4R1ZaMnhpKzlwOURZLzRKTg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS HABER 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dVp0QjkwY1V3UUs5V1ltanJjQmk3OWM3SXkyT2VMdFl6UXJlWFZXV0RpMnk1TjF0bDJvR3E3cldqZS91NzM2ZA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS HABER HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZTlSdVR1a1M1dUtQWGpoSzVVRGtyTVdvSmxmQlFLWndFRXpnaXdDanJ2bVFaUS9FcTcwOEYzdXVHdkRlNlNUSQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS HABER RAW 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cUNkR0NOZENUMmgrTE55SWRJcHhZQUZQTHlIaWdkdU5hUlBCRGhJN1Y1QnRCdTBya21KWis5aERtZEhJZ1p4Nw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 1 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Nkk4YTAxMEpUcEZydmlpb0pQcW9lenZSdWYxeitGV2ltQVNVSkR3cjR4VlRXMWw2djI2MFB1eUZ5cG1NZnJpQQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 1
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZFhydkNadS9uNS9mZWxmMmZSbUtEUmhFWmcwY1FVazd1bzBGYXRVMDFHd0xxUzNCVW1GRG1Ea20zelVLL0ZoNw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 1 FHD
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RW9URllaYWZDVXFvbXdxeHFoeW9vcFVIVGE1L0F2ZkFiTm12MEZmbFdXWnZMeXN5ZkxPV2YvNklNbWJYK1dqYw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 1 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QlZoVSt4RzdvMlc5S3NlNzZLSzVTRU8wWkloNTRsV0FPRldJYXhlQ3N1RzBYMXdac2dBaC9BaHpaT0hEV21icA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 2
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=M2Z6cENFUnU3VE5OY2x3aVMrYldSTENGZVhCdndiZnRJZTdsdFg1Q0xsVTdPdVR2N0tBTWNWRCtzc2dDUlZENg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 2
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SWdWbkJ3VmFIMHNoRElCZEwwRkZiNUpkSW1yKzNFVmFpckZ0U01NeXEvRFVmQzdJSWpNalVnd1ZuZnBwRHRQYw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 2 FHD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RDFzeFlSTlBsZWw5Q3UvdVVJWFpRaHpYYlUrbFZYNkszaWxPck9kZnhOdkFDdC9HM3VWbkc0a0tSZnBnNVZ3VA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS MAX 2 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=V0hoMi9wY3hHSktkTy9TdE91Y0tGcmUyZlFGd2U4Z1N3RndJWjl4ZTNFSVd4SEd1WDVYVS82aFovNTcrQzR6Yg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPOR 1 SD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=aktqQWR4SlF3WFNmM205NVNqTGNxNmtmTENVU1ppczZ1eWlRdnY0WXkvVWxFeDJnSGIvNFY3MTA4NUh2T2Zhdg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 1 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=bWZCdkhrdklzV3E2eG5XV3FrNmpiVE1UVWVab25QQjJ1NnJrRWVvWkpxdnBqbFQ5Z3FwR3ZwVTBRcTJTeFllUw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 1 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Vm9Pa0FTSWFNYm9GelUvdWZURFljNnIvMkpZY1pLeXRNUTFvRTJvbVVHWW9JSVBnc2tJR3RnUks2VEtWZ244Sg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 2 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Q0o1VUUrSnc4TG4ycXArL21FOVhBTTc4WWJEdWJscmMvUlV4eVZwQVFuODFlbDZOeXRPbWc5WFlFZFE4L3lvVg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 2 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=NDZGbHhONVVOWitKUm5oMGpwTU4vWTVacTEwRmRTNW4vTmhjS2VvZXVQbUtaMlFZeitRelg1T0dtbVlnTTZTZA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=eFk3YVp1UlhnUnRROTFaeGxLbFF3RjR6L2NuUjZrU0lhRFZDdGlkQWVBQWZZbHY4bmh2dzBpRlRQTkdNaVluRQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 4 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZVVqRDdXdWFvQVlTNW95TFZxWldISVNTbC9sRFJCbE00QlBUbkhoc2ZsRWpSY0tVaDQya0V1L3IzZno3Qk1Jdg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 5 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RTJBR0RhdjljN2hSWGVoVGFqd1pBN09TcXloc2JkZlpJV2QyaURsWVBTY2EvNkVNaVRzU2kxZXZ1SXhLSXhDWg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cmRFVVJRUXB3OEdXckhPSDFOeEpPZnA4NVBnN3U4U1V4L2F5M1gxN0hLb2NWWlhDQ3FmVU5aMUwzSENUTld4TQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN SPORTS 7 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=bDVuZ3lzRW9zcFc3ZitGcXhJN2hLQnB3c1NsNG5SclNpZ0dVU2hrOVo0SXNmdGxQVzJVWmgyVFowSUFFZyswNg==
+
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=K2FpQlBTeEhIWEhXY3lLQURlRm1JNXlWMTEvZS94Y1BxZHJ0dFM4L2RuOERLYkxXanRVWDJ4ZndWcktrWGJPTg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z2Q5ZndBK3pwOG9ZNDlvUGtVdXBBSTdRUTJiM1Q3UUg4ODU5NUxxMDNFNWthZnYwajM0MXpNNERHdjQ3ZmpwYw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WGxhKzEwTzB3dC9aNmpUZVpjdHRxYTJBc3pSU2Y5UXRMRDlwM1R3RTFpcy9iWTh4SmNLTmlYMFBnbjBKbHVVag==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 720P 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dUtORkR2NjQzcnJHMTU4bHNzcU1ScDEvNHljWElWUStnT2VTWmJhV1FHZlpaSzlNTXFvUFl4ZC9veVptOENORw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 FEED 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=U0ZlNkZKaDQvQlNoWC9IcFl1azFzVXBaNUhQMExta1BYdHVjZlhNMDA2T1JORDUwYk1YejJZa1B6ZnV0ZENpbw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 HD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZlI5dlNHTkw5OFZKcGZLWlU5MVhtaFBsQjkwNldtT2F2a29kakUxQk5aaHNIOHFiK2NOVmJpeC9LNW9pa2dacA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 1 UHD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QUhPcEZHU0VIQ2NMVjgvL2RQYW5Qckh1ZDZJMFkvSnZBVFBGZnQ5UzNvbXk0VkpPczNmWkpTVmtlZnlVd1pnKw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 2 HD
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dlFvdFhmcHJQNUp1cGhDTUNtMG4rbXlxVlJPbzAvbVhQZWNWdG14R24xdHpUa0RGRktlOXR4MTlYTXorUkRSSw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 2 UHD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Rk1jZUhpSWdpMXdrOWI4OWhvUDAxRVJkZllMWkFVUkhGTHFSY3hLNmVMZzYyWWJ2Q3YzMGZJK0M3Qk5SSnlNdA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 3 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=SWNPa0pRbGdqUVFNQ3NEWHF3YVlJeUxiLzNhWkNRRk9JNlg3eUY2NFUxUFNyQkJyZzRQZjVqRHJWWUpGRmw1OQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 4 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZW5EUFd5S2Fvbk5Ic2NWQnJsMGh6SEZXeWNtREFHRDZhSmJlTUZJend5SEVnTTVSMk5Eb000L0dkUSs4MmUyMQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 5 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WnJlTXpvRmRHcDV2L0FBeVJzVHg5VTRBaHFEamlGM0ExS0lybTNrNUJuTktsb0ZRWGR6K2RDTWRXbkxwajBKbQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 6 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=OGIwL2xKUXRDbC9weGVVMVNXeFhRcVVzeXI1NjRJcnVLRWU0cVlSWmpOZElrMFVpZlhvNUc1WnNQUVZLNHIrVQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 7 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=eU0yQzB4RmNBOWRyME4zeC9xR3NSR3Bod0NxdDZ4VFpyV0tSdCt1Ym56OVlHODhVVWhYL1FrK0k5bWxrK25mbQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",EXXEN TV SPOR 8 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dm1PMHQ5Z0JySHhQMURsRzVKbDRzQUszTTYydTZxNFd6WHJDa256TVBDUnNTcFZQcFMzZVhxaUErVTd4U3h5NQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FASIL NEVIZADE GECELERI 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=QVJWTXpZNGxIRW5STlJ4Q0pyWTVYcUpCWjB2bzcxRTJKMFdudTlrUVk1RWFiLzc0czJiU0dxTWF0UnFXUnRLZg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FAST AND FUN 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZmF2bnZSQ0tVY3N3RC9TZHdIRXhkUlVzSTBySjJmMXNTeG9NNHowVE1VTUVlQXZvWXZjYnJsaVNLOTZpK2p3WQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FB TV 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WDhYOE9reGhXZm10WlhLYjZ2VmVocE5JUEZzSU9ZNm5Wb0FweExuZTU5eWVhT0ZzbTBNR1NoSXpVMEttVXNacA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FB TV 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z01hNkxCV21HS0FXNm9hSmZJellpR1E1MzUzdFYycUN4QmpXZlBUcE04dU9UN1RhdXJuYSs1d2xjc2o0eE5EZg==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",FB TV 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=My9UeTU0LzVKVjNZNTNNYWdPNU5Pb2pndHhVbFA5cFRVbXRBYXhqRC9SdnBGdk96RjhHdUlrV3BwYUJXM0RjRA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" tvg-name="EUROSPORT" group-title="🇹🇷 TURKEY", EUROSPORT 1
+http://195.189.62.140:8002/play/a00q
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" tvg-name="EUROSPORT" group-title="🇹🇷 TURKEY", EUROSPORT 2
+http://195.189.62.140:8002/play/a00r
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPOTS1 SD 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=a0F6eVhJa0NFdzlVMWxnd2k5bHdRQzVxRVVsM3MrZGtTbVBrczZMQWE5aVJsU1FWL1lPM2hBbUswa05DQ09VWA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN 1 SD (360P)
+https://home.us2-gpiktv.workers.dev/playlist.m3u8?i=S0tkbVNpUGliUFhQbEQ4WXo1UkREdnpiN1hSUGlrNUJhSDRVekVOUnhFd0xUbUJhUGkxdVdOYnNnTmdodWlyRA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN 1 SD (480P) 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=cGlxeXRoajdVUEIrL2U0UHE5N090N0tHdUlTVExhWElERWZRWWFlY2piU2d3Y3YyYzJCR2VyTHRjN2hhdEtQdA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN 1 FEED (720P) 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=R2RYdFljZ0FjYVFyRi9aL0xMUytjdzBlZm11L0tkMWd4T28vVWt4d2U3amcxTlFMZHRkZk9VSjFaS0NWRlJqZQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 8K FEED 
+https://home.us5-gpiktv.workers.dev/playlist.m3u8?i=QWJiVEk0Tkg3aGJQODVxQnBPWVBuc2pJa05HWWg2bEZoelRyTnZWU3k5TWZrTS9lZ24rSTBnWThqUVV2bDR0Mw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS FEED (OZEL FEED YAYIN) 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MTJOQnExU2g5SjlvaEt1MXFBWmR0akJZajIwNG0zc2JwR2dxZ0lmaGQ1RlZIVUtOaWpEVG5jaGJFUFRGSW5MTQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4K FEED(KUTU) 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MlV3SkRQMkNadFkvZUNHNEtGbXh1bTl0TE1MSVZZWDlqUXFuVUc5VVhpb3RxdTZYQzQ2QnpqTHV5M1RuajBDTA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 4K FEED(UYDU) 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Z0xmWHVPR0xKSktoeUtBVTdyWENmZG40ejFNYU5FNTRtK3QxOXNtNzExZit4VUNTK2hHWEhyN1FxZFZlYTRVcw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 (720P) 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Zy9JeEJ1MXdRdEhYdms5NzhTR0diOEd6QjBJY3JHMmN6UWYzNFlIM1k1UmZvcThhSm95aUZSZVArTytIUlp5dA==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 (720PFEED) 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=MkIwaWR5Z0VXait5anJPTENPZzNTSTNXZDJXdGZ3SCtlc012ek0zQTM5bDdDNVVDTGxpVGZEVzlaUDkvUU9BaQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RFlQYmtabGxsdWltRVlMdW5vSmRDcTFuVXFyaExqQlJ1N3lOMWpCS0g1Zm02T3lLOUNPZlY5ZUhRdktlaWRUQw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 + 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=dTQ0UEtsWHZmemM2OXhSVFlIakFvaXBZWGJuMFdvSmRGODhJOUQ2ZGdpUjdSSmxJOWJsRHBhbjl2N3NOdHdkdQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=NitPZjJWckt6TTFhVUp5OSsxczNKQXNNV3hHanI3cFNIVG1LOUVMdEkzT0lydWZKcHZTTEFNMjF5c1g3VmNSNQ==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 50 FPS 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WnJvYks1QUxWRm8wOUNXMlYzK0lIYjVnR2cySjJqc1NqS3VZTTV2K0dGZXdjd0pvRDJWRUxIWTcwVjB5VHAwZw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 H265 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=RGxlZ2ZmZTZaOWtVUTRoTXFnVFBwWkszZjkwLzB5Z2crM2pwK0tXcmJqWVRxTEt0T3F4YTJuNitYVTNaUlhIdw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 HD
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TndBUE1xU1J0L2lheVI2SGIvRllPV1ZkOGhUcWtzK3pRckl3eXdPNzg5VStjR0pwWTRNcWhsd1F6cjhiZWlmSw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 1 HD
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=Zk83ZG05YnRNQ0lGZWZBdlRVZTdBNGQwV3h1NW9ldVV5dVZTR3BIdEk4elR5QWFnTmdFcWxxemx0bkwyTHdkQw==
+
+#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPORTS 720P FEED 
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TjB5dHd6VW40NHhkYmZzK3BVZzFKblFYaUtvME1MNHFBSmdqb3dsT3g2WTBGa2RrMUsvZjJ3TkU4ekZVbDRZVQ==
+
+
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",S SPORT 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=aklMcFJzSU4zbm9QU3krUE1xTm15OFNLQmVRZXQrS3RpQkdWTkp1SzBMMG1lZ1EyVzhYa0ROL2V0L3lDK3FjMQ==
 
@@ -3349,7 +3363,11 @@ https://cdn6.video.az/storage/movie/3/2622/video.mp4
 #EXTINF:1 tvg-id="" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/12/21/08/10/0024335.jpg" tvg-language="Turkish" group-title="🎬 MOVIES",3391 Kilometre (2024)
 https://cdn8.video.az/storage/movie/22/22017/video.mp4
 #EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1_.jpg" tvg-language="Turkish" group-title="🎬 MOVIES",Legend of the Guardians: The Owls of Ga'Hoole / Başkuş Krallığı Efsanesi - Türkçe Dublaj (2010)
-https://cdn.dzeninfra.com/vod/converted-video/vod-content/21/32/85/33/50/91/39/65/98/0/6ca1d2dc-7ebe-43b3-8bf6-98193a7dcfe1/kaltura/desc_e03c7ba709f91fb736876c975d21064d/vK6mOT3XoxiA/vw=1920,vh=1080,fps=24.00,vbrt=2233852,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+https://cdn.dzeninfra.com/vod/converted-video/vod-content/21/32/85/33/50/91/39/65/98/0/6ca1d2dc-7ebe-43b3-8bf6
+-98193a7dcfe1/kaltura/desc_e03c7ba709f91fb736876c975d21064d/vK6mOT3XoxiA/vw=1920,vh=1080,fps=24.00,vbrt=2233852,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+**********AZERİ DUBLAJ*****************************************************
+
 #EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI4OGE0MTktOTQ3ZC00ZDlhLTg1OGMtMjRiMTMwNzgzZDIyXkEyXkFqcGdeQXVyNjc4Nzk3NzU@._V1_.jpg" tvg-language="Turkish" group-title="🎬 MOVIES",Security / Mühafizəçi - Azərbaycanca Dublyaj (2017)
 https://cdn6.video.az/storage/movie/18/18778/video.mp4
 #EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_.jpg" tvg-language="Turkish" group-title="🎬 MOVIES",RED / Qırmızı - Azərbaycanca Dublyaj (2010)
@@ -3502,6 +3520,8 @@ http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" tvg-name="BabyTV" group-title="🇹🇷 TURKEY",Baby TV
 http://195.189.62.140:8002/play/a00e
+
+**************azerbaycan tv*****************************************************
 
 #EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="⚜️ TELEGRAM: @aligoshgartv",ALIGOSHGAR TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/aligoshgar/index.m3u8
