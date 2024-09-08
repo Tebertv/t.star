@@ -833,15 +833,11 @@ https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=enJYcjZKQUw2Njhwa29LVWVhMDJO
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SERIES VICE 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=M2o5aUQ1dy9PazVyLzRZZEh0OXRyYnc3Y1RaV0djNURZeDV5Ry9YRTA5MDlWdlJVODFWeGxoMldZSklDODlnNQ==
 
+#EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="⚜️ TELEGRAM: @aligoshgartv",ALIGOSHGAR TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/aligoshgar/index.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEN 10 TV 
+#EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="⚜️ TELEGRAM: @aligoshgartv",ALIGOSHGAR TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/aligoshgar/index.m3u8#EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEN 10 TV 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=WmZiVU1CQ1d6WHpaS0FJdkM0bFdNV2duSkZoS2xSWjlQZUJ6dWhpbnpXRDhvbzhoTmhaYXI0a3JqWUJaRlNIaQ==
 
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",BENGU TURK 
