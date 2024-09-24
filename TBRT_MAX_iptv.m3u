@@ -33,6 +33,9 @@ http://stream.tvcdn.net/diger-eglence/fark-turk-tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",YANSIMA SİNEMA TV HD
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇹🇷 TURKEY",5 OCAK TV
+https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w555492692.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DÜZGÜN TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 
@@ -40,8 +43,7 @@ http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="🇹🇷 TURKEY",TRT 1 HD-2
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=dlhoY0NpR0w4dGx4MTIyRG9rODR1bUR4aTA0ZXFmU2poL1kvWTRTTUZ1UjVhWVdYSEt5T21pTEJPcC9odG43ag==
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="🇹🇷 TURKEY",TRT 1 SD
-https://hw1.jemtv.com/app/trt1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="🇹🇷 TURKEY",TRT 2 HD
 https://hw1.jemtv.com/app/trt2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="🇹🇷 TURKEY",TRT 2 HD [Geo-Blocked]
