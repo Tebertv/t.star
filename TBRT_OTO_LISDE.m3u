@@ -37,7 +37,7 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo=".jpeg" group-title="Diğer-Eğlence",DENİZ TV 
-https://glb.bozztv.com/glb/ssh101/deniztv2024/index.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/deniz-tv/chunklist_w902360307.m3u8
 
 #EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",Fark Türk TV
 http://stream.tvcdn.net/diger-eglence/fark-turk-tv.m3u8
