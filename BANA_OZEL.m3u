@@ -37,7 +37,7 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansima_sinema/chunklist_w456
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansim_muzuk/chunklist_w194134382.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV1
-https://ythls-v3.onrender.com/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+https://ythls-v3.onrender.com/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV2
 https://ythls-v3.onrender.com/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
@@ -45,10 +45,11 @@ https://ythls-v3.onrender.com/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV3
 https://ythls-v3.onrender.com/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM KOMEDİ 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM KOMEDİ
 https://ythls-v3.onrender.com/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CENNET MAHALLESİ TV
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CENNET MAHALLESİ TV 
 https://ythls-v3.onrender.com/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",G.G TV
