@@ -205,6 +205,31 @@ http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", KANAL AVRUPA
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",YILDIZ TV TV
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA TV
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ZEYNEP TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/ZEYNO-TV/chunklist_w2006615150.m3u8
+
+#EXTINF:-1 tvg-name="İSMAYILLI TV" group-title="Без группы", İSMAYILLI TV
+#EXTGRP:Без группы
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="TTV TV" group-title="Без группы", TTV TV
+#EXTGRP:Без группы
+https://tivi191.ozelip.com:3016/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="BABƏK-TV" group-title="Без группы",ALPHA TV
+#EXTGRP:Без группы
+https://tivi191.ozelip.com:3745/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 65 TV" group-title="Без группы",MEGA TV
+#EXTGRP:Без группы
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+
 #EXTINF:-1,4 EYLÜL TV
 https://cdn1-dorteylultv.yayin.com.tr/dorteylultv/dorteylultv/chunklist_w79215793_b1896000.m3u8
 
@@ -256,33 +281,9 @@ http://stream.tvcdn.net/diger/lider-haber.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", BENGU TURK
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",YILDIZ TV TV
-https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA TV
-https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA TV2
-https://esmatv2.interweb.com.tr:3870/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="İSMAYILLI TV" group-title="Без группы", İSMAYILLI TV
-#EXTGRP:Без группы
-https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-name="TTV TV" group-title="Без группы", TTV TV
-#EXTGRP:Без группы
-https://tivi191.ozelip.com:3016/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="BABƏK-TV" group-title="Без группы", BABƏK-TV
-#EXTGRP:Без группы
-https://tivi191.ozelip.com:3745/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="KANAL 65 TV" group-title="Без группы", KANAL 65 TV
-#EXTGRP:Без группы
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", AGRT TV
 http://stream.tvcdn.net/yerel/agrt.m3u8
+
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", BIZIM TV
 http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
 
