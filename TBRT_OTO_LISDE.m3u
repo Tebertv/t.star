@@ -27,6 +27,9 @@ https://tivi191.ozelip.com:3499/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", YANSIMA TEBER MEDYA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/YANSIMA_SINEMA_RT/chunklist_w563290155.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE TV 
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1029155624.m3u8
+
 #EXTINF:0,SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
@@ -59,9 +62,6 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ALMANYA TV TR
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEZENE TV 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1029155624.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
 https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
