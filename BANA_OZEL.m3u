@@ -1,5 +1,3 @@
-#EXTM3U
-
 NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLARDIR VE BU LİSDE İLE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN SORUMLU DEĞİL DİR BURDA LİSDE  GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
 PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  HİÇBİR PLATFORM KANALI YOKTUR VE VERİLMEMEKTEDİR SADECE FREE KANALLAR MEVCUTTUR SAYGILARIMLA TEBER MEDYA GURUP PAYLAŞIM SAYFASI.....2024..
 
@@ -24,12 +22,19 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w51986
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T*S YANSIMA WESTERN TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/YANSIMA_SINEMA_RT/chunklist_w563290155.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE TV 
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1029155624.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", YANSIMA MÜZİK HD
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/YANSIMA_MUZIK_RT/chunklist_w1745154007.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA Müzik SD
-https://fl1002.bozztv.com/ssh101/yansiimamuziktv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
+https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
+http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",TV 70
+http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
 
 #EXTINF:0,SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
@@ -55,6 +60,9 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",CANKIRI TV
 http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
 
+#EXTINF:-1 tvg-id="KibrisKanalT.cy" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title=",TTV
+http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
+
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="Kıbrıs",Torba TV
 http://stream.tvcdn.net/kibris/torba-tv.m3u8
 
@@ -63,15 +71,6 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ALMANYA TV TR
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEZENE TV 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1029155624.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
-https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", YANSIMA MÜZİK
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/YANSIMA_MUZIK_RT/chunklist_w1745154007.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GENİŞ AİLE TV
 https://ythls-v3.onrender.com/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
@@ -212,10 +211,6 @@ https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KRAL ANADOLU 10 GÜN SONRA EX OLACAKTIR
 https://tivi191.ozelip.com:3499/stream/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ZEYNEP TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/ZEYNO-TV/chunklist_w2006615150.m3u8
-
-
 #EXTINF:-1 tvg-name="BABƏK-TV" group-title="Без группы",STV AZ
 #EXTGRP:Без группы
 https://stvaz.efir.com.tr:3350/stream/play.m3u8
@@ -351,8 +346,7 @@ http://stream.tvcdn.net/spor/byhorses-tv.m3u8
 http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="Spor",Fit Yaşa TV
 http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",Ziraat Türkiye Kupası TV
-http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
+
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",kanal34
 https://panel4.euromediacenter.com:3299/live/kanal34live.m3u8
@@ -372,8 +366,6 @@ http://stream.tvcdn.net/diger-muzik/nef-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a12835f-37b9-438b-9167-f588a759bf7e.png" group-title="Diğer",CLC Medya TV
 http://stream.tvcdn.net/diger/clc-medya-tv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA Müzik
-https://fl1002.bozztv.com/ssh101/yansiimamuziktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/559756c0-d9b8-4ff6-8ff9-d4bb087b6167.png" group-title="Diğer-Müzik",Pala TV
 https://fl1002.bozztv.com/ssh101/yansiimamuziktv/tracks-v1a1/mono.m3u8
@@ -457,8 +449,8 @@ http://stream.tvcdn.net/yerel/tv-48.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fda805fb-82ec-493a-9d92-6b7cc6eaeb48.jpg" group-title="Yerel",Konya Olay TV
 http://stream.tvcdn.net/yerel/konya-olay-tv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CENNET MAHALLESİ TV
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cennetmahallesi.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA Müzik SD
+https://fl1002.bozztv.com/ssh101/yansiimamuziktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",MK Tv
 https://tivi44.ozelip.com:3757/stream/play.m3u8
@@ -468,9 +460,6 @@ https://tivi44.ozelip.com:3892/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="CagriTV.tr" tvg-logo="http://assets.tvcdn.net/3ac45b9f-5daf-4c45-b748-fb522296f432.jpg" group-title="Diğer-Eğlence",Çağrı TV
 http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA TV
-https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="Diğer-Eğlence",Şaban TV 1
 http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
@@ -490,10 +479,10 @@ https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",DEM TV
 http://77.68.121.3/hls/stream.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",İSMAYILLI TV
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TTV SİNEMA
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",BABAK TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",ALPHA TV
 https://tivi191.ozelip.com:3745/stream/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",ESMA TV
@@ -675,8 +664,7 @@ http://stream.tvcdn.net/kibris/kibris-ada-tv.m3u8
 http://stream.tvcdn.net/kibris/kanal-sim.m3u8
 #EXTINF:-1 tvg-id="KibrisGencTV.cy" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="Kıbrıs",Kıbrıs Genç TV
 http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
-#EXTINF:-1 tvg-id="KibrisKanalT.cy" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="Kıbrıs",Kıbrıs Kanal T
-http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
+
 #EXTINF:-1 tvg-id="KibrisTV.cy" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="Kıbrıs",Kıbrıs TV
 http://stream.tvcdn.net/kibris/kibris-tv.m3u8
 #EXTINF:-1 tvg-id="TV2020.cy" tvg-logo="http://assets.tvcdn.net/59f65c5e-2660-46b3-b41f-f1fdc4fc4ad4.png" group-title="Kıbrıs",TV 2020
@@ -696,506 +684,6 @@ http://stream.tvcdn.net/yerel/on-medya.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b99fecaa-dfd3-4b6e-8fd2-51e9545ee425.png" group-title="Yerel",Öncü RTV
 http://stream.tvcdn.net/yerel/oncu-rtv.m3u8
 
-**********************VAVOO***********************************
-#EXTINF: -1 tvg-name="TR| BABY TV" group-title="TR| TURK", TR| BABY TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57755&extension=ts
-#EXTINF: -1 tvg-name="TR| COCUK" group-title="TR| TURK", TR| COCUK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57751&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT COCUK" group-title="TR| TURK", TR| TRT COCUK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57752&extension=ts
-#EXTINF: -1 tvg-name="TR| CARTOON NETWORK" group-title="TR| TURK", TR| CARTOON NETWORK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57753&extension=ts
-#EXTINF: -1 tvg-name="TR| NICKELODEON" group-title="TR| TURK", TR| NICKELODEON
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57754&extension=ts
-#EXTINF: -1 tvg-name="TR| BABY TV" group-title="TR| TURK", TR| BABY TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57755&extension=ts
-#EXTINF: -1 tvg-name="TR| DISNEY CHANNEL" group-title="TR| TURK", TR| DISNEY CHANNEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57756&extension=ts
-#EXTINF: -1 tvg-name="TR| DISNEY JUNIOR" group-title="TR| TURK", TR| DISNEY JUNIOR
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57757&extension=ts
-#EXTINF: -1 tvg-name="TR| GONCA TV" group-title="TR| TURK", TR| GONCA TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57759&extension=ts
-#EXTINF: -1 tvg-name="TR| MINIKA COCUK" group-title="TR| TURK", TR| MINIKA COCUK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57760&extension=ts
-#EXTINF: -1 tvg-name="TR| MINIKA GO" group-title="TR| TURK", TR| MINIKA GO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57762&extension=ts
-#EXTINF: -1 tvg-name="TR| NICK JR" group-title="TR| TURK", TR| NICK JR
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57763&extension=ts
-
-#EXTINF: -1 tvg-name="=TR= TR BELGESEL =TR=" group-title="TR| TURK", =TR= TR BELGESEL =TR=
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57735&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT BELGESEL HD" group-title="TR| TURK", TR| TRT BELGESEL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57736&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT BELGESEL" group-title="TR| TURK", TR| TRT BELGESEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57737&extension=ts
-#EXTINF: -1 tvg-name="TR| ANIMAL PLANET" group-title="TR| TURK", TR| ANIMAL PLANET
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57738&extension=ts
-#EXTINF: -1 tvg-name="TR| NAT GEO WILD" group-title="TR| TURK", TR| NAT GEO WILD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57739&extension=ts
-#EXTINF: -1 tvg-name="TR| NAT GEO" group-title="TR| TURK", TR| NAT GEO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57741&extension=ts
-#EXTINF: -1 tvg-name="TR| ANIMAL PLANET HD" group-title="TR| TURK", TR| ANIMAL PLANET HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57742&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY CHANNEL" group-title="TR| TURK", TR| DISCOVERY CHANNEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57743&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY IDX" group-title="TR| TURK", TR| DISCOVERY IDX
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57744&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY IDX HD" group-title="TR| TURK", TR| DISCOVERY IDX HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57745&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY SCIENCE" group-title="TR| TURK", TR| DISCOVERY SCIENCE
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57746&extension=ts
-#EXTINF: -1 tvg-name="TR| HISTORY" group-title="TR| TURK", TR| HISTORY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57748&extension=ts
-#EXTINF: -1 tvg-name="TR| TGRT BELGESEL" group-title="TR| TURK", TR| TGRT BELGESEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57749&extension=ts
-#EXTINF: -1 tvg-name="TR| VIASAT HISTORY" group-title="TR| TURK", TR| VIASAT HISTORY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57750&extension=ts
-
-#EXTINF: -1 tvg-name="TR| BEIN IZ HD" group-title="TR| TURK", TR| BEIN IZ HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57663&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION 2 HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION 2 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57665&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57666&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES FAMILY HD" group-title="TR| TURK", TR| BEIN MOVIES FAMILY HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57667&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES PREMIER HD" group-title="TR| TURK", TR| BEIN MOVIES PREMIER HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57669&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES STARS HD" group-title="TR| TURK", TR| BEIN MOVIES STARS HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57671&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES TURK HD" group-title="TR| TURK", TR| BEIN MOVIES TURK HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57672&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES YESILCAM HD" group-title="TR| TURK", TR| BEIN MOVIES YESILCAM HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57673&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SERIES COMEDY HD" group-title="TR| TURK", TR| BEIN SERIES COMEDY HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57675&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57676&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SERIES SCI-FI HD" group-title="TR| TURK", TR| BEIN SERIES SCI-FI HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57679&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SERIES VICE HD" group-title="TR| TURK", TR| BEIN SERIES VICE HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57681&extension=ts
-#EXTINF: -1 tvg-name="TR| CINESTAR YESILCAM" group-title="TR| TURK", TR| CINESTAR YESILCAM
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57682&extension=ts
-#EXTINF: -1 tvg-name="TR| DSMART MOVIE SMART GOLD HD" group-title="TR| TURK", TR| DSMART MOVIE SMART GOLD HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57688&extension=ts
-#EXTINF: -1 tvg-name="TR| DSMART MOVIESMART CLASSIC HD" group-title="TR| TURK", TR| DSMART MOVIESMART CLASSIC HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57695&extension=ts
-#EXTINF: -1 tvg-name="TR| MOVIE SMART CLASSIC" group-title="TR| TURK", TR| MOVIE SMART CLASSIC
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57697&extension=ts
-#EXTINF: -1 tvg-name="TR| MOVIE SMART GOLD HD" group-title="TR| TURK", TR| MOVIE SMART GOLD HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57698&extension=ts
-#EXTINF: -1 tvg-name="TR| SINEMA TV 1001 HD" group-title="TR| TURK", TR| SINEMA TV 1001 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57699&extension=ts
-#EXTINF: -1 tvg-name="TR| SINEMA TV HD" group-title="TR| TURK", TR| SINEMA TV HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57700&extension=ts
-#EXTINF: -1 tvg-name="TR| SINEMA TURK HD" group-title="TR| TURK", TR| SINEMA TURK HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57701&extension=ts
-#EXTINF: -1 tvg-name="TR| SINEMA TV YERLi HD" group-title="TR| TURK", TR| SINEMA TV YERLi HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57702&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 1" group-title="TR| TURK", TR| BOX OFFICE 1
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57703&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 2" group-title="TR| TURK", TR| BOX OFFICE 2
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57704&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 3" group-title="TR| TURK", TR| BOX OFFICE 3
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57705&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 4" group-title="TR| TURK", TR| BOX OFFICE 4
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57706&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 5" group-title="TR| TURK", TR| BOX OFFICE 5
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57707&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 6" group-title="TR| TURK", TR| BOX OFFICE 6
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57708&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 7" group-title="TR| TURK", TR| BOX OFFICE 7
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57709&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 8" group-title="TR| TURK", TR| BOX OFFICE 8
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57710&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 9" group-title="TR| TURK", TR| BOX OFFICE
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57711&extension=ts
-
-#EXTINF: -1 tvg-name="TR| BJK TV" group-title="TR| TURK", TR| BJK TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57713&extension=ts
-#EXTINF: -1 tvg-name="TR| FENERBAHCE TV" group-title="TR| TURK", TR| FENERBAHCE TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57714&extension=ts
-#EXTINF: -1 tvg-name="TR| GS TV" group-title="TR| TURK", TR| GS TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57715&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT SPOR" group-title="TR| TURK", TR| TRT SPOR
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57716&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT SPOR HD" group-title="TR| TURK", TR| TRT SPOR HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57717&extension=ts
-#EXTINF: -1 tvg-name="TR| A SPOR" group-title="TR| TURK", TR| A SPOR
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57718&extension=ts
-#EXTINF: -1 tvg-name="TR| A SPORT HD" group-title="TR| TURK", TR| A SPORT HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57719&extension=ts
-#EXTINF: -1 tvg-name="TR| A SPOR HD" group-title="TR| TURK", TR| A SPOR HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57720&extension=ts
-#EXTINF: -1 tvg-name="TR| S SPORT HD" group-title="TR| TURK", TR| S SPORT HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57721&extension=ts
-#EXTINF: -1 tvg-name="TR| SSPORT HD" group-title="TR| TURK", TR| SSPORT HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57723&extension=ts
-#EXTINF: -1 tvg-name="TR| TIVIBU SPOR 2" group-title="TR| TURK", TR| TIVIBU SPOR 2
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57724&extension=ts
-#EXTINF: -1 tvg-name="TR| TIVIBU SPOR 2 HD" group-title="TR| TURK", TR| TIVIBU SPOR 2 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57725&extension=ts
-#EXTINF: -1 tvg-name="TR| TIVIBU SPOR 3 HD" group-title="TR| TURK", TR| TIVIBU SPOR 3 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57726&extension=ts
-#EXTINF: -1 tvg-name="TR| TIVIBU SPOR HD" group-title="TR| TURK", TR| TIVIBU SPOR HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57727&extension=ts
-#EXTINF: -1 tvg-name="=TR= SUPER LIG =TR=" group-title="TR| TURK", =TR= SUPER LIG =TR=
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57792&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT HABER" group-title="TR| TURK", TR| BEIN SPORT HABER
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57793&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 1 FHD" group-title="TR| TURK", TR| BEIN SPORT 1 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57794&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 1 HD" group-title="TR| TURK", TR| BEIN SPORT 1 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57797&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 2 FHD" group-title="TR| TURK", TR| BEIN SPORT 2 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57800&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 2 HD" group-title="TR| TURK", TR| BEIN SPORT 2 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57801&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 3 FHD" group-title="TR| TURK", TR| BEIN SPORT 3 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57803&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 3 HD" group-title="TR| TURK", TR| BEIN SPORT 3 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57804&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 4 FHD" group-title="TR| TURK", TR| BEIN SPORT 4 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57806&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 4 HD" group-title="TR| TURK", TR| BEIN SPORT 4 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57808&extension=ts
-#EXTINF: -1 tvg-name="TR| SMART SPORT 1 HD" group-title="TR| TURK", TR| SMART SPORT 1 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57809&extension=ts
-#EXTINF: -1 tvg-name="TR| SMART SPORT 2 HD" group-title="TR| TURK", TR| SMART SPORT 2 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57810&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT MAXX 1" group-title="TR| TURK", TR| BEIN SPORT MAXX 1
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57733&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT MAXX 2" group-title="TR| TURK", TR| BEIN SPORT MAXX 2
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57734&extension=ts
-
-#EXTINF: -1 tvg-name="=TR= TR SPOR =TR=" group-title="TR| TURK", =TR= TR SPOR =TR=
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57712&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 1 FHD" group-title="TR| TURK", TR|  EXXEN SPORTS 1 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369555&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 1 HD" group-title="TR| TURK", TR|  EXXEN SPORTS 1 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369554&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 1" group-title="TR| TURK", TR|  EXXEN SPORTS 1
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369553&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" group-title="TR| TURK", TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369558&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" group-title="TR| TURK", TR|  EXXEN SPORTS 2 HD (ONLY EVENT)
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369557&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 2" group-title="TR| TURK", TR|  EXXEN SPORTS 2
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369556&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 3 FHD (ONLY EVENT)" group-title="TR| TURK", TR|  EXXEN SPORTS 3 FHD (ONLY EVENT)
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369561&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" group-title="TR| TURK", TR|  EXXEN SPORTS 3 HD (ONLY EVENT)
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369560&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 3 (ONLY EVENT)" group-title="TR| TURK", TR|  EXXEN SPORTS 3 (ONLY EVENT)
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369559&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" group-title="TR| TURK", TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369564&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS 4 HD (ONLY EVENT)" group-title="TR| TURK", TR|  EXXEN SPORTS 4 HD (ONLY EVENT)
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369563&extension=ts
-#EXTINF: -1 tvg-name="TR|  EXXEN SPORTS `4 (ONLY EVENT)" group-title="TR| TURK", TR|  EXXEN SPORTS `4 (ONLY EVENT)
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369562&extension=ts
-#EXTINF: -1 tvg-name="TR| BJK TV" group-title="TR| TURK", TR| BJK TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57713&extension=ts
-#EXTINF: -1 tvg-name="TR| FENERBAHCE TV" group-title="TR| TURK", TR| FENERBAHCE TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57714&extension=ts
-#EXTINF: -1 tvg-name="TR| GS TV" group-title="TR| TURK", TR| GS TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57715&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT SPOR" group-title="TR| TURK", TR| TRT SPOR
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57716&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT SPOR HD" group-title="TR| TURK", TR| TRT SPOR HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57717&extension=ts
-#EXTINF: -1 tvg-name="TR| A SPOR" group-title="TR| TURK", TR| A SPOR
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57718&extension=ts
-#EXTINF: -1 tvg-name="TR| A SPORT HD" group-title="TR| TURK", TR| A SPORT HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57719&extension=ts
-#EXTINF: -1 tvg-name="TR| A SPOR HD" group-title="TR| TURK", TR| A SPOR HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57720&extension=ts
-#EXTINF: -1 tvg-name="TR| S SPORT HD" group-title="TR| TURK", TR| S SPORT HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57721&extension=ts
-#EXTINF: -1 tvg-name="TR| SSPORT HD" group-title="TR| TURK", TR| SSPORT HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57723&extension=ts
-#EXTINF: -1 tvg-name="TR| TIVIBU SPOR 2" group-title="TR| TURK", TR| TIVIBU SPOR 2
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57724&extension=ts
-#EXTINF: -1 tvg-name="TR| TIVIBU SPOR 2 HD" group-title="TR| TURK", TR| TIVIBU SPOR 2 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57725&extension=ts
-#EXTINF: -1 tvg-name="TR| TIVIBU SPOR 3 HD" group-title="TR| TURK", TR| TIVIBU SPOR 3 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57726&extension=ts
-#EXTINF: -1 tvg-name="TR| TIVIBU SPOR HD" group-title="TR| TURK", TR| TIVIBU SPOR HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57727&extension=ts
-#EXTINF: -1 tvg-name="=TR= SUPER LIG =TR=" group-title="TR| TURK", =TR= SUPER LIG =TR=
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57792&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT HABER" group-title="TR| TURK", TR| BEIN SPORT HABER
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57793&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 1 FHD" group-title="TR| TURK", TR| BEIN SPORT 1 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57794&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 1 HD" group-title="TR| TURK", TR| BEIN SPORT 1 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57797&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 2 FHD" group-title="TR| TURK", TR| BEIN SPORT 2 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57800&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 2 HD" group-title="TR| TURK", TR| BEIN SPORT 2 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57801&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 3 FHD" group-title="TR| TURK", TR| BEIN SPORT 3 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57803&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 3 HD" group-title="TR| TURK", TR| BEIN SPORT 3 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57804&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 4 FHD" group-title="TR| TURK", TR| BEIN SPORT 4 FHD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57806&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT 4 HD" group-title="TR| TURK", TR| BEIN SPORT 4 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57808&extension=ts
-#EXTINF: -1 tvg-name="TR| SMART SPORT 1 HD" group-title="TR| TURK", TR| SMART SPORT 1 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57809&extension=ts
-#EXTINF: -1 tvg-name="TR| SMART SPORT 2 HD" group-title="TR| TURK", TR| SMART SPORT 2 HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57810&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT MAXX 1" group-title="TR| TURK", TR| BEIN SPORT MAXX 1
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57733&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SPORT MAXX 2" group-title="TR| TURK", TR| BEIN SPORT MAXX 2
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57734&extension=ts
-#EXTINF: -1 tvg-name="=TR= TR BELGESEL =TR=" group-title="TR| TURK", =TR= TR BELGESEL =TR=
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57735&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT BELGESEL HD" group-title="TR| TURK", TR| TRT BELGESEL HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57736&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT BELGESEL" group-title="TR| TURK", TR| TRT BELGESEL
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57737&extension=ts
-#EXTINF: -1 tvg-name="TR| ANIMAL PLANET" group-title="TR| TURK", TR| ANIMAL PLANET
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57738&extension=ts
-#EXTINF: -1 tvg-name="TR| NAT GEO WILD" group-title="TR| TURK", TR| NAT GEO WILD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57739&extension=ts
-#EXTINF: -1 tvg-name="TR| NAT GEO" group-title="TR| TURK", TR| NAT GEO
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57741&extension=ts
-#EXTINF: -1 tvg-name="TR| ANIMAL PLANET HD" group-title="TR| TURK", TR| ANIMAL PLANET HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57742&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY CHANNEL" group-title="TR| TURK", TR| DISCOVERY CHANNEL
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57743&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY IDX" group-title="TR| TURK", TR| DISCOVERY IDX
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57744&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY IDX HD" group-title="TR| TURK", TR| DISCOVERY IDX HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57745&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY SCIENCE" group-title="TR| TURK", TR| DISCOVERY SCIENCE
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57746&extension=ts
-#EXTINF: -1 tvg-name="TR| HISTORY" group-title="TR| TURK", TR| HISTORY
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57748&extension=ts
-#EXTINF: -1 tvg-name="TR| TGRT BELGESEL" group-title="TR| TURK", TR| TGRT BELGESEL
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57749&extension=ts
-#EXTINF: -1 tvg-name="TR| VIASAT HISTORY" group-title="TR| TURK", TR| VIASAT HISTORY
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57750&extension=ts
-#EXTINF: -1 tvg-name="TR| COCUK" group-title="TR| TURK", TR| COCUK
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57751&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT COCUK" group-title="TR| TURK", TR| TRT COCUK
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57752&extension=ts
-#EXTINF: -1 tvg-name="TR| CARTOON NETWORK" group-title="TR| TURK", TR| CARTOON NETWORK
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57753&extension=ts
-#EXTINF: -1 tvg-name="TR| NICKELODEON" group-title="TR| TURK", TR| NICKELODEON
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57754&extension=ts
-#EXTINF: -1 tvg-name="TR| BABY TV" group-title="TR| TURK", TR| BABY TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57755&extension=ts
-#EXTINF: -1 tvg-name="TR| DISNEY CHANNEL" group-title="TR| TURK", TR| DISNEY CHANNEL
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57756&extension=ts
-#EXTINF: -1 tvg-name="TR| DISNEY JUNIOR" group-title="TR| TURK", TR| DISNEY JUNIOR
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57757&extension=ts
-#EXTINF: -1 tvg-name="TR| GONCA TV" group-title="TR| TURK", TR| GONCA TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57759&extension=ts
-#EXTINF: -1 tvg-name="TR| MINIKA COCUK" group-title="TR| TURK", TR| MINIKA COCUK
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57760&extension=ts
-#EXTINF: -1 tvg-name="TR| MINIKA GO" group-title="TR| TURK", TR| MINIKA GO
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57762&extension=ts
-#EXTINF: -1 tvg-name="TR| NICK JR" group-title="TR| TURK", TR| NICK JR
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57763&extension=ts
-#EXTINF: -1 tvg-name="=TR= TR MUZIK =TR=" group-title="TR| TURK", =TR= TR MUZIK =TR=
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57764&extension=ts
-#EXTINF: -1 tvg-name="TR| POWER TURK" group-title="TR| TURK", TR| POWER TURK
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57765&extension=ts
-#EXTINF: -1 tvg-name="TR| POWER HD" group-title="TR| TURK", TR| POWER HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57766&extension=ts
-#EXTINF: -1 tvg-name="TR| DREAM TURK" group-title="TR| TURK", TR| DREAM TURK
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57767&extension=ts
-#EXTINF: -1 tvg-name="TR| DREAM TV" group-title="TR| TURK", TR| DREAM TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57768&extension=ts
-#EXTINF: -1 tvg-name="TR| TMB" group-title="TR| TURK", TR| TMB
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57770&extension=ts
-#EXTINF: -1 tvg-name="TR| NR 1 TV TURK" group-title="TR| TURK", TR| NR 1 TV TURK
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57772&extension=ts
-#EXTINF: -1 tvg-name="TR| KRAL" group-title="TR| TURK", TR| KRAL
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57773&extension=ts
-#EXTINF: -1 tvg-name="TR| KRAL HD" group-title="TR| TURK", TR| KRAL HD
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57774&extension=ts
-#EXTINF: -1 tvg-name="TR| KRAL POP" group-title="TR| TURK", TR| KRAL POP
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57775&extension=ts
-#EXTINF: -1 tvg-name="TR| KRAL WORLD TV" group-title="TR| TURK", TR| KRAL WORLD TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57776&extension=ts
-#EXTINF: -1 tvg-name="TR| DAMAR TV" group-title="TR| TURK", TR| DAMAR TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57778&extension=ts
-#EXTINF: -1 tvg-name="TR| NR1 DAMAR" group-title="TR| TURK", TR| NR1 DAMAR
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57779&extension=ts
-#EXTINF: -1 tvg-name="TR| FINEST TV" group-title="TR| TURK", TR| FINEST TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57780&extension=ts
-#EXTINF: -1 tvg-name="=TR= TR DINI KANALLAR =TR=" group-title="TR| TURK", =TR= TR DINI KANALLAR =TR=
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57784&extension=ts
-#EXTINF: -1 tvg-name="TR| MELTEM TV" group-title="TR| TURK", TR| MELTEM TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57785&extension=ts
-#EXTINF: -1 tvg-name="TR| MEKKE TV" group-title="TR| TURK", TR| MEKKE TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57786&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT DIYANET" group-title="TR| TURK", TR| TRT DIYANET
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57787&extension=ts
-#EXTINF: -1 tvg-name="TR| DOST TV" group-title="TR| TURK", TR| DOST TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57788&extension=ts
-#EXTINF: -1 tvg-name="TR| SEMERKANT TV" group-title="TR| TURK", TR| SEMERKANT TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57789&extension=ts
-#EXTINF: -1 tvg-name="TR| KUDUS TV" group-title="TR| TURK", TR| KUDUS TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57791&extension=ts
-#EXTINF: -1 tvg-name="TR| SUROYO TV" group-title="TR| TURK", TR| SUROYO TV
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=56816&extension=ts
-#EXTINF: -1 tvg-name="TR| SURYOYO SAT" group-title="TR| TURK", TR| SURYOYO SAT
-
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=56817&extension=ts
-
-
-*******************************************************
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",UYGUR TÜRK TV 
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w572083400.m3u8
 
@@ -1208,18 +696,7 @@ http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e
 #EXTINF:-1 tvg-name="ESMA TV" group-title="Без группы", ESMA TV
 #EXTGRP:Без группы
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:-1 tvg-name="İSMAYILLI TV" group-title="Без группы", İSMAYILLI TV
-#EXTGRP:Без группы
-https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="BABƏK-TV" group-title="Без группы", BABƏK-TV
-#EXTGRP:Без группы
-https://tivi191.ozelip.com:3745/stream/play.m3u8
-#EXTINF:-1 tvg-name="TTV TV" group-title="Без группы", TTV TV
-#EXTGRP:Без группы
-https://tivi191.ozelip.com:3016/stream/play.m3u8
-#EXTINF:-1 tvg-name="KANAL 65 TV" group-title="Без группы", KANAL 65 TV
-#EXTGRP:Без группы
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-name="EL TV" group-title="Без группы", EL TV
 #EXTGRP:Без группы
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
@@ -1624,10 +1101,7 @@ http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 http://stream.tvcdn.net/yerel/5-ocak-tv.m3u8
 #EXTINF:1 tvg-id="CaddeTV.tr" tvg-logo="http://assets.tvcdn.net/ef23f646-4b13-4221-9a6f-f38aab4734ff.png" group-title="Diğer",KANALB TV
 http://stream.tvcdn.net/diger/cadde-tv.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
-http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
-#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",TV 70
-http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
+
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="Diğer-Eğlence",Viyana TV
 http://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
 #EXTINF:1 tvg-id="CagriTV.tr" tvg-logo="http://assets.tvcdn.net/3ac45b9f-5daf-4c45-b748-fb522296f432.jpg" group-title="Diğer-Eğlence",Çağrı TV
@@ -1704,7 +1178,7 @@ http://nntv.eu.org/play/mSbuK-s4FeJGKBVzbt86EAjijqMQViz_Lw3OIfb3mSs/m3u8
 https://tivi44.ozelip.com:3669/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ŞuŞa tv
 https://tivi44.ozelip.com:3432/stream/play.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ismayilli
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",TTV SİNEMA
 https://tivi44.ozelip.com:3436/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",qebele tv
 https://tivi44.ozelip.com:3918/stream/play.m3u8
@@ -2794,6 +2268,9 @@ http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d5
 
 
 *************TEBER DUBLAJ FİLM****************************
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",KARAGÖZ VE HACİVAT
+https://cdn.dzeninfra.com/vod/converted-video/vod-content/83/54/77/26/26/63/16/44/17/4/24a276d0-5bb1-497c-9ca2-044aaf478b73/kaltura/desc_f10204dff85d17c698f835415bc5724d/vL13SmvggdSI/vw=1920,vh=1080,fps=25.00,vbrt=2389911,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",PERİLİ KÖŞK
 https://rovideo.xyz/169/tt1695843.1080p.tr.m3u8
