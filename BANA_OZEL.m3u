@@ -210,35 +210,82 @@ http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", KANAL AVRUPA
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",YILDIZ TV TV
-https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ESMA TV
-https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+************AZERBAYCAN YENİ TV LERİ**********************
 
-#EXTINF:-1 tvg-name="BABƏK-TV" group-title="Без группы",STV AZ
-#EXTGRP:Без группы
-https://stvaz.efir.com.tr:3350/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="İSMAYILLI TV" group-title="Без группы",TTV SİNEMA
-#EXTGRP:Без группы
+#EXTINF:0,TTV Sinema 
+#EXTGRP:AZERBAYCAN'🇦🇿
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-name="TTV TV" group-title="Без группы", TTV KİDS
-#EXTGRP:Без группы
-https://ttvkids.efir.com.tr:3135/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="TTV TV" group-title="Без группы", TTV MÜZİK
-#EXTGRP:Без группы
+#EXTINF:0,TTV BELGESEL
+#EXTGRP:AZERBAYCAN'🇦🇿
 https://tivi191.ozelip.com:3016/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="BABƏK-TV" group-title="Без группы",ALPHA TV
-#EXTGRP:Без группы
+#EXTINF:0,ESMA TV 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+#EXTINF:0,MEGA TV 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://megatvaz.efir.com.tr:3532/hybrid/play.m3u8
+#EXTINF:0,MEGA TV Music 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://MegatvmusicAz.efir.com.tr:3883/hybrid/play.m3u8
+#EXTINF:0,STV
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://stvaz.efir.com.tr:3815/stream/play.m3u8
+#EXTINF:0,Araz tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://araztv.efir.com.tr:3354/stream/play.m3u8
+#EXTINF:0,Sirvan Tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://sirvantv.efir.com.tr:3369/stream/play.m3u8
+#EXTINF:0,Aligosgar Tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://aligoshgar.efir.com.tr:3037/stream/play.m3u8
+#EXTINF:0,HTV TEST 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://hesentv1987.efir.com.tr:3711/hybrid/play.m3u8
+#EXTINF:0,ULDUZ TV 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
+#EXTINF:0,umid tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://umidtvaz.efir.com.tr:3559/stream/play.m3u8
+#EXTINF:0,umid tv show 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://utvshowaz.efir.com.tr:3504/stream/play.m3u8
+#EXTINF:0,Dogru tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://dogrutv.efir.com.tr:3449/stream/play.m3u8
+#EXTINF:0,AYAZ TV 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
+#EXTINF:0,ALFA TV 
+#EXTGRP:AZERBAYCAN'🇦🇿
 https://tivi191.ozelip.com:3745/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="KANAL 65 TV" group-title="Без группы",MEGA TV
-#EXTGRP:Без группы
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+#EXTINF:0,SIRIUS TV 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/chunklist_w346898598.m3u8
+#EXTINF:0,Aligosgar tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://aligoshgar.efir.com.tr:3037/stream/play.m3u8
+#EXTINF:0,Ctv Az
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://spectrectvmedya44.interweb.com.tr:3466/multi_web/play_720.m3u8
+#EXTINF:0,Ctv USAQ
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://ctvusaq.efir.com.tr:3114/stream/play.m3u8
+#EXTINF:0,New Tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:0,Htv Sinema 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
+#EXTINF:0,Rihat Tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://rihattvaz.efir.com.tr:3280/stream/play.m3u8
+#EXTINF:0,dalga tv 
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
+*******************************************************************
 
 #EXTINF:-1,4 EYLÜL TV
 https://cdn1-dorteylultv.yayin.com.tr/dorteylultv/dorteylultv/chunklist_w79215793_b1896000.m3u8
