@@ -218,7 +218,9 @@ http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 
 
 ************AZERBAYCAN YENİ TV LERİ**********************
-
+#EXTINF:0,İSMAYILLI TV
+#EXTGRP:AZERBAYCAN'🇦🇿
+https://ismayillitv.efir.com.tr:3281/stream/play.m3u8
 #EXTINF:0,TTV Sinema 
 #EXTGRP:AZERBAYCAN'🇦🇿
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
