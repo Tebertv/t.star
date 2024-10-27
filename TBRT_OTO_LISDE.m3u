@@ -87,9 +87,6 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ALMANYA TV TR
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TVBEN
-https://cdn-tvben.yayin.com.tr/tvben/tvben/chunklist_w1556420969.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
@@ -775,6 +772,8 @@ https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8
 #EXTGRP:Без группы
 https://spectrectvmedya.interweb.com.tr:3923/live/spectreclive.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TVBEN
+https://cdn-tvben.yayin.com.tr/tvben/tvben/chunklist_w1556420969.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Tv A
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
