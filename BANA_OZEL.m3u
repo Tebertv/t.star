@@ -218,6 +218,7 @@ http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 
 
 ************AZERBAYCAN YENİ TV LERİ**********************
+
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",DALGA TV SINEMA
 https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
 
@@ -251,11 +252,11 @@ https://sirvantv.efir.com.tr:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",İSMAYILLI TV
 https://ismayillitv.efir.com.tr:3281/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",TTV BELGESEL
-https://ttvbelgesel.efir.com.tr:3957/stream/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",MAX TV
+https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",STV AZ
-https://stvaz.efir.com.tr:3815/stream/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",BOX TV AZ
+https://boxtv-az.efir.com.tr:3815/stream/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",ARAZ TV
 https://araztv.efir.com.tr:3354/stream/play.m3u8
@@ -265,6 +266,7 @@ https://aligoshgar.efir.com.tr:3037/stream/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",AKASIYA DURAGI
 https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
+
 *******************************************************************
 
 #EXTINF:-1,4 EYLÜL TV

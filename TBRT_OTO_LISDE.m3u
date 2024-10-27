@@ -87,40 +87,6 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ALMANYA TV TR
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GENİŞ AİLE TV
-https://ythls-v3.onrender.com/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ZEKİ&METİN TV
-https://ythls-v3.onrender.com/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİMKİLER TV 
-https://ythls-v3.onrender.com/channel/UCYWwhdgFmZR0uWwaS-GURyg.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV1
-https://ythls-v3.onrender.com/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV2
-https://ythls-v3.onrender.com/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV3
-https://ythls-v3.onrender.com/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV4 
-https://ythls-v3.onrender.com/channel/UCulg-mlXf314L1pemPqCVng.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM KOMEDİ
-https://ythls-v3.onrender.com/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CENNET MAHALLESİ TV 
-https://ythls-v3.onrender.com/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",G.G TV
-https://ythls-v3.onrender.com/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
-
-#EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo=".jpeg" group-title="Diğer-Eğlence",DENİZ TV 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/deniz-tv/chunklist_w902360307.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TVBEN
 https://cdn-tvben.yayin.com.tr/tvben/tvben/chunklist_w1556420969.m3u8
 
@@ -215,6 +181,7 @@ http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 
 ************AZERBAYCAN YENİ TV LERİ**********************
+
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",DALGA TV SINEMA
 https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
 
@@ -248,11 +215,11 @@ https://sirvantv.efir.com.tr:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",İSMAYILLI TV
 https://ismayillitv.efir.com.tr:3281/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",TTV BELGESEL
-https://ttvbelgesel.efir.com.tr:3957/stream/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",MAX TV
+https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",STV AZ
-https://stvaz.efir.com.tr:3815/stream/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",BOX TV AZ
+https://boxtv-az.efir.com.tr:3815/stream/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",ARAZ TV
 https://araztv.efir.com.tr:3354/stream/play.m3u8
@@ -262,6 +229,7 @@ https://aligoshgar.efir.com.tr:3037/stream/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",AKASIYA DURAGI
 https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
+
 *******************************************************************
 #EXTINF:-1,4 EYLÜL TV
 https://cdn1-dorteylultv.yayin.com.tr/dorteylultv/dorteylultv/chunklist_w79215793_b1896000.m3u8
