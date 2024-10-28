@@ -57,9 +57,6 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:0,SUPERTURK_MAX 
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",Fark Türk TV
-http://stream.tvcdn.net/diger-eglence/fark-turk-tv.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DÜZGÜN TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 
@@ -176,6 +173,9 @@ http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", KANAL AVRUPA
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
+
+#EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",GÖZCÜ SPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 ************AZERBAYCAN YENİ TV LERİ**********************
 

@@ -179,6 +179,8 @@ http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", KANAL AVRUPA
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 
+#EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",GÖZCÜ SPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 ************AZERBAYCAN YENİ TV LERİ**********************
 
