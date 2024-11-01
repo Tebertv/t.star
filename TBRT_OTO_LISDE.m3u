@@ -42,7 +42,7 @@ https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",TEVE 6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE 10
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE ON
 https://live-hz-6.livepush.io/live/emOgcO-lXLBJcAV1O/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL 10
@@ -59,6 +59,8 @@ http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 
 #EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",TV 70
 http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SDM tv https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
@@ -1107,6 +1109,276 @@ https://yayin.santraltr.com/hls/silatv.m3u8
 #EXTINF:0,SEHER AZ TV
 http://154.58.202.131:8000/play/a08c#EXTINF:0,RU TV RUS MUZİK 
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+
+**********************ADMN****MURAT***PAYLAŞIM****************************************
+
+#EXTINF:-1,MY 5 Ozbekistan
+https://st.my5.media/hls/hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,O'ZBEKISTON 24 Ozbekistan
+https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1,BIZ MUSIC Ozbekistan
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BIZ CINEMA Ozbekistan
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BIZ Ozbekistan
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ABAI Kazakistan
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1,ALAU Kazakistan
+https://otv.wotom.net/alau/stream.m3u8
+http://streams1.kt.lfstrm.tv/habar_24_hd/2/index.m3u8
+#EXTINF:-1,AQTOBE Kazakistan
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1,AQJAIYQ Kazakistan
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1,ATYRAY Kazakistan
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1,ERTIS Kazakistan
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1,KOKSHE Kazakistan
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1,KOSTANAI Kazakistan
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1,KTK Kazakistan
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,KZ MUZZONE Kazakistan
+https://streams.qazcdn.net/muzzone/muzzone/muzzone/muzzone_720/chunks_dvr.m3u8
+#EXTINF:-1,MANGYSTAU Kazakistan
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1,MTRK Kazakistan
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1,ONTUSTIK Kazakistan
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1,QAZAQSTAN Kazakistan
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv_720/chunks.m3u8
+#EXTINF:-1,QAZAQSTAN INT Kazakistan
+https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
+#EXTINF:-1,QYZYLORDA Kazakistan
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1,SARYARQA Kazakistan
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1,SEMEI Kazakistan
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1,312 Kirgizistan
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1,312 KINO Kirgizistan
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1,ALTYN ASYR Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1,ASGABAT Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+#EXTINF:-1,MIRAS Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1,TURKMEN OWAZY Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1,TURKMENISTAN Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1,TURKMENISTAN SPORT Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1,YASLYK Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+#EXTINF:-1,ARKADAG Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch000_720/index.m3u8
+#EXTINF:-1,MILLET Krim tatar
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1,9 VOLNA Cecenistan
+http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
+#EXTINF:-1,GROZNIY Cecenistan
+https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1,24 ARHIZ Karacay Cerkesya
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1,DAGESTAN Dagistan
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1,INGUSETYA Ingusetya
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
+#EXTINF:-1,MATUR Baskurdistan
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1,SALYAM Baskurdistan
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1,KUNEL Kazan
+https://hls-iptv.tattelecom.ru/online_tv_Kynel/tracks-v1a1/index.m3u8
+#EXTINF:-1,KURAY Kazan
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1,MEIDAN Kazan
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HUZUR Yakutistan
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1,ASTV Yakutistan
+https://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
+#EXTINF:-1,UYGUR NEWS Uygur
+https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w127635758.m3u8
+#EXTINF:-1,TV8 Mogolistan
+http://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+#EXTINF:-1,MOVIE BOX Mogolistan
+http://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1,SONG Ermenistan
+https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8
+#EXTINF:-1,AMC Afganistan
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,KAYHAN Afganistan
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,PAMIR Afganistan
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1,AFGAN NOBEL Afganistan
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
+#EXTINF:-1,WATAN E MAA Afganistan
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1,NAVAHANG Iran
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1,PERSIANA MUSIC Iran
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,GRAND CINEMA Iran
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1,ALBKANALE MUSIC Arnavutluk
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1,FOLKLORIT Arnavutluk
+https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
+#EXTINF:-1,RTV ILIRIDA Arnavutluk
+http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TOPESTRADA Arnavutluk
+http://live.topestrada.com/live/topestrada/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BALKAN MUSIC Makedonya
+http://giganet.mk/hls/balkanmusictv.m3u8
+#EXTINF:-1,SKY FOLK Makedonya
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,STAR FOLK MUSIC Makedonya
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1,FOLK KLUB Makedonya
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1,IN TV Makedonya
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1,IMPACT MANELE Moldova
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1,ATOMIC Romanya
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1,TELESTAR 1 Romanya
+http://89.47.97.15/telestar/telestar.m3u8
+#EXTINF:-1,TIANKOV FOLK Bulgaristan
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1,TIANKOV ORIENT FOLK Bulgaristan
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1,BARAZA DEEP HOUSE Yunanistan
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1,BARAZA RELAXING Yunanistan
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1,GROOVY Yunanistan
+https://web.onair-radio.eu/groovytv/groovytv/chunklist_w674169057.m3u8
+#EXTINF:-1,SKAI Yunanistan
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1,PRO 7 Almanya
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1,PINGVIIN Estonya
+https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
+#EXTINF:-1,RAKUTEN COMEDY Ispanya
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,RAKUTEN FAMILY Ispanya
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,LOGOS KIDS Ispanya
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1,RADIO CARNAVAL Ispanya
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1,PRENSA LATINA Kuba
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1,PAWLEYS ISLAND Amerika
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/chunklist_w455998013.m3u8
+#EXTINF:-1,ZOO MOO Avustralya
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,DISCOVER FILM Ingiltere
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,XPTV 1 Ingiltere
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1,XPTV 2 Ingiltere
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+#EXTINF:-1,XPTV US Ingiltere
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1,RAKUTEN COMEDY Ingiltere
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,RAKUTEN FAMILY Ingiltere
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,RAKUTEN SHOWS Ingiltere
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,12 KANAL
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+#EXTINF:-1,43 KANAL Rusya
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1,BOLSAYA AZIYA Rusya
+http://live-bigasia.cdnvideo.ru/bigasia.smil/playlist.m3u8
+#EXTINF:-1,CHE Rusya
+https://edge02.odtv.az/o5/chetv/playlist.m3u8
+#EXTINF:-1,DOM KINO Rusya
+http://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1,EVRAZIYA Rusya
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1,KITAY Rusya
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1,KUHNYA Rusya
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1,MIR Rusya
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,NTV+1 Rusya
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1,NTV+2 Rusya
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1,NTV+4 Rusya
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1,NTV+7 Rusya
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1,PYAT NITSA! INT Rusya
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1,REN Rusya
+https://edge02.odtv.az/o2/rentv/playlist.m3u8
+#EXTINF:-1,STRK Rusya
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1,STS KIDS Rusya
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+#EXTINF:-1,TNT Rusya
+http://91.205.199.3/tnthd/index.m3u8
+#EXTINF:-1,TV TSE Rusya
+https://edge02.odtv.az/o2/tvc/playlist.m3u8
+#EXTINF:-1,EBS KIDS Kore
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,CHANNEL 7 Tayland
+http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8
+#EXTINF:-1,CHANNEL 8 Tayland
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1,DESI Hindistan
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF:-1,BALLE BALLE Hindistan
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRAVEL XP Hindistan
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,DISCOVER Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1,RTB SUKMAINDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1,RTB ANEKA Brunei
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1,RTB GO Brunei
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:0,Azerbaycan Vip hd kanalı 
+http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
+
+#EXTINF:0,Azerbaycan Start tv 
+http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
+
+#EXTINF:0,Azerbaycan Sehiyye tv 
+http://stream.tvcdn.net/azerbaycan/sehiyye-tv.m3u8
+
+#EXTINF:0,Azerbaycan Vitamin tv 
+http://stream.tvcdn.net/azerbaycan/vilayet-tv.m3u8
+
+#EXTINF:0,Özbekistan O'zbekistan24 tv 
+https://st1.uzdigital.tv/Uzb24/tracks-v2a1a2/mono.m3u8
+
+#EXTINF:0,Kazakistan Qazaqstan tv 
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv_720/chunks.m3u8
+
+#EXTINF:0,Kırgızistan 312 Kino tv 
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:0,Makedonya Star folk 1 
+https://live.muzickatv.mk/live/StarMusic.m3u8
 
 *********************************************************************
 
