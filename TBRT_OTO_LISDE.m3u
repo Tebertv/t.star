@@ -179,14 +179,14 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV HD
-http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", ATV HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57543&extension=ts
 
-#EXTINF:-1 group-title="VAVOO - @aligoshgartv",4K TR: A2 HD2 
-https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=ZDRTSnhIQnBrMU9VSGRGeGYxdWxHUEtidGp4elZUZHczVmxzdXVha3g2QTAzY1M0b1dwQTVKREdnaHh5bXgydA==
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", ATV AVRUPA
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57545&extension=ts
 
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV AVRUPA
-https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", A2 TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57546&extension=ts
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", ATV trk
 http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
