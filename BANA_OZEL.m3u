@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLARDIR VE BU LİSDE İLE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN SORUMLU DEĞİL DİR BURDA LİSDE  GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
 PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  HİÇBİR PLATFORM KANALI YOKTUR VE VERİLMEMEKTEDİR SADECE FREE KANALLAR MEVCUTTUR SAYGILARIMLA TEBER MEDYA GURUP PAYLAŞIM SAYFASI.....2024..
@@ -21,11 +21,13 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/tv19/chunklist_w1457378755.m3
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",FLASH TEBER DİZİ
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/flash_teber_24saat_dizi/chunklist_w226454185.m3u8
 
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
-http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",cine5tv
+http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CINE6 TEBER TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Egemenlik_Milletin_tv/chunklist_w2101860091.m3u8
