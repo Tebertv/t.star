@@ -44,6 +44,53 @@ https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b41280
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Discovery id
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b4128000.m3u8
 
+#EXTINF: -1 tvg-name="TR| TRT BELGESEL" group-title="TR| TURK", TR| TRT BELGESEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57737&extension=ts
+#EXTINF: -1 tvg-name="TR| ANIMAL PLANET" group-title="TR| TURK", TR| ANIMAL PLANET
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57738&extension=ts
+#EXTINF: -1 tvg-name="TR| NAT GEO WILD" group-title="TR| TURK", TR| NAT GEO WILD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57739&extension=ts
+#EXTINF: -1 tvg-name="TR| NAT GEO" group-title="TR| TURK", TR| NAT GEO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57741&extension=ts
+#EXTINF: -1 tvg-name="TR| ANIMAL PLANET HD" group-title="TR| TURK", TR| ANIMAL PLANET HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57742&extension=ts
+#EXTINF: -1 tvg-name="TR| DISCOVERY CHANNEL" group-title="TR| TURK", TR| DISCOVERY CHANNEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57743&extension=ts
+#EXTINF: -1 tvg-name="TR| DISCOVERY IDX" group-title="TR| TURK", TR| DISCOVERY IDX
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57744&extension=ts
+#EXTINF: -1 tvg-name="TR| DISCOVERY IDX HD" group-title="TR| TURK", TR| DISCOVERY IDX HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57745&extension=ts
+#EXTINF: -1 tvg-name="TR| DISCOVERY SCIENCE" group-title="TR| TURK", TR| DISCOVERY SCIENCE
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57746&extension=ts
+#EXTINF: -1 tvg-name="TR| HISTORY" group-title="TR| TURK", TR| HISTORY
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57748&extension=ts
+#EXTINF: -1 tvg-name="TR| TGRT BELGESEL" group-title="TR| TURK", TR| TGRT BELGESEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57749&extension=ts
+#EXTINF: -1 tvg-name="TR| VIASAT HISTORY" group-title="TR| TURK", TR| VIASAT HISTORY
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57750&extension=ts
+
+#EXTINF: -1 tvg-name="TR| COCUK" group-title="TR| TURK", TR| COCUK
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57751&extension=ts
+#EXTINF: -1 tvg-name="TR| TRT COCUK" group-title="TR| TURK", TR| TRT COCUK
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57752&extension=ts
+#EXTINF: -1 tvg-name="TR| CARTOON NETWORK" group-title="TR| TURK", TR| CARTOON NETWORK
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57753&extension=ts
+#EXTINF: -1 tvg-name="TR| NICKELODEON" group-title="TR| TURK", TR| NICKELODEON
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57754&extension=ts
+#EXTINF: -1 tvg-name="TR| BABY TV" group-title="TR| TURK", TR| BABY TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57755&extension=ts
+#EXTINF: -1 tvg-name="TR| DISNEY CHANNEL" group-title="TR| TURK", TR| DISNEY CHANNEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57756&extension=ts
+#EXTINF: -1 tvg-name="TR| DISNEY JUNIOR" group-title="TR| TURK", TR| DISNEY JUNIOR
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57757&extension=ts
+#EXTINF: -1 tvg-name="TR| GONCA TV" group-title="TR| TURK", TR| GONCA TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57759&extension=ts
+#EXTINF: -1 tvg-name="TR| MINIKA COCUK" group-title="TR| TURK", TR| MINIKA COCUK
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57760&extension=ts
+#EXTINF: -1 tvg-name="TR| MINIKA GO" group-title="TR| TURK", TR| MINIKA GO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57762&extension=ts
+#EXTINF: -1 tvg-name="TR| NICK JR" group-title="TR| TURK", TR| NICK JR
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57763&extension=ts
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Cartoonito TV
 https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/chunklist_b4128000.m3u8
 
