@@ -26,8 +26,8 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/flash_teber_24saat_dizi/chunk
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",cine5tv
-http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
+http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CINE6 TEBER TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Egemenlik_Milletin_tv/chunklist_w2101860091.m3u8
