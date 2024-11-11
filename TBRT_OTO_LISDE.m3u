@@ -29,11 +29,12 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Egemenlik_Milletin_tv/chunkli
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE TV 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1029155624.m3u8
+#EXTM3U
 #EXTINF:-1,Bein Movies Action
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57666&extension=ts
 #EXTINF:-1,Bein Movies Family
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57667&extension=ts
-#EXTINF:-1,Blu Box
+#EXTINF: -1 tvg-name="TR| KEMAL SUNAL TV" group-title="TR| TURK", TR| KEMAL SUNAL TV
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57682&extension=ts
 #EXTINF:-1,Moviesmart Classic
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57695&extension=ts
@@ -49,6 +50,67 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57705&exten
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57707&extension=ts
 #EXTINF:-1,Sinema Yerli
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57709&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION 2 HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION 2 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57665&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57666&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES FAMILY HD" group-title="TR| TURK", TR| BEIN MOVIES FAMILY HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57667&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES PREMIER HD" group-title="TR| TURK", TR| BEIN MOVIES PREMIER HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57669&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES STARS HD" group-title="TR| TURK", TR| BEIN MOVIES STARS HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57671&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES TURK HD" group-title="TR| TURK", TR| BEIN MOVIES TURK HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57672&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES YESILCAM HD" group-title="TR| TURK", TR| BEIN MOVIES YESILCAM HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57673&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN SERIES COMEDY HD" group-title="TR| TURK", TR| BEIN SERIES COMEDY HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57675&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57676&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN SERIES SCI-FI HD" group-title="TR| TURK", TR| BEIN SERIES SCI-FI HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57679&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN SERIES VICE HD" group-title="TR| TURK", TR| BEIN SERIES VICE HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57681&extension=ts
+#EXTINF: -1 tvg-name="TR| CINESTAR YESILCAM" group-title="TR| TURK", TR| CINESTAR YESILCAM
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57682&extension=ts
+#EXTINF: -1 tvg-name="TR| DSMART MOVIE SMART GOLD HD" group-title="TR| TURK", TR| DSMART MOVIE SMART GOLD HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57688&extension=ts
+#EXTINF: -1 tvg-name="TR| DSMART MOVIESMART CLASSIC HD" group-title="TR| TURK", TR| DSMART MOVIESMART CLASSIC HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57695&extension=ts
+#EXTINF: -1 tvg-name="TR| MOVIE SMART CLASSIC" group-title="TR| TURK", TR| MOVIE SMART CLASSIC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57697&extension=ts
+#EXTINF: -1 tvg-name="TR| MOVIE SMART GOLD HD" group-title="TR| TURK", TR| MOVIE SMART GOLD HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57698&extension=ts
+#EXTINF: -1 tvg-name="TR| SINEMA TV 1001 HD" group-title="TR| TURK", TR| SINEMA TV 1001 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57699&extension=ts
+#EXTINF: -1 tvg-name="TR| SINEMA TV HD" group-title="TR| TURK", TR| SINEMA TV HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57700&extension=ts
+#EXTINF: -1 tvg-name="TR| SINEMA TURK HD" group-title="TR| TURK", TR| SINEMA TURK HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57701&extension=ts
+#EXTINF: -1 tvg-name="TR| SINEMA TV YERLi HD" group-title="TR| TURK", TR| SINEMA TV YERLi HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57702&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 1" group-title="TR| TURK", TR| BOX OFFICE 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57703&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 2" group-title="TR| TURK", TR| BOX OFFICE 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57704&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 3" group-title="TR| TURK", TR| BOX OFFICE 3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57705&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 4" group-title="TR| TURK", TR| BOX OFFICE 4
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57706&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 5" group-title="TR| TURK", TR| BOX OFFICE 5
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57707&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 6" group-title="TR| TURK", TR| BOX OFFICE 6
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57708&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 7" group-title="TR| TURK", TR| BOX OFFICE 7
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57709&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 8" group-title="TR| TURK", TR| BOX OFFICE 8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57710&extension=ts
+#EXTINF: -1 tvg-name="TR| BOX OFFICE 9" group-title="TR| TURK", TR| BOX OFFICE 9
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57711&extension=ts
+#EXTINF:-1,Bein Iz
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57663&extension=ts
+
 ***************BELGESEL**TV****************
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TEBER SAFARİ TV
