@@ -24,162 +24,6 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/flash_teber_24saat_dizi/chunk
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CINE6 TEBER TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Egemenlik_Milletin_tv/chunklist_w2101860091.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE TV 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1029155624.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",CINE1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
-#EXTINF:-1,Bein Movies Action
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57666&extension=ts
-#EXTINF:-1,Bein Movies Family
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57667&extension=ts
-#EXTINF: -1 tvg-name="TR| KEMAL SUNAL TV" group-title="TR| TURK", TR|YEŞİLÇAM TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57682&extension=ts
-#EXTINF:-1,Moviesmart Classic
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57695&extension=ts
-#EXTINF:-1,Sinema Tv
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57700&extension=ts
-#EXTINF:-1,Sinema 1001
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57703&extension=ts
-#EXTINF:-1,Sinema Aile
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57704&extension=ts
-#EXTINF:-1,Sinema Aksiyon
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57705&extension=ts
-#EXTINF:-1,Sinema Komedi
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57707&extension=ts
-#EXTINF:-1,Sinema Yerli
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57709&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION 2 HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION 2 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57665&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57666&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES FAMILY HD" group-title="TR| TURK", TR| BEIN MOVIES FAMILY HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57667&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES PREMIER HD" group-title="TR| TURK", TR| BEIN MOVIES PREMIER HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57669&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES STARS HD" group-title="TR| TURK", TR| BEIN MOVIES STARS HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57671&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES TURK HD" group-title="TR| TURK", TR| BEIN MOVIES TURK HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57672&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES YESILCAM HD" group-title="TR| TURK", TR| BEIN MOVIES YESILCAM HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57673&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SERIES COMEDY HD" group-title="TR| TURK", TR| BEIN SERIES COMEDY HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57675&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK", TR| BEIN MOVIES ACTION HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57676&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SERIES SCI-FI HD" group-title="TR| TURK", TR| BEIN SERIES SCI-FI HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57679&extension=ts
-#EXTINF: -1 tvg-name="TR| BEIN SERIES VICE HD" group-title="TR| TURK", TR| BEIN SERIES VICE HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57681&extension=ts
-#EXTINF: -1 tvg-name="TR| CINESTAR YESILCAM" group-title="TR| TURK", TR| CINESTAR YESILCAM
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57682&extension=ts
-#EXTINF: -1 tvg-name="TR| DSMART MOVIE SMART GOLD HD" group-title="TR| TURK", TR| DSMART MOVIE SMART GOLD HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57688&extension=ts
-#EXTINF: -1 tvg-name="TR| DSMART MOVIESMART CLASSIC HD" group-title="TR| TURK", TR| DSMART MOVIESMART CLASSIC 
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57695&extension=ts
-#EXTINF: -1 tvg-name="TR| MOVIE SMART CLASSIC" group-title="TR| TURK", TR| MOVIE SMART CLASSIC
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57697&extension=ts
-#EXTINF: -1 tvg-name="TR| MOVIE SMART GOLD HD" group-title="TR| TURK", TR| MOVIE SMART GOLD HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57698&extension=ts
-#EXTINF: -1 tvg-name="TR| SINEMA TV 1001 HD" group-title="TR| TURK", TR| SINEMA TV 1001 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57699&extension=ts
-#EXTINF: -1 tvg-name="TR| SINEMA TV HD" group-title="TR| TURK", TR| SINEMA TV HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57700&extension=ts
-#EXTINF: -1 tvg-name="TR| SINEMA TURK HD" group-title="TR| TURK", TR| SINEMA TURK HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57701&extension=ts
-#EXTINF: -1 tvg-name="TR| SINEMA TV YERLi HD" group-title="TR| TURK", TR| SINEMA TV YERLi HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57702&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 1" group-title="TR| TURK", TR| BOX OFFICE 1
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57703&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 2" group-title="TR| TURK", TR| BOX OFFICE 2
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57704&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 3" group-title="TR| TURK", TR| BOX OFFICE 3
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57705&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 4" group-title="TR| TURK", TR| BOX OFFICE 4
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57706&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 5" group-title="TR| TURK", TR| BOX OFFICE 5
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57707&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 6" group-title="TR| TURK", TR| BOX OFFICE 6
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57708&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 7" group-title="TR| TURK", TR| BOX OFFICE 7
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57709&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 8" group-title="TR| TURK", TR| BOX OFFICE 8
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57710&extension=ts
-#EXTINF: -1 tvg-name="TR| BOX OFFICE 9" group-title="TR| TURK", TR| BOX OFFICE 9
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57711&extension=ts
-#EXTINF:-1,Bein Iz
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57663&extension=ts
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
-http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
-
-***************BELGESEL**TV****************
-#EXTINF: -1 tvg-name="TR| NAT GEO WILD" group-title="TR| TURK", TR| NAT GEO WILD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57739&extension=ts
-
-#EXTINF: -1 tvg-name="TR| NAT GEO" group-title="TR| TURK", TR| NAT GEO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57741&extension=ts
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Discovery TV
-https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4128000.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Discovery id
-https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b4128000.m3u8
-
-#EXTINF:-1,TLC HD
-#EXTGRP:ТR
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1,DMAX HD
-#EXTGRP:ТR
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1,İZtv
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57663&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY CHANNEL" group-title="TR| TURK", TR| DISCOVERY CHANNEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57743&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY IDX" group-title="TR| TURK", TR| DISCOVERY IDX
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57744&extension=ts
-#EXTINF: -1 tvg-name="TR| DISCOVERY IDX HD" group-title="TR| TURK", TR| DISCOVERY IDX HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57745&extension=ts
-#EXTINF: -1 tvg-name="TR| HISTORY" group-title="TR| TURK", TR| HISTORY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57748&extension=ts
-#EXTINF: -1 tvg-name="TR| TRT BELGESEL" group-title="TR| TURK", TR| TRT BELGESEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57737&extension=ts
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Cartoonito TV
-https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
-#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk&Eğitim",TRT EBA
-http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk&Eğitim",TRT Diyanet Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk&Eğitim",Cartoon Network
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF: -1 tvg-name="TR| CARTOON NETWORK" group-title="TR| TURK", TR| CARTOON NETWORK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57753&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="Çocuk&Eğitim",Çocuklara Özel TV
-http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="Çocuk&Eğitim",Çizgi Film TV
-http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
-#EXTINF: -1 tvg-name="TR| NICKELODEON" group-title="TR| TURK", TR| NICKELODEON
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57754&extension=ts
-#EXTINF: -1 tvg-name="TR| BABY TV" group-title="TR| TURK", TR| BABY TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57755&extension=ts
-#EXTINF: -1 tvg-name="TR| DISNEY CHANNEL" group-title="TR| TURK", TR| DISNEY CHANNEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57756&extension=ts
-#EXTINF: -1 tvg-name="TR| DISNEY JUNIOR" group-title="TR| TURK", TR| DISNEY JUNIOR
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57757&extension=ts
-#EXTINF: -1 tvg-name="TR| MINIKA COCUK" group-title="TR| TURK", TR| MINIKA COCUK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57760&extension=ts
-#EXTINF: -1 tvg-name="TR| MINIKA GO" group-title="TR| TURK", TR| MINIKA GO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57762&extension=ts
-#EXTINF: -1 tvg-name="TR| NICK JR" group-title="TR| TURK", TR| NICK JR
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57763&extension=ts
-#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AKASYA DURAĞI TV
-https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",TEVE 6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE ON
@@ -231,6 +75,148 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ALMANYA TV TR
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE TV 
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1029155624.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",CINE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Bein Movies Action
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57666&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Bein Movies Family
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57667&extension=ts
+#EXTINF: -1 tvg-name="TR| KEMAL SUNAL TV" group-title="TR| TURK", TR|YEŞİLÇAM TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57682&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Moviesmart Classic
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57695&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Sinema Tv
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57700&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Sinema 1001
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57703&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Sinema Aile
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57704&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Sinema Aksiyon
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57705&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Sinema Komedi
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57707&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Sinema Yerli
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57709&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",BEIN MOVIES ACTION HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57666&extension=ts
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES FAMILY HD" group-title="TR| TURK",BEIN MOVIES FAMILY HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57667&extension=ts
+
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Belgesel
+https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Çocuk
+https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Müzik
+https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM RAKS
+https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Bein Iz
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57663&extension=ts
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
+http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+
+***************BELGESEL**TV****************
+
+#EXTINF:-1,TLC HD
+#EXTGRP:ТR
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1,DMAX HD
+#EXTGRP:ТR
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF: -1 tvg-name="TR| NAT GEO WILD" group-title="TR| TURK", TR| NAT GEO WILD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57739&extension=ts
+
+#EXTINF: -1 tvg-name="TR| NAT GEO" group-title="TR| TURK", TR| NAT GEO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57741&extension=ts
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Discovery TV
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4128000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Discovery id
+https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b4128000.m3u8
+
+#EXTINF: -1 tvg-name="TR| DISCOVERY CHANNEL" group-title="TR| TURK", TR| DISCOVERY CHANNEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57743&extension=ts
+
+#EXTINF: -1 tvg-name="TR| DISCOVERY IDX" group-title="TR| TURK", TR| DISCOVERY IDX
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57744&extension=ts
+
+#EXTINF: -1 tvg-name="TR| DISCOVERY IDX HD" group-title="TR| TURK", TR| DISCOVERY IDX HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57745&extension=ts
+
+#EXTINF: -1 tvg-name="TR| HISTORY" group-title="TR| TURK", TR| HISTORY
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57748&extension=ts
+
+#EXTINF:-1,İZtv
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57663&extension=ts
+
+#EXTINF: -1 tvg-name="TR| TRT BELGESEL" group-title="TR| TURK", TR| TRT BELGESEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57737&extension=ts
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Cartoonito TV
+https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/chunklist_b4128000.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+
+
+#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk&Eğitim",TRT EBA
+http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk&Eğitim",TRT Diyanet Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk&Eğitim",Cartoon Network
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+
+#EXTINF: -1 tvg-name="TR| CARTOON NETWORK" group-title="TR| TURK", TR| CARTOON NETWORK
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57753&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="Çocuk&Eğitim",Çocuklara Özel TV
+http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="Çocuk&Eğitim",Çizgi Film TV
+http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
+
+#EXTINF: -1 tvg-name="TR| NICKELODEON" group-title="TR| TURK", TR| NICKELODEON
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57754&extension=ts
+
+#EXTINF: -1 tvg-name="TR| BABY TV" group-title="TR| TURK", TR| BABY TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57755&extension=ts
+
+#EXTINF: -1 tvg-name="TR| DISNEY CHANNEL" group-title="TR| TURK", TR| DISNEY CHANNEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57756&extension=ts
+
+#EXTINF: -1 tvg-name="TR| DISNEY JUNIOR" group-title="TR| TURK", TR| DISNEY JUNIOR
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57757&extension=ts
+
+#EXTINF: -1 tvg-name="TR| MINIKA COCUK" group-title="TR| TURK", TR| MINIKA COCUK
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57760&extension=ts
+
+#EXTINF: -1 tvg-name="TR| MINIKA GO" group-title="TR| TURK", TR| MINIKA GO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57762&extension=ts
+
+#EXTINF: -1 tvg-name="TR| NICK JR" group-title="TR| TURK", TR| NICK JR
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57763&extension=ts
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AKASYA DURAĞI TV
+https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -322,15 +308,17 @@ http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", KANAL AVRUPA
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 
-#EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",GÖZCÜ SPOR TV
-http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", 
-Eurosport 1
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM RAKS
+https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-name="TR| SPOR" group-title="TR| TURK",Eurosport 2
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/chunklist_b6628000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TR| SPOR" logo="/İPTV-logo-2.png",Eurosport 1
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/chunklist_b6628000.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", 
-Eurosport 2
-https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/chunklist_b6628000.m3u8
+#EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",GÖZCÜ SPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="Diğer-Eğlence",HT-SPOR TV
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
@@ -340,32 +328,44 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
 http://stream.tvcdn.net/spor/trt-spor.m3u8
+
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yıldız
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="http://assets.tvcdn.net/192450f9-3d32-4754-967f-7c8128934963.png" group-title="Spor",TRT 3 Spor
 http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
 http://stream.tvcdn.net/spor/a-spor.m3u8
+
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
+
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",beIN Sports Haber
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
+
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="Spor",GS TV
 http://stream.tvcdn.net/spor/gs-tv.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
 http://stream.tvcdn.net/spor/tjk-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV 2
 http://stream.tvcdn.net/spor/tjk-tv-2.m3u8
+
 #EXTINF:-1 tvg-id="TAYTV.tr" tvg-logo="http://assets.tvcdn.net/11ab0508-b919-4623-bd4d-08c46946cf8e.png" group-title="Spor",Tay TV
 http://stream.tvcdn.net/spor/tay-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a2dae974-7ee1-4a22-90ca-6dc9f06cb3a8.png" group-title="Spor",ByHorses TV
 http://stream.tvcdn.net/spor/byhorses-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2bc82127-7e38-496b-9854-10e6b4c1a9b2.png" group-title="Spor",Briç ve Satranç TV
 http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="Spor",Fit Yaşa TV
 http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
 
