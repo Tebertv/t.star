@@ -453,9 +453,6 @@ https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",FULX TV 
 https://fulxtv7.interweb.com.tr:3436/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",BOX TV AZ
-https://boxtv-az.efir.com.tr:3815/stream/play.m3u8
-
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="AZERBAYCAN'🇦🇿",ARAZ TV
 https://araztv.efir.com.tr:3354/stream/play.m3u8
 
@@ -1013,9 +1010,6 @@ https://live.euromediacenter.com/bha/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",filistin tv
 https://live.euromediacenter.com/filistintv/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Üreten Turkiye
-https://tv.digitalbox.xyz:19360/uretenturkiye/uretenturkiye.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ac49e4a5-d9c2-435d-a1f2-9e9eb06f86b6.png" group-title="Yerel",Hür Türk TV
 http://stream.tvcdn.net/yerel/hur-turk-tv.m3u8
