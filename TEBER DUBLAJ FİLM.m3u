@@ -1,6 +1,77 @@
-#EXTM
+#EXTM3u
 
 *************TEBER DUBLAJ FİLM****************************
+
+#EXTM3U 
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",HOUSE OF SPOILS-2024  
+https://rovideo.xyz/218/tt21830836.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",KIPIRDAMA-2024 
+https://rovideo.xyz/248/tt24807110.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",ZAMANDA BIR KESIK-2024
+https://rovideo.xyz/148/tt14857528.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",KIYAMET Z: SONUN  BASLANGICI-2024 
+https://rovideo.xyz/275/tt27599851.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",BIRLIK-2024 
+https://rovideo.xyz/126/tt12610390.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",MAYMUN ADAM-2024  
+https://rovideo.xyz/921/tt9214772.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",KURTULUS-2024  
+https://rovideo.xyz/419/tt4196566.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",BIYONIK-2024 
+https://rovideo.xyz/164/tt16427902.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",AVCININ KALBI-2024 
+https://rovideo.xyz/289/tt28943278.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",DEHSET YOLCULARI-2024 
+https://rovideo.xyz/274/tt27487473.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",CIKIS YOK-2024 
+https://rovideo.xyz/162/tt16253418.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",60 DAKIKA-2024 
+https://rovideo.xyz/295/tt29538571.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",KARA SEYTAN-2023
+https://rovideo.xyz/102/tt10279472.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",ACLIK OYUNLARI: KUSLARIN VE YILANLARIN SARKISI-2023  
+https://rovideo.xyz/105/tt10545296.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",SIMULASYON-2023 
+https://rovideo.xyz/131/tt13130024.480p.tr.m3u8
+#EXTINF:- 1,DURDURULAMAZ-2023 
+https://rovideo.xyz/690/tt6906292.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",JESTER: INTIKAM GECESI-2023 
+https://rovideo.xyz/265/tt26533869.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",HAYVAN KRALLIGI-2023 
+https://rovideo.xyz/166/tt16606592.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",OLUMCUL CARPISMA-2023 
+https://rovideo.xyz/687/tt6879446.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",AQUAMAN VE KAYIP  KRALLIK-2023 
+https://rovideo.xyz/966/tt9663764.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",TEHLIKELI SULAR-2023 
+https://rovideo.xyz/200/tt20024428.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",TIL DEATH DO US  PART-2023 
+https://rovideo.xyz/270/tt27047448.480p.tr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",DUNYAYI ARDINDA BIRAK-2023  
+https://rovideo.xyz/127/tt12747748.480p.tr.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png",KARAGÖZ VE HACİVAT
 https://cdn.dzeninfra.com/vod/converted-video/vod-content/83/54/77/26/26/63/16/44/17/4/24a276d0-5bb1-497c-9ca2-044aaf478b73/kaltura/desc_f10204dff85d17c698f835415bc5724d/vL13SmvggdSI/vw=1920,vh=1080,fps=25.00,vbrt=2389911,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
 
