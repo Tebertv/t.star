@@ -34,6 +34,33 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w10291556
 #EXTGRP:Без группы
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ZEKİ VE METİN TV
+https://new.cache-stream.workers.dev/stream/UCmw7e_6j2TSWCKeaZALjyuA/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV1
+https://new.cache-stream.workers.dev/stream/UCulg-mlXf314L1pemPqCVng/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV2
+https://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV3
+https://new.cache-stream.workers.dev/stream/UCE1XdVHzOdMnUsUMatIzjag/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KLASİK TV
+https://new.cache-stream.workers.dev/stream/UCUALYmnkEmx8vlxIbpr2gmw/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",G.G.TV
+https://new.cache-stream.workers.dev/stream/UCdlEXiVLTEvA280oyMvr8Kw/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ÇOK GÜZEL HAREKETLER2 TV
+https://new.cache-stream.workers.dev/stream/UCfyPw7vYwIVb6OuDIf7qeOQ/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ARKADAŞIM HOŞ GELDİN TV1
+https://new.cache-stream.workers.dev/stream/UCOYerJedhQqSyhXkev8QRFA/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ARKADAŞIM HOŞ GELDİN TV2
+https://new.cache-stream.workers.dev/stream/UCfyPw7vYwIVb6OuDIf7qeOQ/live.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",TEVE 6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
@@ -295,13 +322,14 @@ https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/chunklist_b41
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 
+#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk&Eğitim",DİYANET Çocuk TV
+https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
 
 #EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk&Eğitim",TRT EBA
 http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
 
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk&Eğitim",TRT Diyanet Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk&Eğitim",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
