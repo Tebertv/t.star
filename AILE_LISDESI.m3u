@@ -266,7 +266,11 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57663&exten
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",STAR KURT TV 
+https://cdn-dunyatv.yayin.com.tr/dunyatv/dunyatv/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",DENGE ZELAL TV 
+https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8
 *****************************************BEIN MOVIES***************************************************
 
 #EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Bein Movies Action
@@ -401,7 +405,10 @@ https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT6 AVAZ 
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-********************************SPOR SABİT*************************************
+************************SPOR SABİT***************************************************************
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",BEİN HABER TV 
+https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
 #EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",GÖZCÜ SPOR TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8

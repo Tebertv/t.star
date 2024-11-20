@@ -37,7 +37,6 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w10291556
 https://new.cache-stream.workers.dev/stream/UCOpKuda5Ld_oc0Gdr31knmA/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",, ESMA TV
-#EXTGRP:Без группы
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CENNET MAHALLESİ TV
@@ -78,14 +77,13 @@ https://new.cache-stream.workers.dev/stream/UCfyPw7vYwIVb6OuDIf7qeOQ/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",TEVE 6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title=/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE ON
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE ON
 https://live-hz-6.livepush.io/live/emOgcO-lXLBJcAV1O/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL 10
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK HD
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", YANSIMA MÜZİK HD
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/YANSIMA_MUZIK_RT/chunklist_w1745154007.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
@@ -94,6 +92,23 @@ https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Belgesel
+https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Çocuk
+https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Müzik
+https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Bein Iz
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57663&extension=ts
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
+http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Türkmeneli_TV
@@ -189,9 +204,6 @@ http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",CANKIRI TV
 http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KASTAMONU TV  
-http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
-
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4dbccb66-328c-41b2-ae3e-ad3b3475dc49.png" group-title="Yerel",Kanal 68
 http://stream.tvcdn.net/yerel/kanal-68.m3u8
 
@@ -246,26 +258,12 @@ http://stream.tvcdn.net/diger/lider-haber.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 
-#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Sinema
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",STAR KURT TV 
+https://cdn-dunyatv.yayin.com.tr/dunyatv/dunyatv/playlist.m3u8
 
-#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Belgesel
-https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",DENGE ZELAL TV 
+https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8
 
-#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Çocuk
-https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
-
-#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Müzik
-https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
-
-#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM RAKS
-https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-name="TR| BEIN MOVIES ACTION HD" group-title="TR| TURK",Bein Iz
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57663&extension=ts
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
-http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
 *****************************************BEIN MOVIES***************************************************
 
@@ -403,7 +401,10 @@ https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT6 AVAZ 
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-********************************SPOR SABİT*************************************
+************************SPOR SABİT***************************************************************
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",BEİN HABER TV 
+https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
 #EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="Diğer-Eğlence",GÖZCÜ SPOR TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
