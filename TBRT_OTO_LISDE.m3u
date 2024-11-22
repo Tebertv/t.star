@@ -42,6 +42,9 @@ https://new.cache-stream.workers.dev/stream/UCOpKuda5Ld_oc0Gdr31knmA/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",, ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg" group-title="Diğer",Uluslararası TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",7 NUMARA TV
 https://new.cache-stream.workers.dev/stream/rS5dHYQsSxs/live.m3u8
 
@@ -134,6 +137,9 @@ http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HOCWAN TV 
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="Dini",Diyanet TV
+http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -2858,8 +2864,7 @@ http://stream.tvcdn.net/cocuk-egitim/kukuli-sarkilar.m3u8
 http://stream.tvcdn.net/cocuk-egitim/furkis-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="Çocuk&Eğitim",Cumburlop TV
 http://stream.tvcdn.net/cocuk-egitim/cumburlop-tv.m3u8
-#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="Dini",Diyanet TV
-http://stream.tvcdn.net/dini/diyanet-tv.m3u8
+
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="http://assets.tvcdn.net/0769611d-315b-4b02-a3c3-cb643e6fe872.png" group-title="Dini",Vav TV
 http://stream.tvcdn.net/dini/vav-tv.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-logo="http://assets.tvcdn.net/6c704c42-f7de-40d3-8b8b-19579387d446.png" group-title="Dini",Semerkand TV
@@ -3293,8 +3298,7 @@ http://stream.tvcdn.net/diger/sdm-tv.m3u8
 http://stream.tvcdn.net/diger/turkiye-klinikleri.m3u8
 #EXTINF:-1 tvg-id="TurkmeneliTV.iq" tvg-logo="http://assets.tvcdn.net/aaa2df8e-7690-490c-a31e-71619d93e803.png" group-title="Diğer",Türkmeneli TV
 http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg" group-title="Diğer",Uluslararası TV
-http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="Diğer",Üni TV
 http://stream.tvcdn.net/diger/uni-tv.m3u8
 #EXTINF:-1 tvg-id="UniversiteTV.tr" tvg-logo="http://assets.tvcdn.net/ca5970c0-4d96-449c-bacb-40134c21be1d.png" group-title="Diğer",Üniversite TV
