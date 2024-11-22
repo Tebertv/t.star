@@ -42,6 +42,9 @@ https://new.cache-stream.workers.dev/stream/UCOpKuda5Ld_oc0Gdr31knmA/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",, ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg" group-title="Diğer",ÇİÇEK TAKSİ TV
+https://new.cache-stream.workers.dev/stream/UCYWwhdgFmZR0uWwaS-GURyg/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg" group-title="Diğer",Uluslararası TV
 http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 
