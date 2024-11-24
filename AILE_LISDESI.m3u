@@ -224,6 +224,34 @@ https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2befe401-b51c-42f5-b750-a8e4d8b085a4.png" group-title="Yerel",Anadolu TV
 http://stream.tvcdn.net/yerel/anadolu-net-tv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sürmanşet tv
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sağlık tv 
+https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Kanal 34 
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Balkan türk tv 
+https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",BİRLİK HABER TV 
+https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Bultürk tv 
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Bürüksel tv 
+https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Euro Medya tv 
+https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Gurme tv 
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HZ YUSUF TV
 https://new.cache-stream.workers.dev/stream/UCOpKuda5Ld_oc0Gdr31knmA/live.m3u8
 

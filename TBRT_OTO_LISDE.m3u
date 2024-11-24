@@ -48,7 +48,7 @@ https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",, ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg" group-title="Diğer",Uluslararası TV
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Uluslararası TV
 http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",TEVE 6 HD
@@ -223,6 +223,33 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sürmanşet tv
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sağlık tv 
+https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Kanal 34 
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Balkan türk tv 
+https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",BİRLİK HABER TV 
+https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Bultürk tv 
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Bürüksel tv 
+https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Euro Medya tv 
+https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Gurme tv 
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HZ YUSUF TV
 https://new.cache-stream.workers.dev/stream/UCOpKuda5Ld_oc0Gdr31knmA/live.m3u8
