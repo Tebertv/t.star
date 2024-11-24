@@ -913,6 +913,21 @@ http://stream.tvcdn.net/yerel/on-medya.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b99fecaa-dfd3-4b6e-8fd2-51e9545ee425.png" group-title="Yerel",Öncü RTV
 http://stream.tvcdn.net/yerel/oncu-rtv.m3u8
 
+************ÖZEL SPOR***********************************************************************
+
+#EXTINF:-1 tvg-name="BEIN SPOR 1" group-title="Türkiyə", TBRT SPOR 1
+#EXTGRP:Türkiyə
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="BEIN SPOR 2" group-title="Türkiyə", TBRT SPOR 2
+#EXTGRP:Türkiyə
+http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="BEIN SPOR 3" group-title="Türkiyə", TBRT SPOR 3
+#EXTGRP:Türkiyə
+http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="BEIN SPOR 4" group-title="Türkiyə", TBRT SPOR 4
+#EXTGRP:Türkiyə
+http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
+
 ************************SPOR SABİT***************************************************************
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",BEİN HABER TV 
