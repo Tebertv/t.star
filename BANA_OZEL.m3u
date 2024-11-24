@@ -226,10 +226,10 @@ http://stream.tvcdn.net/yerel/anadolu-net-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sürmanşet tv
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sağlık tv 
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Kanal 34
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Kanal 34 
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sağlık tv
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Balkan türk tv 
