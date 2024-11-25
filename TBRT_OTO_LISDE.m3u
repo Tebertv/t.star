@@ -39,6 +39,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w10291556
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER HABER TV 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teberhaber/chunklist_w2065679808.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",AKASYADURAĞI TV
+https://tivi208.radyotelekom.com.tr:3549/stream/play.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ENGELSİZ TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
 
@@ -224,14 +227,14 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sürmanşet tv
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",SÜRMANŞET TV
+https://live.euromediacenter.com/surmansethabertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",SAĞLIK TV
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Kanal 34
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-logo=".png" group-title="tbrt",Sağlık tv
-https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Balkan türk tv 
 https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
