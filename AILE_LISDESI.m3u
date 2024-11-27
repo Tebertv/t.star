@@ -261,6 +261,24 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Üreten Türkiye tv
+https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Hür tv 
+https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Sen1ordusun tv 
+https://live.euromediacenter.com/sen1ordusun/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Balkan ON6 tv 
+https://live.euromediacenter.com/on6tvyayin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",FASHION TV 
+https://live.euromediacenter.com/fashionworld/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",KANAL19 
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",SÜRMANŞET TV
 https://live.euromediacenter.com/surmansethabertv/tracks-v1a1/mono.m3u8
 
