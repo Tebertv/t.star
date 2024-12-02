@@ -3157,8 +3157,30 @@ http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="Azerbaycan",CBC
 http://stream.tvcdn.net/azerbaycan/cbc.m3u8
 
+************AZERBAYCAN YENİ TV1 LERİ**********************
 
-************AZERBAYCAN YENİ TV LERİ**********************
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",Flux tv az 
+https://live.yayingold.com.tr/fluxtvaz/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",Aligoshgar tv 
+https://live.yayingold.com.tr/aligoshgartv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",Çocuk tv az 
+https://live.yayingold.com.tr/cocuktvaz/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",Esma tv N
+https://live.yayingold.com.tr/esmatvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",Buzovna TV https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",Babek tv 
+https://babektv7.interweb.com.tr:3954/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",BOX TV https://tivi191.ozelip.com:3549/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",İSMAYILLI TV https://ismayillitv7.interweb.com.tr:3436/stream/play.m3u8
+
+************AZERBAYCAN TV2 LERİ**********************
 
 #EXTINF:1,NewTv
 #EXTGRP:AZERBAYCAN
