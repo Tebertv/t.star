@@ -41,7 +41,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",birtv
-https://ht-144-76-157-47.socialsmart.tv/birtv/bant1/chunks.m3u8
+https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", TELE 1
 http://stream.tvcdn.net/haber/tele-1.m3u8
