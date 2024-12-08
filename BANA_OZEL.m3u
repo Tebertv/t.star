@@ -436,6 +436,17 @@ https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b41280
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b4128000.m3u8
 
 *****************özel**SİNEMA*******************************************
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="YALAN" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",YALAN
+http://exm3u.iptvone.eu:80/movie/fatihna/ukj4JYGTKK/252091.mkv
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="GONUL DAGI" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",GONUL DAGI
+http://exm3u.iptvone.eu:80/movie/fatihna/ukj4JYGTKK/145741.mkv
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="ANNEM ANKARA" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",ANNEM ANKARA
+http://exm3u.iptvone.eu:80/movie/fatihna/ukj4JYGTKK/264468.mkv
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="UZAK SEHIR" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",UZAK SEHIR
+http://exm3u.iptvone.eu:80/movie/fatihna/ukj4JYGTKK/263535.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="---------SINEMA ----------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Sinema ",---------SINEMA ----------
 http://spy17.eu:80/live/ozkanshmx/06.02.22/1891.ts
