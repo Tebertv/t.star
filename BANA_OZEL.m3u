@@ -435,18 +435,18 @@ https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b41280
 #EXTINF:0 type="stream" channelId="-1" group-title="/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Discovery id
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b4128000.m3u8
 
-*****************özel**SİNEMA*******************************************
+#EXTINF:-1 tvg-id="" tvg-name="-DİZİ-" tvg-logo="/logotv/plus.png" group-title="TR • DİZİ",---------DİZİ ----------
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="YALAN" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",YALAN
-http://exm3u.iptvone.eu:80/movie/fatihna/ukj4JYGTKK/252091.mkv
+http://spy17.eu:80/movie/ozkanshmx/06.02.22/221604.mp4
 
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="GONUL DAGI" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",GONUL DAGI
-http://exm3u.iptvone.eu:80/movie/fatihna/ukj4JYGTKK/145741.mkv
+http://spy17.eu:80/movie/ozkanshmx/06.02.22/234441.mp4
 
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="ANNEM ANKARA" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",ANNEM ANKARA
-http://exm3u.iptvone.eu:80/movie/fatihna/ukj4JYGTKK/264468.mkv
+http://spy17.eu:80/series/ozkanshmx/06.02.22/330200.mp4
 
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="UZAK SEHIR" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",UZAK SEHIR
-http://exm3u.iptvone.eu:80/movie/fatihna/ukj4JYGTKK/263535.mkv
+http://spy17.eu:80/series/ozkanshmx/06.02.22/330131.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="---------SINEMA ----------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Sinema ",---------SINEMA ----------
 http://spy17.eu:80/live/ozkanshmx/06.02.22/1891.ts
