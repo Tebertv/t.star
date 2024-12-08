@@ -279,6 +279,9 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",HAYATA DAİR HERŞEY TÜRK TV
+https://live.euromediacenter.com/hdhturk/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Üreten Türkiye tv
 https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
 

@@ -226,8 +226,6 @@ http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" tvg-name="TRT 4K" group-title="🇹🇷 TURKEY",TRT 4K
 http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/4001/index.m3u8
 
-
-
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",EKOL TV HD
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
@@ -278,6 +276,9 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",HAYATA DAİR HERŞEY TÜRK TV
+https://live.euromediacenter.com/hdhturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Üreten Türkiye tv
 https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
