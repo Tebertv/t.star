@@ -3195,6 +3195,9 @@ http://stream.tvcdn.net/azerbaycan/cbc.m3u8
 
 ************AZERBAYCAN YENİ TV1 LERİ**********************
 
+#EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",Esma tv 
+https://live.yayingold.com.tr/esmatvlive/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo=" group-title="Diğer-AZERİ",Flux tv az 
 https://live.yayingold.com.tr/fluxtvaz/index.m3u8
 
