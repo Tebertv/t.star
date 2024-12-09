@@ -43,6 +43,9 @@ https://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV3
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",DETBUL3
+https://rovideo.xyz/626/tt6263850.480p.tr.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",LAV TV 
 https://new.cache-stream.workers.dev/stream/kYMtvZLS95M/live.m3u8
 
