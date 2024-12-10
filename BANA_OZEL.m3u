@@ -43,6 +43,12 @@ https://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV3
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/kader2024tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",TV70
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tv70/chunks.m3u8
+
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",DETBUL3
 https://rovideo.xyz/626/tt6263850.480p.tr.m3u8
 
@@ -249,8 +255,13 @@ http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" tvg-name="TRT 4K" group-title="🇹🇷 TURKEY",TRT 4K
 http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/4001/index.m3u8
 
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",EKOL TV HD
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="Haber",Yol TV
+http://stream.tvcdn.net/haber/yol-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_GÜNDEM" logo="/İPTV_GÜNDEM-logo-2.png",kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/chunks.m3u8
@@ -341,6 +352,9 @@ https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Gurme tv 
 https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",SPOR1 tv 
+https://tv208.radyotelekom.com.tr:3522/hybrid/play.m3u8
 
 ##EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HZ YUSUF TV
 https://new.cache-stream.workers.dev/stream/UCOpKuda5Ld_oc0Gdr31knmA/live.m3u8
