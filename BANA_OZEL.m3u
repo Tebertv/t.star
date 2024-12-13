@@ -55,6 +55,9 @@ https://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV3
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",TBRT TV
+https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",LAV TV 
 https://new.cache-stream.workers.dev/stream/kYMtvZLS95M/live.m3u8
 
@@ -269,8 +272,6 @@ http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" tvg-name="TRT 4K" group-title="🇹🇷 TURKEY",TRT 4K
 http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/4001/index.m3u8
-
-
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",EKOL TV HD
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
@@ -1374,6 +1375,36 @@ http://spy17.eu:80/live/ozkanshmx/06.02.22/722.ts
 http://spy17.eu:80/live/ozkanshmx/06.02.22/247645.ts
 #EXTINF:-1 tvg-id="" tvg-name="[Boxset] Chucky" tvg-logo="" group-title="TR • Dizi ",[Boxset] Chucky
 http://spy17.eu:80/live/ozkanshmx/06.02.22/312520.ts
+
+************TBRT SPOR TV******************************************
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",TRT spor1
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",TRT spor2⭐️
+https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",Tabi spor max
+https://SFTVrkiJ6Gb1UvNIrPbo8cSGY.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",Tabi spor1
+https://OMTfm36b1E2HpRagYzd5VwuE0.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",Tabi spot2
+https://7rXNdPk01F2bvoV7TwJltXJRd.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",Tabi spor3
+https://AjA9QKfqMvB0zghiXXrci30Rj.medya.trt.com.tr/master_720p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",Tabi spor4
+https://ditvZPcGdZNWyfx6nCH4hhP69.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",Tabi spor5
+https://BHf7hmM8Y9RRHoFCa70k2nkF5.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo=".png",TABİ SPOR6
+https://sSToObkb93QGEjJfkP4ny7nXD.medya.trt.com.tr/master_480p.m3u8
+
 *****************özel spor****************************************
 
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 1 (Exxen-BEIN-UEFA)" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 1 (Exxen-BEIN-UEFA)
