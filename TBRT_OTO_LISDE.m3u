@@ -34,6 +34,15 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_Safari_tv/chunklist_w86
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE TV 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_Tezene/chunklist_w638645858.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM TV
+https://new.cache-stream.workers.dev/stream/UCUALYmnkEmx8vlxIbpr2gmw/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ADİLE NAŞİT TV
+https://new.cache-stream.workers.dev/stream/UCfIf5PT-O5D6OjWMxGhF0kQ/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ZEKİ VE METİN TV
+https://new.cache-stream.workers.dev/stream/UCmw7e_6j2TSWCKeaZALjyuA/live.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV1
 https://new.cache-stream.workers.dev/stream/UCulg-mlXf314L1pemPqCVng/live.m3u8
 
@@ -42,6 +51,12 @@ https://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV3
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",LAV TV 
+https://new.cache-stream.workers.dev/stream/kYMtvZLS95M/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TAFF TV 
+https://new.cache-stream.workers.dev/stream/Hc-2ShK4YHI/live.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kader2024tv/playlist.m3u8
@@ -64,18 +79,6 @@ http://spy17.eu:80/series/ozkanshmx/06.02.22/330200.mp4
 
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="UZAK SEHIR" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",UZAK SEHIR
 http://spy17.eu:80/series/ozkanshmx/06.02.22/330131.mp4
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",LAV TV 
-https://new.cache-stream.workers.dev/stream/kYMtvZLS95M/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TAFF TV 
-https://new.cache-stream.workers.dev/stream/Hc-2ShK4YHI/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ZEKİ VE METİN TV
-https://new.cache-stream.workers.dev/stream/UCmw7e_6j2TSWCKeaZALjyuA/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM KLASİKLERİ TV
-https://new.cache-stream.workers.dev/stream/UCUALYmnkEmx8vlxIbpr2gmw/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="fox",*fox* NOW TV 
