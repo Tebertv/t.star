@@ -322,8 +322,6 @@ http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" tvg-name="TRT 4K" group-title="🇹🇷 TURKEY",TRT 4K
 http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/4001/index.m3u8
 
-
-
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",EKOL TV HD
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
@@ -493,7 +491,10 @@ https://asker.canliyayin.tv.tr/ssh101/turk/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",GÖZDE tv
 http://50.7.218.154:1935/live/gozdetv.stream/playlist.m3u8
 
-**************Mega Medya Gurup Az************************
+**************MEGA MEDYA GURUP Az************************
+
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Tv KOMEDİA 
+https://live.yayingold.com.tr/megakomedia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Tv Cinema 
 https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8
