@@ -498,37 +498,39 @@ https://asker.canliyayin.tv.tr/ssh101/turk/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",GÖZDE tv
 http://50.7.218.154:1935/live/gozdetv.stream/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SDM HİTS TV 
+https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
+
 **************MEGA MEDYA GURUP Az************************
 
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Tv KOMEDİA 
+#EXTINF:0,MEGA TV saban
+#EXTGRP:AzFilm'📹
+https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
+#EXTINF:0,MEGA TV Cinema
+#EXTGRP:AzFilm'📹
+https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:0,MEGA TV Comedy
+#EXTGRP:AzFilm'📹
 https://live.yayingold.com.tr/megakomedia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Tv şirvan
-https://tv208.radyotelekom.com.tr:3326/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Tv Cinema 
-https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Tv Retro Az 
-https://tv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Tv Sənəd Filmlər
-https://tv208.radyotelekom.com.tr:3771/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Tv Waar
+#EXTINF:0,Mega Tv Waar
+#EXTGRP:AzFilm'📹
 https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿L", Mega Tv Sirius
+#EXTINF:0,Mega Tv Retro
+#EXTGRP:AzFilm'📹
+https://tv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
+#EXTINF:0,Mega Tv Sirvan
+#EXTGRP:AzFilm'📹
+https://tv208.radyotelekom.com.tr:3326/hybrid/play.m3u8
+#EXTINF:0,Mega Tv Sirius
+#EXTGRP:AzFilm'📹
 https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿L",Mega Tv Music
+#EXTINF:0,MEGA TV Music
+#EXTGRP:AzFilm'📹
 https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿L",MAX Tv 
 https://tv208.radyotelekom.com.tr:3817/hybrid/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SDM HİTS TV 
-https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
 
 ************TBRT SPOR TV******************************************
 
