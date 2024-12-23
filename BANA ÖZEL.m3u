@@ -275,7 +275,22 @@ https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 
-
+#EXTINF:-1,[Boxset] Olacak O Kadar
+http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/247663.ts
+#EXTINF:-1,[Boxset] Nejat Uygur
+http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/247667.ts
+#EXTINF:-1,[Boxset] Recep ivedik
+http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/247497.ts
+#EXTINF:-1,[Boxset] Oflu Hoca'nın Şifresi
+http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/247498.ts
+#EXTINF:-1,[Boxset] Çakallarla Dans
+http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/247499.ts
+#EXTINF:-1,[Boxset] Hababam Sınıfı
+http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/247500.ts
+#EXTINF:-1,Hep Yek
+http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/312376.ts
+#EXTINF:-1,Kolpaçino
+http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/312377.ts
 #EXTINF:-1 tvg-id="" tvg-name="7/24 GELECEĞE DÖNÜŞ" tvg-logo="https://img.zentro.ovh/get.php?id=3377" group-title="TURKEY LOCAL HD & 4K",7/24 GELECEĞE DÖNÜŞ
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/119762
 #EXTINF:-1 tvg-id="" tvg-name="7/24 MATRIX" tvg-logo="https://img.zentro.ovh/get.php?id=3389" group-title="TURKEY LOCAL HD & 4K",7/24 MATRIX
@@ -322,8 +337,10 @@ http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120115
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120116
 #EXTINF:-1 tvg-id="" tvg-name="|TR| GODZILLA & KONG ʜᴅ" tvg-logo="https://img.zentro.ovh/get.php?id=59233" group-title="TURKEY LOCAL HD & 4K",|TR| GODZILLA & KONG ʜᴅ
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120112
-
-
+#EXTINF:-1,Matrix Resurrections (2021)
+http://spy17.eu:80/movie/unalkerim/171022.cvgt/234973.mp4
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Kapdan Marvel TR DUB
+https://rovideo.xyz/106/tt10676048.1080p.tr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| YENİLMEZLER ʜᴅ" tvg-logo="https://img.zentro.ovh/get.php?id=59224" group-title="TURKEY LOCAL HD & 4K",|TR| YENİLMEZLER ʜᴅ
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120103
 #EXTINF:-1 tvg-id="" tvg-name="|TR| HARRY POTER ʜᴅ" tvg-logo="https://img.zentro.ovh/get.php?id=59225" group-title="TURKEY LOCAL HD & 4K",|TR| HARRY POTER ʜᴅ
@@ -4316,10 +4333,6 @@ https://rovideo.xyz/331/tt3315342.480p.tr.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Büyük kırmızı köpek TR DUB
 https://rovideo.xyz/239/tt2397461.480p.tr.m3u8
 
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Kapdan Marvel TR DUB
-https://rovideo.xyz/106/tt10676048.1080p.tr.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DUBLAJ" logo=".png", Dehşetin yüzü 2 TR DUB
 https://rovideo.xyz/101/tt10160976.720p.tr.m3u8
 
@@ -5833,8 +5846,7 @@ http://spy17.eu:80/movie/unalkerim/171022.cvgt/234890.mp4
 http://spy17.eu:80/movie/unalkerim/171022.cvgt/234942.mp4
 #EXTINF:-1,Burning at Both Ends (2021)
 http://spy17.eu:80/movie/unalkerim/171022.cvgt/234958.mp4
-#EXTINF:-1,Matrix Resurrections (2021)
-http://spy17.eu:80/movie/unalkerim/171022.cvgt/234973.mp4
+
 
 ***********jopon XXL ****************************************************  
 
