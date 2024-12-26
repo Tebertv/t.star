@@ -40,44 +40,11 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER MEDYA ASLAN ŞAKİR
-https://new.cache-stream.workers.dev/stream/UCehmwSZGPod7JFbHJspmxzQ/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",1ON ADRALİN TV
-https://new.cache-stream.workers.dev/stream/UCsbpTjR1Vh0L3gvBg9d0Dbg/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM TV1
-https://new.cache-stream.workers.dev/stream/UCUALYmnkEmx8vlxIbpr2gmw/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM TV2
-https://new.cache-stream.workers.dev/stream/UC0LzwfdVoZSQDtauDjJS8_A/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE ON
-https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8                                             
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ZEKİ VE METİN TV
-https://new.cache-stream.workers.dev/stream/UCmw7e_6j2TSWCKeaZALjyuA/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV1
-https://new.cache-stream.workers.dev/stream/UCulg-mlXf314L1pemPqCVng/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV2
-https://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV3
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",İBO TV 
-https://new.cache-stream.workers.dev/stream/UCUd3o920A_ijCRaTRRg8LSg/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",LAV TV 
-https://new.cache-stream.workers.dev/stream/kYMtvZLS95M/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TAFF TV 
-https://new.cache-stream.workers.dev/stream/Hc-2ShK4YHI/live.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV
-https://tv208.radyotelekom.com.tr:3694/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",MEGA NETFLIX 
+https://new.cache-stream.workers.dev/stream/UCUALYmnkEmx8vlxIbpr2gmw/live.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TYT TÜRK TV
 https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
@@ -319,9 +286,6 @@ https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",SDM Müzik
 https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
-http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Türkmeneli_TV
 http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
 
@@ -358,7 +322,10 @@ https://cdn-tvben.yayin.com.tr/tvben/tvben/chunklist_w1556420969.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SERHAT TV
+#EXTINF:-1 tvg-id="" tvg-logo="",SERHAT TV1
+http://stream.tvcdn.net/yerel/serhat-tv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SERHAT TV2
 http://116.202.117.244:1935/kanaltvo/kanaltvo/sec-f5-v1-a1.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",ÖNDE tv
