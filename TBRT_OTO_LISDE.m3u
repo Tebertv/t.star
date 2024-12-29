@@ -208,17 +208,20 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",EURO STAR TV
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
 
-#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",D-TEVE2 
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",kanalD 2 
-https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
-
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D TR
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",D-TEVE2 TR
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D RMN
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",kanalD 2 RMN 
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", ATV HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
