@@ -64,14 +64,8 @@ http://spy17.eu:80/series/ozkanshmx/06.02.22/330131.mp4
 #EXTINF:0 type="stream" channelId="-1" group-title="TURK-YEREL/Teber_star_pay_TBRT_KANALLARI" logo=".png",Sırlar Dünyası
 http://spy17.eu:80/live/unalkerim/171022.cvgt/312324.ts
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TURK-YEREL/Teber_star_pay_TBRT_KANALLARI" logo=".png",Büyük Buluşma
-http://spy17.eu:80/live/unalkerim/171022.cvgt/312325.ts
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TURK-YEREL/Teber_star_pay_TBRT_KANALLARI" logo=".png",Kalp Gözü 1
-http://spy17.eu:80/live/unalkerim/171022.cvgt/312326.ts
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TURK-YEREL/Teber_star_pay_TBRT_KANALLARI" logo=".png",Kalp Gözü 2
-http://spy17.eu:80/live/unalkerim/171022.cvgt/312327.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="TURK-YEREL/Teber_star_pay_TBRT_KANALLARI" logo=".png",EZGİ TV
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="fox",*fox* NOW TV 
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
