@@ -15,6 +15,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE5 TEBER MEDYA
 https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
 
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CINE6 TEBER TV 
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
 
@@ -42,7 +43,7 @@ https://tivi240.ozelip.com:3437/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TEBER TELE Z
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TELE Z
 https://stream-cdn-iad.vaughnsoft.net/play/live_telezeta.flv
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV
@@ -63,6 +64,9 @@ http://spy17.eu:80/series/ozkanshmx/06.02.22/330200.mp4
 
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="UZAK SEHIR" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",UZAK SEHIR
 http://spy17.eu:80/series/ozkanshmx/06.02.22/330131.mp4
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TURK-YEREL/Teber_star_pay_TBRT_KANALLARI" logo=".png",Sırlar Dünyası
+http://spy17.eu:80/live/unalkerim/171022.cvgt/312324.ts
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TURK-YEREL/Teber_star_pay_TBRT_KANALLARI" logo=".png",EZGİ TV
 https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
@@ -175,28 +179,27 @@ http://185.234.111.229:8000/play/a01x
 
 #EXTINF: -1 group-title="Ulusal", TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D HD TR" tvg-logo="" group-title="TURKEY HD & 4K",Kanal D HD TR
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/3864
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D FHD TR" tvg-logo="" group-title="TURKEY HD & 4K",Kanal D FHD TR
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D FHD TR" tvg-logo="" group-title="TURKEY HD & 4K",Kanal D 4K TR
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/3865
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D TR
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro D TR" tvg-logo="" group-title="TURKEY HD & 4K",Euro D 4K
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/3866
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",D-TEVE2 TR
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
-#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D RMN
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D  RMN
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",kanalD 2 RMN 
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Euro D TR" tvg-logo="" group-title="TURKEY HD & 4K",Euro D TR
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/3866
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
