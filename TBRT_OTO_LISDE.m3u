@@ -193,10 +193,10 @@ http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/3865
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Euro D TR" tvg-logo="" group-title="TURKEY HD & 4K",Euro D 4K
+#EXTINF:-1 tvg-id="" tvg-name="Euro D TR" tvg-logo="" group-title="TURKEY HD & 4K",Euro D 
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/3866
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",D-TEVE2 TR
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",D-TEVE2 4K
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D  RMN
