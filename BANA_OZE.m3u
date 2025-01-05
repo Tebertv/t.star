@@ -15,6 +15,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE5 TEBER MEDYA
 https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
 
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CINE6 TEBER TV 
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
 
@@ -30,17 +31,38 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE TV 
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
 
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ROMAN TV
-https://live.euromediacenter.com/romanestv/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL10
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ROMAN TV
+https://live.euromediacenter.com/romanestv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ŞABAN TV2
+https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ŞABAN TV3
+https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",MEGA NETFLIX 
 https://tivi240.ozelip.com:3437/stream/play.m3u8
+
+#EXTINF:-1 tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="Eyyvah Eyvah 2 (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSnYzAh72EXNPXSjIyxd0PUwbtn.jpg" group-title="CHD SERİAL
+https://live.yayingold.com.tr/chdtvseriallive/index.m3u8
+
+#EXTINF:-1 tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="Eyyvah Eyvah 3 (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3QiOydS6ELD5T3cAlH6ifRG1pq1.jpg" group-title="CHD MOVİES
+https://live.yayingold.com.tr/chdmovieslive/index.m3u8
+
+#EXTINF:-1 tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="Eyyvah Eyvah (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cXRQLlxt7FMOySNQhXYRjTKjtEJ.jpg" group-title="Seri Filmler",CHD KORKU
+https://live.yayingold.com.tr/chdkorku/index.m3u8
+
+#EXTINF:-1 tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="Eyyvah Eyvah 2 (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSnYzAh72EXNPXSjIyxd0PUwbtn.jpg" group-title="Seri Filmler",CHD HACI ŞAHİN
+https://live.yayingold.com.tr/chdtvhacisahin/index.m3u8
+
+#EXTINF:-1 tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="Eyyvah Eyvah 3 (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3QiOydS6ELD5T3cAlH6ifRG1pq1.jpg" group-title="Seri Filmler",Chdtv HACI RAMİL
+https://live.yayingold.com.tr/haciramillive/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
@@ -51,8 +73,8 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_telezeta.flv
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV
 https://tv208.radyotelekom.com.tr:3694/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",RAMBO TV İNG
-https://stream-cdn-iad.vaughnsoft.net/play/live_zonafilmstv.flv
+#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",Zeki ve Metin Tv
+https://ythls.kekikakademi.org/youtube/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="-DİZİ-" tvg-logo="/logotv/plus.png" group-title="TR • DİZİ",---------DİZİ ----------
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="YALAN" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",YALAN
