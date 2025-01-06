@@ -121,7 +121,7 @@ https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", TELE 1
-http://stream.tvcdn.net/haber/tele-1.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", FLASH HABER
 https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
