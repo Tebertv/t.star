@@ -81,6 +81,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 https://stream-cdn-iad.vaughnsoft.net/play/live_telezeta.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="-DİZİ-" tvg-logo="/logotv/plus.png" group-title="TR • DİZİ",---------DİZİ ----------
+
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="YALAN" tvg-logo="" group-title="GÜNCEL DİZİLER SON BÖLÜM",YALAN
 http://spy17.eu:80/movie/ozkanshmx/06.02.22/221604.mp4
 
@@ -260,10 +261,13 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",EURO STAR TV
-http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
+http://spy17.eu:80/live/selentv/17.01.2022/4942.ts
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", ATV HD
-http://stream.tvcdn.net/ulusal/atv.m3u8
+http://spy17.eu:80/live/selentv/17.01.2022/703.ts
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", ATV avrupa
+http://spy17.eu:80/live/selentv/17.01.2022/4939.ts
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", A2 TV
 http://stream.tvcdn.net/eglence/a2.m3u8s

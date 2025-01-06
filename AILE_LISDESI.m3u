@@ -260,10 +260,13 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",EURO STAR TV
-http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
+http://spy17.eu:80/live/selentv/17.01.2022/4942.ts
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", ATV HD
-http://stream.tvcdn.net/ulusal/atv.m3u8
+http://spy17.eu:80/live/selentv/17.01.2022/703.ts
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", ATV avrupa
+http://spy17.eu:80/live/selentv/17.01.2022/4939.ts
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", A2 TV
 http://stream.tvcdn.net/eglence/a2.m3u8s
@@ -318,7 +321,96 @@ https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
-
+#EXTINF:0,Yeşilçam HD 1
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247501.ts
+#EXTINF:0,Yeşilçam HD 2
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247502.ts
+#EXTINF:0,Yeşilçam HD 3
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247503.ts
+#EXTINF:0,Yeşilçam HD 4
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247504.ts
+#EXTINF:0,Yeşilçam HD 5
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247505.ts
+#EXTINF:0,Kemal Sunal HD 1
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247506.ts
+#EXTINF:0,Kemal Sunal HD 2
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247507.ts
+#EXTINF:0,Kemal Sunal HD 3
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247508.ts
+#EXTINF:0,Kemal Sunal HD 4
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247509.ts
+#EXTINF:0,Kemal Sunal HD 5
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247510.ts
+#EXTINF:0,Adile Naşit HD 1
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247511.ts
+#EXTINF:0,Adile Naşit HD 2
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247512.ts
+#EXTINF:0,Cüneyt Arkın HD 1
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247513.ts
+#EXTINF:0,Cüneyt Arkın HD 2
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247514.ts
+#EXTINF:0,Cüneyt Arkın HD 3
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247515.ts
+#EXTINF:0,Cüneyt Arkın HD 4
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247516.ts
+#EXTINF:0,Cüneyt Arkın HD 5
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247517.ts
+#EXTINF:0,Küçük Emrah HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247518.ts
+#EXTINF:0,Ferdi Tayfur HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247519.ts
+#EXTINF:0,Kadir inanır HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247520.ts
+#EXTINF:0,Orhan Gencebay HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247521.ts
+#EXTINF:0,Şener Şen HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247522.ts
+#EXTINF:0,Banu Alkan HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247523.ts
+#EXTINF:0,Turist Ömer HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247524.ts
+#EXTINF:0,Zeki Metin HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247525.ts
+#EXTINF:0,ibrahim Tatlıses HD
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247526.ts
+#EXTINF:0,Türkan Şoray 1
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247527.ts
+#EXTINF:0,Türkan Şoray 2
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247528.ts
+#EXTINF:0,Yılmaz Güney HD 1
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247529.ts
+#EXTINF:0,Yılmaz Güney HD 2
+#EXTGRP:Sinema
+http://spy17.eu:80/live/selentv/17.01.2022/247530.ts
 #EXTINF:-1,[Boxset] Olacak O Kadar
 http://spy17.eu:80/live/hurriyetgokcimen/04.11.2021/247663.ts
 #EXTINF:-1,[Boxset] Nejat Uygur
@@ -548,10 +640,10 @@ https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
 
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="Dini",Diyanet TV
-http://stream.tvcdn.net/dini/diyanet-tv.m3u8
+http://spy17.eu:80/live/selentv/17.01.2022/312854.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" tvg-name="TRT 4K" group-title="🇹🇷 TURKEY",TRT 4K
-http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/4001/index.m3u8
+http://spy17.eu:80/live/selentv/17.01.2022/303303.ts
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",EKOL TV HD
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
