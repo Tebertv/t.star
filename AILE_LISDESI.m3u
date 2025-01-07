@@ -12,12 +12,11 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",STAR3 TEBER MEDYA KİDS
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",STAR4 EHLİBEYT TEBER MEDYA
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ STAR 4 TEBER MEDYA
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TELE5 TEBER MEDYA
 https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
-
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",CINE6 TEBER TV 
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
@@ -25,8 +24,8 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER MEDYA ON DİZİ TÜRK
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ FLASH TEBER MEDYA
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SUNGURLU EHLİBEYT TEBER MEDYA
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER SAFARİ TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
