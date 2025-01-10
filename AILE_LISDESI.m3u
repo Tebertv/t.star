@@ -36,37 +36,16 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL10
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TR",CENNET MAHALLESİ TV
-https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ROMAN TV
-https://live.euromediacenter.com/romanestv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV1
-https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ŞABAN TV2
-https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ŞABAN TV3
-https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",Zeki ve Metin Tv
-https://ythls.kekikakademi.org/youtube/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
-
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV
 https://tv208.radyotelekom.com.tr:3694/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",MEGA NETFLIX 
 https://tivi240.ozelip.com:3437/stream/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",KLASİK Tv
-https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
-
-#EXTINF:-1,CHD MOVİES
+#EXTINF:-1,MOVİES TV
 https://live.yayingold.com.tr/chdmovieslive/index.m3u8
 
-#EXTINF:-1,CHD KORKU
+#EXTINF:-1,KORKU TV
 https://live.yayingold.com.tr/chdkorku/index.m3u8
 
 #EXTINF:-1,DİZİ TV
@@ -122,11 +101,14 @@ https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",YOL TV
 https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",MK TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", TELE 1
-https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+http://tele1-live.ercdn.net/tele1/tele1.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL", KRT TV
-https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
+https://krt.blutv.com/blutv_krt_live/live.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", FLASH HABER
 https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
@@ -142,9 +124,6 @@ http://stream.tvcdn.net/yerel/anadolu-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",TEVE 6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",MK TV
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
@@ -457,10 +436,7 @@ http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120121
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120122
 #EXTINF:-1 tvg-id="" tvg-name="|TR| MARVEL 5 HD" tvg-logo="https://img.zentro.ovh/get.php?id=59244" group-title="TURKEY LOCAL HD & 4K",|TR| MARVEL 5 HD
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120123
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MARVEL6 HD" tvg-logo="https://img.zentro.ovh/get.php?id=59238" group-title="TURKEY LOCAL HD & 4K",|TR| MARVEL 6 HD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120117
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MARVEL7 HD" tvg-logo="https://img.zentro.ovh/get.php?id=59239" group-title="TURKEY LOCAL HD & 4K",|TR| MARVEL  7 HD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120118
+
 #EXTINF:-1 tvg-id="" tvg-name="|TR| GÖREVİMİZ TEHLİKE ʜᴅ" tvg-logo="https://img.zentro.ovh/get.php?id=59235" group-title="TURKEY LOCAL HD & 4K",|TR| GÖREVİMİZ TEHLİKE ʜᴅ
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/120114
 #EXTINF:-1 tvg-id="" tvg-name="|TR| KARAYİP KORSANLARI ʜᴅ" tvg-logo="https://img.zentro.ovh/get.php?id=59236" group-title="TURKEY LOCAL HD & 4K",|TR| KARAYİP KORSANLARI ʜᴅ
