@@ -1,8 +1,5 @@
 #EXTM3U
 
-NOT:KANALLARIMIZ TOPLAMA OLUP VE HİÇ KİMSEYE PARA İLE SATILMAZ KANALLAR İNTERNETDE YAYINLANAN BEDAVA KANALLARDIR VE BU LİSDE İLE İLGİSİ OLMAYAN İNSANLARI KENDİ KANALI GİBİ KANDIRIP PARA İLE SATANLARDAN SORUMLU DEĞİL DİR BURDA LİSDE  GARİBANLARA BEDAVA VERİLMEKDE OLUP KİMSEYE PARA KARŞILIĞI SATILMAZ BU KANALLAR ARKADAŞLAR ARASINDA BİRBİRİMİZE PAYLAŞMAK DURUMU İLE OLUŞDURULMUŞ KANALLARDIR BİZİM SAYFADA KANAL PAZARLAYAN YOKDUR SADECE GELİRİ OLMAYAN KARDEŞLERİMİZİN AİLELERİ İLE İZLEMELERİ İÇİN OLUŞDURULMUŞ KANALLAR OLUP BİZDEN GİZLİCE ALIP SATANLARDA TESBİD EDİLİP GURUBDAN ATILMIŞ KİŞİLERDİR BU LİSDEYİ PAYLAŞMAK AMACLI OLUŞDURULMUŞDUR
-PAYLAŞMAK İNSANLIĞI BİR ARADA TUTAR GARDAŞLIĞI PEKİŞDİRİR  HİÇBİR PLATFORM KANALI YOKTUR VE VERİLMEMEKTEDİR SADECE FREE KANALLAR MEVCUTTUR SAYGILARIMLA TEBER MEDYA GURUP PAYLAŞIM SAYFASI.....2024..
-
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",STAR1 TEBER MEDYA
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 
@@ -36,20 +33,27 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEZENE TV 
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HBB TV 
-https://t8.radyotelekom.com.tr:3258/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL10
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK
+https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
+
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ESMA TV 
+https://tivi240.ozelip.com:3520/stream/play.m3u8
+
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV 
+https://tivi240.ozelip.com:3710/stream/play.m3u8
+
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",DİZİ TV 
+https://tivi240.ozelip.com:3745/stream/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",MOVİES TV
 https://live.yayingold.com.tr/chdmovieslive/index.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KORKU TV
 https://live.yayingold.com.tr/chdkorku/index.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",DİZİ TV
-https://tv208.radyotelekom.com.tr:3184/stream/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA ŞABAN TV
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
@@ -59,6 +63,10 @@ https://megatv208.radyotelekom.com.tr:3829/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA KORKU TV
 https://megatv208.radyotelekom.com.tr:3420/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="Kanal65 paranormal" group-title="Azərbaycan", Kanal65 paranormal
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/kanal65paranormal/index.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿", MEGA Sirvan TV
 https://megatv208.radyotelekom.com.tr:3326/hybrid/play.m3u8
@@ -84,14 +92,11 @@ https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Kanal 65 Music 
 https://live.yayingold.com.tr/kanal65music/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ESMA TV 
-https://tivi240.ozelip.com:3520/stream/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV 
-https://tivi240.ozelip.com:3710/stream/play.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",DİZİ TV 
-https://tivi240.ozelip.com:3745/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧BOX TV" tvg-logo="https://i.postimg.cc/nccF408q/IMG-20250106-101632-317.jpg" group-title="Azərbaycan", ✧BOX TV
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/boxtvazlive/index.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",AZAT SÖZ TV 
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w114431808_b1896000.m3u8
@@ -102,14 +107,18 @@ https://tivi240.ozelip.com:3736/stream/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",İSMAYILLI 4POP TÜRK TV 
 https://tivi240.ozelip.com:3438/stream/play.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HBB TV 
+https://t8.radyotelekom.com.tr:3258/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",YILDIZ TV1
 https://tivi240.ozelip.com:3153/stream/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",YILDIZ TV2
 https://tivi240.ozelip.com:3142/stream/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK
-https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
+#EXTINF:-1 tvg-name="✧Aligoshgar TV" group-title="Azərbaycan", ✧Aligoshgar TV
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TELE Z
 https://stream-cdn-iad.vaughnsoft.net/play/live_telezeta.flv
@@ -505,35 +514,7 @@ http://50.7.218.154:1935/live/gozdetv.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SDM HİTS TV 
 https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
 
-**************MEGA MEDYA GURUP Az************************
 
-#EXTINF:0,MEGA TV saban
-#EXTGRP:AzFilm'📹
-https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
-#EXTINF:0,MEGA TV Cinema
-#EXTGRP:AzFilm'📹
-https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:0,MEGA TV Comedy
-#EXTGRP:AzFilm'📹
-https://live.yayingold.com.tr/megakomedia/tracks-v1a1/mono.m3u8
-#EXTINF:0,Mega Tv Waar
-#EXTGRP:AzFilm'📹
-https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
-#EXTINF:0,Mega Tv Retro
-#EXTGRP:AzFilm'📹
-https://tv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
-#EXTINF:0,Mega Tv Sirvan
-#EXTGRP:AzFilm'📹
-https://tv208.radyotelekom.com.tr:3326/hybrid/play.m3u8
-#EXTINF:0,Mega Tv Sirius
-#EXTGRP:AzFilm'📹
-https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
-#EXTINF:0,MEGA TV Music
-#EXTGRP:AzFilm'📹
-https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿L",MAX Tv 
-https://tv208.radyotelekom.com.tr:3817/hybrid/play.m3u8
 
 ***************BELGESEL**TV****************
 
@@ -2840,28 +2821,262 @@ http://stream.tvcdn.net/diger-eglence/vrt-tv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SDM HİTS TV 
 https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
 
+
 ************AZERBAYCAN TV**********************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7e4f2845-3c60-41ac-8ac2-4bfd513f651e.png" group-title="Azerbaycan",Agro TV Azerbaycan
-http://stream.tvcdn.net/azerbaycan/agro-tv-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png" group-title="Azerbaycan",Apa TV
-http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azerbaycan",ARB
-http://stream.tvcdn.net/azerbaycan/arb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="Azerbaycan",ARB 24
-http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azerbaycan",ARB Gunes
-http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png" group-title="Azerbaycan",AZ TV
+#EXTINF:-1 timeshift="0" tvg-name="✧AZTV" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZe6noVW8J7GyvOXld6.png" group-title="Azərbaycan", ✧ AZTV
+#EXTGRP:Azərbaycan
 http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png" group-title="Azerbaycan",Azad TV
-http://stream.tvcdn.net/azerbaycan/azad-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" group-title="Azerbaycan",Az Star TV
-http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png" group-title="Azerbaycan",Baku TV
+#EXTINF:-1 timeshift="0" tvg-name="✧ Ictimai TV" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4vGZw1B4J20a7VGdn.png" group-title="Azərbaycan", ✧ Ictimai TV
+#EXTGRP:Azərbaycan
+http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
+#EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="Azərbaycan", ✧ Mədəniyyət TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧ ATV" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLdaxQjNld35WLBJ1w.png" group-title="Azərbaycan", ✧ ATV
+#EXTGRP:Azərbaycan
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 timeshift="0" tvg-name="✧Xəzər TV" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9veMREnk3GBgNLKQX.png" group-title="Azərbaycan", ✧ Xəzər TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-id="space-tv" tvg-name="✧ Space TV" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbOYM9wmD7pjLP28OE.png" group-title="Azərbaycan", ✧ Space TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-id="arb-tv" tvg-name="✧ARB TV" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWBwmMDl0bAWz7dvkJR.png" group-title="Azərbaycan", ✧ ARB TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧ARB 24" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6vJZNEqAYzmrVWyjg.png" group-title="Azərbaycan", ✧ ARB 24
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧ARB Günəş" tvg-logo="https://app.playlistbox.com/icon/8qNz762JY5OD9x0wYnoPn1eAa4GyvL0V.png" group-title="Azərbaycan", ✧ ARB Günəş
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧Baku TV" tvg-logo="https://i.postimg.cc/CLLPPY5J/unnamed.png" group-title="Azərbaycan", ✧ Baku TV
+#EXTGRP:Azərbaycan
 http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="Azerbaycan",CBC
-http://stream.tvcdn.net/azerbaycan/cbc.m3u8
+#EXTINF:-1 timeshift="0" tvg-name="✧Real TV" tvg-logo="https://i.postimg.cc/zf3Jw9Zc/images.png" group-title="Azərbaycan", ✧ REAL TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧CBC✯" tvg-logo="https://app.playlistbox.com/icon/0Yw9lbPDOG1VRKZ5vjoe8pm3LXjzgkQ2.png" group-title="Azərbaycan", ✧ CBC✯
+#EXTGRP:Azərbaycan
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 tvg-name="✧CBC Sport" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDzKMAXpwKq5mPJvV9.png" group-title="Azərbaycan", ✧CBC Sport
+#EXTGRP:Azərbaycan
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 timeshift="0" tvg-id="idman" tvg-name="✧Idman TV" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8vpZ1ELBXGWRzPQ0A.png" group-title="Azərbaycan", ✧ Idman TV
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧GünAz TV" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ732ZArgRlD9de8NWP.png" group-title="Azərbaycan", ✧ GünAz TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧Qafqaz TV" tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png" group-title="Azərbaycan", ✧ Qafqaz TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧Naxçıvan" tvg-logo="https://i.postimg.cc/529XW97H/logo.png" group-title="Azərbaycan", ✧ Naxçıvan TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧APA TV" tvg-logo="https://i.postimg.cc/SNpHP4x3/unnamed.jpg" group-title="Azərbaycan", ✧ APA TV
+#EXTGRP:Azərbaycan
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 timeshift="0" tvg-name="✧Kanal 35" tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png" group-title="Azərbaycan", ✧ Kanal 35
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧Kanal S" tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="Azərbaycan", ✧ Kanal S
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/start/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧Agro TV Azerbaijan" tvg-logo="https://i.postimg.cc/Y0kvx1Pj/logo-7sz-XRi4-1.png" group-title="Azərbaycan", ✧ Agro TV Azerbaijan
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/agrotv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧SHOW Plus" tvg-logo="https://i.postimg.cc/283RpW3X/Logo-gold-font.png" group-title="Azərbaycan", ✧ SHOW Plus
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧VIP HD" tvg-logo="https://i.postimg.cc/MZhZ70hD/download-1.jpg" group-title="Azərbaycan", ✧ VIP HD
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/vip/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧MTV" tvg-logo="https://i.postimg.cc/SNrB3mYt/16770668061136031979-1200x630.jpg" group-title="Azərbaycan", ✧ MTV
+#EXTGRP:Azərbaycan
+http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
+#EXTINF:-1 timeshift="0" tvg-name="✧TMB" tvg-logo="https://i.postimg.cc/HxYVzR7y/images-1.jpg" group-title="Azərbaycan", ✧ TMB
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧Vostok TV" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxn7vMJ9XldROAzkg75.png" group-title="Azərbaycan", ✧ Vostok TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 timeshift="0" tvg-name="✧Səhiyyə TV" tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png" group-title="Azərbaycan", ✧ Səhiyyə TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-id="" tvg-name="✧Az Star TV" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" group-title="Azərbaycan", ✧Az Star TV
+#EXTGRP:Azərbaycan
+http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✧FTV" tvg-logo="https://i.postimg.cc/vH9zvLWH/images.jpg" group-title="Azərbaycan", ✧FTV
+#EXTGRP:Azərbaycan
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✧Live TV" tvg-logo="http://assets.tvcdn.net/8bcd2f7a-d53e-4ef2-9fc6-03e32c7f7465.png" group-title="Azərbaycan", ✧Live TV
+#EXTGRP:Azərbaycan
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 tvg-name="✧Kəpəz TV" group-title="Azərbaycan", ✧Kəpəz TV
+#EXTGRP:Azərbaycan
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-name="✧Könül TV" group-title="Azərbaycan", ✧Könül TV
+#EXTGRP:Azərbaycan
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 tvg-name="✧Alvin channel" group-title="Azərbaycan", ✧Alvin channel
+#EXTGRP:Azərbaycan
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="✧Dünya Tv" group-title="Azərbaycan", ✧Dünya Tv
+#EXTGRP:Azərbaycan
+http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
+#EXTINF:-1 tvg-name="✧Vilayət TV" group-title="Azərbaycan", ✧Vilayət TV
+#EXTGRP:Azərbaycan
+https://nl.livekadeh.com/hls2/vilayet_high.m3u8
+#EXTINF:-1 tvg-name="✧Hadi TV" group-title="Azərbaycan", ✧Hadi TV
+#EXTGRP:Azərbaycan
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 tvg-name="✧Zəhra TV" group-title="Azərbaycan", ✧Zəhra TV
+#EXTGRP:Azərbaycan
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="✧KATV 1" group-title="Azərbaycan", ✧KATV 1
+#EXTGRP:Azərbaycan
+http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="✧ATV cinema" tvg-logo="https://app.playlistbox.com/icon/y75Aja1n0b8YJZER2roOpLmdwRrqXgvP.png" group-title="Azərbaycan", ✧ATV cinema
+#EXTGRP:Azərbaycan
+http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="✧Esma TV" tvg-logo="https://i.postimg.cc/RhZ5m44L/IMG-20241028-120736-865.jpg" group-title="Azərbaycan", ✧Esma TV
+#EXTGRP:Azərbaycan
+https://tivi240.ozelip.com:3520/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧Kader TV" tvg-logo="https://i.postimg.cc/nccF408q/IMG-20250106-101632-317.jpg" group-title="Azərbaycan", ✧Kader TV
+#EXTGRP:Azərbaycan
+https://tivi240.ozelip.com:3710/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧BOX TV" tvg-logo="https://i.postimg.cc/nccF408q/IMG-20250106-101632-317.jpg" group-title="Azərbaycan", ✧BOX TV
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/boxtvazlive/index.m3u8
+#EXTINF:-1 tvg-name="✧Mega TV sinema" group-title="Azərbaycan", ✧Mega TV sinema
+#EXTGRP:Azərbaycan
+https://megatv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="✧Mega TV musiq" group-title="Azərbaycan", ✧Mega TV musiq
+#EXTGRP:Azərbaycan
+https://megatv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Mega TV Şaban" group-title="Azərbaycan", Mega TV Şaban
+#EXTGRP:Azərbaycan
+https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
+#EXTINF:-1 tvg-name="Mega TV usaq" group-title="Azərbaycan", Mega TV usaq
+#EXTGRP:Azərbaycan
+https://tivi240.ozelip.com:3178/stream/play.m3u8
+#EXTINF:-1 tvg-name="Mega TV Retro" group-title="Azərbaycan", Mega TV Retro
+#EXTGRP:Azərbaycan
+https://megatv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Mega TV War" group-title="Azərbaycan", Mega TV War
+#EXTGRP:Azərbaycan
+https://megatv208.radyotelekom.com.tr:3335/stream/play.m3u8
+#EXTINF:-1 tvg-name="Mega TV Horror" group-title="Azərbaycan", Mega TV Horror
+#EXTGRP:Azərbaycan
+https://megatv208.radyotelekom.com.tr:3420/stream/play.m3u8
+#EXTINF:-1 tvg-name="Mega TV Retro musiqi" group-title="Azərbaycan", Mega TV Retro musiqi
+#EXTGRP:Azərbaycan
+https://megatv208.radyotelekom.com.tr:3468/stream/play.m3u8
+#EXTINF:-1 tvg-name="Mega TV Gence" group-title="Azərbaycan", Mega TV Gence
+#EXTGRP:Azərbaycan
+https://megatv208.radyotelekom.com.tr:3829/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Kanal65 komedia" group-title="Azərbaycan", Kanal65 komedia
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/kanal65comedylive2024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kanal65 sinema" group-title="Azərbaycan", Kanal65 sinema
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kanal65 paranormal" group-title="Azərbaycan", Kanal65 paranormal
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/kanal65paranormal/index.m3u8
+#EXTINF:-1 tvg-name="Dizi TV" group-title="Azərbaycan", Dizi TV
+#EXTGRP:Azərbaycan
+https://tivi240.ozelip.com:3745/stream/play.m3u8
+#EXTINF:-1 tvg-name="Ulduz TV" group-title="Azərbaycan", Ulduz TV
+#EXTGRP:Azərbaycan
+https://tivi240.ozelip.com:3153/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧Qəbələ TV" group-title="Azərbaycan", ✧Qəbələ TV
+#EXTGRP:Azərbaycan
+https://qebeletv.ozelip.net:3918/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧AzadSözAz TV" group-title="Azərbaycan", ✧AzadSözAz TV
+#EXTGRP:Azərbaycan
+http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
+#EXTINF:-1 tvg-name="✧Ayaz TV" group-title="Azərbaycan", ✧Ayaz TV
+#EXTGRP:Azərbaycan
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+#EXTINF:-1 tvg-name="✧Aligoshgar TV" group-title="Azərbaycan", ✧Aligoshgar TV
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/aligoshgartv/index.m3u8
+#EXTINF:-1 tvg-name="✧CTV Azerbaycan" group-title="Azərbaycan", ✧CTV Azerbaycan
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/ctvazerbaycanlive2024/index.m3u8
+#EXTINF:-1 tvg-name="✧Şirvan TV" group-title="Azərbaycan", ✧Şirvan TV
+#EXTGRP:Azərbaycan
+https://tv208.radyotelekom.com.tr:3326/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧KinoBox Retro" group-title="Azərbaycan", ✧KinoBox Retro
+#EXTGRP:Azərbaycan
+https://glb.bozztv.com/glb/ssh101/kinoretro/index.m3u8
+#EXTINF:-1 tvg-name="✧KinoBox Planet" group-title="Azərbaycan", ✧KinoBox Planet
+#EXTGRP:Azərbaycan
+https://glb.bozztv.com/glb/ssh101/kendheyati/index.m3u8
+#EXTINF:-1 tvg-name="✧Buzovna" group-title="Azərbaycan", ✧Buzovna
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
+#EXTINF:-1 tvg-name="✧MCJ TV shop" group-title="Azərbaycan", ✧MCJ TV shop
+#EXTGRP:Azərbaycan
+http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
+#EXTINF:-1 tvg-name="✧Ismayilli TV" group-title="Azərbaycan", ✧Ismayilli TV
+#EXTGRP:Azərbaycan
+https://tivi240.ozelip.com:3736/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧4turk poptv" group-title="Azərbaycan", ✧4turk poptv
+#EXTGRP:Azərbaycan
+https://megatv208.radyotelekom.com.tr:3375/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧Sirius TV" tvg-logo="https://i.postimg.cc/RVCVCxX8/IMG-20241028-120251-270.jpg" group-title="Azərbaycan", ✧Sirius TV
+#EXTGRP:Azərbaycan
+http://195.9.195.3:8080/hls/211270.m3u8
+#EXTINF:-1 tvg-name="EL TV" group-title="Azərbaycan", EL TV
+#EXTGRP:Azərbaycan
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="SON UMID TV" group-title="Azərbaycan", SON UMID TV
+#EXTGRP:Azərbaycan
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Səs TV" tvg-logo="https://ltdfoto.ru/images/2024/12/06/1000185639.jpg" group-title="Azərbaycan", Səs TV
+#EXTGRP:Azərbaycan
+http://stream.tvcdn.net:80/azerbaycan/ses-tv.m3u8
+#EXTINF:-1 tvg-name="Sahand TV" group-title="Azərbaycan", Sahand Tv
+#EXTGRP:Azərbaycan
+https://cdn-azd2055.telewebion.com/ek/sahand/live/576p/index.m3u8
+#EXTINF:-1 tvg-name="ANEWZ" group-title="Azərbaycan", ANEWZ
+#EXTGRP:Azərbaycan
+https://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/b9c4c59c1c4c4b1697bf9ea8d81e1f5e/30355_1872539_index_3.m3u8
+#EXTINF:-1 tvg-name="Ümid TV" group-title="Azərbaycan", Ümid TV
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/umidtvazlive/index.m3u8
+#EXTINF:-1 tvg-name="Ümid TV show" group-title="Azərbaycan", Ümid TV show
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/utvshowazlive/index.m3u8
+#EXTINF:-1 tvg-name="Amedia TV" group-title="Azərbaycan", Amedia TV
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/amediatvlive/index.m3u8
+#EXTINF:-1 tvg-name="HBB TV" group-title="Azərbaycan", HBB TV
+#EXTGRP:Azərbaycan
+https://t8.radyotelekom.com.tr:3258/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Zehra TV" group-title="Azərbaycan", Zehra TV
+#EXTGRP:Azərbaycan
+https://t170.radyotelekom.com.tr:3968/stream/play.m3u8
+#EXTINF:-1 tvg-name="✧Yurd fm TV" group-title="Azərbaycan", ✧Yurd fm TV
+#EXTGRP:Azərbaycan
+https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
+#EXTINF:-1 tvg-name="✧Media fm TV" group-title="Azərbaycan", ✧Media fm TV
+#EXTGRP:Azərbaycan
+https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
+#EXTINF:-1 tvg-name="106 FM" group-title="Azərbaycan", 106 FM
+#EXTGRP:Azərbaycan
+https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_adaptive.m3u8
+#EXTINF:-1 tvg-name="106.3 FM" group-title="Azərbaycan", 106.3 FM
+#EXTGRP:Azərbaycan
+https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
+
+#EXTINF:1,NewTv
+#EXTGRP:AZERBAYCAN
+https://NewtvAz.justhost.online:3230/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SINEMA AKSIYON 2 FHD TR" tvg-logo="" group-title="TURKEY HD & 4K",SINEMA AKSIYON 2 FHD TR
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/4061
