@@ -103,6 +103,9 @@ https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1144318
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HBB TV 
 https://t8.radyotelekom.com.tr:3258/hybrid/play.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",SİMSONLAR TV İNG
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flvv
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TELE Z
 https://stream-cdn-iad.vaughnsoft.net/play/live_telezeta.flv
 
