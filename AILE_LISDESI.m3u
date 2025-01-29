@@ -60,8 +60,8 @@ https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TELE 1
 http://116.202.238.88/TELE1_TR/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", FLASH HABER
-https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",KRT
+http://84.200.70.180:41342/bysid/51638
 
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV
 http://stream.tvcdn.net/haber/halk-tv.m3u8
@@ -207,11 +207,11 @@ http://stream.tvcdn.net/yerel/kanal-68.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f843631d-b47b-4476-8cad-914f2adc4133.png" group-title="Yerel",TV 1 
 http://stream.tvcdn.net/yerel/tv-1-kayseri.m3u8
 
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", FLASH HABER
+https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GZT TV YTB
-http://new.cache-stream.workers.dev/stream/UClWewRX7n_IY3mBbxmttR5Q/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Life tv
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
