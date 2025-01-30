@@ -37,7 +37,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",NOW HD
-https://uycyyuuzyh.turknet.ercdn.net...owtv_720p. (https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8)m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -60,8 +60,11 @@ https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TELE 1
 http://116.202.238.88/TELE1_TR/tracks-v1a1/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",KRT
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", FLASH HABER
-https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
+http://116.202.238.88/FLASHTV_TR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV
 http://stream.tvcdn.net/haber/halk-tv.m3u8
