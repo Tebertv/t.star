@@ -33,6 +33,9 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL10 YANSIMA MEDYA
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 
+#EXTINF:-1,Megatv saban
+https://a8.radyotelekom.com.tr:3417/hybrid/play.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="İNTERNET_KANALLARI" logo="png",CINE6 NOWA 
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 
@@ -303,6 +306,41 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
+
+************AZERBAYCAN TV1************
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ESMA TV 
+https://ip240.avrupatelekom.com:3520/stream/play.m3u8
+#EXTINF:-1,Megatv cinema
+https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1,Megatv TURK CINEMA
+https://a8.radyotelekom.com.tr:3468/stream/play.m3u8
+#EXTINF:-1,kanal 65
+https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1,kanal65 paranormal
+https://live.yayingold.com.tr/kanal65paranormal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,kanal65 comedy
+https://live.yayingold.com.tr/kanal65comedylive2024/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Megatv CLASSİC
+https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Gəncə TV HD
+https://ip240.avrupatelekom.com:3178/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",İSMAYILLI TV 
+https://ip240.avrupatelekom.com:3736/stream/play.m3u8
+#EXTINF:-1,Megatv retro
+https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Ulduz TV
+https://ip240.avrupatelekom.com:3153/stream/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ALIGOSHGAR TV
+https://ip240.avrupatelekom.com:3142/stream/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV 
+https://tivi240.ozelip.com:3710/stream/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",DİZİ TV 
+https://ip240.avrupatelekom.com:3745/stream/play.m3u8
+#EXTINF:-1,Megatv music
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",TV 7
+https://ip100.radyotelekomtv.com:3620/stream/play.m3u8
+*********************************************************
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",HAYATA DAİR HERŞEY TÜRK TV
 https://live.euromediacenter.com/hdhturk/tracks-v1a1/mono.m3u8
 
@@ -539,20 +577,7 @@ http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 #EXTINF:-1 tvg-id="" group-title="Diğer-Eğlence",TV 70
 http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/795f7c0b-6ae9-452a-b8e7-995423827498.jpg" group-title="Diğer-Eğlence",TV 90
-http://stream.tvcdn.net/diger-eglence/tv-90.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="Diğer-Eğlence",Viyana TV
-http://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/190e5de4-240c-4394-b364-acf1be7ca010.png" group-title="Diğer-Eğlence",VRT TV
-http://stream.tvcdn.net/diger-eglence/vrt-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/dbdb9b76-d4f4-47b4-a342-54bee0025b1c.jpeg" group-title="Diğer-Eğlence",Yansıma Sinema TV
-http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="Diğer-Eğlence",Yeşilçam TV 2
-http://stream.tvcdn.net/diger-eglence/yesilcam-tv-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="Diğer-Eğlence",Yeşilçam TV 3
-http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="Diğer-Eğlence",Zeki & Metin 
-http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
+
 ---------------#### SABİT BELGESEL TV ####-----------
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_HÇRT_TV_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA BELGESEL TV
@@ -917,39 +942,7 @@ http://stream.tvcdn.net/yerel/on-medya.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b99fecaa-dfd3-4b6e-8fd2-51e9545ee425.png" group-title="Yerel",Öncü RTV
 http://stream.tvcdn.net/yerel/oncu-rtv.m3u8
 
-************AZERBAYCAN TV**********************************************************************
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ESMA TV 
-https://tivi240.ozelip.com:3520/stream/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",YILDIZ TV
-https://tivi240.ozelip.com:3153/stream/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ALIGOSHGAR TV
-https://tivi240.ozelip.com:3142/stream/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KADER TV 
-https://tivi240.ozelip.com:3710/stream/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",DİZİ TV 
-https://tivi240.ozelip.com:3745/stream/play.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",MOVİES TV
-https://live.yayingold.com.tr/chdmovieslive/index.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",KORKU TV
-https://live.yayingold.com.tr/chdkorku/index.m3u8
-
-#EXTINF:-1,Megatv saban
-https://a8.radyotelekom.com.tr:3417/
-
-
-#EXTINF:-1 tvg-name="✧BOX TV" tvg-logo="https://i.postimg.cc/nccF408q/IMG-20250106-101632-317.jpg" group-title="Azərbaycan", ✧BOX TV
-#EXTGRP:Azərbaycan
-https://live.yayingold.com.tr/boxtvazlive/index.m3u8
-
-#EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",İSMAYILLI TV 
-https://tivi240.ozelip.com:3736/stream/play.m3u8
+******-AZERBAYCAN TV2********************
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",AZAT SÖZ TV 
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w114431808_b1896000.m3u8
