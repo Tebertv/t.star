@@ -66,9 +66,6 @@ https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TELE 1
 http://116.202.238.88/TELE1_TR/tracks-v1a1/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",KRT
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV
 http://stream.tvcdn.net/haber/halk-tv.m3u8
 
@@ -282,9 +279,6 @@ http://stream.tvcdn.net/haber/haber-global.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",TV BEN
-https://cdn-tvben.yayin.com.tr/tvben/tvben/chunklist_w1556420969.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 
@@ -305,7 +299,6 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
-
 
 ************AZERBAYCAN TV1************
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ESMA TV 
@@ -337,6 +330,8 @@ https://tivi240.ozelip.com:3710/stream/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",DİZİ TV 
 https://ip240.avrupatelekom.com:3745/stream/play.m3u8
 #EXTINF:-1,Megatv music
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",NOW MÜZİK TV
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",TV 7
 https://ip100.radyotelekomtv.com:3620/stream/play.m3u8
