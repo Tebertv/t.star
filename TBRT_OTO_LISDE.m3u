@@ -138,9 +138,6 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D FHD TR" tvg-logo="" group-title="TURKEY HD & 4K",Kanal D 4K TR
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/3865
-
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
@@ -301,6 +298,9 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 ************AZERBAYCAN TV1************
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D FHD TR" tvg-logo="" group-title="TURK & AZERBAYCAN",ClapTV HD
+https://ip240.avrupatelekom.com:3178/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",ESMA TV 
 https://ip240.avrupatelekom.com:3520/stream/play.m3u8
 #EXTINF:-1,Megatv cinema
