@@ -303,6 +303,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 ************AZERBAYCAN TV1************
+
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D FHD TR" tvg-logo="" group-title="TURK & AZERBAYCAN",ClapTV HD
 https://ip240.avrupatelekom.com:3178/hybrid/play.m3u8
 
@@ -323,7 +324,7 @@ https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Mega Gəncə TV HD
 https://ip240.avrupatelekom.com:3178/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",İSMAYILLI TV 
-https://ip240.avrupatelekom.com:3736/stream/play.m3u8
+https://ip240.avrupatelekom.com:3781/hybrid/play.m3u8
 #EXTINF:-1,Megatv retro
 https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",Ulduz TV
