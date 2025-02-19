@@ -39,11 +39,17 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.ON TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL10 YANSIMA MEDYA
-https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
-
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",NOW HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D HD
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TELE 1
 http://116.202.238.88/TELE1_TR/tracks-v1a1/index.m3u8
@@ -56,6 +62,9 @@ http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",EKOL TV HD
+http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 #EXTINF:-1,Şaban Tv
 https://a8.radyotelekom.com.tr:3417/hybrid/play.m3u8
@@ -87,11 +96,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SÖNMEZ TV
 https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",CINE5 HD
-http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",AKILLI TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",AKILLI TV 
 https://yayin.santraltr.com/hls/akillitv.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",YOL TV
@@ -115,19 +120,6 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DÜZGÜN TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TON TV
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",CANSUYU TV 
-https://tivi44.ozelip.com:3091/stream/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",LEBİH TV 
-https://tivi191.ozelip.com:3982/stream/play.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL G
-https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Uluslararası TV
-http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
@@ -143,20 +135,8 @@ http://185.234.111.229:8000/play/a01x
 #EXTINF: -1 group-title="Ulusal", TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 
-#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",EURO D HD
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",D-TEVE2 4K
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-
-#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D  RMN
-https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",kanalD 2 RMN 
-https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -197,6 +177,9 @@ http://spy17.eu:80/live/selentv/17.01.2022/4939.ts
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", A2 TV
 http://stream.tvcdn.net/eglence/a2.m3u8s
 
+#EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="Ulusal - Yurt Dışı",TGRT EU
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", TVA 
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
 
@@ -210,10 +193,7 @@ http://stream.tvcdn.net/yerel/kanal-68.m3u8
 http://stream.tvcdn.net/yerel/tv-1-kayseri.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", FLASH HABER
-http://116.202.238.88/FLASHTV_TR/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Life tv
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
@@ -234,7 +214,7 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KNY.OLAY TV
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8?nimblesessionid=4768068814
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b9fd9a9a-849c-4d83-8f99-34402e15c52a.png" group-title="Yerel",TV Kayseri
 http://stream.tvcdn.net/yerel/tv-kayseri.m3u8
@@ -260,9 +240,6 @@ https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Türkmeneli_TV
 http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",EKOL TV HD
-http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-
 #EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="Haber",Yol TV
 http://stream.tvcdn.net/haber/yol-tv.m3u8
 
@@ -277,6 +254,9 @@ https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", HABER GLOBAL
 http://stream.tvcdn.net/haber/haber-global.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
@@ -296,11 +276,17 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ALMANYA TV TR
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 
-#EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="Ulusal - Yurt Dışı",TGRT EU
-http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
-
 #EXTINF:-1 tvg-id=".tr" tvg-name="HD" tvg-logo=.png" group-title="TURK ULUSAL",TGRT BLGSL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="tbrt"Diğer",Uluslararası TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
+
+#EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D  RMN
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",kanalD 2 RMN 
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 
 ************AZERBAYCAN TV1************
 
