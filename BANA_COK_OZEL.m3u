@@ -219,9 +219,6 @@ https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_720p.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TABİ SPOR3
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_720p.m3u8
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor3 TABİ
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_480p.m3u8
-
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor1
 https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8
 
@@ -234,7 +231,7 @@ http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
 
-***********************************************
+******************YEREL*****************************
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", TVA 
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
