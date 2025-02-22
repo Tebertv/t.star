@@ -147,6 +147,9 @@ http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW MAX
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="EMAX" tvg-logo="" group-title="TR • Yerel Kanallar",EMAX
+http://spy17.eu:80/live/hsynctnky/290921.hsn/332943.ts
+
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="http://assets.tvcdn.net/61b5c17b-e0dd-4702-bb9b-689097e4648f.png" group-title="Dini",Meltem TV
 http://stream.tvcdn.net/dini/meltem-tv.m3u8
 
@@ -231,6 +234,173 @@ http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
 
+*************test spor******************************
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor ʳᵃʷ" tvg-logo="https://i.hizliresim.com/2eiqgr0.png" group-title="TR • Ulusal Raw | Android",Tivibu Spor ʳᵃʷ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/318550.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/332253.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 1 720p [ 1000KB ]⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 720p [ 1000KB ]⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/4740.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 1 576p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 576p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/4521.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 1 360p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 360p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/309969.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 1080p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/332252.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 1 H.265(Hevc)⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 H.265(Hevc)⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/227016.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 1 4K⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports 1 4K⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/309968.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 720p⚽️" tvg-logo="http://logo1010.com/news/bein-2.png" group-title="TR • ⚽️beIN Sports",beIN Sports 2 720p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/824.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-2.png" group-title="TR • ⚽️beIN Sports",beIN Sports 2 1080p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/9368.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 720p⚽️" tvg-logo="http://logo1010.com/news/bein-3.png" group-title="TR • ⚽️beIN Sports",beIN Sports 3 720p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/823.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-3.png" group-title="TR • ⚽️beIN Sports",beIN Sports 3 1080p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/9369.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 720p⚽️" tvg-logo="http://logo1010.com/news/bein-4.png" group-title="TR • ⚽️beIN Sports",beIN Sports 4 720p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/822.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-4.png" group-title="TR • ⚽️beIN Sports",beIN Sports 4 1080p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/20835.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 5 720p⚽️" tvg-logo="http://logo1010.com/news/bein-5.png" group-title="TR • ⚽️beIN Sports",beIN Sports 5 720p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/249517.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 5 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-5.png" group-title="TR • ⚽️beIN Sports",beIN Sports 5 1080p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/291713.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports Max 1 720p⚽️" tvg-logo="http://logo1010.com/news/bsmax-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports Max 1 720p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/820.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports Max 1 1080p⚽️" tvg-logo="http://logo1010.com/news/bsmax-1.png" group-title="TR • ⚽️beIN Sports",beIN Sports Max 1 1080p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/291711.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports Max 2 720p⚽️" tvg-logo="http://logo1010.com/news/bsmax-2.png" group-title="TR • ⚽️beIN Sports",beIN Sports Max 2 720p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/821.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports Max 2 1080p⚽️" tvg-logo="http://logo1010.com/news/bsmax-2.png" group-title="TR • ⚽️beIN Sports",beIN Sports Max 2 1080p⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/291712.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN Sports Haber Hd⚽️" tvg-logo="http://logo1010.com/news/bs-haber.png" group-title="TR • ⚽️beIN Sports",beIN Sports Haber Hd⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/4743.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TODtv(beIN) HD 1⚽️" tvg-logo="http://logo1010.com/lg/todd.jfif" group-title="TR • ⚽️beIN Sports",TODtv(beIN) HD 1⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/180904.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TODtv(beIN) HD 2⚽️" tvg-logo="http://logo1010.com/lg/todd.jfif" group-title="TR • ⚽️beIN Sports",TODtv(beIN) HD 2⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/180905.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TODtv(beIN) HD 3⚽️" tvg-logo="http://logo1010.com/lg/todd.jfif" group-title="TR • ⚽️beIN Sports",TODtv(beIN) HD 3⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/180906.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TODtv(beIN) HD 4⚽️" tvg-logo="http://logo1010.com/lg/todd.jfif" group-title="TR • ⚽️beIN Sports",TODtv(beIN) HD 4⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/180907.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport 1 HD⚽️" tvg-logo="http://logo1010.com/cdn/tvlogo/ssport.png" group-title="TR • ⚽️S Sport",S Sport 1 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/807.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport 1 SD⚽️" tvg-logo="http://logo1010.com/news/ssport1-hd.png" group-title="TR • ⚽️S Sport",S Sport 1 SD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/38381.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S Sport 2 HD⚽️" tvg-logo="http://logo1010.com/ssport2-fhd.png" group-title="TR • ⚽️S Sport",S Sport 2 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/31421.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S Sport 2 SD⚽️" tvg-logo="http://logo1010.com/news/ssport2-hd.png" group-title="TR • ⚽️S Sport",S Sport 2 SD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/190980.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport + Plus 1⚽️" tvg-logo="http://logo1010.com/news/ssportplus1-hd.png" group-title="TR • ⚽️S Sport",S Sport + Plus 1⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/116493.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport + Plus 2⚽️" tvg-logo="http://logo1010.com/news/ssportplus2-hd.png" group-title="TR • ⚽️S Sport",S Sport + Plus 2⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/190977.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport + Plus 3⚽️" tvg-logo="http://logo1010.com/news/ssportplus3-hd.png" group-title="TR • ⚽️S Sport",S Sport + Plus 3⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/190978.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport + Plus 4⚽️" tvg-logo="http://logo1010.com/news/ssportplus4-hd.png" group-title="TR • ⚽️S Sport",S Sport + Plus 4⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/190979.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport + Plus 5⚽️" tvg-logo="http://logo1010.com/news/ssportplus5-hd.png" group-title="TR • ⚽️S Sport",S Sport + Plus 5⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/195534.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport + Plus 6⚽️" tvg-logo="http://logo1010.com/news/ssportplus6-hd.png" group-title="TR • ⚽️S Sport",S Sport + Plus 6⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/212324.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="Trt Spor HD⚽️" tvg-logo="http://logo1010.com/news/trtspor-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Trt Spor HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/151239.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="Trt Spor FHD⚽️" tvg-logo="http://logo1010.com/news/trtspor-fhd.png" group-title="TR • ⚽️Spor&Dsmart ",Trt Spor FHD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/690.ts
+#EXTINF:-1 tvg-id="trtspor3.tr" tvg-name="Trt 3 Spor HD⚽️" tvg-logo="http://logo1010.com/cdn/spor/tbmm.png" group-title="TR • ⚽️Spor&Dsmart ",Trt 3 Spor HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/195535.ts
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="Trt Spor Yıldız HD⚽️" tvg-logo="http://logo1010.com/news/trty%C4%B1ld%C4%B1z-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Trt Spor Yıldız HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/52906.ts
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="TR • ⚽️Spor&Dsmart ",HT SPOR HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/319408.ts
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="Tv8.5 HD⚽️" tvg-logo="http://logo1010.com/news/tv8.5-fhd.png" group-title="TR • ⚽️Spor&Dsmart ",Tv8.5 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/789.ts
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="Tv8.5 SD⚽️" tvg-logo="http://logo1010.com/news/tv8.5-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Tv8.5 SD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/163412.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 HD⚽️" tvg-logo="http://45.143.97.231:8080/exxen1-exxen/mpegts" group-title="TR • ⚽️Exxen Spor",Exxen Spor 1 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/203745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 SD⚽️" tvg-logo="http://logo1010.com/cdn/exxen/exxen-1.png" group-title="TR • ⚽️Exxen Spor",Exxen Spor 1 SD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/221872.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2⚽️" tvg-logo="http://logo1010.com/news/exxen2-hd.png" group-title="TR • ⚽️Exxen Spor",Exxen Spor 2⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/203746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3⚽️" tvg-logo="http://logo1010.com/news/exxen3-hd.png" group-title="TR • ⚽️Exxen Spor",Exxen Spor 3⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/203747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 4⚽️" tvg-logo="http://logo1010.com/news/exxen4-hd.png" group-title="TR • ⚽️Exxen Spor",Exxen Spor 4⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/203748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 5⚽️" tvg-logo="http://logo1010.com/news/exxen5-hd.png" group-title="TR • ⚽️Exxen Spor",Exxen Spor 5⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/221870.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 6⚽️" tvg-logo="http://logo1010.com/news/exxen7-hd.png" group-title="TR • ⚽️Exxen Spor",Exxen Spor 6⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/221871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 7⚽️" tvg-logo="http://logo1010.com/news/exxen7-hd.png" group-title="TR • ⚽️Exxen Spor",Exxen Spor 7⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/221899.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 8⚽️" tvg-logo="http://logo1010.com/news/exxen8-hd.png" group-title="TR • ⚽️Exxen Spor",Exxen Spor 8⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/221900.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor HD⚽️" tvg-logo="http://logo1010.com/tabii/1.png" group-title="TR • ⚽️Tabii Spor",Tabi spor HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/318539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 1⚽️" tvg-logo="http://logo1010.com/tabii/2.png" group-title="TR • ⚽️Tabii Spor",Tabi spor 1⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/318540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 2⚽️" tvg-logo="http://logo1010.com/tabii/3.png" group-title="TR • ⚽️Tabii Spor",Tabi spor 2⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/318541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 3⚽️" tvg-logo="http://logo1010.com/tabii/4.png" group-title="TR • ⚽️Tabii Spor",Tabi spor 3⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/318542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 4⚽️" tvg-logo="http://logo1010.com/tabii/5.png" group-title="TR • ⚽️Tabii Spor",Tabi spor 4⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/318543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 5⚽️" tvg-logo="http://logo1010.com/tabii/6.png" group-title="TR • ⚽️Tabii Spor",Tabi spor 5⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/318544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 6⚽️" tvg-logo="http://logo1010.com/tabii/7.png" group-title="TR • ⚽️Tabii Spor",Tabi spor 6⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/318545.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="Smart Spor 1 HD⚽️" tvg-logo="http://logo1010.com/news/smartsp-fhd.png" group-title="TR • ⚽️Spor&Dsmart ",Smart Spor 1 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/808.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="Smart Spor 1 SD⚽️" tvg-logo="http://logo1010.com/news/smartsp-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Smart Spor 1 SD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/38382.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="Smart Spor 2 HD⚽️" tvg-logo="http://logo1010.com/news/smartsp2-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Smart Spor 2 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/126808.ts
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="EuroSport 1 HD⚽️" tvg-logo="http://logo1010.com/news/euro-1.png" group-title="TR • ⚽️Spor&Dsmart ",EuroSport 1 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/806.ts
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="EuroSport 2 HD⚽️" tvg-logo="http://logo1010.com/news/euro-2.png" group-title="TR • ⚽️Spor&Dsmart ",EuroSport 2 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/805.ts
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="Nba Tv HD" tvg-logo="http://logo1010.com/news/nba-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Nba Tv HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor-hd.png" group-title="TR • ⚽️Tivibu Spor",Tivibu Spor HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/234197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 1 Hd⚽️" tvg-logo="http://logo1010.com/news/tivibuspor1-hd.png" group-title="TR • ⚽️Tivibu Spor",Tivibu Spor 1 Hd⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 2 Hd⚽️" tvg-logo="http://logo1010.com/news/tivibuspor2-hd.png" group-title="TR • ⚽️Tivibu Spor",Tivibu Spor 2 Hd⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/811.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 3 Hd⚽️" tvg-logo="http://logo1010.com/news/tivibuspor3-hd.png" group-title="TR • ⚽️Tivibu Spor",Tivibu Spor 3 Hd⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/810.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor4-hd.png" group-title="TR • ⚽️Tivibu Spor",Tivibu Spor 4 HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/126812.ts
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="Sports TV HD⚽️" tvg-logo="http://logo1010.com/news/sportstv-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Sports TV HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/686.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A Spor HD⚽️" tvg-logo="http://logo1010.com/news/aspor-hd.png" group-title="TR • ⚽️Spor&Dsmart ",A Spor HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/151238.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A Spor FHD⚽️" tvg-logo="http://logo1010.com/news/aspor-fhd.png" group-title="TR • ⚽️Spor&Dsmart ",A Spor FHD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/697.ts
+#EXTINF:-1 tvg-id="gstv.tr" tvg-name="Gs Tv HD⚽️" tvg-logo="http://logo1010.com/news/gs-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Gs Tv HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/818.ts
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="Fb Tv HD⚽️" tvg-logo="http://logo1010.com/news/fb-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Fb Tv HD⚽️
+http://spy17.eu:80/live/hsynctnky/290921.hsn/687.ts
+#EXTINF:-1 tvg-id="" tvg-name="idman Tv HD" tvg-logo="http://logo1010.com/cdn/spor/idman.png" group-title="TR • ⚽️Spor&Dsmart ",idman Tv HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/203181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tay TV HD" tvg-logo="http://logo1010.com/news/taytv-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Tay TV HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Screen" tvg-logo="" group-title="TR • ⚽️Spor&Dsmart ",Fight Screen
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312667.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Wwe Smackdown" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • ⚽️Spor&Dsmart ",TR ☪ Proturk Wwe Smackdown
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316818.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Kickboxs" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • ⚽️Spor&Dsmart ",TR ☪ Proturk Kickboxs
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316819.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Egzersiz Sporları" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • ⚽️Spor&Dsmart ",TR ☪ Proturk Egzersiz Sporları
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316821.ts
+#EXTINF:-1 tvg-id="" tvg-name="W-SPORT HD" tvg-logo="" group-title="TR • ⚽️Spor&Dsmart ",W-SPORT HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/319406.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYZENTV HD" tvg-logo="" group-title="TR • ⚽️Spor&Dsmart ",MYZENTV HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/329192.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS HD" tvg-logo="" group-title="TR • ⚽️Spor&Dsmart ",TRACE SPORT STARS HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/329193.ts
 ******************YEREL*****************************
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", TVA 
@@ -979,9 +1149,1348 @@ http://stream.tvcdn.net/yerel/olay-turk.m3u8
 http://stream.tvcdn.net/yerel/on6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/447e9b7b-7911-4e38-a11f-22f84615b791.png" group-title="Yerel",On Medya
 http://stream.tvcdn.net/yerel/on-medya.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b99fecaa-dfd3-4b6e-8fd2-51e9545ee425.png" group-title="Yerel",Öncü RTV
-http://stream.tvcdn.net/yerel/oncu-rtv.m3u8
 
+***********test*sinema******************
+#EXTINF:-1 tvg-id="" tvg-name="---------SINEMA ----------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Sinema ",---------SINEMA ----------
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1891.ts
+#EXTINF:-1 tvg-id="vipchannel.tr" tvg-name="Vip Channel" tvg-logo="https://i.hizliresim.com/f3fh3wf.png" group-title="TR • Sinema ",Vip Channel
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1688.ts
+#EXTINF:-1 tvg-id="vipcanel2.tr" tvg-name="Vip Channel 2" tvg-logo="https://i.hizliresim.com/f3fh3wf.png" group-title="TR • Sinema ",Vip Channel 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Premier" tvg-logo="https://i.hizliresim.com/f3fh3wf.png" group-title="TR • Sinema ",Vip Channel Premier
+http://spy17.eu:80/live/hsynctnky/290921.hsn/331183.ts
+#EXTINF:-1 tvg-id="loca1.tr" tvg-name="Loca 1 Hd" tvg-logo="http://logo1010.com/lg/loca1.png" group-title="TR • Sinema ",Loca 1 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1703.ts
+#EXTINF:-1 tvg-id="loca2.tr" tvg-name="Loca 2 Hd" tvg-logo="http://logo1010.com/lg/loca2.png" group-title="TR • Sinema ",Loca 2 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1704.ts
+#EXTINF:-1 tvg-id="loca3.tr" tvg-name="Loca 3 Hd" tvg-logo="http://logo1010.com/lg/loca3.png" group-title="TR • Sinema ",Loca 3 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1705.ts
+#EXTINF:-1 tvg-id="netfilixwestern.ad" tvg-name="Bein Box Office Premier HD" tvg-logo="https://i.hizliresim.com/hpzq9k8.png" group-title="TR • Sinema ",Bein Box Office Premier HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/231145.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Bein Box Office 1 Hd" tvg-logo="http://logo1010.com/cdn/sinema/b.b.officehd_2.png" group-title="TR • Sinema ",Bein Box Office 1 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1699.ts
+#EXTINF:-1 tvg-id="beinofice2.tr" tvg-name="Bein Box Office 2 Hd" tvg-logo="http://logo1010.com/cdn/sinema/b.b.officehd_2.png" group-title="TR • Sinema ",Bein Box Office 2 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1700.ts
+#EXTINF:-1 tvg-id="beinofice3.tr" tvg-name="Bein Box Office 3 Hd" tvg-logo="http://logo1010.com/cdn/sinema/b.b.officehd_2.png" group-title="TR • Sinema ",Bein Box Office 3 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1701.ts
+#EXTINF:-1 tvg-id="netfilixaksiyon.ad" tvg-name="Netflix Aksiyon HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/aksiyon.png" group-title="TR • Sinema ",Netflix Aksiyon HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/231128.ts
+#EXTINF:-1 tvg-id="netfilixkomedi.ad" tvg-name="Netflix Komedi HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/komedi.png" group-title="TR • Sinema ",Netflix Komedi HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/231129.ts
+#EXTINF:-1 tvg-id="netfilixaile.ad" tvg-name="Netflix Aile HD" tvg-logo="https://i.hizliresim.com/8m2c1wo.jpg" group-title="TR • Sinema ",Netflix Aile HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/231130.ts
+#EXTINF:-1 tvg-id="netfilixask.ad" tvg-name="Netflix Aşk HD" tvg-logo="https://i.hizliresim.com/ohu3abi.jpg" group-title="TR • Sinema ",Netflix Aşk HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/231131.ts
+#EXTINF:-1 tvg-id="netfilixdram.ad" tvg-name="Netflix Dram HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/drama.png" group-title="TR • Sinema ",Netflix Dram HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/231132.ts
+#EXTINF:-1 tvg-id="netfilixkorku.ad" tvg-name="Netflix Korku HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/korku.png" group-title="TR • Sinema ",Netflix Korku HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/231144.ts
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="beIN Movies Türk HD" tvg-logo="http://logo1010.com/lg/beinmoviesturk.jfif" group-title="TR • Sinema ",beIN Movies Türk HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/265914.ts
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="beIN Movies Stars HD" tvg-logo="http://logo1010.com/lg/beinmoviesstar.jfif" group-title="TR • Sinema ",beIN Movies Stars HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/265915.ts
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="beIN Movies Premiere 1 HD" tvg-logo="http://logo1010.com/lg/beinmoviespremiere.jfif" group-title="TR • Sinema ",beIN Movies Premiere 1 HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/265916.ts
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="beIN Movies Premiere 2 HD" tvg-logo="http://logo1010.com/lg/beinmoviespremiere2.jfif" group-title="TR • Sinema ",beIN Movies Premiere 2 HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/265917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movie Time Yeşilçam" tvg-logo="https://i.hizliresim.com/gbdj5kp.png" group-title="TR • Sinema ",Movie Time Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/330150.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC First HD" tvg-logo="" group-title="TR • Sinema ",BBC First HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/310888.ts
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama HD" tvg-logo="https://i.hizliresim.com/1029igo.png" group-title="TR • Sinema ",Epic Drama HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/292011.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="http://logo1010.com/lg/beinseries1.jfif" group-title="TR • Sinema ",beIN Series 1 HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/265918.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="http://logo1010.com/lg/beinseries2.jfif" group-title="TR • Sinema ",beIN Series 2 HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/265919.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 3 HD" tvg-logo="http://logo1010.com/lg/beinseries3.jfif" group-title="TR • Sinema ",beIN Series 3 HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/265920.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 4 HD" tvg-logo="http://logo1010.com/lg/beinseries4.jfif" group-title="TR • Sinema ",beIN Series 4 HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/265921.ts
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="D-Smart Moviesmart Classic" tvg-logo="http://logo1010.com/cdn/sinema/moviesmartclassichd.png" group-title="TR • Sinema ",D-Smart Moviesmart Classic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/769.ts
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="D-Smart Moviesmart Turk HD" tvg-logo="http://logo1010.com/cdn/sinema/moviesmartturkhd.png" group-title="TR • Sinema ",D-Smart Moviesmart Turk HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/775.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Komedi 2 Hd" tvg-logo="http://logo1010.com/cdn/sinema/sinemakomedi2.png" group-title="TR • Sinema ",Sinema Komedi 2 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/52907.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 2 Hd" tvg-logo="http://logo1010.com/cdn/sinema/sinemaaksiyon2.png" group-title="TR • Sinema ",Sinema Aksiyon 2 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/52908.ts
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="Sinema 2 HD" tvg-logo="http://logo1010.com/cdn/sinema/sinematv.png" group-title="TR • Sinema ",Sinema 2 HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/28875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Yerli Hd" tvg-logo="http://logo1010.com/cdn/sinema/sinemayerli.png" group-title="TR • Sinema ",Sinema Yerli Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/13267.ts
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="SiNEMA YERLi 2" tvg-logo="http://logo1010.com/cdn/sinema/sinemayerli2.png" group-title="TR • Sinema ",SiNEMA YERLi 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/29588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aile HD" tvg-logo="http://logo1010.com/cdn/sinema/sinemaaile.png" group-title="TR • Sinema ",Sinema Aile HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/721.ts
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="SiNEMA AiLE 2" tvg-logo="http://logo1010.com/cdn/sinema/sinemaaile.png" group-title="TR • Sinema ",SiNEMA AiLE 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/29587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sinema TV HD" tvg-logo="http://logo1010.com/cdn/sinema/sinematv.png" group-title="TR • Sinema ",Sinema TV HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/9842.ts
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="Sinema  1001 Hd" tvg-logo="http://logo1010.com/cdn/sinema/sinema1001.png" group-title="TR • Sinema ",Sinema  1001 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/28586.ts
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="Sinema 1002 Hd" tvg-logo="http://logo1010.com/cdn/sinema/sinema1002.png" group-title="TR • Sinema ",Sinema 1002 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/28587.ts
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="Sinema Komedi 1 Hd" tvg-logo="http://logo1010.com/cdn/sinema/sinemakomedi.png" group-title="TR • Sinema ",Sinema Komedi 1 Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/28588.ts
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="Sinema Tv Aksiyon HD" tvg-logo="http://logo1010.com/cdn/sinema/sinemaaksiyon.png" group-title="TR • Sinema ",Sinema Tv Aksiyon HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/6925.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 1" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 2" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 3" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 4" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 5" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247505.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 1" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247506.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 2" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 3" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 4" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 5" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Adile Naşit HD 1" tvg-logo="http://logo1010.com/lg/adlienasit.jpg" group-title="TR • Sinema ",Adile Naşit HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Adile Naşit HD 2" tvg-logo="http://logo1010.com/lg/adlienasit.jpg" group-title="TR • Sinema ",Adile Naşit HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 1" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 2" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 3" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 4" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 5" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Küçük Emrah HD" tvg-logo="http://logo1010.com/lg/emrah.png" group-title="TR • Sinema ",Küçük Emrah HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247518.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ferdi Tayfur HD" tvg-logo="http://logo1010.com/lg/ferdi.png" group-title="TR • Sinema ",Ferdi Tayfur HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247519.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kadir inanır HD" tvg-logo="http://logo1010.com/lg/kadirinanir.png" group-title="TR • Sinema ",Kadir inanır HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orhan Gencebay HD" tvg-logo="http://logo1010.com/lg/orhangencebay.jpg" group-title="TR • Sinema ",Orhan Gencebay HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247521.ts
+#EXTINF:-1 tvg-id="" tvg-name="Şener Şen HD" tvg-logo="http://logo1010.com/lg/senersen.jpg" group-title="TR • Sinema ",Şener Şen HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turist Ömer HD" tvg-logo="http://logo1010.com/lg/turistomer.jpg" group-title="TR • Sinema ",Turist Ömer HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zeki Metin HD" tvg-logo="http://logo1010.com/lg/zekimetin.png" group-title="TR • Sinema ",Zeki Metin HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247525.ts
+#EXTINF:-1 tvg-id="" tvg-name="ibrahim Tatlıses HD" tvg-logo="http://logo1010.com/lg/tatlises.png" group-title="TR • Sinema ",ibrahim Tatlıses HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkan Şoray 1" tvg-logo="http://logo1010.com/lg/turkansoray.jpg" group-title="TR • Sinema ",Türkan Şoray 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkan Şoray 2" tvg-logo="http://logo1010.com/lg/turkansoray.jpg" group-title="TR • Sinema ",Türkan Şoray 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yılmaz Güney HD 1" tvg-logo="http://logo1010.com/lg/yilmazguney.jpg" group-title="TR • Sinema ",Yılmaz Güney HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yılmaz Güney HD 2" tvg-logo="http://logo1010.com/lg/yilmazguney.jpg" group-title="TR • Sinema ",Yılmaz Güney HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Altyazı Sinema HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Altyazı Sinema HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Altyazı Sinema HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Western HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Western HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Western HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Western HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 3" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 4" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 5" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Dram Sinema HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Dram Sinema HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 3" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Dram Sinema HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 4" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Dram Sinema HD 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Korku Sinema HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Korku Sinema HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247549.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 4" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 5" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 6" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 6
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 7" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 7
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 8" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 8
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 9" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 9
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 10" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 10
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247559.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247563.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247564.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 4" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 5" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247567.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 6" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 6
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 7" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 7
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 8" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 8
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247570.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Dram Sinema HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Dram Sinema HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247572.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Dram Sinema HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Korku Sinema HD 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247578.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Korku Sinema HD 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Korku Sinema HD 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247580.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 1" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 2" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328497.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 3" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 4" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 5" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 6" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 6
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 7" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 7
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 8" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 8
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 9" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 9
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 10" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 10
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328505.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 11" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 11
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328506.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 12" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 12
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 13" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 13
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 14" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 14
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 15" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 15
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 16" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 16
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 17" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 17
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 18" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 18
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 19" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 19
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 20" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 20
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 21" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 21
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 22" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 22
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 1" tvg-logo="" group-title="TR • Sinema ",Cinefix Yerli Sinema 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 2" tvg-logo="" group-title="TR • Sinema ",Cinefix Yerli Sinema 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 3" tvg-logo="" group-title="TR • Sinema ",Cinefix Yerli Sinema 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328549.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILM SCREEN" tvg-logo="" group-title="TR • Sinema ",FILM SCREEN
+http://spy17.eu:80/live/hsynctnky/290921.hsn/329191.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K-Sinema 1" tvg-logo="" group-title="►4K Sinema",4K-Sinema 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/333826.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K-Transformers Box Set" tvg-logo="" group-title="►4K Sinema",4K-Transformers Box Set
+http://spy17.eu:80/live/hsynctnky/290921.hsn/333847.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Kaptan Amerika BoxSet" tvg-logo="" group-title="►4K Sinema",4k-Kaptan Amerika BoxSet
+http://spy17.eu:80/live/hsynctnky/290921.hsn/333865.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Yenilmezler BoxSet" tvg-logo="" group-title="►4K Sinema",4k-Yenilmezler BoxSet
+http://spy17.eu:80/live/hsynctnky/290921.hsn/333876.ts
+#EXTINF:-1 tvg-id="" tvg-name="---------- ☾☆ Sinema UP ☾☆ ---------- " tvg-logo="" group-title="TR • Sinema Up",---------- ☾☆ Sinema UP ☾☆ ---------- 
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328540.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Intro" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Intro
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316797.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Loca 1" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Loca 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316798.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Loca 2" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Loca 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316799.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Bilim Kurgu" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Bilim Kurgu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316800.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Action" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316801.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Gerilim" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Gerilim
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316802.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Korku" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316803.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Dram" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316804.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Fantastic" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316805.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Macera" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Macera
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316806.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Comedy" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316807.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Vizyon" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Vizyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316808.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Yerli" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316809.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Uzakdoğu" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Uzakdoğu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316810.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Western" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Western
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316811.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Netflix" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Netflix
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316812.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk 4k Ultra" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk 4k Ultra
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316813.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Orjinal" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Orjinal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316814.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Kemal Sunal" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Kemal Sunal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316815.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Yeşilçam" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316816.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Altyazı" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • Sinema Up",TR➤ Usk Vizyon Cinema Altyazı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316834.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Yerli" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • Sinema Up",TR➤ Usk Vizyon Cinema Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316835.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Dublaj" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • Sinema Up",TR➤ Usk Vizyon Cinema Dublaj
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316836.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Action" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316838.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Fantastic" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316839.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Gerilim" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Gerilim
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316840.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Bilim Kurgu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316841.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Vizyon" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Vizyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316842.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Macera" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Macera
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316843.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Korku" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316844.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Comedy" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316845.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Dram" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316846.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Yerli" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316847.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Kemal Sunal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316848.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Yeşilçam" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316849.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Belgesel" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Belgesel
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316851.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Action" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316852.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Bilim Kurgu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Fantastic" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316854.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Macera" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Macera
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316855.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Comedy" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316856.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Dram" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316857.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Yerli" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316858.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Kemal Sunal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316859.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Yeşilçam" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316860.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Action" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316861.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Bilim Kurgu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316862.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Macera" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Macera
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316863.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Fantastic" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316864.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Gerilim" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Gerilim
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316865.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Korku" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316866.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Comedy" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316867.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Dram" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316868.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Vizyon" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Vizyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316869.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Western" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Western
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316870.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Yerli" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316871.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Yeşilçam" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316872.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Hint" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Hint
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316873.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Action" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316880.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Bilim Kurgu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316881.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Fantastic" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316882.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Comedy" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316883.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Korku" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316884.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Dram" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316885.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Macera" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Macera
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316886.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Gerilim" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Gerilim
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316887.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Savaş" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Savaş
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316888.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Romantic" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Romantic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316889.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Yerli" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316890.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤: Dream Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤: Dream Box Kemal Sunal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316891.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Yeşilçam" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316892.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Netflix" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Netflix
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316893.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Action" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316894.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Bilimkurgu" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Bilimkurgu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316895.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Comedy" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316896.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Dram" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316897.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Fantastic" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316898.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Korku" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316899.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Macera" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Macera
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316900.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Netflix" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Netflix
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316901.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Yerli" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316902.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Yesilcam" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Yesilcam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316903.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Action" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316904.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Fantastic" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316905.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Bilim Kurgu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316906.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Macera" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Macera
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316907.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Korku" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316908.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Comedy" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316909.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Dram" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316910.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Western" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Western
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316911.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Vizyon" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Vizyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316912.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Yerli" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316913.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Gold" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Gold
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316914.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Netflix" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Netflix
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316915.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Marvel" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Marvel
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316916.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Yeşilçam" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316917.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Ülke Seyahat" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Ülke Seyahat
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316920.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Action" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316921.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Korku" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316922.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Fantastic" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316923.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Comedy" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316924.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Dram" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316925.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Vizyon" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Vizyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316926.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Kemal Sunal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316927.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Yerli" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316928.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Yeşilçam" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316929.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Disny +" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Disny +
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316930.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Action" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316931.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Bilim Kurgu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316932.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Macera" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Macera
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316933.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Fantastic" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316934.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Gerilim" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Gerilim
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316935.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Korku" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316936.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Western" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Western
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316937.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Dram" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316938.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Savaş" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Savaş
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316939.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Romantik" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Romantik
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316940.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Comedy" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316941.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Yerli" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316942.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Yeşilçam" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316943.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Kemal Sunal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316944.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Netflix" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Netflix
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316945.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Orjinal" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Orjinal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316946.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Belgesel" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Belgesel
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316947.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Action" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316948.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Fantastic" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316949.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Family" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Family
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316950.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Horror" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Horror
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316951.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Comedy" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Comedy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316952.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Dram" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Dram
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316953.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Sci-fi" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Sci-fi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316954.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Yerli" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Yerli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316955.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Kemal Sunal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316956.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Yeşilçam" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Yeşilçam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316957.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Action" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Action
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316958.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Fantastic" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Fantastic
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316959.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Korku" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316960.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Turk" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Turk
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316961.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Western" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Western
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316962.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Gold" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Gold
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316963.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Netflix" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Netflix
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316964.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine  Yesilcam" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine  Yesilcam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316965.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine special" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine special
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316966.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 1" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316967.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 2" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316968.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 3" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316969.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 4" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316970.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 5" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316971.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 6" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 6
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316972.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 1" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316973.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 2" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316974.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 3" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316975.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 4" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316976.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 5" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316977.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX 4K UHD" tvg-logo="" group-title="TR • Sinema Up",FILMBOX 4K UHD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317202.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIER ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX PREMIER ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317203.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ACTION ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317204.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SCI-FI ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX SCI-FI ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317205.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTIC ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX FANTASTIC ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317206.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX DRAMA ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX DRAMA ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317207.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX HORROR ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317208.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX COMEDY ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317209.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ROMANTIC ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ROMANTIC ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317210.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX FAMILY ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317211.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YERLI ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX YERLI ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317212.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YESILCAM ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX YESILCAM ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317213.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX KEMAL SUNAL ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX KEMAL SUNAL ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317214.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SENER SEN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX SENER SEN ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317215.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ZEKI & METIN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ZEKI & METIN ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317216.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX TARIK AKAN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX TARIK AKAN ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317217.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX KADIR INANIR ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX KADIR INANIR ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317218.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX CUNEYT ARKIN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX CUNEYT ARKIN ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317219.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ILYAS SALMAN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ILYAS SALMAN ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317220.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON INFO ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON INFO ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317221.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 1 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 1 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317222.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 2 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 2 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317223.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 3 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 3 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317224.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 4 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 4 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317225.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 5 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 5 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317226.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 6 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 6 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317227.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 7 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 7 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317228.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 8 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 8 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317229.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 9 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 9 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317230.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 10 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 10 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317231.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 11 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 11 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317232.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 12 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 12 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317233.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 13 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 13 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317234.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 14 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 14 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317235.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 15 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 15 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317236.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 16 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 16 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317237.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 17 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 17 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317238.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 18 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 18 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317239.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 19 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 19 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317240.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 20 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 20 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blutv | play 2 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",Blutv | play 2 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317296.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blutv | play 1 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",Blutv | play 1 ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317297.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMCLUB KOMEDİ" tvg-logo="" group-title="TR • Sinema Up",FİLMCLUB KOMEDİ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317298.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMCLUB FAMİLY" tvg-logo="" group-title="TR • Sinema Up",FİLMCLUB FAMİLY
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317299.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMCLUB AKSİYON" tvg-logo="" group-title="TR • Sinema Up",FİLMCLUB AKSİYON
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317300.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMCLUB" tvg-logo="" group-title="TR • Sinema Up",FİLMCLUB
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317301.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMAX" tvg-logo="" group-title="TR • Sinema Up",FİLMAX
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317302.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="TR • Sinema Up",FİL TV
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317303.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317304.ts
+#EXTINF:-1 tvg-id="" tvg-name="-----| Boxet Sinema |-----" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Sinema boxset",-----| Boxet Sinema |-----
+http://spy17.eu:80/live/hsynctnky/290921.hsn/185246.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Transformers" tvg-logo="http://logo1010.com/lg/transformers.jpg" group-title="TR • Sinema boxset",[Boxset] Transformers
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247421.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] 13.Cuma" tvg-logo="http://logo1010.com/lg/13cuma.jpg" group-title="TR • Sinema boxset",[Boxset] 13.Cuma
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247422.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] 300 Spartalı" tvg-logo="http://logo1010.com/lg/300spartali.png" group-title="TR • Sinema boxset",[Boxset] 300 Spartalı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247423.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Charlie's Angels" tvg-logo="http://logo1010.com/lg/carlininmelekleri.jpg" group-title="TR • Sinema boxset",[Boxset] Charlie's Angels
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247424.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] G.I.Joe" tvg-logo="http://logo1010.com/lg/G.I.Joe.png" group-title="TR • Sinema boxset",[Boxset] G.I.Joe
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247425.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hellboy" tvg-logo="http://logo1010.com/lg/Hellboy.png" group-title="TR • Sinema boxset",[Boxset] Hellboy
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247426.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ip Man" tvg-logo="http://logo1010.com/lg/ipman.jpg" group-title="TR • Sinema boxset",[Boxset] Ip Man
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247427.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ocean's" tvg-logo="http://logo1010.com/lg/ocean.jpg" group-title="TR • Sinema boxset",[Boxset] Ocean's
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247428.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Rambo" tvg-logo="http://logo1010.com/lg/rambo.png" group-title="TR • Sinema boxset",[Boxset] Rambo
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247429.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Riddick" tvg-logo="http://logo1010.com/lg/riddick.jpg" group-title="TR • Sinema boxset",[Boxset] Riddick
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247430.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Taşıyıcı" tvg-logo="http://logo1010.com/lg/tasiyici.jpg" group-title="TR • Sinema boxset",[Boxset] Taşıyıcı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247431.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Thor" tvg-logo="http://logo1010.com/lg/thor.png" group-title="TR • Sinema boxset",[Boxset] Thor
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247432.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Zor Ölüm" tvg-logo="http://logo1010.com/lg/zorolum.jpg" group-title="TR • Sinema boxset",[Boxset] Zor Ölüm
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247433.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Açlık Oyunları" tvg-logo="http://logo1010.com/lg/aclikoyunlari.jpg" group-title="TR • Sinema boxset",[Boxset] Açlık Oyunları
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247434.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Alacakaranlık" tvg-logo="http://logo1010.com/lg/alacakaranlik.jpg" group-title="TR • Sinema boxset",[Boxset] Alacakaranlık
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247435.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ant-Man" tvg-logo="http://logo1010.com/lg/antman.jpg" group-title="TR • Sinema boxset",[Boxset] Ant-Man
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247436.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Arınma Gecesi" tvg-logo="http://logo1010.com/lg/arinmagecesi.jpg" group-title="TR • Sinema boxset",[Boxset] Arınma Gecesi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247437.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Batman" tvg-logo="http://logo1010.com/lg/batman.png" group-title="TR • Sinema boxset",[Boxset] Batman
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247438.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Bitirim İkili" tvg-logo="http://logo1010.com/lg/bitirimikili.jpg" group-title="TR • Sinema boxset",[Boxset] Bitirim İkili
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247440.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Blade" tvg-logo="http://logo1010.com/lg/bladerunner.png" group-title="TR • Sinema boxset",[Boxset] Blade
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247441.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kaptan Amerika" tvg-logo="http://logo1010.com/lg/kaptanamerika.jfif" group-title="TR • Sinema boxset",[Boxset] Kaptan Amerika
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247442.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cehennem Melekleri" tvg-logo="http://logo1010.com/lg/cehennemmelekleri.jpg" group-title="TR • Sinema boxset",[Boxset] Cehennem Melekleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247443.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Conan" tvg-logo="http://logo1010.com/lg/conan.jpg" group-title="TR • Sinema boxset",[Boxset] Conan
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247444.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Deadpool" tvg-logo="http://logo1010.com/lg/Deadpool.png" group-title="TR • Sinema boxset",[Boxset] Deadpool
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247445.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Demir Adam" tvg-logo="http://logo1010.com/lg/demiradam.png" group-title="TR • Sinema boxset",[Boxset] Demir Adam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247446.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ejderha Dövmeli Kız" tvg-logo="http://logo1010.com/lg/ejderhadovmelikiz.jpg" group-title="TR • Sinema boxset",[Boxset] Ejderha Dövmeli Kız
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247447.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Elm Sokağı Kabusu" tvg-logo="http://logo1010.com/lg/elmsokagindakabus.jpg" group-title="TR • Sinema boxset",[Boxset] Elm Sokağı Kabusu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247448.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Fantastik Canavarlar" tvg-logo="http://logo1010.com/lg/fantastikcanavarlar.jpg" group-title="TR • Sinema boxset",[Boxset] Fantastik Canavarlar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247449.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Fantastik Dörtlü" tvg-logo="http://logo1010.com/lg/fantastikdortlu.jpg" group-title="TR • Sinema boxset",[Boxset] Fantastik Dörtlü
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247450.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Felekten Bir Gece" tvg-logo="http://logo1010.com/lg/felektenbirgece.jpg" group-title="TR • Sinema boxset",[Boxset] Felekten Bir Gece
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247451.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Geçmişi Olmayan Adam" tvg-logo="http://logo1010.com/lg/gecmisiolmayanadam.jpg" group-title="TR • Sinema boxset",[Boxset] Geçmişi Olmayan Adam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247452.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Geleceğe Dönüş" tvg-logo="http://logo1010.com/lg/gelecegedonus.jpg" group-title="TR • Sinema boxset",[Boxset] Geleceğe Dönüş
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247453.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Görevimiz Tehlike" tvg-logo="http://logo1010.com/lg/gorevimiztehlike.jpg" group-title="TR • Sinema boxset",[Boxset] Görevimiz Tehlike
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247454.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hayalet Avcıları" tvg-logo="http://logo1010.com/lg/hayaletavcilari.jpg" group-title="TR • Sinema boxset",[Boxset] Hayalet Avcıları
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247455.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hayalet Sürücü" tvg-logo="http://logo1010.com/lg/hayaletsurucu.jpg" group-title="TR • Sinema boxset",[Boxset] Hayalet Sürücü
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247456.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hobbit" tvg-logo="http://logo1010.com/lg/hobbit.jpg" group-title="TR • Sinema boxset",[Boxset] Hobbit
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247457.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Indiana Jones HD" tvg-logo="http://logo1010.com/lg/indianajones.jpg" group-title="TR • Sinema boxset",[Boxset] Indiana Jones HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247458.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] James Bond" tvg-logo="http://logo1010.com/lg/jamesbond.png" group-title="TR • Sinema boxset",[Boxset] James Bond
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247459.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jhon Wick" tvg-logo="http://logo1010.com/lg/johnwick.jpg" group-title="TR • Sinema boxset",[Boxset] Jhon Wick
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247460.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jumanji" tvg-logo="http://logo1010.com/lg/jumanji.jpg" group-title="TR • Sinema boxset",[Boxset] Jumanji
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247461.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jurassic Park" tvg-logo="http://logo1010.com/lg/JurassicPark.jpg" group-title="TR • Sinema boxset",[Boxset] Jurassic Park
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247462.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Karanlıklar Ulkesi" tvg-logo="http://logo1010.com/lg/karanliklarulkesi.jpg" group-title="TR • Sinema boxset",[Boxset] Karanlıklar Ulkesi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247463.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Karayip Korsanları" tvg-logo="http://logo1010.com/lg/karayipkorsanlari.png" group-title="TR • Sinema boxset",[Boxset] Karayip Korsanları
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247464.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kelebek etkisi" tvg-logo="http://logo1010.com/lg/kelebeketkisi.jpg" group-title="TR • Sinema boxset",[Boxset] Kelebek etkisi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247465.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kill Bill" tvg-logo="http://logo1010.com/lg/killbill.png" group-title="TR • Sinema boxset",[Boxset] Kill Bill
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247466.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Korku Kapanı" tvg-logo="http://logo1010.com/lg/korkukapani.jpg" group-title="TR • Sinema boxset",[Boxset] Korku Kapanı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247467.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Korkunç Bir Film" tvg-logo="http://logo1010.com/lg/korkuncbirfilm.jp" group-title="TR • Sinema boxset",[Boxset] Korkunç Bir Film
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247468.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtuluş Günü" tvg-logo="http://logo1010.com/lg/kurtulusgunu.jpg" group-title="TR • Sinema boxset",[Boxset] Kurtuluş Günü
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247469.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Labirent" tvg-logo="http://logo1010.com/lg/labirent.jpg" group-title="TR • Sinema boxset",[Boxset] Labirent
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247470.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Mavi Korku" tvg-logo="http://logo1010.com/lg/mavikorku.jpg" group-title="TR • Sinema boxset",[Boxset] Mavi Korku
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247471.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Maymunlar Cehennemi" tvg-logo="https://1.bp.blogspot.com/--Ac8JwcgxMQ/XY22JjlqYlI/AAAAAAAAFBY/jwGMdc36Ugge-EQz7ee7UEjU30P-BVf8ACLcBGAsYHQ/s1600/Maymunlar%2BCehennemi%2B3%2BSava%25C5%259F%2B-%2BWar%2Bfor%2Bthe%2BPlanet%2Bof%2Bthe%2BApes%2B%25281%2529.jpg" group-title="TR • Sinema boxset",[Boxset] Maymunlar Cehennemi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247472.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Mumya" tvg-logo="http://logo1010.com/lg/mumya.jpg" group-title="TR • Sinema boxset",[Boxset] Mumya
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247473.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Müzede Bir Gece" tvg-logo="http://logo1010.com/lg/muzedebirgece.jpg" group-title="TR • Sinema boxset",[Boxset] Müzede Bir Gece
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247474.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ölümcül Deney" tvg-logo="http://logo1010.com/lg/olumculdeney.jp" group-title="TR • Sinema boxset",[Boxset] Ölümcül Deney
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247475.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Örümcek Adam" tvg-logo="http://logo1010.com/lg/orumcekadam.png" group-title="TR • Sinema boxset",[Boxset] Örümcek Adam
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247476.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Polis Akademisi" tvg-logo="http://logo1010.com/lg/polisakademisi.jpg" group-title="TR • Sinema boxset",[Boxset] Polis Akademisi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247477.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Rocky" tvg-logo="http://logo1010.com/lg/rocky.png" group-title="TR • Sinema boxset",[Boxset] Rocky
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247478.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Salak ile Avanak" tvg-logo="http://logo1010.com/lg/salakileavanak.jpg" group-title="TR • Sinema boxset",[Boxset] Salak ile Avanak
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247479.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Şeytan Oteli" tvg-logo="http://logo1010.com/lg/seytanoteli.jpg" group-title="TR • Sinema boxset",[Boxset] Şeytan Oteli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247480.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Siyah Giyen Adamlar" tvg-logo="http://logo1010.com/lg/siyahgiyenadamlar.jpg" group-title="TR • Sinema boxset",[Boxset] Siyah Giyen Adamlar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247481.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Son Durak" tvg-logo="http://logo1010.com/lg/sondurak.jpg" group-title="TR • Sinema boxset",[Boxset] Son Durak
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247482.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Star Wars" tvg-logo="http://logo1010.com/lg/starwars.png" group-title="TR • Sinema boxset",[Boxset] Star Wars
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247483.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Süperman" tvg-logo="http://logo1010.com/lg/superman.png" group-title="TR • Sinema boxset",[Boxset] Süperman
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247484.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Terminator" tvg-logo="http://logo1010.com/lg/terminator.png" group-title="TR • Sinema boxset",[Boxset] Terminator
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247485.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Testere" tvg-logo="http://logo1010.com/lg/testere.jpg" group-title="TR • Sinema boxset",[Boxset] Testere
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247486.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Uyumsuz" tvg-logo="http://logo1010.com/lg/uyumsuz.jpg" group-title="TR • Sinema boxset",[Boxset] Uyumsuz
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247487.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Uzay Yolu" tvg-logo="http://logo1010.com/lg/uzayyolu.jpg" group-title="TR • Sinema boxset",[Boxset] Uzay Yolu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247488.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] X-Man" tvg-logo="http://162.19.169.196:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUMACwAoB0Wz736yxPffDPnRdD1Sq91WH7pDCmRTmQlhule3f_94eHRyKVBbsU0KXZvUo_yjmPKPGZKU5rW-FHu.jpg" group-title="TR • Sinema boxset",[Boxset] X-Man
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247489.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yenilmezler" tvg-logo="http://logo1010.com/lg/yenilmezler.jpg" group-title="TR • Sinema boxset",[Boxset] Yenilmezler
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247490.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yüzüklerin Efendisi" tvg-logo="http://logo1010.com/lg/yuzuklerinefendisi.jpg" group-title="TR • Sinema boxset",[Boxset] Yüzüklerin Efendisi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247491.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jackie Chan" tvg-logo="http://logo1010.com/lg/jackiechan.jpg" group-title="TR • Sinema boxset",[Boxset] Jackie Chan
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247493.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Matrix" tvg-logo="http://logo1010.com/lg/Matrix.png" group-title="TR • Sinema boxset",[Boxset] Matrix
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247494.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hızlı ve Öfkeli" tvg-logo="http://logo1010.com/lg/hizliveofkeli.jpg" group-title="TR • Sinema boxset",[Boxset] Hızlı ve Öfkeli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247495.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Harry Potter" tvg-logo="http://logo1010.com/lg/harrypotter.png" group-title="TR • Sinema boxset",[Boxset] Harry Potter
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247496.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Recep ivedik" tvg-logo="http://logo1010.com/lg/recepivedik.jpg" group-title="TR • Sinema boxset",[Boxset] Recep ivedik
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247497.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Oflu Hoca'nın Şifresi" tvg-logo="http://logo1010.com/lg/ofluhocaninsifresi.png" group-title="TR • Sinema boxset",[Boxset] Oflu Hoca'nın Şifresi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247498.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çakallarla Dans" tvg-logo="http://logo1010.com/lg/cakallarladans.png" group-title="TR • Sinema boxset",[Boxset] Çakallarla Dans
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247499.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hababam Sınıfı" tvg-logo="http://logo1010.com/lg/hababamsinifi.jpg" group-title="TR • Sinema boxset",[Boxset] Hababam Sınıfı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hep Yek" tvg-logo="" group-title="TR • Sinema boxset",Hep Yek
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312376.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kolpaçino" tvg-logo="" group-title="TR • Sinema boxset",Kolpaçino
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kutsal Damacana" tvg-logo="" group-title="TR • Sinema boxset",Kutsal Damacana
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312378.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Dizi |------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Dizi ",------| Dizi |------
+http://spy17.eu:80/live/hsynctnky/290921.hsn/3213.ts
+#EXTINF:-1 tvg-id="" tvg-name="D-Smart Dizi Premium HD" tvg-logo="http://logo1010.com/cdn/sinema/dizismartpremiumhd.png" group-title="TR • Dizi ",D-Smart Dizi Premium HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/770.ts
+#EXTINF:-1 tvg-id="" tvg-name="D-Smart FX" tvg-logo="http://logo1010.com/cdn/sinema/fxhd_2.png" group-title="TR • Dizi ",D-Smart FX
+http://spy17.eu:80/live/hsynctnky/290921.hsn/710.ts
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="D-Smart Dizi Smart Max Hd" tvg-logo="http://logo1010.com/cdn/sinema/dizismartmaxhd.png" group-title="TR • Dizi ",D-Smart Dizi Smart Max Hd
+http://spy17.eu:80/live/hsynctnky/290921.hsn/722.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Geniş Aile" tvg-logo="http://logo1010.com/lg/genisaile.jpg" group-title="TR • Dizi ",[Boxset] Geniş Aile
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247645.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Chucky" tvg-logo="" group-title="TR • Dizi ",[Boxset] Chucky
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312520.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Game Of Thrones" tvg-logo="" group-title="TR • Dizi ",[Boxset] Game Of Thrones
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312521.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] La Casa De Papel" tvg-logo="" group-title="TR • Dizi ",[Boxset] La Casa De Papel
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312522.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Squid Game" tvg-logo="" group-title="TR • Dizi ",[Boxset] Squid Game
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312523.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi S01" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi S01
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312524.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi S02" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi S02
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312525.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi S03" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi S03
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312526.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi S04" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi S04
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312527.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 1.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 1.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312528.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 2.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 2.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312529.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 3.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 3.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312530.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 4.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 4.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312531.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 5.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 5.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312532.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 6.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 6.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312533.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 7.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 7.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312534.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 8.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 8.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312535.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 9.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 9.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312536.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 10.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kurtlar Vadisi Pusu 10.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312537.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çukur" tvg-logo="" group-title="TR • Dizi ",[Boxset] Çukur
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312538.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ezel" tvg-logo="" group-title="TR • Dizi ",[Boxset] Ezel
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312539.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Üç Kuruş" tvg-logo="" group-title="TR • Dizi ",[Boxset] Üç Kuruş
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312540.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Suskunlar" tvg-logo="" group-title="TR • Dizi ",[Boxset] Suskunlar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312541.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Karadayı" tvg-logo="" group-title="TR • Dizi ",[Boxset] Karadayı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312542.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Deli Yürek" tvg-logo="" group-title="TR • Dizi ",[Boxset] Deli Yürek
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312543.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Behzat Ç" tvg-logo="" group-title="TR • Dizi ",[Boxset] Behzat Ç
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312544.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çekiç ve Gül: Bir Behzat Ç. Hikayesi" tvg-logo="" group-title="TR • Dizi ",[Boxset] Çekiç ve Gül: Bir Behzat Ç. Hikayesi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312545.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Leyla ile Mecnun" tvg-logo="" group-title="TR • Dizi ",[Boxset] Leyla ile Mecnun
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312546.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Leyla ile Mecnun EXXEN" tvg-logo="" group-title="TR • Dizi ",[Boxset] Leyla ile Mecnun EXXEN
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312547.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sihirli Annem" tvg-logo="" group-title="TR • Dizi ",[Boxset] Sihirli Annem
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312548.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sihirli Annem EXXEN" tvg-logo="" group-title="TR • Dizi ",[Boxset] Sihirli Annem EXXEN
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312549.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Börü" tvg-logo="" group-title="TR • Dizi ",[Boxset] Börü
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312550.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Börü 2039" tvg-logo="" group-title="TR • Dizi ",[Boxset] Börü 2039
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312551.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Alef" tvg-logo="" group-title="TR • Dizi ",[Boxset] Alef
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312552.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çıplak" tvg-logo="" group-title="TR • Dizi ",[Boxset] Çıplak
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312553.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Pavyon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Pavyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312554.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kıyma" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kıyma
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312555.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sokağın Çocukları" tvg-logo="" group-title="TR • Dizi ",[Boxset] Sokağın Çocukları
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312557.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Gibi" tvg-logo="" group-title="TR • Dizi ",[Boxset] Gibi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312559.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hakan: Muhafız" tvg-logo="" group-title="TR • Dizi ",[Boxset] Hakan: Muhafız
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312560.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kulüp" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kulüp
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312561.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Pera Palas ta Gece Yarısı" tvg-logo="" group-title="TR • Dizi ",[Boxset] Pera Palas ta Gece Yarısı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312562.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Fatma" tvg-logo="" group-title="TR • Dizi ",[Boxset] Fatma
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312563.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Zeytin Ağacı" tvg-logo="" group-title="TR • Dizi ",[Boxset] Zeytin Ağacı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312564.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Aşk 101" tvg-logo="" group-title="TR • Dizi ",[Boxset] Aşk 101
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312565.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Erşan Kuneri" tvg-logo="" group-title="TR • Dizi ",[Boxset] Erşan Kuneri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312567.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Avlu" tvg-logo="" group-title="TR • Dizi ",[Boxset] Avlu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312568.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çiçek Taksi" tvg-logo="" group-title="TR • Dizi ",[Boxset] Çiçek Taksi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312569.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Acı Hayat" tvg-logo="" group-title="TR • Dizi ",[Boxset] Acı Hayat
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312570.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ekmek Teknesi" tvg-logo="" group-title="TR • Dizi ",[Boxset] Ekmek Teknesi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312572.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] işler Güçler" tvg-logo="" group-title="TR • Dizi ",[Boxset] işler Güçler
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312573.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kardeş Payı" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kardeş Payı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312574.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ramo" tvg-logo="" group-title="TR • Dizi ",[Boxset] Ramo
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312575.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sıdıka" tvg-logo="" group-title="TR • Dizi ",[Boxset] Sıdıka
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312576.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Avrupa Yakası" tvg-logo="" group-title="TR • Dizi ",[Boxset] Avrupa Yakası
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312577.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Doktorlar" tvg-logo="" group-title="TR • Dizi ",[Boxset] Doktorlar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312578.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Köprü" tvg-logo="" group-title="TR • Dizi ",[Boxset] Köprü
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312579.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Poyraz Karayel" tvg-logo="" group-title="TR • Dizi ",[Boxset] Poyraz Karayel
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312580.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kuzey Güney" tvg-logo="" group-title="TR • Dizi ",[Boxset] Kuzey Güney
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312581.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cennet Mahallesi" tvg-logo="" group-title="TR • Dizi ",[Boxset] Cennet Mahallesi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312582.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Muhteşem Yüzyıl" tvg-logo="" group-title="TR • Dizi ",[Boxset] Muhteşem Yüzyıl
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312583.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Muhteşem Yüzyıl Kösem" tvg-logo="" group-title="TR • Dizi ",[Boxset] Muhteşem Yüzyıl Kösem
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312584.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Aşk-ı Memnu" tvg-logo="" group-title="TR • Dizi ",[Boxset] Aşk-ı Memnu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312585.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 1.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Yaprak Dökümü 1.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312676.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 2.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Yaprak Dökümü 2.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312677.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 3.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Yaprak Dökümü 3.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312678.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 4.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Yaprak Dökümü 4.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312679.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 5.Sezon" tvg-logo="" group-title="TR • Dizi ",[Boxset] Yaprak Dökümü 5.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312680.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dizimax entertainment ʜᴅ" tvg-logo="" group-title="TR • Dizi ",Dizimax entertainment ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dizimax drama ʜᴅ" tvg-logo="" group-title="TR • Dizi ",Dizimax drama ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dizimax comedy ʜᴅ" tvg-logo="" group-title="TR • Dizi ",Dizimax comedy ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317294.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dizimax vice ʜᴅ" tvg-logo="" group-title="TR • Dizi ",Dizimax vice ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317295.ts
+#EXTINF:-1 tvg-id="" tvg-name="KONUSANLAR TV ʜᴅ" tvg-logo="" group-title="TR • Dizi ",KONUSANLAR TV ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ersan Kuneri mini dizi sezon1" tvg-logo="" group-title="TR • Dizi ",Ersan Kuneri mini dizi sezon1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328939.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ersan Kuneri mini dizi sezon2" tvg-logo="" group-title="TR • Dizi ",Ersan Kuneri mini dizi sezon2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328940.ts
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TURK BELGESEL █ ▆ ▅ ▃" tvg-logo="http://logo1010.com/kare/Doplayf.png" group-title="TR • Belgesel ",▃ ▅ ▆ █ TURK BELGESEL █ ▆ ▅ ▃
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1894.ts
+#EXTINF:-1 tvg-id="" tvg-name="VİP CHANNEL BELGESEL" tvg-logo="https://i.hizliresim.com/6ke71t8.png" group-title="TR • Belgesel ",VİP CHANNEL BELGESEL
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328867.ts
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://logo1010.com/news/discoverychannel-hd.png" group-title="TR • Belgesel ",DISCOVERY CHANNEL HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/766.ts
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD HD" tvg-logo="http://logo1010.com/news/natgeow%C4%B1ld-hd.png" group-title="TR • Belgesel ",NAT GEO WILD HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/711.ts
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo1010.com/news/natigeograp-hd.png" group-title="TR • Belgesel ",NATIONAL GEOGRAPHIC HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/758.ts
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="Viasat History HD" tvg-logo="http://logo1010.com/news/vaisathistory-hd.png" group-title="TR • Belgesel ",Viasat History HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/784.ts
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT EXPLORE HD" tvg-logo="http://logo1010.com/news/visiatex-hd.png" group-title="TR • Belgesel ",VIASAT EXPLORE HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/142740.ts
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT NATURE / HISTORY FHD" tvg-logo="http://logo1010.com/news/nature-hd.png" group-title="TR • Belgesel ",VIASAT NATURE / HISTORY FHD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/126814.ts
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="HISTORY FHD" tvg-logo="http://logo1010.com/news/history-hd.png" group-title="TR • Belgesel ",HISTORY FHD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/73348.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAVINCI LEARNING HD" tvg-logo="http://logo1010.com/cdn/haber/davincilearning.png" group-title="TR • Belgesel ",DAVINCI LEARNING HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/126862.ts
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="BBC EARTH FHD" tvg-logo="http://logo1010.com/news/bbcearth-fhd.png" group-title="TR • Belgesel ",BBC EARTH FHD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/704.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE TV FHD" tvg-logo="http://logo1010.com/news/lovenature-fhd.png" group-title="TR • Belgesel ",LOVE NATURE TV FHD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/195533.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Xtra HD" tvg-logo="http://logo1010.com/news/%C4%B1dbelgesel-hd.png" group-title="TR • Belgesel ",ID Xtra HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/126813.ts
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="beIN Gurme HD" tvg-logo="http://logo1010.com/news/beingurme-hd.png" group-title="TR • Belgesel ",beIN Gurme HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/21749.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TGRT BELGESEL HD" tvg-logo="http://logo1010.com/news/tgrtbelgesel-hd.png" group-title="TR • Belgesel ",TGRT BELGESEL HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/150006.ts
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="http://logo1010.com/news/trtbelgesel-hd.png" group-title="TR • Belgesel ",TRT BELGESEL HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarih Tv HD" tvg-logo="https://i.hizliresim.com/hun73g0.png" group-title="TR • Belgesel ",Tarih Tv HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247865.ts
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="Tlc." tvg-logo="http://logo1010.com/news/tlc-hd.png" group-title="TR • Belgesel ",Tlc.
+http://spy17.eu:80/live/hsynctnky/290921.hsn/679.ts
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="Dmax HD" tvg-logo="http://logo1010.com/news/dmax-hd.png" group-title="TR • Belgesel ",Dmax HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/692.ts
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="beIN IZ TV HD" tvg-logo="http://logo1010.com/news/beiniz-hd.png" group-title="TR • Belgesel ",beIN IZ TV HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/20838.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIFTCI TV" tvg-logo="http://logo1010.com/lg/ciftcitv.png" group-title="TR • Belgesel ",CIFTCI TV
+http://spy17.eu:80/live/hsynctnky/290921.hsn/151240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yaban TV HD" tvg-logo="http://logo1010.com/news/yaban-hd.png" group-title="TR • Belgesel ",Yaban TV HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/296183.ts
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul 4K" tvg-logo="" group-title="TR • Belgesel ",İstanbul 4K
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328465.ts
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul 1 4K" tvg-logo="" group-title="TR • Belgesel ",İstanbul 1 4K
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkiye Tanıtım" tvg-logo="" group-title="TR • Belgesel ",Türkiye Tanıtım
+http://spy17.eu:80/live/hsynctnky/290921.hsn/328467.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 1" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 2" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 3" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 4" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 5" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 6" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 6
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 7" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 7
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doğada Kal" tvg-logo="" group-title="TR • Belgesel ",Doğada Kal
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312257.ts
+#EXTINF:-1 tvg-id="" tvg-name="ilmek ilmek Anadolu" tvg-logo="" group-title="TR • Belgesel ",ilmek ilmek Anadolu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Suç Dosyası" tvg-logo="" group-title="TR • Belgesel ",Suç Dosyası
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yaşamın içinden Portreler" tvg-logo="" group-title="TR • Belgesel ",Yaşamın içinden Portreler
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312260.ts
+#EXTINF:-1 tvg-id="" tvg-name="32. Gün" tvg-logo="" group-title="TR • Belgesel ",32. Gün
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312261.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doğa Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Doğa Belgeselleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dünya Tarihinin Dönüm Noktaları" tvg-logo="" group-title="TR • Belgesel ",Dünya Tarihinin Dönüm Noktaları
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evliya Çelebi" tvg-logo="" group-title="TR • Belgesel ",Evliya Çelebi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hayvan Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Hayvan Belgeselleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312266.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega Yapılar" tvg-logo="" group-title="TR • Belgesel ",Mega Yapılar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Modern Mucizeler" tvg-logo="" group-title="TR • Belgesel ",Modern Mucizeler
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Müzik Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Müzik Belgeselleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Otomobil Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Otomobil Belgeselleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sağlık Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Sağlık Belgeselleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Savaşın Efsaneleri" tvg-logo="" group-title="TR • Belgesel ",Savaşın Efsaneleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarihin Ruhu" tvg-logo="" group-title="TR • Belgesel ",Tarihin Ruhu
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türk Tarihi" tvg-logo="" group-title="TR • Belgesel ",Türk Tarihi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Uzay Belgeselleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri " tvg-logo="" group-title="TR • Belgesel ",Yemek Belgeselleri 
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312276.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri 1" tvg-logo="" group-title="TR • Belgesel ",Yemek Belgeselleri 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri 2" tvg-logo="" group-title="TR • Belgesel ",Yemek Belgeselleri 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bilim Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Bilim Belgeselleri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312279.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarihi Belgeseller" tvg-logo="" group-title="TR • Belgesel ",Tarihi Belgeseller
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312280.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOCU SCREEN HD" tvg-logo="" group-title="TR • Belgesel ",DOCU SCREEN HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/329388.ts
+#EXTINF:-1 tvg-id="" tvg-name="----Eğlence---" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Eğlence",----Eğlence---
+http://spy17.eu:80/live/hsynctnky/290921.hsn/151317.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Konuşanlar 1.Sezon" tvg-logo="http://logo1010.com/lg/konusanlar.jpg" group-title="TR • Eğlence",[Boxset] Konuşanlar 1.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247653.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Konuşanlar 2.Sezon" tvg-logo="http://logo1010.com/lg/konusanlar.jpg" group-title="TR • Eğlence",[Boxset] Konuşanlar 2.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247654.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kuzeyin Oğlu Volkan Konak" tvg-logo="http://logo1010.com/lg/kuzeyinoglu.jpg" group-title="TR • Eğlence",[Boxset] Kuzeyin Oğlu Volkan Konak
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247655.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Tolgshow Filtresiz" tvg-logo="http://logo1010.com/lg/Tolgshowfiltresiz.jpg" group-title="TR • Eğlence",[Boxset] Tolgshow Filtresiz
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247656.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Tuz Biber" tvg-logo="http://logo1010.com/lg/survivor.jpg" group-title="TR • Eğlence",[Boxset] Tuz Biber
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247657.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Konuşanlar 3.Sezon" tvg-logo="http://logo1010.com/lg/survivor.jpg" group-title="TR • Eğlence",[Boxset] Konuşanlar 3.Sezon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247658.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Bir Demet Tiyatro" tvg-logo="http://logo1010.com/lg/birdemettiyatro.jpg" group-title="TR • Eğlence",[Boxset] Bir Demet Tiyatro
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247659.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Dayı Show" tvg-logo="http://logo1010.com/lg/cokguzelhareketler.jpg" group-title="TR • Eğlence",[Boxset] Dayı Show
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247660.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Doğu Demirkol ile Alelade Show" tvg-logo="http://logo1010.com/lg/guldurguldur.jpg" group-title="TR • Eğlence",[Boxset] Doğu Demirkol ile Alelade Show
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247661.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ata Demirer" tvg-logo="http://logo1010.com/lg/iboshow.png" group-title="TR • Eğlence",[Boxset] Ata Demirer
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247662.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Olacak O Kadar" tvg-logo="http://logo1010.com/lg/olacakokadar.jpg" group-title="TR • Eğlence",[Boxset] Olacak O Kadar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247663.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] TOLGSHOW" tvg-logo="http://logo1010.com/lg/sarkilarbizisoyler.jpg" group-title="TR • Eğlence",[Boxset] TOLGSHOW
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247664.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cem Yılmaz Gösteriler" tvg-logo="http://logo1010.com/lg/cemyilmaz.jpg" group-title="TR • Eğlence",[Boxset] Cem Yılmaz Gösteriler
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247665.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Devekuşu Kabare" tvg-logo="http://logo1010.com/lg/devekusukabare.png" group-title="TR • Eğlence",[Boxset] Devekuşu Kabare
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247666.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Nejat Uygur" tvg-logo="http://logo1010.com/lg/nejatuygur.jpg" group-title="TR • Eğlence",[Boxset] Nejat Uygur
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247667.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Beyaz Show" tvg-logo="http://162.19.169.196:80/images/AHPGSCGGfAVhL3aT5dGzfi5c9YnqHLCQW7m8Fx50ehI1UxtXgXsmxq8aRI5lY_E43MNX1l8I0OFrRaJ8yO1-hjjcG6JwvmOxOraGL2WtgGY.jpg" group-title="TR • Eğlence",[Boxset] Beyaz Show
+http://spy17.eu:80/live/hsynctnky/290921.hsn/247670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur 2024" tvg-logo="" group-title="TR • Eğlence",Guldur Guldur 2024
+http://spy17.eu:80/live/hsynctnky/290921.hsn/330474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yetenek Sizsiniz" tvg-logo="" group-title="TR • Eğlence",Yetenek Sizsiniz
+http://spy17.eu:80/live/hsynctnky/290921.hsn/331116.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| ÇIZGI FILM |------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Cocuk ",------| ÇIZGI FILM |------
+http://spy17.eu:80/live/hsynctnky/290921.hsn/1895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Animasyon HD" tvg-logo="https://i.hizliresim.com/5ju7rjc.png" group-title="TR • Cocuk ",Vip Channel Animasyon HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/261849.ts
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT COCUK HD" tvg-logo="http://logo1010.com/news/trtcocuk-hd.png" group-title="TR • Cocuk ",TRT COCUK HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trt Diyanet Çocuk HD" tvg-logo="https://canlitv.center/channels/trt-diyanet-cocuk.png" group-title="TR • Cocuk ",Trt Diyanet Çocuk HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/291582.ts
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="MINIKA COCUK" tvg-logo="http://logo1010.com/news/minikacocuk-hd.png" group-title="TR • Cocuk ",MINIKA COCUK
+http://spy17.eu:80/live/hsynctnky/290921.hsn/667.ts
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="MINIKA GO" tvg-logo="http://logo1010.com/news/minikago-hd.png" group-title="TR • Cocuk ",MINIKA GO
+http://spy17.eu:80/live/hsynctnky/290921.hsn/670.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="CARTOON NETWORK" tvg-logo="http://logo1010.com/news/cn-hd.png" group-title="TR • Cocuk ",CARTOON NETWORK
+http://spy17.eu:80/live/hsynctnky/290921.hsn/4933.ts
+#EXTINF:-1 tvg-id="disneyjunior.tr" tvg-name="DISNEY JUNIOR" tvg-logo="http://logo1010.com/news/disneyjunior-hd.png" group-title="TR • Cocuk ",DISNEY JUNIOR
+http://spy17.eu:80/live/hsynctnky/290921.hsn/163413.ts
+#EXTINF:-1 tvg-id="boomerang.tr" tvg-name="Cartoonito HD" tvg-logo="http://logo1010.com/news/bomerangcocuk-hd.png" group-title="TR • Cocuk ",Cartoonito HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/701.ts
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="COCUK SMART HD" tvg-logo="http://logo1010.com/news/smartcocuk-hd.png" group-title="TR • Cocuk ",COCUK SMART HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/723.ts
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="BABY TV" tvg-logo="http://logo1010.com/news/babytv-hd.png" group-title="TR • Cocuk ",BABY TV
+http://spy17.eu:80/live/hsynctnky/290921.hsn/151244.ts
+#EXTINF:-1 tvg-id="nickelodeonhd.tr" tvg-name="NICKELODEON HD" tvg-logo="http://logo1010.com/news/nickeledon-hd.png" group-title="TR • Cocuk ",NICKELODEON HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/118709.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duck Tv HD" tvg-logo="http://logo1010.com/lg/ducktv.jpg" group-title="TR • Cocuk ",Duck Tv HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/236984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids HD" tvg-logo="" group-title="TR • Cocuk ",Moonbug Kids HD
+http://spy17.eu:80/live/hsynctnky/290921.hsn/332940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. (Türkiye)" tvg-logo="" group-title="TR • Cocuk ",Nick Jr. (Türkiye)
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312472.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 1" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 1
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312473.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 2" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 2
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 3" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 3
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 4" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 4
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312476.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 5" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 5
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312477.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alvin" tvg-logo="" group-title="TR • Cocuk ",Alvin
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312478.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arthur ile Minimoylar" tvg-logo="" group-title="TR • Cocuk ",Arthur ile Minimoylar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312479.ts
+#EXTINF:-1 tvg-id="" tvg-name="Buz Devri" tvg-logo="" group-title="TR • Cocuk ",Buz Devri
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312480.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Cars" tvg-logo="" group-title="TR • Cocuk ",The Cars
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312481.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çılgın Hırsızlar" tvg-logo="" group-title="TR • Cocuk ",Çılgın Hırsızlar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312482.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ejderhanı Nasıl Eğitirsin" tvg-logo="" group-title="TR • Cocuk ",Ejderhanı Nasıl Eğitirsin
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312483.ts
+#EXTINF:-1 tvg-id="" tvg-name="Otel Transilvanya" tvg-logo="" group-title="TR • Cocuk ",Otel Transilvanya
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312484.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karlar Ulkesi" tvg-logo="" group-title="TR • Cocuk ",Karlar Ulkesi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312485.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="" group-title="TR • Cocuk ",Kung Fu Panda
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312486.ts
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar" tvg-logo="" group-title="TR • Cocuk ",Madagascar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312487.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="" group-title="TR • Cocuk ",Shrek
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312488.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom ve Jerry" tvg-logo="" group-title="TR • Cocuk ",Tom ve Jerry
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312489.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kukuli" tvg-logo="" group-title="TR • Cocuk ",Kukuli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312490.ts
+#EXTINF:-1 tvg-id="" tvg-name="Niloya" tvg-logo="" group-title="TR • Cocuk ",Niloya
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312491.ts
+#EXTINF:-1 tvg-id="" tvg-name="Şirinler" tvg-logo="" group-title="TR • Cocuk ",Şirinler
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312492.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pembe Panter" tvg-logo="" group-title="TR • Cocuk ",Pembe Panter
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312493.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maşa ile Koca Ayı" tvg-logo="" group-title="TR • Cocuk ",Maşa ile Koca Ayı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312494.ts
+#EXTINF:-1 tvg-id="" tvg-name="Can Bebek" tvg-logo="" group-title="TR • Cocuk ",Can Bebek
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doru" tvg-logo="" group-title="TR • Cocuk ",Doru
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler Bunlar Çocuk" tvg-logo="" group-title="TR • Cocuk ",Çok Güzel Hareketler Bunlar Çocuk
+http://spy17.eu:80/live/hsynctnky/290921.hsn/333437.ts
+#EXTINF:-1 tvg-id="" tvg-name="Güldüy Güldüy Show" tvg-logo="" group-title="TR • Cocuk ",Güldüy Güldüy Show
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312497.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kral Şakir" tvg-logo="" group-title="TR • Cocuk ",Kral Şakir
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mia ve Ben" tvg-logo="" group-title="TR • Cocuk ",Mia ve Ben
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312499.ts
+#EXTINF:-1 tvg-id="" tvg-name="istanbul Muhafızları" tvg-logo="" group-title="TR • Cocuk ",istanbul Muhafızları
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pepee" tvg-logo="" group-title="TR • Cocuk ",Pepee
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="" group-title="TR • Cocuk ",Beyblade
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Heidi" tvg-logo="" group-title="TR • Cocuk ",Heidi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canım Kardeşim" tvg-logo="" group-title="TR • Cocuk ",Canım Kardeşim
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barbie nin Rüya Evi" tvg-logo="" group-title="TR • Cocuk ",Barbie nin Rüya Evi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312505.ts
+#EXTINF:-1 tvg-id="" tvg-name="ibi" tvg-logo="" group-title="TR • Cocuk ",ibi
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312506.ts
+#EXTINF:-1 tvg-id="" tvg-name="Richie Rich" tvg-logo="" group-title="TR • Cocuk ",Richie Rich
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Kit" tvg-logo="" group-title="TR • Cocuk ",Red Kit
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rafadan Tayfa" tvg-logo="" group-title="TR • Cocuk ",Rafadan Tayfa
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tsubasa" tvg-logo="" group-title="TR • Cocuk ",Tsubasa
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ninja Kaplumbağalar" tvg-logo="" group-title="TR • Cocuk ",Ninja Kaplumbağalar
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Boom" tvg-logo="" group-title="TR • Cocuk ",Sonic Boom
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="" group-title="TR • Cocuk ",Pokemon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/312513.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAILLOU ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",CAILLOU ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317242.ts
+#EXTINF:-1 tvg-id="" tvg-name="NILOYA ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",NILOYA ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317243.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",TOM & JERRY ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317244.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROAD RUNNER ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",ROAD RUNNER ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317245.ts
+#EXTINF:-1 tvg-id="" tvg-name="ŞİRİNLER ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",ŞİRİNLER ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317246.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAW PATROL ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",PAW PATROL ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317247.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAŞA İLE KOCA AYI ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",MAŞA İLE KOCA AYI ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317248.ts
+#EXTINF:-1 tvg-id="" tvg-name="AY AY AYICIKLAR ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",AY AY AYICIKLAR ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317249.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOBA ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",BOOBA ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317250.ts
+#EXTINF:-1 tvg-id="" tvg-name="KRAL SAKIR ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",KRAL SAKIR ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317251.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEPE ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",PEPE ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317252.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRY BABIES ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",CRY BABIES ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317253.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEVIMLI DOSTLAR ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",SEVIMLI DOSTLAR ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317254.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL MUHAFIZLARI ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",ISTANBUL MUHAFIZLARI ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317255.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUCUK KAMYON LEO ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",KUCUK KAMYON LEO ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317256.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIMON ILE ZEYTIN ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",LIMON ILE ZEYTIN ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317257.ts
+#EXTINF:-1 tvg-id="" tvg-name="PJMASKS ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",PJMASKS ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317258.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUKULI ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",KUKULI ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317259.ts
+#EXTINF:-1 tvg-id="" tvg-name="OddBods ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",OddBods ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317260.ts
+#EXTINF:-1 tvg-id="" tvg-name="EMUŞ TV ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",EMUŞ TV ʜᴅ
+http://spy17.eu:80/live/hsynctnky/290921.hsn/317261.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Niloya" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Niloya
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316875.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Pepee" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Pepee
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316876.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Booba" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Booba
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316877.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Kukuli" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Kukuli
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316878.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Kral Sakir" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Kral Sakir
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316879.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="" group-title="TR • Cocuk ",ZAROK TV
+http://spy17.eu:80/live/hsynctnky/290921.hsn/319407.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Animasyon" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Cocuk ",TR ☪ Proturk Animasyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316817.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Animasyon" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • Cocuk ",TR➤ Usk Vizyon Cinema Animasyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316837.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Animasyon" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Cocuk ",TR➤ Arena Box Animasyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316850.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Animasyon" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Animasyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316874.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Masal Diyarı" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Cocuk ",TR ☪ Proturk Masal Diyarı
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316820.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Animsyon" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Cocuk ",TR➤ Mega Box Animsyon
+http://spy17.eu:80/live/hsynctnky/290921.hsn/316918.ts
 ******-AZERBAYCAN TV2********************
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="🇦🇿",AZAT SÖZ TV 
