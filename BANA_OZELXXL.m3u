@@ -374,6 +374,156 @@ http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D  RMN
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",atv HD
+https://rnttwmjcin.turknet.ercdn.net...atv_1080p.m3u8 (https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",KanalD
+https://ackaxsqacw.turknet.ercdn.net...ald_1080p.m3u8 (https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",teve2
+https://ackaxsqacw.turknet.ercdn.net...ve2_1080p.m3u8 (https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Star
+https://emmazbvkkf.turknet.ercdn.net...artv_720p.m3u8 (https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Now HD
+https://uycyyuuzyh.turknet.ercdn.net...owtv_720p. (https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8)m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",KANAL 7
+https://yurhnwtpys.turknet.ercdn.net...al7_1080p.m3u8 (https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",HABERTURK
+https://rmtftbjlne.turknet.ercdn.net...ktv_1080p.m3u8 (https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",SHOW
+https://rmtftbjlne.turknet.ercdn.net...wtv_1080p.m3u8 (https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TV8
+https://rkhubpaomb.turknet.ercdn.net...tv8_1080p.m3u8 (https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net...cuk_1080p.m3u8 (https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",MINIKA COCUK
+https://rnttwmjcin.turknet.ercdn.net...ocuk_720p.m3u8 (https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",MINIKA GO
+https://rnttwmjcin.turknet.ercdn.net...kago_720p.m3u8 (https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8)
+
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",A2
+https://rnttwmjcin.turknet.ercdn.net...2tv_1080p.m3u8 (https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",NTV
+https://emmazbvkkf.turknet.ercdn.net.../ntv_720p.m3u8 (https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TLC TV
+https://emmazbvkkf.turknet.ercdn.net.../tlc_720p.m3u8 (https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc_720p.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",DMAX TV
+https://emmazbvkkf.turknet.ercdn.net...dmax_720p. (https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax_720p.m3u8)m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",KRALPOPTV
+https://emmazbvkkf.turknet.ercdn.net...optv_720p.m3u8 (https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/kralpoptv/kralpoptv_720p.m3u8)
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",cnbc-e
+https://canlitvulusal.xyz/live/cnbc-e/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Sözcü
+https://canlitvulusal.xyz/live/sozcutv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",deniz postası
+https://canlitvulusal2.xyz/live/deni...itv/index.m3u8 (https://canlitvulusal2.xyz/live/denizpostasitv/index.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",kanal b
+https://canlitvulusal.xyz/live/kanalb/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT 1
+https://canlitvulusal.xyz/live/trt1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Türk
+https://canlitvulusal.xyz/live/trtturk/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Avaz
+https://canlitvulusal.xyz/live/trtavaz/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",bir
+https://canlitvulusal2.xyz/live/birtv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",ATV
+https://canlitvulusal.xyz/live/atv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",ATV Avrupa
+https://canlitvulusal.xyz/live/atvavrupa/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Haber
+https://canlitvulusal.xyz/live/trthaber/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",A Haber
+https://canlitvulusal.xyz/live/ahaber/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Bengütürk
+https://canlitvulusal.xyz/live/benguturk/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",A Para
+https://canlitvulusal.xyz/live/apara/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT 2
+https://canlitvulusal.xyz/live/trt2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Spor
+https://canlitvulusal.xyz/live/trtspor/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Spor Yıldız
+https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",A Spor
+https://canlitvulusal.xyz/live/aspor/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Sport Haber
+https://canlitvulusal.xyz/live/beins...ber/index.m3u8 (https://canlitvulusal.xyz/live/beinsportshaber/index.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",tivibu Spor
+https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",FB
+https://canlitvulusal.xyz/live/fbtv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Müzik
+https://canlitvulusal.xyz/live/trtmuzik/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Belgesel
+https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Çocuk
+https://canlitvulusal.xyz/live/trtcocuk/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TV 5
+https://canlitvulusal.xyz/live/tv5/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",NOW
+http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Kanal D
+http://116.202.238.88/KANALD_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Show
+http://116.202.238.88/SHOWTV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TV8
+http://116.202.238.88/TV8_TR/tracks-v1a1/index.m3u8
+TV8 5
+http://116.202.238.88/TV8.5_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Star
+http://116.202.238.88/STARTV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",atv
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",a2
+http://116.202.238.88/A2_TR/tracks-v1a1/index. (http://116.202.238.88/A2_TR/tracks-v1a1/index.m3u8)
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Yaban
+http://116.202.238.88/YABANTV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT 1
+http://116.202.238.88/TRT1_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Müzik
+http://116.202.238.88/TRTMUZIK_TR/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Çocuk
+http://116.202.238.88/TRTCOCUK_TR/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Belgesel
+http://116.202.238.88/TRTBELGESEL_TR/playlist.m3u8
+Halk
+http://116.202.238.88/HALKTV_TR/tracks-v1a1/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TELE 1
+http://116.202.238.88/TELE1_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Flash
+http://116.202.238.88/FLASHTV_TR/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TRT Haber
+http://116.202.238.88/TRTHABER_TR/tr...1a1/index.m3u8 (http://116.202.238.88/TRTHABER_TR/tracks-v1a1/index.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",NTV
+http://116.202.238.88/NTV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",CNN Türk
+http://116.202.238.88/CNNTURK_TR/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Habertürk
+http://116.202.238.88/HABERTURK_TR/t...1a1/index.m3u8 (http://116.202.238.88/HABERTURK_TR/tracks-v1a1/index.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Haber Global
+http://116.202.238.88/HABERGLOBAL_TR...1a1/index.m3u8 (http://116.202.238.88/HABERGLOBAL_TR/tracks-v1a1/index.m3u8)
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Beyaz
+http://116.202.238.88/BEYAZTV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Ülke
+http://116.202.238.88/ULKETV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",Ulusal
+http://116.202.238.88/ULUSALTV_TR/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",TVNET
+http://116.202.238.88/TVNET_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",A Haber
+http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL_TV_LER__TBRT_Kanalları" logo=".png",A Spor
+http://116.202.238.88/ASPOR_TR/tracks-v1a1/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",kanalD 2 RMN 
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 
