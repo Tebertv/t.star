@@ -87,6 +87,9 @@ http://stream.tvcdn.net/yerel/kanal-v.m3u8
 #EXTINF:-1 tvg-id="TrakyaTurkTV.tr" tvg-logo="http://assets.tvcdn.net/2cab54cd-868f-478a-8c5b-4fb0c4f4fa4c.png" group-title="Yerel",Trakya Türk TV
 http://stream.tvcdn.net/yerel/trakya-turk-tv.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",KANAL PULUS 
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fda805fb-82ec-493a-9d92-6b7cc6eaeb48.jpg" group-title="Yerel",Konya Olay TV
 http://stream.tvcdn.net/yerel/konya-olay-tv.m3u8
 
@@ -4991,6 +4994,11 @@ http://yasamtv787.xyz:80/movie/ramco/Gyqq5zbdvZ/98977.mp4
 http://yasamtv787.xyz:80/movie/ramco/Gyqq5zbdvZ/98978.mp4
 #EXTINF:1 tvg-id="" tvg-logo="PORNO.png" group-title="TRY_XXX_ADULT",XXX Turkce Alt Yazili 432
 http://yasamtv787.xyz:80/movie/ramco/Gyqq5zbdvZ/98979.mp4
+
+
+
+
+
 
 #EXTINF:1 tvg-id="" tvg-logo="PORNO.png" group-title="XXX_VIP_ADULT",XXX: VIP ADULT 1
 http://yasamtv787.xyz:80/live/ramco/Gyqq5zbdvZ/287280.ts
