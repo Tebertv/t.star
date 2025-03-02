@@ -60,7 +60,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",Şaban Tv
 https://a8.radyotelekom.com.tr:3417/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",TBRT Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",SUPERTURK_TV
@@ -138,7 +138,7 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TABİ TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TBRT TAMAM TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",EKOL TV HD
@@ -247,6 +247,125 @@ http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 ************ÖZEL SPOR********************************
 
+#EXTINF:-1,TBRT Sports 1 [HD]
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/311552
+#EXTINF:-1,TBRT Sports 1 SD [ Mobile ]
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/7042
+#EXTINF:-1,TBRT Sports 1 [ FHD ]
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/52977
+#EXTINF:-1,TBRT Sports 1 [ 4K ]
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/58659
+#EXTINF:-1,TBRT Sports 2 HD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/52980
+#EXTINF:-1,TBRT Sports 2 [ FHD ]
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/244703
+#EXTINF:-1,TBRT Sports 3 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/52981
+#EXTINF:-1,TBRT Sports 3 FHD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/244704
+#EXTINF:-1,TBRT Sports 4 HD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/1492
+#EXTINF:-1,TBRT Sports 4 FHD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/244705
+#EXTINF:-1,TBRT Sports 5 HD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/194676
+#EXTINF:-1,TBRT Sports 5 FHD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/244706
+#EXTINF:-1,TBRT Sports MAX 1 HD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/6977
+#EXTINF:-1,TBRT Sports MAX 1 FHD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/244764
+#EXTINF:-1,TBRT Sports MAX 2 HD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/6978
+#EXTINF:-1,TBRT Sports MAX 2 FHD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/244765
+#EXTINF:-1,TBRT SPORTS HABER HD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/6508
+#EXTINF:-1,TBRT Connect 1 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/122770
+#EXTINF:-1,TBRT Connect 2 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/122771
+#EXTINF:-1,TBRT Connect 3 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/122772
+#EXTINF:-1,TBRT Connect 4 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/122773
+#EXTINF:-1,TBRT Connect 5 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/122774
+
+#EXTINF:-1,TBRT Sd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/63396
+#EXTINF:-1,TBRT Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/106293
+#EXTINF:-1,TBRT RAW
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/244717
+#EXTINF:-1,TBRT 2 Sd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/63404
+#EXTINF:-1,TBRT 2 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/133890
+#EXTINF:-1,TBRT 2 FHD
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/244718
+#EXTINF:-1,TBRT Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/98748
+#EXTINF:-1,TBRT 2 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/133895
+#EXTINF:-1,TBRT 3 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/133896
+#EXTINF:-1,TBRT 4 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/133897
+#EXTINF:-1,TBRT 5 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/133898
+#EXTINF:-1,TBRT 6 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/146415
+#EXTINF:-1,TBRT Spor Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/44016
+#EXTINF:-1,TBRT Spor Sd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/56226
+#EXTINF:-1,TBRT Spor 2 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/100140
+#EXTINF:-1,Eurosport 1 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/67
+#EXTINF:-1,Eurosport 2 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/29
+#EXTINF:-1,TBRTbu Spor Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/169636
+#EXTINF:-1,TBRTbu Spor 1 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/179
+#EXTINF:-1,TBRTbu Spor 2 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/180
+#EXTINF:-1,TBRTbu Spor 3 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/181
+#EXTINF:-1,TBRTbu Spor 4 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/102443
+#EXTINF:-1,TRT Spor Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/58
+#EXTINF:-1,TRT Spor Fhd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/82313
+#EXTINF:-1,TRT Spor Yildiz
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/143247
+#EXTINF:-1,TRT Spor Yildiz Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/133739
+#EXTINF:-1,TRT Spor 2 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/66934
+#EXTINF:-1,Gs Tv Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/117
+#EXTINF:-1,Fb Tv Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/1709
+#EXTINF:-1,A Spor Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/75
+#EXTINF:-1,A Spor Fhd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/143483
+#EXTINF:-1,Sports Tv
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/86
+#EXTINF:-1,Nba Tv Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/12
+#EXTINF:-1,Tay Tv Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/208
+#EXTINF:-1,TBRTExN Spor Spor 1 Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/146404
+#EXTINF:-1,Edge Spor Hd
+http://yasamtv787.xyz:80/ramco/Gyqq5zbdvZ/134406
+
+********************************************
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TBRT SPOR TV1
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
@@ -271,17 +390,17 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",SÜPER SPORT TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TABİ SPOR CANLI
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TBRT TAMAM SPOR CANLI
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TABİ SPOR1
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TBRT TAMAM SPOR1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TABİ SPOR2
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TBRT TAMAM SPOR2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TABİ SPOR3
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TBRT TAMAM SPOR3
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Diğer",TRT Spor1
@@ -334,7 +453,7 @@ http://stream.tvcdn.net/yerel/tv-kayseri.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ENGELSİZ TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",TBRT Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo=",CGTN TR ALT YAZILI TV 
@@ -743,7 +862,7 @@ http://stream.tvcdn.net/diger-eglence/lugat-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="Diğer-Eğlence",Süper 7 TV
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",TBRT Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TBRT-logo-2.png",TRT 2 
@@ -1081,7 +1200,7 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
-#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor
+#EXTINF:-1 tvg-id="TBRTbuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",TBRTbu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
@@ -1443,7 +1562,7 @@ http://stream.tvcdn.net/yerel/sun-rtv.m3u8
 http://stream.tvcdn.net/yerel/super-kanal.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3d6fdb74-0ee8-4110-af0a-24d461926780.jpg" group-title="Yerel",Taş TV
 http://stream.tvcdn.net/yerel/tas-tv.m3u8
-#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="Yerel",Tivi6
+#EXTINF:-1 tvg-id="TBRT6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="Yerel",TBRT6
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 #EXTINF:-1 tvg-id="TrakyaTurkTV.tr" tvg-logo="http://assets.tvcdn.net/2cab54cd-868f-478a-8c5b-4fb0c4f4fa4c.png" group-title="Yerel",Trakya Türk TV
 http://stream.tvcdn.net/yerel/trakya-turk-tv.m3u8
@@ -1621,7 +1740,7 @@ http://stream.tvcdn.net/diger-eglence/lugat-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="Diğer-Eğlence",Süper 7 TV
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",TBRT Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="Diğer-Eğlence",Viyana TV
 http://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
