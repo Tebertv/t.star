@@ -254,7 +254,7 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV2
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV3
 http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
