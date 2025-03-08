@@ -39,6 +39,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SÖNMEZ TV
 https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0c036e8f-a671-446a-9224-ba0aad2d692d.png" group-title="TEBER_MEDYA-Müzik",AYAZ TV
+http://stream.tvcdn.net/diger-muzik/ayz-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TELE ON
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv
 
@@ -1708,8 +1711,7 @@ http://stream.tvcdn.net/diger-muzik/solakli-tv.m3u8
 http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="TEBER_MEDYA-Müzik",Genç Kraliçe TV
 http://stream.tvcdn.net/diger-muzik/genc-kralice-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0c036e8f-a671-446a-9224-ba0aad2d692d.png" group-title="TEBER_MEDYA-Müzik",Ayz TV
-http://stream.tvcdn.net/diger-muzik/ayz-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e7578e04-aeb6-494f-bef5-672c6efef128.png" group-title="TEBER_MEDYA-Müzik",Sönmez TV
 http://stream.tvcdn.net/diger-muzik/sonmez-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="TEBER_MEDYA-Eğlence",SuperTurk TV
