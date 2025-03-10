@@ -64,6 +64,9 @@ https://a8.radyotelekom.com.tr:3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İSMAYIL TV
 https://live.yayingold.com.tr/ismailtv/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MCRT TV
+https://n2.cdn.jetstre.am/session/5de9c4f2f8b0b9ba6b1f2050a2da2387/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",NOW HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
