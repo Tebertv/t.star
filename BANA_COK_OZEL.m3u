@@ -538,6 +538,604 @@ https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT Spor2 Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_1080p.m3u8
 
+***********TRTV**********************
+
+#EXTM3U
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TELE 1
+http://116.202.238.88/TELE1_TR/tracks-v1a1/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SOZCU TV
+https://proxy.canlitvplayer.com/szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV4
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", EKOL TV
+http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", YOL TV
+https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", Fortuna TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ONDE TV
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TABII TV 
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TORBA TV
+http://stream.tvcdn.net/kibris/torba-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TON TV 
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TEVE 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 19 
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", PAZARCIK TV
+https://tivi44.ozelip.com:3962/stream/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", POSTASI TV 
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ATV 
+http://spy17.eu:80/live/selentv/17.01.2022/703.ts
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ATV
+http://stream.tvcdn.net/ulusal/atv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL D 
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SHOW TV 
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BEYAZ TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", NOW TV
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BIR TV
+https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CINE 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CINE 6 
+https://tivi44.ozelip.com:3614/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CINE 6 MAX
+https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CANKIRI TV
+http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV8 
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV8.5 
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TEVE2
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", 360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HALK TV
+http://stream.tvcdn.net/haber/halk-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HABER TURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HABER TURK 
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CNN TURK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT HABER
+https://tv.ensonhaber.com/trthaber/trthaber_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", A HABER
+http://stream.tvcdn.net/haber/a-haber.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HABER GLOBAL
+http://stream.tvcdn.net/haber/haber-global.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ULKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BLOMBER TV
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", FLASH HABER
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TGRT HABER 
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 100
+https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 100 
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", 24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", 24
+http://stream.tvcdn.net/haber/24-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV NET
+http://stream.tvcdn.net/haber/tvnet.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", AKIT TV  
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BENGU TURK  
+http://stream.tvcdn.net/haber/benguturk-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TEVE2
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", 360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT ARAPCA
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT ARAPCA 
+https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL AVRUPA 
+http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DIYANET COCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRT EBA
+http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 3 
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CIFTCI TV
+http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DREAM TURK
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TMB TV 
+http://stream.tvcdn.net/muzik/tmb.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", A2
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TURK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SPOR TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TJK TV
+https://tjktv-live.tjk.org/tjktv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TJK TV 
+http://tjktv.ercdn.net/tjktv_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 2020
+http://stream.tvcdn.net/kibris/tv-2020.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TON TV 
+http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BRT 1
+http://stream.tvcdn.net/kibris/brt-1.m3u8
+
+#EXTINF:1, KIBRIS TV
+http://stream.tvcdn.net/kibris/kibris-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BRT 2
+http://stream.tvcdn.net/kibris/brt-2.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SLOW KARADENIZ TV 
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 53  
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ALMANYA TV
+https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ALANYA TV 
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w784946490.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ALTAS TV
+http://stream.tvcdn.net/yerel/altas-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", AGRT TV
+http://stream.tvcdn.net/yerel/agrt.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", AKSU TV
+http://stream.tvcdn.net/yerel/aksu-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ARAS TV
+https://2.rtmp.org/tv217/yayin.stream/chunklist_w1515668576.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ADA TV
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w2012698020.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BATI KARADENIZ
+http://stream.tvcdn.net/yerel/brtv-karabuk.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", BELEM TURK
+https://edge1.socialsmart.tv/belemturktv/bant1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CARTON NETWORK
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CIFTCI TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CAY TV
+http://stream.tvcdn.net/yerel/cay-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CINE 5 
+http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CAGRI TV
+http://stream.tvcdn.net/yerel/develi-cagri-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DIYAR TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DUZCE TV
+http://stream.tvcdn.net/yerel/duzce-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DEHA TV
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DIM TV
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV",ANADOLUM TV
+https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ERCIYES TV
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ETV
+https://edge1.socialsmart.tv/manisaetv/bant1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ERCIS TV
+http://stream.tvcdn.net/yerel/ercis-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ER TV 
+http://stream.tvcdn.net/yerel/er-tv-malatya.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV",TR SPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", GURBET 24 TV
+http://stream.tvcdn.net/yerel/gurbet-24-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", GENC TV
+http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist_w894465842_b1796000.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HUNAT TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", INTISAD TV
+http://stream.tvcdn.net/kurumlar/intisad-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ISVICRE TV
+https://tivi44.ozelip.com:3269/stream/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ICEL TV
+http://stream.tvcdn.net/yerel/icel-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KARDELEN TV
+http://stream.tvcdn.net/yerel/kardelen-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KRAL POP TV
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL FIRAT
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL ADA
+http://stream.tvcdn.net/yerel/kanal-ada.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL SIM
+http://stream.tvcdn.net/kibris/kanal-sim.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KARDES TV
+http://stream.tvcdn.net/diger-muzik/kardes-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KENT TURK 
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KUDUS TV 
+http://stream.tvcdn.net/dini/kudus-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KIBRIS TV
+http://stream.tvcdn.net/kibris/kibris-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL T 
+http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 15
+http://stream.tvcdn.net/yerel/kanal-15.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 16 
+http://stream.tvcdn.net/yerel/on6.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 23
+http://stream.tvcdn.net/yerel/kanal-23.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 26
+http://stream.tvcdn.net/yerel/kanal-26.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 33 
+http://stream.tvcdn.net/yerel/kanal-33.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 34
+https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 58
+http://stream.tvcdn.net/yerel/kanal-58.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL V
+http://stream.tvcdn.net/yerel/kanal-v.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL Z
+http://stream.tvcdn.net/yerel/kanal-z.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL S 
+https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w1283875324.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KENT TV
+http://stream.tvcdn.net/yerel/bodrum-kent-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 12
+http://stream.tvcdn.net/dini/kanal-12.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", LALEGUL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", LUYS TV
+http://stream.tvcdn.net/diger/luys-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", METROPOL TV
+http://stream.tvcdn.net/yerel/metropol-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MELTEM TV 
+http://stream.tvcdn.net/dini/meltem-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MERCAN TV 
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MERKEZ TV
+http://nrttn172.kesintisizyayin.com:29010/merkeztv/merkeztv/sec-f5-v1-a1.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MEGA TV 
+https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", NUMBER ONE DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", NUMBER ONE TURK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", NORA TV 
+https://live.artidijitalmedya.com/artidijital_noratv/noratv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MUGLA TURK
+http://stream.tvcdn.net/yerel/mugla-turk-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", NET TV 
+http://stream.tvcdn.net/yerel/anadolu-net-tv.m3u8
+
+#EXTINF:1, 5 OCAK TV
+http://stream.tvcdn.net/yerel/5-ocak-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", OLAY TURK
+http://stream.tvcdn.net/yerel/olay-turk.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SAGLIK CHANEL
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SAT 7 TURK 
+http://stream.tvcdn.net/dini/sat-7-turk.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SPIRITY TV
+http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", 61 SAAT TV 
+https://tivi44.ozelip.com:3799/stream/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SONMEZ TV 
+https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ONS TV 
+https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TRAKYA TURK
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TURSAB TV
+http://stream.tvcdn.net/kurumlar/tursab-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TEMPO TV
+http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TBMM TV
+http://stream.tvcdn.net/haber/tbmm-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV MOR 
+https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 25
+https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 41
+http://stream.tvcdn.net/yerel/tv-41.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 48
+http://stream.tvcdn.net/yerel/tv-48.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV A
+https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 1
+http://stream.tvcdn.net/yerel/tv-1-kayseri.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 7
+https://ip100.radyotelekomtv.com:3620/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TV 2020
+http://stream.tvcdn.net/kibris/tv-2020.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", VANGOLU TV
+http://stream.tvcdn.net/yerel/vangolu-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", VUSLAT TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", UN TV
+http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
+
+#EXTINF:1, VRT TV
+https://vrttv.ozelip.com:3644/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", WOMAN TV 
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", EZGI TV
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RUHA TV
+https://ruhatv.ozelip.com:3483/hybrid/play.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TYT TURK
+http://cdn4.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL PLUS
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MEDYA TV
+https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TR SPOR TV
+https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", AKTUEL TV
+http://stream.tvcdn.net/yerel/aktuel-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KOY TV
+http://stream.tvcdn.net/belgesel/koy-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TOPRAK TV
+http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CAN TV
+http://stream.tvcdn.net/diger/can-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TAS TV
+http://stream.tvcdn.net/yerel/tas-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CEYLAN TV
+http://stream.tvcdn.net/diger-muzik/ceyhan-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CIZGI FLIM TV
+http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SUDURAGI TV
+http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", GOPSEN TV
+http://stream.tvcdn.net/diger-eglence/gopsen-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", AYZ TV
+http://stream.tvcdn.net/diger-muzik/ayz-tv.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", GENC KRALICE TV
+http://stream.tvcdn.net/diger-muzik/genc-kralice-tv.m3u8
+
 *****tvcdn**emeğine sağlık*******
 
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
@@ -1951,34 +2549,178 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/279351_1406/index.m3u8
 #EXTINF:1 tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995ac6933ccb3900a61cb5.jpg" group-title="Evde Sinema",Kurtuluş
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279319_13c6/index.m3u8
 
-**********************TEBER HD KANALLAR*************************
+********************RADYO***************************
 
-EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 1 HD
-https://hls.goodgame.ru/hls/214779.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV",kanal53 RADYO
+https://kanal53.ozelip.com:3448/embed//iptv.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 2 HD
-https://hls.goodgame.ru/hls/214781.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ARABESK TURK
+http://yayin.arabeskturk.com:8000/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 3 HD 
-https://hls.goodgame.ru/hls/214783.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ARABESK VADISI
+https://arabeskv.80.yayin.com.tr/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 4 HD
-https://hls.goodgame.ru/hls/214785.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ARABESK FM
+http://yayin.arabeskfm.biz:8042/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 5 HD
-https://hls.goodgame.ru/hls/214786.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ARMONI FM
+http://radyo.yayindakiler.com:4084/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 6 HD 
-https://hls.goodgame.ru/hls/214787.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", ADA FM
+https://radyo.yayin.com.tr:6040/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 7 HD
-https://hls.goodgame.ru/hls/214788.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SLOW KARADENIZ FM
+https://dinle.slowkaradenizfm.com:9578/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 8 HD  
-https://hls.goodgame.ru/hls/214789.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SHOW RADYO 
+http://46.20.3.228:80
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 9 HD 
-ttps://hls.goodgame.ru/hls/214790.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SURMELI FM
+http://surmelifm.kesintisizyayin.com:8590/;
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 10_MAXİTV HD
-https://hls.goodgame.ru/hls/214791.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", SUPER FM
+https://28573.live.streamtheworld.com/SUPER_FM_SC?/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KORGANIN SESI FM 
+https://anadolu.liderhost.com.tr:10908/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KRAL POP RADYO 
+http://46.20.3.202:80
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KARADENIZ TURK
+https://furuncu.kesintisizyayin.com:8042/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KARADENIZIM FM
+http://karadenizimfm.kesintisizyayin.com:9990/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KEMENCE FM
+https://ip132.ozelip.com:8058/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KRAL TURK
+http://live.radyositesihazir.com:8032/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KRAL FM 
+http://46.20.3.204:80
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO KARADENIZ
+https://radyo1.radyo-dinle.tc:8138/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO TATLISES
+http://sslyayin.radyoyayini.com:8002/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO YAKAMOZ
+http://live4.radyotvonline.com:6570/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO KADIRGA
+https://radyo.yayin.com.tr:4022/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO DERMAN 
+https://ssl120.radyotelekom.com.tr:8710/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO GIREBI
+https://radyogirebi.kesintisizyayin.com:8066/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO CINAR
+https://sslyayin.netyayin.net:10992/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO DELTA 
+https://anadolu.liderhost.com.tr:10954/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO RIZE
+https://n227.ozelip.com:8010/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO VIVA 
+http://46.20.3.230:80
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO EKIN 
+http://yayin.turkhosted.com:6006/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO 2000
+http://radyo2000.radyomhd.com:1100/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO 38
+https://anadolu.liderhost.com.tr:10892/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DAMAR TURK
+http://live.radyositesihazir.com:7000/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RIZE TURK
+https://furuncu.kesintisizyayin.com:8044/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", JOY TURK
+https://28503.live.streamtheworld.com/JOY_TURK_SC?/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CAYELI FM
+https://furuncu.kesintisizyayin.com:8078/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", GELISIM FM
+https://radyo.yayindakiler.com:4008/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HAMSI FM
+http://yayin.liderhost.net:8028/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", VITAMIN FM
+http://dinle.vitaminfm.com:8004/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", OZLEM FM
+http://yayin.turkiletisim.com.tr:1080/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HAYAL FM
+http://yayin.radyohayalfm.net:8050/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MESK FM
+http://sunucu2.radyolarburada.com:8000/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", OTER FM
+https://radyo1.radyo-dinle.tc:7088/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MERCAN FM
+https://ip169.ozelip.com:10975/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", LOKUM FM
+http://37.247.98.9/stream/493/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", DAMAR FM
+https://yayin.damarfm.com:8080/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", GEBZE FM
+http://gebzefm.radyotvyayini.com:9530/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MERKEZ FM
+https://sslyayin.radyoyayini.com:7007/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", INCITEK FM
+http://yayin2.yayindakiler.com:4204/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", FISTIK FM 
+https://sslyayin.radyoyayini.com:7029/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", PALMIYE FM
+https://palmiyefm.radyotelekom.com.tr:8060/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", POLIS RADYOSU
+https://m.egm.gov.tr:8093/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", PAL NOSTALJI
+http://shoutcast.radyogrup.com:1010/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", 24 ARABESK
+http://24arabesk.80.yayin.com.tr/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KIVILCIM FM
+https://radyo1.radyo-dinle.tc:8066/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", HALK RADYO 
+https://anadolu.liderhost.com.tr:10876/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO MAKSAT 
+https://live.sinirsizhost.com:8038/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", MERT FM
+https://radyo.yayindakiler.com:4004/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO DEDE 
+https://live.sinirsizhost.com:8080/;
+
+#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO SPACE 
+https://live.sinirsizhost.com:8888/;
