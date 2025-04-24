@@ -1,0 +1,29 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-chno="100",NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-chno="101",LOVE NATURE
+http://95.67.12.82:9098
+#EXTINF:-1 tvg-chno="102",TRT BELGESEL
+http://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-chno="103",NATIONAL GEOGRAPHIC
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-chno="104",NAT GEO WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-chno="105",DISCOVERY CHANNEL
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9992
+#EXTINF:-1 tvg-chno="106",ID
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9991
+#EXTINF:-1 tvg-chno="107",BBC EARTH
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9994
+#EXTINF:-1 tvg-chno="108",YABAN TV
+http://116.202.238.88/YABANTV_TR/index.m3u8
+#EXTINF:-1 tvg-chno="109",CGTN DOCUMENTARY
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+#EXTINF:-1 tvg-chno="110",TRAVEL XP
+https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-chno="111",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-chno="112",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-chno="113",TARİH TV
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/329
