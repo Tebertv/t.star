@@ -275,61 +275,6 @@ http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 
-*********SPORTV************
-#EXTINF:-1 tvg-chno="89",TABİİ SPOR
-http://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-chno="90",EUROSPORT 1
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/142
-#EXTINF:-1 tvg-chno="91",EUROSPORT 2
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/252
-#EXTINF:-1 tvg-chno="92",HT SPOR
-https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-chno="93",SPORT EN FRANCE
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-chno="94",FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="95",GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-chno="96",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 tvg-chno="97",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-chno="98",TRT SPOR
-http://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-chno="99",TRT SPOR YILDIZ
-http://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-chno="87",RED BULL TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-chno="88",TRACE SPORT STARS
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="74",SPORSMART
-http://194.156.236.35:8000/play/a020
-#EXTINF:-1 tvg-chno="75",SPORSMART2
-http://194.156.236.35:8000/play/a022
-#EXTINF:-1 tvg-chno="76",COSMOSPORTS
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/253
-#EXTINF:-1 tvg-chno="77",beIN SPORTS 1
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/148
-#EXTINF:-1 tvg-chno="78",beIN SPORTS 2
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/149
-#EXTINF:-1 tvg-chno="79",beIN SPORTS 3
-http://bensitt.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6097
-#EXTINF:-1 tvg-chno="80",beIN SPORTS 4
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/151
-#EXTINF:-1 tvg-chno="81",beIN SPORTS 5
-http://bensitt.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/125936
-#EXTINF:-1 tvg-chno="82",beIN SPORTS MAX 1
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/152
-#EXTINF:-1 tvg-chno="83",beIN SPORTS MAX 2
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/153
-#EXTINF:-1 tvg-chno="84",beIN SPORTS HABER
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/154.ts
-#EXTINF:-1 tvg-chno="85",S SPORT
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1 tvg-chno="86",S SPORT 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", TVA 
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
 
