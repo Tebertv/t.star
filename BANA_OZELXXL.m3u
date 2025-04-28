@@ -31,11 +31,12 @@ https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnso
 https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png" group-title="TEBER_MEDYA",KANAL10 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745854618.png" group-title="TEBER_MEDYA",KANAL10 HD
 https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745810650.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
 https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
