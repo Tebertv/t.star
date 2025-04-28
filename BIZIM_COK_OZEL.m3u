@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTM3U
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TEBER STAR
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 
@@ -30,41 +28,12 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",HÇRT MAXİ
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 
-https://hls.goodgame.ru/hls/215504.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HÇRT TV
-https://hls.goodgame.ru/hls/215505.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA", KRAL ANADOLU TV
-https://hls.goodgame.ru/hls/215506.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DİZİ FLASH TV 
-https://hls.goodgame.ru/hls/215514.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HÇRT SHOX TV 
-https://hls.goodgame.ru/hls/215510.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER HBB TV  
-https://hls.goodgame.ru/hls/215511.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HÇRT EHLİBEYT 
-https://hls.goodgame.ru/hls/215512.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HÇRT SAFARİ 
-https://hls.goodgame.ru/hls/215512.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HÇRT TEZENE
-https://hls.goodgame.ru/hls/215507.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HÇRT MAXİ TV  
-https://hls.goodgame.ru/hls/215515.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png" group-title="TEBER_MEDYA",KANAL10 HD
-https://hls.goodgame.ru/hls/215510.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745810650.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
-https://hls.goodgame.ru/hls/214752.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
