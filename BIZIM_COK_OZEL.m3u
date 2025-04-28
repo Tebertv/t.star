@@ -1,47 +1,46 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 1 
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+https://hls.goodgame.ru/hls/215504.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 2
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+https://hls.goodgame.ru/hls/215505.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 3  
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+https://hls.goodgame.ru/hls/215506.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 4 
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+https://hls.goodgame.ru/hls/215514.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 5 
-https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
+https://hls.goodgame.ru/hls/215510.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 6  
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+https://hls.goodgame.ru/hls/215511.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 7 
-https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+https://stream-cdn-https://hls.goodgame.ru/hls/215512.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 8  
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+https://hls.goodgame.ru/hls/215513.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEBER STAR 9 
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+https://hls.goodgame.ru/hls/215507.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MAXİ TV TEBER ON 
-https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",FİL TV
-https://live.filbox.com.tr/filtv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL10 HD
-https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+https://hls.goodgame.ru/hls/215515.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TELE ON
 https://al.flv.nimo.tv/live/su2139512740036rcc6e9e02ff3aac4949edfc4134d816a4.flv
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL10 HD
+https://hls.goodgame.ru/hls/215510.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
+https://hls.goodgame.ru/hls/214752.m3u8
 
 #EXTINF:-1 tvg-chno="10",SİNEMA TV
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10063.ts
@@ -58,10 +57,6 @@ http://lb.wisp.cat/lb0/TR_SINEMAKOMEDI/video.m3u8?token=9bmCmR7
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ÖNDE tv 
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
-#EXTINF:-1 tvg-chno="6",FX
-https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-chno="7",FILMSCREEN
-http://lb.wisp.cat/lb0/TR_FILMBOX/video.m3u8?token=9bmCmR7
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",NOW HD
 https://videotest-sand.vercel.app/api/proxy?url=https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
