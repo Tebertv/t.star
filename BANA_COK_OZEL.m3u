@@ -30,6 +30,38 @@ https://hls.goodgame.ru/hls/215507.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HÇRT MAXİ TV  
 https://hls.goodgame.ru/hls/215515.m3u8
 
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TEBER STAR
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",HÇRT
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",KRAL ANADOLU
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TEBER DİZİ FLASH
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TEBER SHOX
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TEBER_CINE6
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",TEBER HBB
+https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",HÇRT_SAFARİ
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",HÇRT TEZENE
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI"logo=".png",HÇRT MAXİ
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png" group-title="TEBER_MEDYA",KANAL10 HD
 https://hls.goodgame.ru/hls/215510.m3u8
 
