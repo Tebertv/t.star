@@ -29,6 +29,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TELE ON
+https://al.flv.nimo.tv/live/su2139512740036rcc6e9e02ff3aac4949edfc4134d816a4.flv
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745854618.png" group-title="TEBER_MEDYA",KANAL10 HD
 https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 
@@ -58,7 +61,7 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-chno="7",FILMSCREEN
 http://lb.wisp.cat/lb0/TR_FILMBOX/video.m3u8?token=9bmCmR7
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",NOW HD
-https://videotest-sand.vercel.app/api/proxy?url=https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
