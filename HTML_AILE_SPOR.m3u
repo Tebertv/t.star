@@ -12,9 +12,6 @@ http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV4
 http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV5
-http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CANLI SPOR TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
@@ -45,8 +42,7 @@ https://tv-trtspor2.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",EUROSPORT 1 HD
 http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/142
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",EUROSPORT 2 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/143
+
 #EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",GS TV HD
 http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/144
 #EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",FB TV HD
