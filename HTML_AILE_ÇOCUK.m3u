@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| JUNIOR TURK" tvg-logo="http://f.pure-redirect.com/TR/nickjr.png" group-title="BOUQUET TURC",|TR| JUNIOR TURK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10084
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BABY TV" tvg-logo="http://f.pure-redirect.com/TR/babytv.png" group-title="BOUQUET TURC",|TR| BABY TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10007
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DiSNEY CHANNEL" tvg-logo="http://f.pure-redirect.com/TR/disneychannel.png" group-title="BOUQUET TURC",|TR| DiSNEY CHANNEL
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10005
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DISNEY JR" tvg-logo="http://f.pure-redirect.com/TR/disneyjr.png" group-title="BOUQUET TURC",|TR| DISNEY JR
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10004
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DISNEY XD" tvg-logo="http://x.pure-redirect.com/1_0_1_701_5_85_C00000_0_0_0.png" group-title="BOUQUET TURC",|TR| DISNEY XD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10252
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| NICK JR" tvg-logo="http://f.pure-redirect.com/TR/nickjr.png" group-title="BOUQUET TURC",|TR| NICK JR
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10001
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| NICKELODEON TURK" tvg-logo="http://f.pure-redirect.com/TR/nickelodeon.png" group-title="BOUQUET TURC",|TR| NICKELODEON TURK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10000
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MINIKA COCUK" tvg-logo="http://f.pure-redirect.com/TR/minikacocuk.png" group-title="BOUQUET TURC",|TR| MINIKA COCUK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10003
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MINIKA GO TV" tvg-logo="http://i.minika.com.tr/go/site/v1/i/imaj_haber.jpg" group-title="BOUQUET TURC",|TR| MINIKA GO TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10002
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT COCUK" tvg-logo="https://www.trthaber.com/resimler/920000/921231.jpg" group-title="BOUQUET TURC",|TR| TRT COCUK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9997
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| CARTOON NETWORK HD" tvg-logo="http://f.pure-redirect.com/TR/cartoonnetwork.png" group-title="BOUQUET TURC",|TR| CARTOON NETWORK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10179
