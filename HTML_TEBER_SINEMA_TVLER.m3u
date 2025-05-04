@@ -1,0 +1,159 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL ANADOLU
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER DİZİ FLASH
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER SHOX
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER_HBB
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT
+https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT_SAFARİ
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT TEZENE
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745854618.png" group-title="TEBER_MEDYA",KANAL10 HD
+https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745810650.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
+https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1746375321.png" group-title="TEBER_MEDYA",VRT TV
+https://vrttv.ozelip.com:3644/hybrid/play.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/htnDXBkP/In-Shot-20250428-070125172.png",HOÇWAN TV ᵏᵃᵑᵏᵃ
+https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
+
+#EXTINF:-1 tvg-chno="7",DENİZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/langfr-2880px-Fox_life_logo.svg.png" group-title="BOUQUET TURC",|TR| FOX LIFE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10176
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMA TV 2 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMA TV 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10062
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMA TV AKSIYON 1" tvg-logo="http://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png?v=1.0.0.68" group-title="BOUQUET TURC",|TR| SINEMA TV AKSIYON 1
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10117
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMA TV HD" tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png?v=1.0.0.68" group-title="BOUQUET TURC",|TR| SINEMA TV HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10063
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV 1001" tvg-logo="http://1001.sinematv.com.tr/content/logo/SINEMATV-1001.png?v=1.0.0.68" group-title="BOUQUET TURC",|TR| SINEMATV 1001
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10120
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV AILE 1" tvg-logo="http://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png?v=1.0.0.68" group-title="BOUQUET TURC",|TR| SINEMATV AILE 1
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10119
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV AILE 2" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMATV AILE 2
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10118
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV AKSIYON 2" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMATV AKSIYON 2
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10116
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV KOMEDI" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMATV KOMEDI
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10115
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV YERLI" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMATV YERLI
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10114
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES ACTION 1" tvg-logo="http://x.pure-redirect.com/TR/beinmoviesaction.png" group-title="BOUQUET TURC",|TR| BEIN MOVIES ACTION 1
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10096
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIE  PREMIERE" tvg-logo="http://x.pure-redirect.com/TR/beinmoviespremier.png" group-title="BOUQUET TURC",|TR| BEIN MOVIE  PREMIERE
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10093
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIE TURK" tvg-logo="http://x.pure-redirect.com/TR/beinmoviesturk.png" group-title="BOUQUET TURC",|TR| BEIN MOVIE TURK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10097
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES ACTION 2" tvg-logo="http://x.pure-redirect.com/TR/beinmoviesaction2.png" group-title="BOUQUET TURC",|TR| BEIN MOVIES ACTION 2
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10095
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES COMEDY" tvg-logo="http://x.pure-redirect.com/TR/beinseriescomedy.png" group-title="BOUQUET TURC",|TR| BEIN MOVIES COMEDY
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10094
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART FEST" tvg-logo="" group-title="BOUQUET TURC",|TR| MOVIESMART FEST
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10055
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES ACTION 2" tvg-logo="" group-title="BOUQUET TURC",|TR| BEIN MOVIES ACTION 2
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10054
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES STARS  HD" tvg-logo="http://x.pure-redirect.com/TR/beinmoviesstars.png" group-title="BOUQUET TURC",|TR| BEIN MOVIES STARS  HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10053
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES PREMIER 2" tvg-logo="http://x.pure-redirect.com/TR/beinmoviespremier2.png" group-title="BOUQUET TURC",|TR| BEIN MOVIES PREMIER 2
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10092
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIE SMART COCUK FHD" tvg-logo="" group-title="BOUQUET TURC",|TR| MOVIE SMART COCUK FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9998
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART ACTION FHD" tvg-logo="https://ulango.tv/uploads/channels/10911/movie_smart_action.png" group-title="BOUQUET TURC",|TR| MOVIESMART ACTION FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10066
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART CLASSIC HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartclassic.png" group-title="BOUQUET TURC",|TR| MOVIESMART CLASSIC HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10174
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART FAMILY HD" tvg-logo="data:image/png;base64,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" group-title="BOUQUET TURC",|TR| MOVIESMART FAMILY HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10175
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART FEST" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d40f1a4aa41d0dcd3ff.jpg" group-title="BOUQUET TURC",|TR| MOVIESMART FEST
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10073
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART TURK HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| MOVIESMART TURK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d30f1a4aa41d0dcd3fb.jpg" group-title="BOUQUET TURC",|TR| MOVIESMART PLATIN
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10071
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN 2 HD" tvg-logo="https://tvmannen.es/iptv_channels/2258132_files/moviesmartplatin2.png" group-title="BOUQUET TURC",|TR| MOVIESMART PLATIN 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10069
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN HD" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d30f1a4aa41d0dcd3fb.jpg" group-title="BOUQUET TURC",|TR| MOVIESMART PLATIN HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10070
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PREMIUM 2 HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartpremium2.png" group-title="BOUQUET TURC",|TR| MOVIESMART PREMIUM 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10074
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PREMIUM HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartpremium.png" group-title="BOUQUET TURC",|TR| MOVIESMART PREMIUM HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10076
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART TURK FHD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| MOVIESMART TURK FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10064
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES FAMILY HD" tvg-logo="http://x.pure-redirect.com/TR/moviesmartfamily.png" group-title="BOUQUET TURC",|TR| BEIN MOVIES FAMILY HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10056
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA 1 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA 1 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10083
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA KOMEDI HD" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA KOMEDI HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10080
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AKSIYON" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AKSIYON
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AILE
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10082
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN SERIES DRAMA  HD" tvg-logo="http://x.pure-redirect.com/TR/beinseriesdrama.png" group-title="BOUQUET TURC",|TR| BEIN SERIES DRAMA  HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10051
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN SERIES 1 HD" tvg-logo="http://x.pure-redirect.com/TR/beinseriesscifi.png" group-title="BOUQUET TURC",|TR| BEIN SERIES 1 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10050
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTAR VIZYON 1 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| CINESTAR VIZYON 1 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10091
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTAR VIZYON 2 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| CINESTAR VIZYON 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10306
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTAR VIZYON 3 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| CINESTAR VIZYON 3 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10307
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| VIZYON TV Plus" tvg-logo="" group-title="BOUQUET TURC",|TR| VIZYON TV Plus
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10060
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SALON OFICIAL MUZIK" tvg-logo="http://berktv.com/salon1.png" group-title="BOUQUET TURC",|TR| SALON OFICIAL MUZIK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10059
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SALON 2" tvg-logo="http://www.merkez.gen.tr/photo/digiturk-salon2.png" group-title="BOUQUET TURC",|TR| SALON 2
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10263
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SALON 3" tvg-logo="http://www.merkez.gen.tr/photo/digiturk-salon3.png" group-title="BOUQUET TURC",|TR| SALON 3
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10262
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN BOX OFFICE 1 HD" tvg-logo="http://f.pure-redirect.com/TR/beinboxoffice1.png" group-title="BOUQUET TURC",|TR| BEIN BOX OFFICE 1 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10048
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN BOX OFFICE 2 HD" tvg-logo="http://f.pure-redirect.com/TR/beinboxoffice2.png" group-title="BOUQUET TURC",|TR| BEIN BOX OFFICE 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10047
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN BOX OFFICE 3 HD" tvg-logo="http://f.pure-redirect.com/TR/beinboxoffice3.png" group-title="BOUQUET TURC",|TR| BEIN BOX OFFICE 3 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10046
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN BOX OFFICE  4 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| BEIN BOX OFFICE  4 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10045
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN SERIES COMEDY HD" tvg-logo="http://x.pure-redirect.com/TR/beinseriescomedy.png" group-title="BOUQUET TURC",|TR| BEIN SERIES COMEDY HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10052
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN SERIES 2 HD" tvg-logo="http://f.pure-redirect.com/ent/series_2.png" group-title="BOUQUET TURC",|TR| BEIN SERIES 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10049
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| PLANET COCUK" tvg-logo="https://www.freeetv.com/images/02_logo/planete_cocuk_turkey.jpg" group-title="BOUQUET TURC",|TR| PLANET COCUK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9999
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| GS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/67/GSTV.png" group-title="BOUQUET SPORT TURC",|TR| GS TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10024
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="BOUQUET TURC",|TR| FX HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10085
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| FOX CRIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png" group-title="BOUQUET TURC",|TR| FOX CRIME HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10086
