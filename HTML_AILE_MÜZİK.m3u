@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KRAL TV" tvg-logo="http://f.pure-redirect.com/TR/kralpop.png" group-title="BOUQUET TURC",|TR| KRAL TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10103
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KRAL POP TV" tvg-logo="http://f.pure-redirect.com/TR/kralpop.png" group-title="BOUQUET TURC",|TR| KRAL POP TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10253
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| POWER TURK HD" tvg-logo="https://res.cloudinary.com/tosunkaya/image/upload/v1528581176/Kanaldosya-getir_x3emhu.png" group-title="BOUQUET TURC",|TR| POWER TURK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10105
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DREAM TURK" tvg-logo="http://f.pure-redirect.com/TR/dreamturk.png" group-title="BOUQUET TURC",|TR| DREAM TURK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10104
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DREAM TV" tvg-logo="http://f.pure-redirect.com/TR/dreamtv.png" group-title="BOUQUET TURC",|TR| DREAM TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10183
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| NUMBER1 TURK HD" tvg-logo="https://ulango.tv/uploads/channels/17737/logo_nr1%20t%C3%BCrk.png" group-title="BOUQUET TURC",|TR| NUMBER1 TURK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10102
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| NUMBER1 TV HD" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/nr1-tv-logo-224x126.jpg" group-title="BOUQUET TURC",|TR| NUMBER1 TV HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10101
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT MUZIK" tvg-logo="http://trtmuzik.net.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT_MUZIK_LOGO2D.JPG" group-title="BOUQUET TURC",|TR| TRT MUZIK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10100
