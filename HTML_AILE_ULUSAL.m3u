@@ -1,0 +1,83 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT 1 HD" tvg-logo="http://x.pure-redirect.com/TR/trt1.png" group-title="BOUQUET TURC",|TR| TRT 1 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10158
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT AVAZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TRT_Avaz_kurumsal_logo.png" group-title="BOUQUET TURC",|TR| TRT AVAZ
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10136
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT DIYANET" tvg-logo="https://im.haberturk.com/2018/02/01/ver1517477191/1819968_620x410.jpg" group-title="BOUQUET TURC",|TR| TRT DIYANET
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10248
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" group-title="BOUQUET TURC",|TR| TRT HABER HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10139
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT TURK" tvg-logo="http://x.pure-redirect.com/TR/trtturk.png" group-title="BOUQUET TURC",|TR| TRT TURK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10249
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT WORLD" tvg-logo="http://x.pure-redirect.com/TR/trtworld.png" group-title="BOUQUET TURC",|TR| TRT WORLD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10250
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TV 100 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-100-tr.png" group-title="BOUQUET TURC",|TR| TV 100 FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10157
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TV NET" tvg-logo="group-title="BOUQUET SPORT TURC",|TR| TV NET
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10132
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TV8 FHD" tvg-logo="http://x.pure-redirect.com/TR/tv8hd.png" group-title="BOUQUET TURC",|TR| TV8 FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10145
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TV8 HD" tvg-logo="http://x.pure-redirect.com/TR/tv8hd.png" group-title="BOUQUET TURC",|TR| TV8 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10146
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TV8.5 HD" tvg-logo="http://x.pure-redirect.com/TR/tv8.5.png" group-title="BOUQUET TURC",|TR| TV8.5 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10144
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ULKE TV HD" tvg-logo="https://image.ulketv.com.tr/wp-content/themes/ulketv/images/ulke-tv-share.jpg" group-title="BOUQUET TURC",|TR| ULKE TV HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10122
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ULUSAL KANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" group-title="BOUQUET TURC",|TR| ULUSAL KANAL
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10133
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TELE 1" tvg-logo="https://medyascope.tv/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-07-at-16.22.09.jpeg" group-title="BOUQUET TURC",|TR| TELE 1
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10134
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TEVE 2 HD" tvg-logo="http://x.pure-redirect.com/TR/teve2.png" group-title="BOUQUET TURC",|TR| TEVE 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10143
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TGRT HABER" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png" group-title="BOUQUET TURC",|TR| TGRT HABER
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10123
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/14/Show_tv.jpg" group-title="BOUQUET TURC",|TR| SHOW HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10152
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SHOW MAX" tvg-logo="http://x.pure-redirect.com/TR/showmax.png" group-title="BOUQUET TURC",|TR| SHOW MAX
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10247
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SHOW TV FHD" tvg-logo="http://x.pure-redirect.com/TR/showtv.png" group-title="BOUQUET TURC",|TR| SHOW TV FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10151
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  A HABER HD" tvg-logo="http://f.pure-redirect.com/TR/ahaber.png" group-title="BOUQUET TURC",|TR|  A HABER HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10140
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| 360 TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" group-title="BOUQUET TURC",|TR| 360 TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10131
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| A2 HD" tvg-logo="http://x.pure-redirect.com/TR/a2tr.png" group-title="BOUQUET TURC",|TR| A2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10124
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ATV FHD" tvg-logo="http://x.pure-redirect.com/TR/atv.png" group-title="BOUQUET TURC",|TR| ATV FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10153
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ATV HD" tvg-logo="http://x.pure-redirect.com/TR/atv.png" group-title="BOUQUET TURC",|TR| ATV HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10154
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| HABER TURK HD" tvg-logo="http://f.pure-redirect.com/TR/haberturk.png" group-title="BOUQUET TURC",|TR| HABER TURK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10127
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| HALK TV" tvg-logo="http://f.pure-redirect.com/TR/halktv.png" group-title="BOUQUET TURC",|TR| HALK TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10137
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL 24 HD" tvg-logo="http://x.pure-redirect.com/TR/kanal24.png" group-title="BOUQUET TURC",|TR| KANAL 24 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10182
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL 7 HD" tvg-logo="http://f.pure-redirect.com/TR/kanal7tr.png" group-title="BOUQUET TURC",|TR| KANAL 7 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10141
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL D FHD" tvg-logo="http://x.pure-redirect.com/TR/kanald.png" group-title="BOUQUET TURC",|TR| KANAL D FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10147
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL D HD" tvg-logo="http://x.pure-redirect.com/TR/kanald.png" group-title="BOUQUET TURC",|TR| KANAL D HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10148
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL D" tvg-logo="http://x.pure-redirect.com/TR/kanald.png" group-title="BOUQUET TURC",|TR| KANAL D
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10129
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| FOX FHD" tvg-logo="ttp://x.pure-redirect.com/TR/fox.png" group-title="BOUQUET TURC",|TR| FOX FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10155
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| CNN TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png" group-title="BOUQUET TURC",|TR| CNN TURK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10126
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BLOOMBERG HT HD" tvg-logo="http://x.pure-redirect.com/bloombergtv.png" group-title="BOUQUET TURC",|TR| BLOOMBERG HT HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10128
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEYAZ TV FHD" tvg-logo="http://f.pure-redirect.com/TR/beyaztv.png" group-title="BOUQUET TURC",|TR| BEYAZ TV FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10138
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| NTV HD" tvg-logo="http://x.pure-redirect.com/TR/ntv.png" group-title="BOUQUET TURC",|TR| NTV HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10142
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| STAR TV FHD" tvg-logo="http://x.pure-redirect.com/TR/startv.png" group-title="BOUQUET TURC",|TR| STAR TV FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10149
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| STAR TV HD" tvg-logo="http://x.pure-redirect.com/TR/startv.png" group-title="BOUQUET TURC",|TR| STAR TV HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10150
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| FOX TV FHD" tvg-logo="ttp://x.pure-redirect.com/TR/fox.png" group-title="BOUQUET TURC",|TR| FOX TV FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10156
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT TURK" tvg-logo="https://3.bp.blogspot.com/-Rqtay6vahSA/WQw8jXD1J4I/AAAAAAAAAGQ/UbiV8B3MMboQ5IyVK5wPyon_37sFxIBcgCPcB/s1600/planet.png" group-title="BOUQUET TURC",|TR| TRT TURK
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10260
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT 2 HD" tvg-logo="http://islimsayinortaokulu.meb.k12.tr/meb_iys_dosyalar/27/05/701511/resimler/2017_06/k_18150639_2.jpg" group-title="BOUQUET TURC",|TR| TRT 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10261
