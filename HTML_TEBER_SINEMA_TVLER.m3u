@@ -32,10 +32,10 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745854618.png" group-title="TEBER_MEDYA",KANAL10 HD
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745810650.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745854618.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1746375321.png" group-title="TEBER_MEDYA",VRT TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_icohome.png?ts=1746469171.png" group-title="TEBER_MEDYA",VRT TV
 https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/htnDXBkP/In-Shot-20250428-070125172.png",HOÇWAN TV ᵏᵃᵑᵏᵃ
