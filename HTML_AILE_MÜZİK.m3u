@@ -1,8 +1,23 @@
 ﻿#EXTM3U
+
+**************Müzik tv*********************
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_icohome.png?ts=1746469171.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
+https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
+
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| KRAL TV" tvg-logo="http://f.pure-redirect.com/TR/kralpop.png" group-title="BOUQUET TURC",|TR| KRAL TV
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10103
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| KRAL POP TV" tvg-logo="http://f.pure-redirect.com/TR/kralpop.png" group-title="BOUQUET TURC",|TR| KRAL POP TV
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10253
+
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",SÖNMEZ TV
+https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",SİTELER TV
+https://ip44.radyotelekomtv.com:3534/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",DÜĞÜN TV
+https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",EZGİ TV
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| POWER TURK HD" tvg-logo="https://res.cloudinary.com/tosunkaya/image/upload/v1528581176/Kanaldosya-getir_x3emhu.png" group-title="BOUQUET TURC",|TR| POWER TURK HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10105
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| DREAM TURK" tvg-logo="http://f.pure-redirect.com/TR/dreamturk.png" group-title="BOUQUET TURC",|TR| DREAM TURK

@@ -40,7 +40,6 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9991
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9995
 #EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|TR| BBC EARTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/BBC_Earth.jpg" group-title="BOUQUET TURC",|TR| BBC EARTH HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9994
-
 #EXTINF:-1 tvg-chno="100",NATURE TIME
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-chno="101",LOVE NATURE
@@ -67,7 +66,3 @@ https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-chno="112",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1 tvg-chno="113",TARİH TV
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/329
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN IZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="BOUQUET TURC",|TR| BEIN IZ HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10251

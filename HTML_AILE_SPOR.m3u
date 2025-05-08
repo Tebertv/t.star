@@ -1,18 +1,12 @@
 ﻿#EXTM3U
 *********SPORTV************
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV1
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT Spor1
+https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV2
-http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT Spor2 Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV3
-http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV4
-http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CANLI SPOR TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CANLI GZC SPOR TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HT-SPOR TV
@@ -23,92 +17,13 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR CANLI
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR1
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR2
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR3
-https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR4
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR5
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-TAMAM SPOR6
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR7
-https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT Spor1
-https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT Spor2 Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_1080p.m3u8
-
 ***********ÖZELSPOR**********************
-
+#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",FB TV HD
+http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/145
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",EUROSPORT 1 HD
 http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/142
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",EUROSPORT 2 HD
 http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/143
 #EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",GS TV HD
 http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/144
-#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",FB TV HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/145
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS 1 FHD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/146
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS 1 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/147
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS 1
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/148
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS 2 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/149
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS 3 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/150
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS 4 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/151
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS MAX 1 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/152
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS MAX 2 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/153
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HABER HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",BEIN SPORTS HABER HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/154
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",S SPORT HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/155
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",S SPORT 2 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/156
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",TRT SPOR HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/157
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR 2" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",TRT SPOR 2
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/158
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",A SPOR HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/159
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",SPORTS TV
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/160
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",TIVIBU SPOR 1 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/161
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",TIVIBU SPOR 2 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/162
-#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 3 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",TIVIBU SPOR 3 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/163
-#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",FB TV HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/164
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",NBA TV HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/165
-#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",AUTOMOTO HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/166
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  EXXEN SPORTS 1" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 1
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/167
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  EXXEN SPORTS 2" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 2
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/168
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  EXXEN SPORTS 3" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 3
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/169
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  EXXEN SPORTS 4" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 4
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/170
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  EXXEN SPORTS 5" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 5
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/171
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  EXXEN SPORTS 6" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 6
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/172
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  EXXEN SPORTS 7" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 7
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/173
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  EXXEN SPORTS 8" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 8
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/174
+
