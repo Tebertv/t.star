@@ -71,6 +71,10 @@ https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLk6RCmv/onde-small-thumbnail.png",ÖNDE TV ᵏᵃᵑᵏᵃ
+#EXTGRP:Türkiyə
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEVE 6 HD 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
