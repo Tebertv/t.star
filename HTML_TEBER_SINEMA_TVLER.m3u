@@ -34,6 +34,38 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT SİNEMA
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA 1 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA 1 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10083
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA KOMEDI HD" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA KOMEDI HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10080
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AKSIYON" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AKSIYON
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AILE
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10082
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIE SMART COCUK FHD" tvg-logo="" group-title="BOUQUET TURC",|TR| MOVIE SMART COCUK FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9998
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART ACTION FHD" tvg-logo="https://ulango.tv/uploads/channels/10911/movie_smart_action.png" group-title="BOUQUET TURC",|TR| MOVIESMART ACTION FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10066
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART CLASSIC HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartclassic.png" group-title="BOUQUET TURC",|TR| MOVIESMART CLASSIC HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10174
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART FAMILY HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAAA51BMVEX///9HR0hPT0/8//9dXV75+flmZmfy8vJ4eHns7OvzmmHyjVT0llrGxsfxh0pubm+CgoNVVVX0oWmHh4eTlJTLy8vk5OWZmZrU1NT5omDvgTrrg0r///fx5+i+vr/y6+X2sXr218Xte0bqah30bTrtZhKlpKb2xbL1yqz0qHHxj0zpilPzeD+tra3u4NNAQEDzYgP0tobot5T66tndZhr31bbrl2b+8djfh1P0u5X0yJ3kpHr448fleCzyfS3nay/qzqfjr5jsmnbboHDflWjzqYvz2tjzuqDZnYP99ufjx8ChoZnuh3AnfzsGAAAFVklEQVRoge2VaXPiOBBAZcvyBcZ2fAYcGWwwAeIQQyAHmZlM5t7d//97tlsmCTNb+2WH2qv0ymUs+dBTd0sQIpFIJBKJRCKRSCQSiUQikUgkkv8V7J8WAHhg/dMK/xKJv4MoNeqwNkhchVxkP6rC2iIGF/M3eBxjd1yHVSyeNyLuOA7nPIVG7ETQG/OoDZaROk6KlyyNWuAui6KXRso5vouvwyl9kQhMz/R8j7twDgzCEs0MXD0y9ATvcj+uXYNEuuiEDsdVVUWgWaTWVFWrE19VdQ6jcRduqXoFz0OXwA+sGn987HCtwNd9VdN8Xdd9RQlfJEK1ZjCWBl/hKofvOoRYgRbXGk7JC0jtMktPGGGhbhFLV70g8JCEcdX3TPiY5pmqGpFKUc0w9LSlx7iie6bpeaamhBFM0lXgSTNhXhhrKud6FMeOu3yVCFxMgmliEGESeiXiqiexVkOgQal20UN0chKppsUMBA0Vzlit+A5jlQIvwAVmwlQ4VyuGjzFHdQ3GmKN4DF8Bc01JUy2pkjjWDiLhCRXsYGaSam2iEpeEJiMVjA4GoV4hWgJWimsKKovpGKzY12HoVA34c3gdJeFKHYcBYMLoWGeKGAUl6tqK9DRZesT7g0TQSkT+XsIk4MNciAZKaKEAMsXdfbqVwGglVN1oJVSTCxIh4YiHFFd871WCxClzdFYtTSbG3KcjOIyEhUmAKzfENzhUAUq06WhhsSDV/fQ5EiARgYSvPAMSlVgg3j7vB5FwtTTSjRpqUP+zSJDEhzXAEgwI111cIWAQawku08qC9YYLFNeopsUHkUAJVU8EnpAQH4cydH6QgJqIdItZRqL8KOG1EiFhgRYkJq4VKEQ1FRIG4ZpXhTqs4FRbtpNdqgk7TIfyWhORUj1LEL50jUMJLVAV08QVpi8PVofDxcNCmGMUeBjs9yUuUpOKzaoKcC+jVtVWR5hAi9eMElZzOBtVZFWReItav6ZxBfoU51XXmEkr4e0Xw0M4+StklLbfbqEE2thDD1pwyuBEWdsiL7e/e/UnyKgx2oxemU7hAM4BOD0+4hV0wunxcXM+3Yw2h49fZkeRIJfNbDezu91Op9fr9y8Wq93u/VNRTsqyvJ5cTa6vJ5Prp9HWng7GxXhcFBf9Qa/Xsbu2bZ/MVjk9Siwuh6cnp/bWtheLxaBf7LIsoze378bvyquyvJpM8Gw/bBtqj4uyAC4KlECHk9PhzVEkqJDodrvzea83KMafsunXbffjZv0wK7+M7h9Ws/XobffyY0NX9/dvtptPxcVg0el0uhCK40qc7NOBEuTz+2Y7uP8lv7n9TB8YXed0uCO7Fftwnm3Ps1nR7y/m8zlInJ7OmhtyFItWwm4l+uP3lN1k97d3558ze3pT3NFdJ2tW5KnJur9l03x9C0Wxr4kTrAlyFAuQmH0nMb0d9Df06332YZO/GRJ7gRK7FbWvN5TeFcVg0JuLdLQS9AgSbTqgJjpzIfEpu4OiPGejB/ph8w0l7FYi617vSPZxfIGFOe+IdJw2+VEC0RYmFnsHVsfFeHu3Lcfl7ZdmthrYw7LXvHnTzG+bgd0MtqNsA2sDQrHYp+N0uD6GQ0b2qwMKvjcYwDSLotxvEbBBXF3hMYHmpHx39+2hUwqLXgcL08ZIHEciv2tWzWw2O8Hy7EC25z2ojgXuXP3+27d4CKAan7aL/dqEcpgNh8PmHCR+ftPMKFuv83Vu5Yh1Zp3hcbbOz3Lss7CdQwde4H0gxyu4A+Q5I7C3/bQFpQeLrP3HovvZ0az9e8swYHjAgD/UIf63ZcfZuSUSiUQikUgkEolEIvmP8zs3i5458QEMaQAAAABJRU5ErkJggg==" group-title="BOUQUET TURC",|TR| MOVIESMART FAMILY HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10175
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART FEST" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d40f1a4aa41d0dcd3ff.jpg" group-title="BOUQUET TURC",|TR| MOVIESMART FEST
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10073
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART TURK HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| MOVIESMART TURK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d30f1a4aa41d0dcd3fb.jpg" group-title="BOUQUET TURC",|TR| MOVIESMART PLATIN
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10071
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN 2 HD" tvg-logo="https://tvmannen.es/iptv_channels/2258132_files/moviesmartplatin2.png" group-title="BOUQUET TURC",|TR| MOVIESMART PLATIN 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10069
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN HD" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d30f1a4aa41d0dcd3fb.jpg" group-title="BOUQUET TURC",|TR| MOVIESMART PLATIN HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10070
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PREMIUM 2 HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartpremium2.png" group-title="BOUQUET TURC",|TR| MOVIESMART PREMIUM 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10074
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PREMIUM HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartpremium.png" group-title="BOUQUET TURC",|TR| MOVIESMART PREMIUM HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10076
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART TURK FHD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| MOVIESMART TURK FHD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10064
 
 #EXTINF:-1 tvg-id="" tvg-logo="8.png" group-title="TEBER_MEDYA",NİMO TV HD
 https://tx.flv.nimo.tv/live/su1599519794528rd200c3d19d9576c60d3833c7502f0501.flv?wsSecret=04bec7371780bcdf10c6e178b5b5753b&wsTime=681a1add&seqid=3447999250879&ctype=nimo_media_web&ver=1&appid=81&tp=1746541277710&needwm=1&ratio=1000&dMod=mseh-0&sdkPcdn=1_1&u=1704232386598&t=100&sv=2412091148&sdk_sid=1746541287225&a_block=0
@@ -96,14 +128,14 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| TEVE 2 HD" tvg-logo="http://x.pure-redirect.com/TR/teve2.png" group-title="BOUQUET TURC",|TR| TEVE 2 HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10143
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",A2 TV
-https://c.fulltvizle.com/a2/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| 360 TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" group-title="BOUQUET TURC",|TR| 360 TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10131
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SHOW MAX
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| A2 HD" tvg-logo="http://x.pure-redirect.com/TR/a2tr.png" group-title="BOUQUET TURC",|TR| A2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10124
 
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="TEBER_MEDYA-Eğlence",Tivi Türk
-http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SHOW MAX" tvg-logo="http://x.pure-redirect.com/TR/showmax.png" group-title="BOUQUET TURC",|TR| SHOW MAX
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10247
 
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KNY.OLAY TV
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8

@@ -1,57 +1,57 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT_SAFARİ
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| TLC TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="BOUQUET TURC",|TR| TLC TURK
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10125
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT BELGESEL HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="BOUQUET TURC",|TR| TRT BELGESEL HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10108
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| DAVINCI LEARNING." tvg-logo="=" group-title="BOUQUET TURC",|TR| DAVINCI LEARNING
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9993
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| DAVINCI LEARNING" tvg-logo="" group-title="BOUQUET TURC",|TR| DAVINCI LEARNING
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10112
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| DISCOVERY CHANNEL HD" tvg-logo="http://f.pure-redirect.com/TR/discoverychannel.png" group-title="BOUQUET TURC",|TR| DISCOVERY CHANNEL HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9992
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| DISCOVERY ID FHD" tvg-logo="https://4.bp.blogspot.com/-EZBZyNogCEI/Wvv0-PoK6pI/AAAAAAABOTo/YPgRTyb4g6wxce8Ars0rBTYmQYEZkZWNgCLcBGAs/s1600/ID_HD.png" group-title="BOUQUET TURC",|TR| DISCOVERY ID FHD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9989
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| DISCOVERY ID HD" tvg-logo="https://4.bp.blogspot.com/-EZBZyNogCEI/Wvv0-PoK6pI/AAAAAAABOTo/YPgRTyb4g6wxce8Ars0rBTYmQYEZkZWNgCLcBGAs/s1600/ID_HD.png" group-title="BOUQUET TURC",|TR| DISCOVERY ID HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9990
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| DISCOVERY SCIENCE" tvg-logo="http://f.pure-redirect.com/TR/discoveryscience.png" group-title="BOUQUET TURC",|TR| DISCOVERY SCIENCE
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9988
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| DISCOVERY SHOWCASE HD" tvg-logo="http://f.pure-redirect.com/TR/discoverychannel.png" group-title="BOUQUET TURC",|TR| DISCOVERY SHOWCASE HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10177
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| DMAX HD" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="BOUQUET TURC",|TR| DMAX HD
+FRANCAIS",----------- BOUQUET DECOUVERTE -----------
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2454
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Crime_district.jpg" group-title="BOUQUET  FRANCAIS",|FR| CRIME DISTRICT HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2985
+#EXTINF:-1 tvg-ID="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="http://f.pure-redirect.com/discoveryinvestigation.png" group-title="BOUQUET  FRANCAIS",|FR| DISCOVERY INVESTIGATION HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2971
+#EXTINF:-1 tvg-ID="DiscoveryChannel.fr" tvg-name="|FR| DISCOVERY HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Discovery_Channel_1995.png" group-title="BOUQUET  FRANCAIS",|FR| DISCOVERY HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/125
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="|FR| DISCOVERY SCIENCE  HD" tvg-logo="http://f.pure-redirect.com/discoveryscience.png" group-title="BOUQUET  FRANCAIS",|FR| DISCOVERY SCIENCE  HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/107
+#EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO HD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="BOUQUET  FRANCAIS",|FR| NATIONAL GEO HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2999
+#EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/220px-National_Geographic_Channel.svg.png" group-title="BOUQUET  FRANCAIS",|FR| NATIONAL GEO FHD.
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/97
+#EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NATIONAL GEO WILD HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png" group-title="BOUQUET  FRANCAIS",|FR| NATIONAL GEO WILD HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/96
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="|FR| ANIMAUX HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/animaux_fr.png" group-title="BOUQUET  FRANCAIS",|FR| ANIMAUX HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/110
+#EXTINF:-1 tvg-ID="ChasseEtPeche.fr" tvg-name="|FR| CHASSE ET PECHE HD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/chasse_et_peche.png" group-title="BOUQUET  FRANCAIS",|FR| CHASSE ET PECHE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/68
+#EXTINF:-1 tvg-ID="Seasons.fr" tvg-name="|FR| SEASONS HD" tvg-logo="http://f.pure-redirect.com/seasons.png" group-title="BOUQUET  FRANCAIS",|FR| SEASONS HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2317
+#EXTINF:-1 tvg-ID="ScienceEtVieTV.fr" tvg-name="|FR| SCIENCES & VIE HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/science_et_vie_tv_fr.png" group-title="BOUQUET  FRANCAIS",|FR| SCIENCES & VIE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/912
+#EXTINF:-1 tvg-ID="TouteHistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE HD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/toute_histoire_fr.png" group-title="BOUQUET  FRANCAIS",|FR| TOUTE L HISTOIRE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/958
+#EXTINF:-1 tvg-ID="Histoire.fr" tvg-name="|FR| HISTOIRE HD" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/histoire_fr.png" group-title="BOUQUET  FRANCAIS",|FR| HISTOIRE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/1654
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV" tvg-logo="http://adamis-prod.com/wp-content/uploads/2015/09/ushuaia.png" group-title="BOUQUET  FRANCAIS",|FR| USHUAIA TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/51
+#EXTINF:-1 tvg-ID="PlaneteAction.fr" tvg-name="|FR| PLANETE+ A&E FHD." tvg-logo="http://109.238.11.8:25461/logo/tv/pp/planete_plus_action_experience.png" group-title="BOUQUET  FRANCAIS",|FR| PLANETE+ A&E FHD.
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2909
+#EXTINF:-1 tvg-ID="PlaneteAction.fr" tvg-name="|FR| PLANETE+ A&E HD" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/planete_plus_action_experience.png" group-title="BOUQUET  FRANCAIS",|FR| PLANETE+ A&E HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/1257
+#EXTINF:-1 tvg-ID="PLANETEJustice.fr" tvg-name="|FR| PLANETE+ CI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="BOUQUET  FRANCAIS",|FR| PLANETE+ CI HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/93
+#EXTINF:-1 tvg-ID="PlanetePlus.fr" tvg-name="|FR| PLANETE+ HD" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/planete_plus.png" group-title="BOUQUET  FRANCAIS",|FR| PLANETE+ HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2921
+#EXTINF:-1 tvg-ID="RMCDecouverte.fr" tvg-name="|FR| RMC DECOUVERTE FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="BOUQUET  FRANCAIS",|FR| RMC DECOUVERTE FHD.
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2979
+#EXTINF:-1 tvg-ID="RMCDecouverte.fr" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="BOUQUET  FRANCAIS",|FR| RMC DECOUVERTE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/815
+#EXTINF:-1 tvg-ID="Trek.fr" tvg-name="|FR| TREK HD" tvg-logo="http://x.pure-redirect.com/trek.png" group-title="BOUQUET  FRANCAIS",|FR| TREK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2187#EXTINF:-1 tvg-ID="" tvg-name="|TR| DMAX HD" tvg-logo="https://static.epg.best/it/DMAX.it.png" group-title="BOUQUET TURC",|TR| DMAX HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10107
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| NAT GEO HD" tvg-logo="http://f.pure-redirect.com/TR/nationalgeo.png" group-title="BOUQUET TURC",|TR| NAT GEO HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9986
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| NAT GEO PEOPLE HD" tvg-logo="http://f.pure-redirect.com/TR/nationalgeo.png" group-title="BOUQUET TURC",|TR| NAT GEO PEOPLE HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9985
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| NAT GEO WILD HD" tvg-logo="http://f.pure-redirect.com/TR/nationalgeowild.png" group-title="BOUQUET TURC",|TR| NAT GEO WILD HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9983
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| NATGEO PEOPLE FHD" tvg-logo="http://f.pure-redirect.com/TR/nationalgeo.png" group-title="BOUQUET TURC",|TR| NATGEO PEOPLE FHD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9984
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| YABAN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/120px-Yabantv_logo.png" group-title="BOUQUET TURC",|TR| YABAN TV HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10110
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| HISTORY HD" tvg-logo="http://f.pure-redirect.com/TR/historychannel.png" group-title="BOUQUET TURC",|TR| HISTORY HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10111
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| IDX DISCOVERY FHD" tvg-logo="https://4.bp.blogspot.com/-EZBZyNogCEI/Wvv0-PoK6pI/AAAAAAABOTo/YPgRTyb4g6wxce8Ars0rBTYmQYEZkZWNgCLcBGAs/s1600/ID_HD.png" group-title="BOUQUET TURC",|TR| IDX DISCOVERY FHD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9991
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| ANIMAL PLANET HD" tvg-logo="http://f.pure-redirect.com/Animal_Planet.png" group-title="BOUQUET TURC",|TR| ANIMAL PLANET HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9995
-#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|TR| BBC EARTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/BBC_Earth.jpg" group-title="BOUQUET TURC",|TR| BBC EARTH HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9994
-#EXTINF:-1 tvg-chno="100",NATURE TIME
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-chno="101",LOVE NATURE
-http://95.67.12.82:9098
-#EXTINF:-1 tvg-chno="102",TRT BELGESEL
-http://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-chno="103",NATIONAL GEOGRAPHIC
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-chno="104",NAT GEO WILD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-chno="105",DISCOVERY CHANNEL
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9992
+
 #EXTINF:-1 tvg-chno="106",ID
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9991
 #EXTINF:-1 tvg-chno="107",BBC EARTH
@@ -66,3 +66,48 @@ https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-chno="112",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+FRANCAIS",----------- BOUQUET DECOUVERTE -----------
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2454
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Crime_district.jpg" group-title="BOUQUET  FRANCAIS",|FR| CRIME DISTRICT HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2985
+#EXTINF:-1 tvg-ID="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="http://f.pure-redirect.com/discoveryinvestigation.png" group-title="BOUQUET  FRANCAIS",|FR| DISCOVERY INVESTIGATION HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2971
+#EXTINF:-1 tvg-ID="DiscoveryChannel.fr" tvg-name="|FR| DISCOVERY HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Discovery_Channel_1995.png" group-title="BOUQUET  FRANCAIS",|FR| DISCOVERY HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/125
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="|FR| DISCOVERY SCIENCE  HD" tvg-logo="http://f.pure-redirect.com/discoveryscience.png" group-title="BOUQUET  FRANCAIS",|FR| DISCOVERY SCIENCE  HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/107
+#EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO HD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="BOUQUET  FRANCAIS",|FR| NATIONAL GEO HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2999
+#EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="|FR| NATIONAL GEO FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/220px-National_Geographic_Channel.svg.png" group-title="BOUQUET  FRANCAIS",|FR| NATIONAL GEO FHD.
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/97
+#EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NATIONAL GEO WILD HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png" group-title="BOUQUET  FRANCAIS",|FR| NATIONAL GEO WILD HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/96
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="|FR| ANIMAUX HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/animaux_fr.png" group-title="BOUQUET  FRANCAIS",|FR| ANIMAUX HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/110
+#EXTINF:-1 tvg-ID="ChasseEtPeche.fr" tvg-name="|FR| CHASSE ET PECHE HD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/chasse_et_peche.png" group-title="BOUQUET  FRANCAIS",|FR| CHASSE ET PECHE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/68
+#EXTINF:-1 tvg-ID="Seasons.fr" tvg-name="|FR| SEASONS HD" tvg-logo="http://f.pure-redirect.com/seasons.png" group-title="BOUQUET  FRANCAIS",|FR| SEASONS HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2317
+#EXTINF:-1 tvg-ID="ScienceEtVieTV.fr" tvg-name="|FR| SCIENCES & VIE HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/science_et_vie_tv_fr.png" group-title="BOUQUET  FRANCAIS",|FR| SCIENCES & VIE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/912
+#EXTINF:-1 tvg-ID="TouteHistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE HD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/toute_histoire_fr.png" group-title="BOUQUET  FRANCAIS",|FR| TOUTE L HISTOIRE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/958
+#EXTINF:-1 tvg-ID="Histoire.fr" tvg-name="|FR| HISTOIRE HD" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/histoire_fr.png" group-title="BOUQUET  FRANCAIS",|FR| HISTOIRE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/1654
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV" tvg-logo="http://adamis-prod.com/wp-content/uploads/2015/09/ushuaia.png" group-title="BOUQUET  FRANCAIS",|FR| USHUAIA TV
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/51
+#EXTINF:-1 tvg-ID="PlaneteAction.fr" tvg-name="|FR| PLANETE+ A&E FHD." tvg-logo="http://109.238.11.8:25461/logo/tv/pp/planete_plus_action_experience.png" group-title="BOUQUET  FRANCAIS",|FR| PLANETE+ A&E FHD.
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2909
+#EXTINF:-1 tvg-ID="PlaneteAction.fr" tvg-name="|FR| PLANETE+ A&E HD" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/planete_plus_action_experience.png" group-title="BOUQUET  FRANCAIS",|FR| PLANETE+ A&E HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/1257
+#EXTINF:-1 tvg-ID="PLANETEJustice.fr" tvg-name="|FR| PLANETE+ CI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="BOUQUET  FRANCAIS",|FR| PLANETE+ CI HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/93
+#EXTINF:-1 tvg-ID="PlanetePlus.fr" tvg-name="|FR| PLANETE+ HD" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/planete_plus.png" group-title="BOUQUET  FRANCAIS",|FR| PLANETE+ HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2921
+#EXTINF:-1 tvg-ID="RMCDecouverte.fr" tvg-name="|FR| RMC DECOUVERTE FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="BOUQUET  FRANCAIS",|FR| RMC DECOUVERTE FHD.
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2979
+#EXTINF:-1 tvg-ID="RMCDecouverte.fr" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="BOUQUET  FRANCAIS",|FR| RMC DECOUVERTE HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/815
+#EXTINF:-1 tvg-ID="Trek.fr" tvg-name="|FR| TREK HD" tvg-logo="http://x.pure-redirect.com/trek.png" group-title="BOUQUET  FRANCAIS",|FR| TREK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2187
