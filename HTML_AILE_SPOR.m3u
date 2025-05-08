@@ -6,9 +6,6 @@ https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT Spor2 Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CANLI GZC SPOR TV
-http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HT-SPOR TV
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 
@@ -18,14 +15,7 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR CANLI
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 ***********ÖZELSPOR**********************
-#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",FB TV HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/145
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",EUROSPORT 1 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/142
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",EUROSPORT 2 HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/143
-#EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",GS TV HD
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/144
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET RMC  SPORTS -----------" tvg-logo="http://img.over-blog-kiwi.com/0/54/84/19/20180919/ob_edb3c8_ob-5c9499-rmc-sport-logo-3687.png" group-title="BOUQUET RMC SPORT",----------- BOUQUET RMC  SPORTS -----------
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2474
