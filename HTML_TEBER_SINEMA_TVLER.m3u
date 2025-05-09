@@ -42,8 +42,14 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10080
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AILE
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10082
+#EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="jpg" group-title="Azərbaycan",Mega GəncəTV
+#EXTGRP:Azərbaycan
+http://195.9.195.3:8080/hls/215207.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MOVİE NOW
+https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART TURK HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| MOVIES TURK HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
@@ -131,12 +137,6 @@ https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",T.ON TV tracks
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
-https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MOVİE NOW
-https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İSMAYILLI TV
 https://ismaillitv.radyotelekom.com.tr:3202/stream/play.m3u8
