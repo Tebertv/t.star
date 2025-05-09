@@ -33,16 +33,13 @@ http://spy17.eu:80/live/selentv/17.01.2022/312325.ts
 http://spy17.eu:80/live/selentv/17.01.2022/312326.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kalp Gözü 2" tvg-logo="" group-title="TR • Dini",Kalp Gözü 2
 http://spy17.eu:80/live/selentv/17.01.2022/312327.ts
-#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TURK DINI █ ▆ ▅ ▃" tvg-logo="http://logo1010.com/kare/Doplayf.png" group-title="TR • Dini",▃ ▅ ▆ █ TURK DINI █ ▆ ▅ ▃
-http://spy17.eu:80/live/selentv/17.01.2022/185245.ts
 #EXTINF:-1 tvg-id="" tvg-name="Lalegül Tv" tvg-logo="http://logo1010.com/lg/lalegultv.png" group-title="TR • Dini",Lalegül Tv
 http://spy17.eu:80/live/selentv/17.01.2022/35325.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dost Tv" tvg-logo="http://logo1010.com/lg/dosttv.jpg" group-title="TR • Dini",Dost Tv
 http://spy17.eu:80/live/selentv/17.01.2022/35326.ts
 #EXTINF:-1 tvg-id="" tvg-name="Vav Tv HD" tvg-logo="http://logo1010.com/lg/vavtv.jpg" group-title="TR • Dini",Vav Tv HD
 http://spy17.eu:80/live/selentv/17.01.2022/182527.ts
-#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah SD" tvg-logo="http://logo1010.com/lg/saudisunah.jpg" group-title="TR • Dini",Saudi Sunnah SD
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah SD" tvg-logo="http://logo1010.com/lg/saudisunah.jpg" group-title="TR • Dini",KABE(Canlı) AL Quran TV1
 http://spy17.eu:80/live/selentv/17.01.2022/182731.ts
-#EXTINF:-1 tvg-id="" tvg-name="KABE(Canlı) AL Quran SD" tvg-logo="http://logo1010.com/lg/kabetv.png" group-title="TR • Dini",KABE(Canlı) AL Quran SD
+#EXTINF:-1 tvg-id="" tvg-name="KABE(Canlı) AL Quran SD" tvg-logo="http://logo1010.com/lg/kabetv.png" group-title="TR • Dini",KABE(Canlı) AL Quran TV2
 http://spy17.eu:80/live/selentv/17.01.2022/182732.ts
-
