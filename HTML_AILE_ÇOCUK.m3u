@@ -23,7 +23,183 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10002
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9997
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| CARTOON NETWORK HD" tvg-logo="http://f.pure-redirect.com/TR/cartoonnetwork.png" group-title="BOUQUET TURC",|TR| CARTOON NETWORK HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10179
+#EXTINF:-1 tvg-id="" tvg-name="------| ÇIZGI FILM |------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Cocuk ",------| ÇIZGI FILM |------
+http://spy17.eu:80/live/selentv/17.01.2022/1895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Animasyon HD" tvg-logo="https://i.hizliresim.com/5ju7rjc.png" group-title="TR • Cocuk ",Vip Channel Animasyon HD
+http://spy17.eu:80/live/selentv/17.01.2022/261849.ts
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT COCUK HD" tvg-logo="http://logo1010.com/news/trtcocuk-hd.png" group-title="TR • Cocuk ",TRT COCUK HD
+http://spy17.eu:80/live/selentv/17.01.2022/786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trt Diyanet Çocuk HD" tvg-logo="https://canlitv.center/channels/trt-diyanet-cocuk.png" group-title="TR • Cocuk ",Trt Diyanet Çocuk HD
+http://spy17.eu:80/live/selentv/17.01.2022/291582.ts
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="MINIKA COCUK" tvg-logo="http://logo1010.com/news/minikacocuk-hd.png" group-title="TR • Cocuk ",MINIKA COCUK
+http://spy17.eu:80/live/selentv/17.01.2022/667.ts
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="MINIKA GO" tvg-logo="http://logo1010.com/news/minikago-hd.png" group-title="TR • Cocuk ",MINIKA GO
+http://spy17.eu:80/live/selentv/17.01.2022/670.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="CARTOON NETWORK" tvg-logo="http://logo1010.com/news/cn-hd.png" group-title="TR • Cocuk ",CARTOON NETWORK
+http://spy17.eu:80/live/selentv/17.01.2022/4933.ts
+#EXTINF:-1 tvg-id="disneyjunior.tr" tvg-name="DISNEY JUNIOR" tvg-logo="http://logo1010.com/news/disneyjunior-hd.png" group-title="TR • Cocuk ",DISNEY JUNIOR
+http://spy17.eu:80/live/selentv/17.01.2022/163413.ts
+#EXTINF:-1 tvg-id="boomerang.tr" tvg-name="Cartoonito HD" tvg-logo="http://logo1010.com/news/bomerangcocuk-hd.png" group-title="TR • Cocuk ",Cartoonito HD
+http://spy17.eu:80/live/selentv/17.01.2022/701.ts
 
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="BABY TV" tvg-logo="http://logo1010.com/news/babytv-hd.png" group-title="TR • Cocuk ",BABY TV
+http://spy17.eu:80/live/selentv/17.01.2022/151244.ts
+#EXTINF:-1 tvg-id="nickelodeonhd.tr" tvg-name="NICKELODEON HD" tvg-logo="http://logo1010.com/news/nickeledon-hd.png" group-title="TR • Cocuk ",NICKELODEON HD
+http://spy17.eu:80/live/selentv/17.01.2022/118709.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duck Tv HD" tvg-logo="http://logo1010.com/lg/ducktv.jpg" group-title="TR • Cocuk ",Duck Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/236984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids HD" tvg-logo="" group-title="TR • Cocuk ",Moonbug Kids HD
+http://spy17.eu:80/live/selentv/17.01.2022/332940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. (Türkiye)" tvg-logo="" group-title="TR • Cocuk ",Nick Jr. (Türkiye)
+http://spy17.eu:80/live/selentv/17.01.2022/312472.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 1" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 1
+http://spy17.eu:80/live/selentv/17.01.2022/312473.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 2" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 2
+http://spy17.eu:80/live/selentv/17.01.2022/312474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 3" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 3
+http://spy17.eu:80/live/selentv/17.01.2022/312475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 4" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 4
+http://spy17.eu:80/live/selentv/17.01.2022/312476.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 5" tvg-logo="" group-title="TR • Cocuk ",Cine Animasyon 5
+http://spy17.eu:80/live/selentv/17.01.2022/312477.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alvin" tvg-logo="" group-title="TR • Cocuk ",Alvin
+http://spy17.eu:80/live/selentv/17.01.2022/312478.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arthur ile Minimoylar" tvg-logo="" group-title="TR • Cocuk ",Arthur ile Minimoylar
+http://spy17.eu:80/live/selentv/17.01.2022/312479.ts
+#EXTINF:-1 tvg-id="" tvg-name="Buz Devri" tvg-logo="" group-title="TR • Cocuk ",Buz Devri
+http://spy17.eu:80/live/selentv/17.01.2022/312480.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Cars" tvg-logo="" group-title="TR • Cocuk ",The Cars
+http://spy17.eu:80/live/selentv/17.01.2022/312481.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çılgın Hırsızlar" tvg-logo="" group-title="TR • Cocuk ",Çılgın Hırsızlar
+http://spy17.eu:80/live/selentv/17.01.2022/312482.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ejderhanı Nasıl Eğitirsin" tvg-logo="" group-title="TR • Cocuk ",Ejderhanı Nasıl Eğitirsin
+http://spy17.eu:80/live/selentv/17.01.2022/312483.ts
+#EXTINF:-1 tvg-id="" tvg-name="Otel Transilvanya" tvg-logo="" group-title="TR • Cocuk ",Otel Transilvanya
+http://spy17.eu:80/live/selentv/17.01.2022/312484.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karlar Ulkesi" tvg-logo="" group-title="TR • Cocuk ",Karlar Ulkesi
+http://spy17.eu:80/live/selentv/17.01.2022/312485.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="" group-title="TR • Cocuk ",Kung Fu Panda
+http://spy17.eu:80/live/selentv/17.01.2022/312486.ts
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar" tvg-logo="" group-title="TR • Cocuk ",Madagascar
+http://spy17.eu:80/live/selentv/17.01.2022/312487.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="" group-title="TR • Cocuk ",Shrek
+http://spy17.eu:80/live/selentv/17.01.2022/312488.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom ve Jerry" tvg-logo="" group-title="TR • Cocuk ",Tom ve Jerry
+http://spy17.eu:80/live/selentv/17.01.2022/312489.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kukuli" tvg-logo="" group-title="TR • Cocuk ",Kukuli
+http://spy17.eu:80/live/selentv/17.01.2022/312490.ts
+#EXTINF:-1 tvg-id="" tvg-name="Niloya" tvg-logo="" group-title="TR • Cocuk ",Niloya
+http://spy17.eu:80/live/selentv/17.01.2022/312491.ts
+#EXTINF:-1 tvg-id="" tvg-name="Şirinler" tvg-logo="" group-title="TR • Cocuk ",Şirinler
+http://spy17.eu:80/live/selentv/17.01.2022/312492.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pembe Panter" tvg-logo="" group-title="TR • Cocuk ",Pembe Panter
+http://spy17.eu:80/live/selentv/17.01.2022/312493.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maşa ile Koca Ayı" tvg-logo="" group-title="TR • Cocuk ",Maşa ile Koca Ayı
+http://spy17.eu:80/live/selentv/17.01.2022/312494.ts
+#EXTINF:-1 tvg-id="" tvg-name="Can Bebek" tvg-logo="" group-title="TR • Cocuk ",Can Bebek
+http://spy17.eu:80/live/selentv/17.01.2022/312495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doru" tvg-logo="" group-title="TR • Cocuk ",Doru
+http://spy17.eu:80/live/selentv/17.01.2022/312496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler Bunlar Çocuk" tvg-logo="" group-title="TR • Cocuk ",Çok Güzel Hareketler Bunlar Çocuk
+http://spy17.eu:80/live/selentv/17.01.2022/333437.ts
+#EXTINF:-1 tvg-id="" tvg-name="Güldüy Güldüy Show" tvg-logo="" group-title="TR • Cocuk ",Güldüy Güldüy Show
+http://spy17.eu:80/live/selentv/17.01.2022/312497.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kral Şakir" tvg-logo="" group-title="TR • Cocuk ",Kral Şakir
+http://spy17.eu:80/live/selentv/17.01.2022/312498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mia ve Ben" tvg-logo="" group-title="TR • Cocuk ",Mia ve Ben
+http://spy17.eu:80/live/selentv/17.01.2022/312499.ts
+#EXTINF:-1 tvg-id="" tvg-name="istanbul Muhafızları" tvg-logo="" group-title="TR • Cocuk ",istanbul Muhafızları
+http://spy17.eu:80/live/selentv/17.01.2022/312500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pepee" tvg-logo="" group-title="TR • Cocuk ",Pepee
+http://spy17.eu:80/live/selentv/17.01.2022/312501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="" group-title="TR • Cocuk ",Beyblade
+http://spy17.eu:80/live/selentv/17.01.2022/312502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Heidi" tvg-logo="" group-title="TR • Cocuk ",Heidi
+http://spy17.eu:80/live/selentv/17.01.2022/312503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canım Kardeşim" tvg-logo="" group-title="TR • Cocuk ",Canım Kardeşim
+http://spy17.eu:80/live/selentv/17.01.2022/312504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barbie nin Rüya Evi" tvg-logo="" group-title="TR • Cocuk ",Barbie nin Rüya Evi
+http://spy17.eu:80/live/selentv/17.01.2022/312505.ts
+#EXTINF:-1 tvg-id="" tvg-name="ibi" tvg-logo="" group-title="TR • Cocuk ",ibi
+http://spy17.eu:80/live/selentv/17.01.2022/312506.ts
+#EXTINF:-1 tvg-id="" tvg-name="Richie Rich" tvg-logo="" group-title="TR • Cocuk ",Richie Rich
+http://spy17.eu:80/live/selentv/17.01.2022/312507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Kit" tvg-logo="" group-title="TR • Cocuk ",Red Kit
+http://spy17.eu:80/live/selentv/17.01.2022/312508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rafadan Tayfa" tvg-logo="" group-title="TR • Cocuk ",Rafadan Tayfa
+http://spy17.eu:80/live/selentv/17.01.2022/312509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tsubasa" tvg-logo="" group-title="TR • Cocuk ",Tsubasa
+http://spy17.eu:80/live/selentv/17.01.2022/312510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ninja Kaplumbağalar" tvg-logo="" group-title="TR • Cocuk ",Ninja Kaplumbağalar
+http://spy17.eu:80/live/selentv/17.01.2022/312511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Boom" tvg-logo="" group-title="TR • Cocuk ",Sonic Boom
+http://spy17.eu:80/live/selentv/17.01.2022/312512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="" group-title="TR • Cocuk ",Pokemon
+http://spy17.eu:80/live/selentv/17.01.2022/312513.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAILLOU ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",CAILLOU ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317242.ts
+#EXTINF:-1 tvg-id="" tvg-name="NILOYA ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",NILOYA ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317243.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",TOM & JERRY ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317244.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROAD RUNNER ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",ROAD RUNNER ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317245.ts
+#EXTINF:-1 tvg-id="" tvg-name="ŞİRİNLER ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",ŞİRİNLER ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317246.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAW PATROL ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",PAW PATROL ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317247.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAŞA İLE KOCA AYI ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",MAŞA İLE KOCA AYI ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317248.ts
+#EXTINF:-1 tvg-id="" tvg-name="AY AY AYICIKLAR ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",AY AY AYICIKLAR ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317249.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOBA ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",BOOBA ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317250.ts
+#EXTINF:-1 tvg-id="" tvg-name="KRAL SAKIR ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",KRAL SAKIR ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317251.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEPE ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",PEPE ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317252.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRY BABIES ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",CRY BABIES ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317253.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEVIMLI DOSTLAR ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",SEVIMLI DOSTLAR ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317254.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL MUHAFIZLARI ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",ISTANBUL MUHAFIZLARI ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317255.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUCUK KAMYON LEO ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",KUCUK KAMYON LEO ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317256.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIMON ILE ZEYTIN ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",LIMON ILE ZEYTIN ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317257.ts
+#EXTINF:-1 tvg-id="" tvg-name="PJMASKS ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",PJMASKS ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317258.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUKULI ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",KUKULI ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317259.ts
+#EXTINF:-1 tvg-id="" tvg-name="OddBods ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",OddBods ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317260.ts
+#EXTINF:-1 tvg-id="" tvg-name="EMUŞ TV ʜᴅ" tvg-logo="" group-title="TR • Cocuk ",EMUŞ TV ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317261.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Niloya" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Niloya
+http://spy17.eu:80/live/selentv/17.01.2022/316875.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Pepee" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Pepee
+http://spy17.eu:80/live/selentv/17.01.2022/316876.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Booba" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Booba
+http://spy17.eu:80/live/selentv/17.01.2022/316877.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Kukuli" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Kukuli
+http://spy17.eu:80/live/selentv/17.01.2022/316878.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Kral Sakir" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Kral Sakir
+http://spy17.eu:80/live/selentv/17.01.2022/316879.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="" group-title="TR • Cocuk ",ZAROK TV
+http://spy17.eu:80/live/selentv/17.01.2022/319407.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Animasyon" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Cocuk ",TR ☪ Proturk Animasyon
+http://spy17.eu:80/live/selentv/17.01.2022/316817.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Animasyon" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • Cocuk ",TR➤ Usk Vizyon Cinema Animasyon
+http://spy17.eu:80/live/selentv/17.01.2022/316837.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Animasyon" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Cocuk ",TR➤ Arena Box Animasyon
+http://spy17.eu:80/live/selentv/17.01.2022/316850.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Animasyon" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Cocuk ",TR➤ Real Box Animasyon
+http://spy17.eu:80/live/selentv/17.01.2022/316874.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Masal Diyarı" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Cocuk ",TR ☪ Proturk Masal Diyarı
+http://spy17.eu:80/live/selentv/17.01.2022/316820.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Animsyon" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Cocuk ",TR➤ Mega Box Animsyon
+http://spy17.eu:80/live/selentv/17.01.2022/316918.ts
 #EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET ENFANTS -----------" tvg-logo="" group-title="BOUQUET  FRANCAIS",----------- BOUQUET ENFANTS -----------
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2451
 #EXTINF:-1 tvg-ID="Toonami.fr" tvg-name="|FR| TOONAMI  HD" tvg-logo="http://vignette1.wikia.nocookie.net/fictionaltvstations/images/8/8b/800px-Toonami_logo.svg.png" group-title="BOUQUET  FRANCAIS",|FR| TOONAMI  HD

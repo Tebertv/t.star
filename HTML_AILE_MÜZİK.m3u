@@ -1,6 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT TEZENE
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kuzeyin Oğlu Volkan Konak" tvg-logo="http://logo1010.com/lg/kuzeyinoglu.jpg" group-title="TR • Eğlence",[Boxset] Kuzeyin Oğlu Volkan Konak
+http://spy17.eu:80/live/selentv/17.01.2022/247655.ts
+
 **************Müzik tv*********************
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_icohome.png?ts=1746469171.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
@@ -31,3 +35,142 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10102
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10101
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT MUZIK" tvg-logo="http://trtmuzik.net.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT_MUZIK_LOGO2D.JPG" group-title="BOUQUET TURC",|TR| TRT MUZIK
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10100
+
+#EXTINF:-1 tvg-id="" tvg-name="------| Muzik |------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Muzik ",------| Muzik |------
+http://spy17.eu:80/live/selentv/17.01.2022/1892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Şömine Channel" tvg-logo="" group-title="TR • Muzik ",Şömine Channel
+http://spy17.eu:80/live/selentv/17.01.2022/311841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Türk Pop Hit's 40" tvg-logo="https://i.hizliresim.com/mss8185.png" group-title="TR • Muzik ",Vip Channel Türk Pop Hit's 40
+http://spy17.eu:80/live/selentv/17.01.2022/328723.ts
+#EXTINF:-1 tvg-id="numberoneturk.tr" tvg-name="Number One Turk" tvg-logo="http://logo1010.com/cdn/haber/nr1turkhd.png" group-title="TR • Muzik ",Number One Turk
+http://spy17.eu:80/live/selentv/17.01.2022/777.ts
+#EXTINF:-1 tvg-id="powertv.tr" tvg-name="Power Tv HD" tvg-logo="http://logo1010.com/cdn/haber/powerturk.png" group-title="TR • Muzik ",Power Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/4552.ts
+#EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="Dream Turk" tvg-logo="http://logo1010.com/cdn/haber/dreamturk.png" group-title="TR • Muzik ",Dream Turk
+http://spy17.eu:80/live/selentv/17.01.2022/12755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tatlıses Tv" tvg-logo="http://logo1010.com/lg/tatlises.png" group-title="TR • Muzik ",Tatlıses Tv
+http://spy17.eu:80/live/selentv/17.01.2022/685.ts
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="Trt Muzik" tvg-logo="http://logo1010.com/cdn/haber/trtmuzik.png" group-title="TR • Muzik ",Trt Muzik
+http://spy17.eu:80/live/selentv/17.01.2022/671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD" tvg-logo="http://logo1010.com/lg/traceurban.png" group-title="TR • Muzik ",Trace Urban HD
+http://spy17.eu:80/live/selentv/17.01.2022/190975.ts
+#EXTINF:-1 tvg-id="" tvg-name="BabaLayka-Saygı  1" tvg-logo="" group-title="TR • Muzik ",BabaLayka-Saygı  1
+http://spy17.eu:80/live/selentv/17.01.2022/331110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Mezzo" tvg-logo="http://logo1010.com/lg/beinmezzo.png" group-title="TR • Muzik ",Bein Mezzo
+http://spy17.eu:80/live/selentv/17.01.2022/190976.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv 2020 SD" tvg-logo="http://logo1010.com/lg/tv2020.png" group-title="TR • Yerel Kanallar",Tv 2020 SD
+http://spy17.eu:80/live/selentv/17.01.2022/263616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luys Tv SD" tvg-logo="http://logo1010.com/lg/luystv.jpg" group-title="TR • Yerel Kanallar",Luys Tv SD
+http://spy17.eu:80/live/selentv/17.01.2022/263618.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 1" tvg-logo="" group-title="TR • Muzik ",Relax Music 1
+http://spy17.eu:80/live/selentv/17.01.2022/311842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 2" tvg-logo="" group-title="TR • Muzik ",Relax Music 2
+http://spy17.eu:80/live/selentv/17.01.2022/311843.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 3" tvg-logo="" group-title="TR • Muzik ",Relax Music 3
+http://spy17.eu:80/live/selentv/17.01.2022/311844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 4" tvg-logo="" group-title="TR • Muzik ",Relax Music 4
+http://spy17.eu:80/live/selentv/17.01.2022/311845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 5" tvg-logo="" group-title="TR • Muzik ",Relax Music 5
+http://spy17.eu:80/live/selentv/17.01.2022/311846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 1" tvg-logo="" group-title="TR • Muzik ",Türkçe Pop Music 1
+http://spy17.eu:80/live/selentv/17.01.2022/311847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 2" tvg-logo="" group-title="TR • Muzik ",Türkçe Pop Music 2
+http://spy17.eu:80/live/selentv/17.01.2022/311848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 3" tvg-logo="" group-title="TR • Muzik ",Türkçe Pop Music 3
+http://spy17.eu:80/live/selentv/17.01.2022/311849.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 4" tvg-logo="" group-title="TR • Muzik ",Türkçe Pop Music 4
+http://spy17.eu:80/live/selentv/17.01.2022/311850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 5" tvg-logo="" group-title="TR • Muzik ",Türkçe Pop Music 5
+http://spy17.eu:80/live/selentv/17.01.2022/311851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 6" tvg-logo="" group-title="TR • Muzik ",Türkçe Pop Music 6
+http://spy17.eu:80/live/selentv/17.01.2022/311852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 7" tvg-logo="" group-title="TR • Muzik ",Türkçe Pop Music 7
+http://spy17.eu:80/live/selentv/17.01.2022/311853.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Slow Music 1" tvg-logo="" group-title="TR • Muzik ",Türkçe Slow Music 1
+http://spy17.eu:80/live/selentv/17.01.2022/311854.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Slow Music 2" tvg-logo="" group-title="TR • Muzik ",Türkçe Slow Music 2
+http://spy17.eu:80/live/selentv/17.01.2022/311855.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Slow Music 3" tvg-logo="" group-title="TR • Muzik ",Türkçe Slow Music 3
+http://spy17.eu:80/live/selentv/17.01.2022/311856.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Akustik Şarkılar" tvg-logo="" group-title="TR • Muzik ",Türkçe Akustik Şarkılar
+http://spy17.eu:80/live/selentv/17.01.2022/311857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Rap Music" tvg-logo="" group-title="TR • Muzik ",Türkçe Rap Music
+http://spy17.eu:80/live/selentv/17.01.2022/311861.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Klip" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Muzik ",TR➤ Mega Box Klip
+http://spy17.eu:80/live/selentv/17.01.2022/316919.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBM TV" tvg-logo="http://logo1010.com/lg/tmbtv.png" group-title="TR • Muzik ",TBM TV
+http://spy17.eu:80/live/selentv/17.01.2022/163416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 1" tvg-logo="" group-title="TR • Muzik ",Yabancı Music 1
+http://spy17.eu:80/live/selentv/17.01.2022/311862.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 2" tvg-logo="" group-title="TR • Muzik ",Yabancı Music 2
+http://spy17.eu:80/live/selentv/17.01.2022/311863.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 3" tvg-logo="" group-title="TR • Muzik ",Yabancı Music 3
+http://spy17.eu:80/live/selentv/17.01.2022/311864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 4" tvg-logo="" group-title="TR • Muzik ",Yabancı Music 4
+http://spy17.eu:80/live/selentv/17.01.2022/311865.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 5" tvg-logo="" group-title="TR • Muzik ",Yabancı Music 5
+http://spy17.eu:80/live/selentv/17.01.2022/311866.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yıldız Tilbe Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Yıldız Tilbe Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311867.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ahmet Kaya Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Ahmet Kaya Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311868.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cengiz Kurtoğlu Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Cengiz Kurtoğlu Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311869.ts
+#EXTINF:-1 tvg-id="" tvg-name="Müslüm Gürses Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Müslüm Gürses Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311870.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orhan Gencebay Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Orhan Gencebay Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ismail YK ve Yurtseven Kardeşler Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Ismail YK ve Yurtseven Kardeşler Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311872.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ilhan Irem Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Ilhan Irem Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barış Manço Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Barış Manço Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311874.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aşık Veysel Tüm Şarkıları" tvg-logo="" group-title="TR • Muzik ",Aşık Veysel Tüm Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Meyhane Şarkıları" tvg-logo="" group-title="TR • Muzik ",Meyhane Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311876.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeni Nesil Meyhane Şarkıları" tvg-logo="" group-title="TR • Muzik ",Yeni Nesil Meyhane Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311877.ts
+#EXTINF:-1 tvg-id="" tvg-name="D-Smart NATURE ESCAPE" tvg-logo="" group-title="TR • Muzik ",D-Smart NATURE ESCAPE
+http://spy17.eu:80/live/selentv/17.01.2022/333641.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sıra Geceleri Türküleri" tvg-logo="" group-title="TR • Muzik ",Sıra Geceleri Türküleri
+http://spy17.eu:80/live/selentv/17.01.2022/311878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arabesk Music 1" tvg-logo="" group-title="TR • Muzik ",Arabesk Music 1
+http://spy17.eu:80/live/selentv/17.01.2022/311879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arabesk Music 2" tvg-logo="" group-title="TR • Muzik ",Arabesk Music 2
+http://spy17.eu:80/live/selentv/17.01.2022/311880.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karadeniz Şarkıları 1" tvg-logo="" group-title="TR • Muzik ",Karadeniz Şarkıları 1
+http://spy17.eu:80/live/selentv/17.01.2022/311881.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karadeniz Şarkıları 2" tvg-logo="" group-title="TR • Muzik ",Karadeniz Şarkıları 2
+http://spy17.eu:80/live/selentv/17.01.2022/311882.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karadeniz Horon Şarkıları" tvg-logo="" group-title="TR • Muzik ",Karadeniz Horon Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/311883.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oyun Havaları" tvg-logo="" group-title="TR • Muzik ",Oyun Havaları
+http://spy17.eu:80/live/selentv/17.01.2022/311884.ts
+#EXTINF:-1 tvg-id="" tvg-name="Roman Havaları" tvg-logo="" group-title="TR • Muzik ",Roman Havaları
+http://spy17.eu:80/live/selentv/17.01.2022/311885.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Oyun Havaları" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Oyun Havaları
+http://spy17.eu:80/live/selentv/17.01.2022/316822.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk 45 Lik" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk 45 Lik
+http://spy17.eu:80/live/selentv/17.01.2022/316823.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Alaturka" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Alaturka
+http://spy17.eu:80/live/selentv/17.01.2022/316824.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Arabesk" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Arabesk
+http://spy17.eu:80/live/selentv/17.01.2022/316825.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Bülent Ersoy" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Bülent Ersoy
+http://spy17.eu:80/live/selentv/17.01.2022/316826.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Meyhane Şarkıları" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Meyhane Şarkıları
+http://spy17.eu:80/live/selentv/17.01.2022/316827.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Rap" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Rap
+http://spy17.eu:80/live/selentv/17.01.2022/316828.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Sanat Müziği" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Sanat Müziği
+http://spy17.eu:80/live/selentv/17.01.2022/316829.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Slow" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Slow
+http://spy17.eu:80/live/selentv/17.01.2022/316830.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Türk Pop" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Türk Pop
+http://spy17.eu:80/live/selentv/17.01.2022/316831.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Türkü" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Türkü
+http://spy17.eu:80/live/selentv/17.01.2022/316832.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Zeki Müren" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Muzik ",TR ☪ Proturk Zeki Müren
+http://spy17.eu:80/live/selentv/17.01.2022/316833.ts

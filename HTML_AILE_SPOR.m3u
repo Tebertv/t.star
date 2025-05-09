@@ -14,6 +14,39 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TAMAM SPOR CANLI
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="idman Tv HD" tvg-logo="http://logo1010.com/cdn/spor/idman.png" group-title="TR • ⚽️Spor&Dsmart ",idman Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/203181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tay TV HD" tvg-logo="http://logo1010.com/news/taytv-hd.png" group-title="TR • ⚽️Spor&Dsmart ",Tay TV HD
+http://spy17.eu:80/live/selentv/17.01.2022/695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Screen" tvg-logo="" group-title="TR • ⚽️Spor&Dsmart ",Fight Screen
+http://spy17.eu:80/live/selentv/17.01.2022/312667.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Wwe Smackdown" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • ⚽️Spor&Dsmart ",TR ☪ Proturk Wwe Smackdown
+http://spy17.eu:80/live/selentv/17.01.2022/316818.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Kickboxs" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • ⚽️Spor&Dsmart ",TR ☪ Proturk Kickboxs
+http://spy17.eu:80/live/selentv/17.01.2022/316819.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Egzersiz Sporları" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • ⚽️Spor&Dsmart ",TR ☪ Proturk Egzersiz Sporları
+http://spy17.eu:80/live/selentv/17.01.2022/316821.ts
+#EXTINF:-1 tvg-id="" tvg-name="W-SPORT HD" tvg-logo="" group-title="TR • ⚽️Spor&Dsmart ",W-SPORT HD
+http://spy17.eu:80/live/selentv/17.01.2022/319406.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYZENTV HD" tvg-logo="" group-title="TR • ⚽️Spor&Dsmart ",MYZENTV HD
+http://spy17.eu:80/live/selentv/17.01.2022/329192.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS HD" tvg-logo="" group-title="TR • ⚽️Spor&Dsmart ",TRACE SPORT STARS HD
+http://spy17.eu:80/live/selentv/17.01.2022/329193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports Tv ʳᵃʷ" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202102/20210225/1/20210225220257171kgn_op_0_XL.png" group-title="TR • Ulusal Raw | Android",Sports Tv ʳᵃʷ
+http://spy17.eu:80/live/selentv/17.01.2022/317853.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor ʳᵃʷ" tvg-logo="https://i.hizliresim.com/2eiqgr0.png" group-title="TR • Ulusal Raw | Android",Tivibu Spor ʳᵃʷ
+http://spy17.eu:80/live/selentv/17.01.2022/318550.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Haber ʳᵃʷ" tvg-logo="https://i.hizliresim.com/ff7rs68.png" group-title="TR • Ulusal Raw | Android",beIN Sports Haber ʳᵃʷ
+http://spy17.eu:80/live/selentv/17.01.2022/318549.ts
+#EXTINF:-1 tvg-id="" tvg-name="GS Tv ʳᵃʷ" tvg-logo="https://i.hizliresim.com/51eoecs.png" group-title="TR • Ulusal Raw | Android",GS Tv ʳᵃʷ
+http://spy17.eu:80/live/selentv/17.01.2022/318551.ts
+#EXTINF:-1 tvg-id="" tvg-name="TJK Tv ʳᵃʷ" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180115/001300/001300000008479139/8db6a872-779b-4ae2-9c6a-cfdb5388a591.png" group-title="TR • Ulusal Raw | Android",TJK Tv ʳᵃʷ
+http://spy17.eu:80/live/selentv/17.01.2022/317855.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull Tv ʳᵃʷ" tvg-logo="https://i.hizliresim.com/f8j6ckm.png" group-title="TR • Ulusal Raw | Android",Red Bull Tv ʳᵃʷ
+http://spy17.eu:80/live/selentv/17.01.2022/317965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sport Stars ʳᵃʷ" tvg-logo="https://i.hizliresim.com/2w3dd5o.png" group-title="TR • Ulusal Raw | Android",Trace Sport Stars ʳᵃʷ
+http://spy17.eu:80/live/selentv/17.01.2022/317966.ts
+
 ***********ÖZELSPOR**********************
 
 

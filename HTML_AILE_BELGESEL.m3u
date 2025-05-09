@@ -6,6 +6,70 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10125
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT BELGESEL HD" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="BOUQUET TURC",|TR| TRT BELGESEL HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10108
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 1" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 1
+http://spy17.eu:80/live/selentv/17.01.2022/312250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 2" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 2
+http://spy17.eu:80/live/selentv/17.01.2022/312251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 3" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 3
+http://spy17.eu:80/live/selentv/17.01.2022/312252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 4" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 4
+http://spy17.eu:80/live/selentv/17.01.2022/312253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 5" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 5
+http://spy17.eu:80/live/selentv/17.01.2022/312254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 6" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 6
+http://spy17.eu:80/live/selentv/17.01.2022/312255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 7" tvg-logo="" group-title="TR • Belgesel ",Belgesel Kuşağı 7
+http://spy17.eu:80/live/selentv/17.01.2022/312256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doğada Kal" tvg-logo="" group-title="TR • Belgesel ",Doğada Kal
+http://spy17.eu:80/live/selentv/17.01.2022/312257.ts
+#EXTINF:-1 tvg-id="" tvg-name="ilmek ilmek Anadolu" tvg-logo="" group-title="TR • Belgesel ",ilmek ilmek Anadolu
+http://spy17.eu:80/live/selentv/17.01.2022/312258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Suç Dosyası" tvg-logo="" group-title="TR • Belgesel ",Suç Dosyası
+http://spy17.eu:80/live/selentv/17.01.2022/312259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yaşamın içinden Portreler" tvg-logo="" group-title="TR • Belgesel ",Yaşamın içinden Portreler
+http://spy17.eu:80/live/selentv/17.01.2022/312260.ts
+#EXTINF:-1 tvg-id="" tvg-name="32. Gün" tvg-logo="" group-title="TR • Belgesel ",32. Gün
+http://spy17.eu:80/live/selentv/17.01.2022/312261.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doğa Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Doğa Belgeselleri
+http://spy17.eu:80/live/selentv/17.01.2022/312263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dünya Tarihinin Dönüm Noktaları" tvg-logo="" group-title="TR • Belgesel ",Dünya Tarihinin Dönüm Noktaları
+http://spy17.eu:80/live/selentv/17.01.2022/312264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evliya Çelebi" tvg-logo="" group-title="TR • Belgesel ",Evliya Çelebi
+http://spy17.eu:80/live/selentv/17.01.2022/312265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hayvan Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Hayvan Belgeselleri
+http://spy17.eu:80/live/selentv/17.01.2022/312266.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega Yapılar" tvg-logo="" group-title="TR • Belgesel ",Mega Yapılar
+http://spy17.eu:80/live/selentv/17.01.2022/312267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Modern Mucizeler" tvg-logo="" group-title="TR • Belgesel ",Modern Mucizeler
+http://spy17.eu:80/live/selentv/17.01.2022/312268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Müzik Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Müzik Belgeselleri
+http://spy17.eu:80/live/selentv/17.01.2022/312269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Otomobil Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Otomobil Belgeselleri
+http://spy17.eu:80/live/selentv/17.01.2022/312270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sağlık Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Sağlık Belgeselleri
+http://spy17.eu:80/live/selentv/17.01.2022/312271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Savaşın Efsaneleri" tvg-logo="" group-title="TR • Belgesel ",Savaşın Efsaneleri
+http://spy17.eu:80/live/selentv/17.01.2022/312272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarihin Ruhu" tvg-logo="" group-title="TR • Belgesel ",Tarihin Ruhu
+http://spy17.eu:80/live/selentv/17.01.2022/312273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türk Tarihi" tvg-logo="" group-title="TR • Belgesel ",Türk Tarihi
+http://spy17.eu:80/live/selentv/17.01.2022/312274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Uzay Belgeselleri
+http://spy17.eu:80/live/selentv/17.01.2022/312275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri " tvg-logo="" group-title="TR • Belgesel ",Yemek Belgeselleri 
+http://spy17.eu:80/live/selentv/17.01.2022/312276.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri 1" tvg-logo="" group-title="TR • Belgesel ",Yemek Belgeselleri 1
+http://spy17.eu:80/live/selentv/17.01.2022/312277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri 2" tvg-logo="" group-title="TR • Belgesel ",Yemek Belgeselleri 2
+http://spy17.eu:80/live/selentv/17.01.2022/312278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bilim Belgeselleri" tvg-logo="" group-title="TR • Belgesel ",Bilim Belgeselleri
+http://spy17.eu:80/live/selentv/17.01.2022/312279.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarihi Belgeseller" tvg-logo="" group-title="TR • Belgesel ",Tarihi Belgeseller
+http://spy17.eu:80/live/selentv/17.01.2022/312280.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOCU SCREEN HD" tvg-logo="" group-title="TR • Belgesel ",DOCU SCREEN HD
+http://spy17.eu:80/live/selentv/17.01.2022/329388.ts
+
+
 FRANCAIS",----------- BOUQUET DECOUVERTE -----------
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/2454
 #EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Crime_district.jpg" group-title="BOUQUET  FRANCAIS",|FR| CRIME DISTRICT HD

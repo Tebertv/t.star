@@ -31,7 +31,27 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",KANAL10 HD
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Olacak O Kadar" tvg-logo="http://logo1010.com/lg/olacakokadar.jpg" group-title="TR • Eğlence",[Boxset] Olacak O Kadar
+http://spy17.eu:80/live/selentv/17.01.2022/247663.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Bir Demet Tiyatro" tvg-logo="http://logo1010.com/lg/birdemettiyatro.jpg" group-title="TR • Eğlence",[Boxset] Bir Demet Tiyatro
+http://spy17.eu:80/live/selentv/17.01.2022/247659.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Nejat Uygur" tvg-logo="http://logo1010.com/lg/nejatuygur.jpg" group-title="TR • Eğlence",[Boxset] Nejat Uygur
+http://spy17.eu:80/live/selentv/17.01.2022/247667.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="---------SINEMA ----------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Sinema ",---------SINEMA ----------
+http://spy17.eu:80/live/selentv/17.01.2022/1891.ts
+#EXTINF:-1 tvg-id="vipchannel.tr" tvg-name="Vip Channel" tvg-logo="https://i.hizliresim.com/f3fh3wf.png" group-title="TR • Sinema ",Vip Channel
+http://spy17.eu:80/live/selentv/17.01.2022/1688.ts
+#EXTINF:-1 tvg-id="vipcanel2.tr" tvg-name="Vip Channel 2" tvg-logo="https://i.hizliresim.com/f3fh3wf.png" group-title="TR • Sinema ",Vip Channel 2
+http://spy17.eu:80/live/selentv/17.01.2022/1707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Premier" tvg-logo="https://i.hizliresim.com/f3fh3wf.png" group-title="TR • Sinema ",Vip Channel Premier
+http://spy17.eu:80/live/selentv/17.01.2022/331183.ts
+#EXTINF:-1 tvg-id="loca1.tr" tvg-name="Loca 1 Hd" tvg-logo="http://logo1010.com/lg/loca1.png" group-title="TR • Sinema ",Loca 1 Hd
+http://spy17.eu:80/live/selentv/17.01.2022/1703.ts
+#EXTINF:-1 tvg-id="loca2.tr" tvg-name="Loca 2 Hd" tvg-logo="http://logo1010.com/lg/loca2.png" group-title="TR • Sinema ",Loca 2 Hd
+http://spy17.eu:80/live/selentv/17.01.2022/1704.ts
+#EXTINF:-1 tvg-id="loca3.tr" tvg-name="Loca 3 Hd" tvg-logo="http://logo1010.com/lg/loca3.png" group-title="TR • Sinema ",Loca 3 Hd
+http://spy17.eu:80/live/selentv/17.01.2022/1705.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT SİNEMA
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA 1 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA 1 HD
@@ -42,6 +62,791 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10080
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AILE
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10082
+#EXTINF:-1 tvg-id="netfilixaksiyon.ad" tvg-name="Netflix Aksiyon HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/aksiyon.png" group-title="TR • Sinema ",Netflix Aksiyon HD
+http://spy17.eu:80/live/selentv/17.01.2022/231128.ts
+#EXTINF:-1 tvg-id="netfilixkomedi.ad" tvg-name="Netflix Komedi HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/komedi.png" group-title="TR • Sinema ",Netflix Komedi HD
+http://spy17.eu:80/live/selentv/17.01.2022/231129.ts
+#EXTINF:-1 tvg-id="netfilixaile.ad" tvg-name="Netflix Aile HD" tvg-logo="https://i.hizliresim.com/8m2c1wo.jpg" group-title="TR • Sinema ",Netflix Aile HD
+http://spy17.eu:80/live/selentv/17.01.2022/231130.ts
+#EXTINF:-1 tvg-id="netfilixask.ad" tvg-name="Netflix Aşk HD" tvg-logo="https://i.hizliresim.com/ohu3abi.jpg" group-title="TR • Sinema ",Netflix Aşk HD
+http://spy17.eu:80/live/selentv/17.01.2022/231131.ts
+#EXTINF:-1 tvg-id="netfilixdram.ad" tvg-name="Netflix Dram HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/drama.png" group-title="TR • Sinema ",Netflix Dram HD
+http://spy17.eu:80/live/selentv/17.01.2022/231132.ts
+#EXTINF:-1 tvg-id="netfilixkorku.ad" tvg-name="Netflix Korku HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/korku.png" group-title="TR • Sinema ",Netflix Korku HD
+http://spy17.eu:80/live/selentv/17.01.2022/231144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 1" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 2" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 3" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 4" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 4
+http://spy17.eu:80/live/selentv/17.01.2022/247504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeşilçam HD 5" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema ",Yeşilçam HD 5
+http://spy17.eu:80/live/selentv/17.01.2022/247505.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 1" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247506.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 2" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 3" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 4" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 4
+http://spy17.eu:80/live/selentv/17.01.2022/247509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal HD 5" tvg-logo="http://logo1010.com/lg/kemalsunal.png" group-title="TR • Sinema ",Kemal Sunal HD 5
+http://spy17.eu:80/live/selentv/17.01.2022/247510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Adile Naşit HD 1" tvg-logo="http://logo1010.com/lg/adlienasit.jpg" group-title="TR • Sinema ",Adile Naşit HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Adile Naşit HD 2" tvg-logo="http://logo1010.com/lg/adlienasit.jpg" group-title="TR • Sinema ",Adile Naşit HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 1" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 2" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 3" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 4" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 4
+http://spy17.eu:80/live/selentv/17.01.2022/247516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cüneyt Arkın HD 5" tvg-logo="http://logo1010.com/lg/cuneyitarkin.jpg" group-title="TR • Sinema ",Cüneyt Arkın HD 5
+http://spy17.eu:80/live/selentv/17.01.2022/247517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Küçük Emrah HD" tvg-logo="http://logo1010.com/lg/emrah.png" group-title="TR • Sinema ",Küçük Emrah HD
+http://spy17.eu:80/live/selentv/17.01.2022/247518.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ferdi Tayfur HD" tvg-logo="http://logo1010.com/lg/ferdi.png" group-title="TR • Sinema ",Ferdi Tayfur HD
+http://spy17.eu:80/live/selentv/17.01.2022/247519.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kadir inanır HD" tvg-logo="http://logo1010.com/lg/kadirinanir.png" group-title="TR • Sinema ",Kadir inanır HD
+http://spy17.eu:80/live/selentv/17.01.2022/247520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orhan Gencebay HD" tvg-logo="http://logo1010.com/lg/orhangencebay.jpg" group-title="TR • Sinema ",Orhan Gencebay HD
+http://spy17.eu:80/live/selentv/17.01.2022/247521.ts
+#EXTINF:-1 tvg-id="" tvg-name="Şener Şen HD" tvg-logo="http://logo1010.com/lg/senersen.jpg" group-title="TR • Sinema ",Şener Şen HD
+http://spy17.eu:80/live/selentv/17.01.2022/247522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turist Ömer HD" tvg-logo="http://logo1010.com/lg/turistomer.jpg" group-title="TR • Sinema ",Turist Ömer HD
+http://spy17.eu:80/live/selentv/17.01.2022/247524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zeki Metin HD" tvg-logo="http://logo1010.com/lg/zekimetin.png" group-title="TR • Sinema ",Zeki Metin HD
+http://spy17.eu:80/live/selentv/17.01.2022/247525.ts
+#EXTINF:-1 tvg-id="" tvg-name="ibrahim Tatlıses HD" tvg-logo="http://logo1010.com/lg/tatlises.png" group-title="TR • Sinema ",ibrahim Tatlıses HD
+http://spy17.eu:80/live/selentv/17.01.2022/247526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkan Şoray 1" tvg-logo="http://logo1010.com/lg/turkansoray.jpg" group-title="TR • Sinema ",Türkan Şoray 1
+http://spy17.eu:80/live/selentv/17.01.2022/247527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkan Şoray 2" tvg-logo="http://logo1010.com/lg/turkansoray.jpg" group-title="TR • Sinema ",Türkan Şoray 2
+http://spy17.eu:80/live/selentv/17.01.2022/247528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yılmaz Güney HD 1" tvg-logo="http://logo1010.com/lg/yilmazguney.jpg" group-title="TR • Sinema ",Yılmaz Güney HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yılmaz Güney HD 2" tvg-logo="http://logo1010.com/lg/yilmazguney.jpg" group-title="TR • Sinema ",Yılmaz Güney HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Altyazı Sinema HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Altyazı Sinema HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Altyazı Sinema HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Western HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Western HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Western HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Western HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 3" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 4" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 4
+http://spy17.eu:80/live/selentv/17.01.2022/247539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 5" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Komedi Sinema HD 5
+http://spy17.eu:80/live/selentv/17.01.2022/247540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Dram Sinema HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Dram Sinema HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 3" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Dram Sinema HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 4" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Dram Sinema HD 4
+http://spy17.eu:80/live/selentv/17.01.2022/247544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Korku Sinema HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema ",Yerli Korku Sinema HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247549.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 4" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 4
+http://spy17.eu:80/live/selentv/17.01.2022/247553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 5" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 5
+http://spy17.eu:80/live/selentv/17.01.2022/247554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 6" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 6
+http://spy17.eu:80/live/selentv/17.01.2022/247555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 7" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 7
+http://spy17.eu:80/live/selentv/17.01.2022/247556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 8" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 8
+http://spy17.eu:80/live/selentv/17.01.2022/247557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 9" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 9
+http://spy17.eu:80/live/selentv/17.01.2022/247558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 10" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Aksiyon Sinema HD 10
+http://spy17.eu:80/live/selentv/17.01.2022/247559.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 1
+http://spy17.eu:80/live/selentv/17.01.2022/247563.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 2
+http://spy17.eu:80/live/selentv/17.01.2022/247564.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 3
+http://spy17.eu:80/live/selentv/17.01.2022/247565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 4" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 4
+http://spy17.eu:80/live/selentv/17.01.2022/247566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 5" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 5
+http://spy17.eu:80/live/selentv/17.01.2022/247567.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 6" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 6
+http://spy17.eu:80/live/selentv/17.01.2022/247568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 7" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 7
+http://spy17.eu:80/live/selentv/17.01.2022/247569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 8" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Komedi Sinema 8
+http://spy17.eu:80/live/selentv/17.01.2022/247570.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Dram Sinema HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Dram Sinema HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247572.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Dram Sinema HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 1" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Korku Sinema HD 1
+http://spy17.eu:80/live/selentv/17.01.2022/247578.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 2" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Korku Sinema HD 2
+http://spy17.eu:80/live/selentv/17.01.2022/247579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 3" tvg-logo="http://logo1010.com/lg/yabancisinema.jpg" group-title="TR • Sinema ",Yabancı Korku Sinema HD 3
+http://spy17.eu:80/live/selentv/17.01.2022/247580.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 1" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 1
+http://spy17.eu:80/live/selentv/17.01.2022/328496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 2" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 2
+http://spy17.eu:80/live/selentv/17.01.2022/328497.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 3" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 3
+http://spy17.eu:80/live/selentv/17.01.2022/328498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 4" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 4
+http://spy17.eu:80/live/selentv/17.01.2022/328499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 5" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 5
+http://spy17.eu:80/live/selentv/17.01.2022/328500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 6" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 6
+http://spy17.eu:80/live/selentv/17.01.2022/328501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 7" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 7
+http://spy17.eu:80/live/selentv/17.01.2022/328502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 8" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 8
+http://spy17.eu:80/live/selentv/17.01.2022/328503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 9" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 9
+http://spy17.eu:80/live/selentv/17.01.2022/328504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 10" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 10
+http://spy17.eu:80/live/selentv/17.01.2022/328505.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 11" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 11
+http://spy17.eu:80/live/selentv/17.01.2022/328506.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 12" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 12
+http://spy17.eu:80/live/selentv/17.01.2022/328507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 13" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 13
+http://spy17.eu:80/live/selentv/17.01.2022/328508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 14" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 14
+http://spy17.eu:80/live/selentv/17.01.2022/328509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 15" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 15
+http://spy17.eu:80/live/selentv/17.01.2022/328510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 16" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 16
+http://spy17.eu:80/live/selentv/17.01.2022/328511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 17" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 17
+http://spy17.eu:80/live/selentv/17.01.2022/328512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 18" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 18
+http://spy17.eu:80/live/selentv/17.01.2022/328513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 19" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 19
+http://spy17.eu:80/live/selentv/17.01.2022/328514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 20" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 20
+http://spy17.eu:80/live/selentv/17.01.2022/328515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 21" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 21
+http://spy17.eu:80/live/selentv/17.01.2022/328516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 22" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema ",Cinefix Sinema 22
+http://spy17.eu:80/live/selentv/17.01.2022/328517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 1" tvg-logo="" group-title="TR • Sinema ",Cinefix Yerli Sinema 1
+http://spy17.eu:80/live/selentv/17.01.2022/328547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 2" tvg-logo="" group-title="TR • Sinema ",Cinefix Yerli Sinema 2
+http://spy17.eu:80/live/selentv/17.01.2022/328548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 3" tvg-logo="" group-title="TR • Sinema ",Cinefix Yerli Sinema 3
+http://spy17.eu:80/live/selentv/17.01.2022/328549.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILM SCREEN" tvg-logo="" group-title="TR • Sinema ",FILM SCREEN
+http://spy17.eu:80/live/selentv/17.01.2022/329191.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K-Sinema 1" tvg-logo="" group-title="TR • 4K Premium",4K-Sinema 1
+http://spy17.eu:80/live/selentv/17.01.2022/333826.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K-Transformers Box Set" tvg-logo="" group-title="TR • 4K Premium",4K-Transformers Box Set
+http://spy17.eu:80/live/selentv/17.01.2022/333847.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Kaptan Amerika BoxSet" tvg-logo="" group-title="TR • 4K Premium",4k-Kaptan Amerika BoxSet
+http://spy17.eu:80/live/selentv/17.01.2022/333865.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Yenilmezler BoxSet" tvg-logo="" group-title="TR • 4K Premium",4k-Yenilmezler BoxSet
+http://spy17.eu:80/live/selentv/17.01.2022/333876.ts
+#EXTINF:-1 tvg-id="" tvg-name="---------- ☾☆ Sinema UP ☾☆ ---------- " tvg-logo="" group-title="TR • Sinema Up",---------- ☾☆ Sinema UP ☾☆ ---------- 
+http://spy17.eu:80/live/selentv/17.01.2022/328540.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Intro" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Intro
+http://spy17.eu:80/live/selentv/17.01.2022/316797.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Loca 1" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Loca 1
+http://spy17.eu:80/live/selentv/17.01.2022/316798.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Loca 2" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Loca 2
+http://spy17.eu:80/live/selentv/17.01.2022/316799.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Bilim Kurgu" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Bilim Kurgu
+http://spy17.eu:80/live/selentv/17.01.2022/316800.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Action" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Action
+http://spy17.eu:80/live/selentv/17.01.2022/316801.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Gerilim" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Gerilim
+http://spy17.eu:80/live/selentv/17.01.2022/316802.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Korku" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316803.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Dram" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316804.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Fantastic" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316805.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Macera" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Macera
+http://spy17.eu:80/live/selentv/17.01.2022/316806.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Comedy" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316807.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Vizyon" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Vizyon
+http://spy17.eu:80/live/selentv/17.01.2022/316808.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Yerli" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316809.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Uzakdoğu" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Uzakdoğu
+http://spy17.eu:80/live/selentv/17.01.2022/316810.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Western" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Western
+http://spy17.eu:80/live/selentv/17.01.2022/316811.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Netflix" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Netflix
+http://spy17.eu:80/live/selentv/17.01.2022/316812.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk 4k Ultra" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk 4k Ultra
+http://spy17.eu:80/live/selentv/17.01.2022/316813.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Orjinal" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Orjinal
+http://spy17.eu:80/live/selentv/17.01.2022/316814.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Kemal Sunal" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Kemal Sunal
+http://spy17.eu:80/live/selentv/17.01.2022/316815.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Yeşilçam" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • Sinema Up",TR ☪ Proturk Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316816.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Altyazı" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • Sinema Up",TR➤ Usk Vizyon Cinema Altyazı
+http://spy17.eu:80/live/selentv/17.01.2022/316834.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Yerli" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • Sinema Up",TR➤ Usk Vizyon Cinema Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316835.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Dublaj" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • Sinema Up",TR➤ Usk Vizyon Cinema Dublaj
+http://spy17.eu:80/live/selentv/17.01.2022/316836.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Action" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Action
+http://spy17.eu:80/live/selentv/17.01.2022/316838.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Fantastic" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316839.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Gerilim" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Gerilim
+http://spy17.eu:80/live/selentv/17.01.2022/316840.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Bilim Kurgu
+http://spy17.eu:80/live/selentv/17.01.2022/316841.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Vizyon" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Vizyon
+http://spy17.eu:80/live/selentv/17.01.2022/316842.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Macera" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Macera
+http://spy17.eu:80/live/selentv/17.01.2022/316843.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Korku" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316844.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Comedy" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316845.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Dram" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316846.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Yerli" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316847.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Kemal Sunal
+http://spy17.eu:80/live/selentv/17.01.2022/316848.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Yeşilçam" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316849.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Belgesel" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • Sinema Up",TR➤ Arena Box Belgesel
+http://spy17.eu:80/live/selentv/17.01.2022/316851.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Action" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Action
+http://spy17.eu:80/live/selentv/17.01.2022/316852.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Bilim Kurgu
+http://spy17.eu:80/live/selentv/17.01.2022/316853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Fantastic" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316854.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Macera" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Macera
+http://spy17.eu:80/live/selentv/17.01.2022/316855.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Comedy" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316856.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Dram" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316857.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Yerli" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316858.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Kemal Sunal
+http://spy17.eu:80/live/selentv/17.01.2022/316859.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Yeşilçam" tvg-logo="https://i.hizliresim.com/n0537k8.png" group-title="TR • Sinema Up",TR➤ King Box Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316860.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Action" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Action
+http://spy17.eu:80/live/selentv/17.01.2022/316861.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Bilim Kurgu
+http://spy17.eu:80/live/selentv/17.01.2022/316862.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Macera" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Macera
+http://spy17.eu:80/live/selentv/17.01.2022/316863.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Fantastic" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316864.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Gerilim" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Gerilim
+http://spy17.eu:80/live/selentv/17.01.2022/316865.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Korku" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316866.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Comedy" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316867.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Dram" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316868.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Vizyon" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Vizyon
+http://spy17.eu:80/live/selentv/17.01.2022/316869.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Western" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Western
+http://spy17.eu:80/live/selentv/17.01.2022/316870.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Yerli" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316871.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Yeşilçam" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316872.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Hint" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • Sinema Up",TR➤ Real Box Hint
+http://spy17.eu:80/live/selentv/17.01.2022/316873.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Action" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Action
+http://spy17.eu:80/live/selentv/17.01.2022/316880.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Bilim Kurgu
+http://spy17.eu:80/live/selentv/17.01.2022/316881.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Fantastic" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316882.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Comedy" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316883.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Korku" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316884.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Dram" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316885.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Macera" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Macera
+http://spy17.eu:80/live/selentv/17.01.2022/316886.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Gerilim" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Gerilim
+http://spy17.eu:80/live/selentv/17.01.2022/316887.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Savaş" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Savaş
+http://spy17.eu:80/live/selentv/17.01.2022/316888.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Romantic" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Romantic
+http://spy17.eu:80/live/selentv/17.01.2022/316889.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Yerli" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316890.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤: Dream Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤: Dream Box Kemal Sunal
+http://spy17.eu:80/live/selentv/17.01.2022/316891.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Yeşilçam" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316892.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Netflix" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • Sinema Up",TR➤ Dream Box Netflix
+http://spy17.eu:80/live/selentv/17.01.2022/316893.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Action" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Action
+http://spy17.eu:80/live/selentv/17.01.2022/316894.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Bilimkurgu" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Bilimkurgu
+http://spy17.eu:80/live/selentv/17.01.2022/316895.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Comedy" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316896.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Dram" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316897.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Fantastic" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316898.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Korku" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316899.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Macera" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Macera
+http://spy17.eu:80/live/selentv/17.01.2022/316900.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Netflix" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Netflix
+http://spy17.eu:80/live/selentv/17.01.2022/316901.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Yerli" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316902.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Yesilcam" tvg-logo="https://i.hizliresim.com/ie5r6ie.png" group-title="TR • Sinema Up",TR➤ Fix Cinema Yesilcam
+http://spy17.eu:80/live/selentv/17.01.2022/316903.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Action" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Action
+http://spy17.eu:80/live/selentv/17.01.2022/316904.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Fantastic" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316905.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Bilim Kurgu
+http://spy17.eu:80/live/selentv/17.01.2022/316906.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Macera" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Macera
+http://spy17.eu:80/live/selentv/17.01.2022/316907.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Korku" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316908.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Comedy" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316909.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Dram" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316910.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Western" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Western
+http://spy17.eu:80/live/selentv/17.01.2022/316911.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Vizyon" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Vizyon
+http://spy17.eu:80/live/selentv/17.01.2022/316912.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Yerli" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316913.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Gold" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Gold
+http://spy17.eu:80/live/selentv/17.01.2022/316914.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Netflix" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Netflix
+http://spy17.eu:80/live/selentv/17.01.2022/316915.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Marvel" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Marvel
+http://spy17.eu:80/live/selentv/17.01.2022/316916.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Yeşilçam" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316917.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Ülke Seyahat" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • Sinema Up",TR➤ Mega Box Ülke Seyahat
+http://spy17.eu:80/live/selentv/17.01.2022/316920.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Action" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Action
+http://spy17.eu:80/live/selentv/17.01.2022/316921.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Korku" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316922.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Fantastic" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316923.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Comedy" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316924.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Dram" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316925.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Vizyon" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Vizyon
+http://spy17.eu:80/live/selentv/17.01.2022/316926.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Kemal Sunal
+http://spy17.eu:80/live/selentv/17.01.2022/316927.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Yerli" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316928.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Yeşilçam" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316929.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Disny +" tvg-logo="https://i.hizliresim.com/939ex3a.png" group-title="TR • Sinema Up",TR➤ Global Box Disny +
+http://spy17.eu:80/live/selentv/17.01.2022/316930.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Action" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Action
+http://spy17.eu:80/live/selentv/17.01.2022/316931.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Bilim Kurgu" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Bilim Kurgu
+http://spy17.eu:80/live/selentv/17.01.2022/316932.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Macera" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Macera
+http://spy17.eu:80/live/selentv/17.01.2022/316933.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Fantastic" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316934.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Gerilim" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Gerilim
+http://spy17.eu:80/live/selentv/17.01.2022/316935.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Korku" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316936.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Western" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Western
+http://spy17.eu:80/live/selentv/17.01.2022/316937.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Dram" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316938.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Savaş" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Savaş
+http://spy17.eu:80/live/selentv/17.01.2022/316939.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Romantik" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Romantik
+http://spy17.eu:80/live/selentv/17.01.2022/316940.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Comedy" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316941.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Yerli" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316942.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Yeşilçam" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316943.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Kemal Sunal
+http://spy17.eu:80/live/selentv/17.01.2022/316944.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Netflix" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Netflix
+http://spy17.eu:80/live/selentv/17.01.2022/316945.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Smart Box Orjinal" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤ Smart Box Orjinal
+http://spy17.eu:80/live/selentv/17.01.2022/316946.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Belgesel" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • Sinema Up",TR➤  Smart Box Belgesel
+http://spy17.eu:80/live/selentv/17.01.2022/316947.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Action" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Action
+http://spy17.eu:80/live/selentv/17.01.2022/316948.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Fantastic" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316949.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Family" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Family
+http://spy17.eu:80/live/selentv/17.01.2022/316950.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Horror" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Horror
+http://spy17.eu:80/live/selentv/17.01.2022/316951.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Comedy" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Comedy
+http://spy17.eu:80/live/selentv/17.01.2022/316952.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Dram" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Dram
+http://spy17.eu:80/live/selentv/17.01.2022/316953.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Sci-fi" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Sci-fi
+http://spy17.eu:80/live/selentv/17.01.2022/316954.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Yerli" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Yerli
+http://spy17.eu:80/live/selentv/17.01.2022/316955.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Kemal Sunal" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Kemal Sunal
+http://spy17.eu:80/live/selentv/17.01.2022/316956.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Yeşilçam" tvg-logo="https://i.hizliresim.com/t2glu4i.png" group-title="TR • Sinema Up",TR➤ Film Box Yeşilçam
+http://spy17.eu:80/live/selentv/17.01.2022/316957.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Action" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Action
+http://spy17.eu:80/live/selentv/17.01.2022/316958.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Fantastic" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Fantastic
+http://spy17.eu:80/live/selentv/17.01.2022/316959.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Korku" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Korku
+http://spy17.eu:80/live/selentv/17.01.2022/316960.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Turk" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Turk
+http://spy17.eu:80/live/selentv/17.01.2022/316961.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Western" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Western
+http://spy17.eu:80/live/selentv/17.01.2022/316962.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Gold" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Gold
+http://spy17.eu:80/live/selentv/17.01.2022/316963.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine Netflix" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine Netflix
+http://spy17.eu:80/live/selentv/17.01.2022/316964.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine  Yesilcam" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine  Yesilcam
+http://spy17.eu:80/live/selentv/17.01.2022/316965.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Neocine special" tvg-logo="https://i.hizliresim.com/ef0ydvb.png" group-title="TR • Sinema Up",TR➤ Neocine special
+http://spy17.eu:80/live/selentv/17.01.2022/316966.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 1" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 1
+http://spy17.eu:80/live/selentv/17.01.2022/316967.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 2" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 2
+http://spy17.eu:80/live/selentv/17.01.2022/316968.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 3" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 3
+http://spy17.eu:80/live/selentv/17.01.2022/316969.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 4" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 4
+http://spy17.eu:80/live/selentv/17.01.2022/316970.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 5" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 5
+http://spy17.eu:80/live/selentv/17.01.2022/316971.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 6" tvg-logo="https://i.hizliresim.com/38ynkqd.png" group-title="TR • Sinema Up",TR➤ Nova Cinema 6
+http://spy17.eu:80/live/selentv/17.01.2022/316972.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 1" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 1
+http://spy17.eu:80/live/selentv/17.01.2022/316973.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 2" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 2
+http://spy17.eu:80/live/selentv/17.01.2022/316974.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 3" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 3
+http://spy17.eu:80/live/selentv/17.01.2022/316975.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 4" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 4
+http://spy17.eu:80/live/selentv/17.01.2022/316976.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Horror Box 5" tvg-logo="https://i.hizliresim.com/mn0wuaa.png" group-title="TR • Sinema Up",TR➤ Horror Box 5
+http://spy17.eu:80/live/selentv/17.01.2022/316977.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX 4K UHD" tvg-logo="" group-title="TR • Sinema Up",FILMBOX 4K UHD
+http://spy17.eu:80/live/selentv/17.01.2022/317202.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIER ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX PREMIER ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317203.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ACTION ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317204.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SCI-FI ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX SCI-FI ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317205.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTIC ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX FANTASTIC ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317206.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX DRAMA ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX DRAMA ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317207.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX HORROR ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317208.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX COMEDY ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317209.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ROMANTIC ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ROMANTIC ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317210.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX FAMILY ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317211.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YERLI ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX YERLI ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317212.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YESILCAM ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX YESILCAM ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317213.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX KEMAL SUNAL ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX KEMAL SUNAL ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317214.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SENER SEN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX SENER SEN ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317215.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ZEKI & METIN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ZEKI & METIN ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317216.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX TARIK AKAN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX TARIK AKAN ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317217.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX KADIR INANIR ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX KADIR INANIR ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317218.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX CUNEYT ARKIN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX CUNEYT ARKIN ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317219.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ILYAS SALMAN ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ILYAS SALMAN ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317220.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON INFO ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON INFO ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317221.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 1 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 1 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317222.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 2 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 2 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317223.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 3 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 3 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317224.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 4 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 4 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317225.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 5 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 5 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317226.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 6 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 6 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317227.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 7 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 7 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317228.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 8 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 8 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317229.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 9 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 9 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317230.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 10 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 10 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317231.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 11 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 11 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317232.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 12 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 12 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317233.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 13 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 13 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317234.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 14 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 14 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317235.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 15 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 15 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317236.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 16 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 16 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317237.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 17 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 17 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317238.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 18 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 18 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317239.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 19 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 19 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317240.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 20 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",SINEVIZYON 20 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blutv | play 2 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",Blutv | play 2 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317296.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blutv | play 1 ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",Blutv | play 1 ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317297.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMCLUB KOMEDİ" tvg-logo="" group-title="TR • Sinema Up",FİLMCLUB KOMEDİ
+http://spy17.eu:80/live/selentv/17.01.2022/317298.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMCLUB FAMİLY" tvg-logo="" group-title="TR • Sinema Up",FİLMCLUB FAMİLY
+http://spy17.eu:80/live/selentv/17.01.2022/317299.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMCLUB AKSİYON" tvg-logo="" group-title="TR • Sinema Up",FİLMCLUB AKSİYON
+http://spy17.eu:80/live/selentv/17.01.2022/317300.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMCLUB" tvg-logo="" group-title="TR • Sinema Up",FİLMCLUB
+http://spy17.eu:80/live/selentv/17.01.2022/317301.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMAX" tvg-logo="" group-title="TR • Sinema Up",FİLMAX
+http://spy17.eu:80/live/selentv/17.01.2022/317302.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="TR • Sinema Up",FİL TV
+http://spy17.eu:80/live/selentv/17.01.2022/317303.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ʜᴅ" tvg-logo="" group-title="TR • Sinema Up",FILMBOX ʜᴅ
+http://spy17.eu:80/live/selentv/17.01.2022/317304.ts
+#EXTINF:-1 tvg-id="" tvg-name="-----| Boxet Sinema |-----" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Sinema boxset",-----| Boxet Sinema |-----
+http://spy17.eu:80/live/selentv/17.01.2022/185246.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Transformers" tvg-logo="http://logo1010.com/lg/transformers.jpg" group-title="TR • Sinema boxset",[Boxset] Transformers
+http://spy17.eu:80/live/selentv/17.01.2022/247421.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] 13.Cuma" tvg-logo="http://logo1010.com/lg/13cuma.jpg" group-title="TR • Sinema boxset",[Boxset] 13.Cuma
+http://spy17.eu:80/live/selentv/17.01.2022/247422.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] 300 Spartalı" tvg-logo="http://logo1010.com/lg/300spartali.png" group-title="TR • Sinema boxset",[Boxset] 300 Spartalı
+http://spy17.eu:80/live/selentv/17.01.2022/247423.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Charlie's Angels" tvg-logo="http://logo1010.com/lg/carlininmelekleri.jpg" group-title="TR • Sinema boxset",[Boxset] Charlie's Angels
+http://spy17.eu:80/live/selentv/17.01.2022/247424.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] G.I.Joe" tvg-logo="http://logo1010.com/lg/G.I.Joe.png" group-title="TR • Sinema boxset",[Boxset] G.I.Joe
+http://spy17.eu:80/live/selentv/17.01.2022/247425.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hellboy" tvg-logo="http://logo1010.com/lg/Hellboy.png" group-title="TR • Sinema boxset",[Boxset] Hellboy
+http://spy17.eu:80/live/selentv/17.01.2022/247426.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ip Man" tvg-logo="http://logo1010.com/lg/ipman.jpg" group-title="TR • Sinema boxset",[Boxset] Ip Man
+http://spy17.eu:80/live/selentv/17.01.2022/247427.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ocean's" tvg-logo="http://logo1010.com/lg/ocean.jpg" group-title="TR • Sinema boxset",[Boxset] Ocean's
+http://spy17.eu:80/live/selentv/17.01.2022/247428.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Rambo" tvg-logo="http://logo1010.com/lg/rambo.png" group-title="TR • Sinema boxset",[Boxset] Rambo
+http://spy17.eu:80/live/selentv/17.01.2022/247429.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Riddick" tvg-logo="http://logo1010.com/lg/riddick.jpg" group-title="TR • Sinema boxset",[Boxset] Riddick
+http://spy17.eu:80/live/selentv/17.01.2022/247430.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Taşıyıcı" tvg-logo="http://logo1010.com/lg/tasiyici.jpg" group-title="TR • Sinema boxset",[Boxset] Taşıyıcı
+http://spy17.eu:80/live/selentv/17.01.2022/247431.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Thor" tvg-logo="http://logo1010.com/lg/thor.png" group-title="TR • Sinema boxset",[Boxset] Thor
+http://spy17.eu:80/live/selentv/17.01.2022/247432.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Zor Ölüm" tvg-logo="http://logo1010.com/lg/zorolum.jpg" group-title="TR • Sinema boxset",[Boxset] Zor Ölüm
+http://spy17.eu:80/live/selentv/17.01.2022/247433.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Açlık Oyunları" tvg-logo="http://logo1010.com/lg/aclikoyunlari.jpg" group-title="TR • Sinema boxset",[Boxset] Açlık Oyunları
+http://spy17.eu:80/live/selentv/17.01.2022/247434.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Alacakaranlık" tvg-logo="http://logo1010.com/lg/alacakaranlik.jpg" group-title="TR • Sinema boxset",[Boxset] Alacakaranlık
+http://spy17.eu:80/live/selentv/17.01.2022/247435.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ant-Man" tvg-logo="http://logo1010.com/lg/antman.jpg" group-title="TR • Sinema boxset",[Boxset] Ant-Man
+http://spy17.eu:80/live/selentv/17.01.2022/247436.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Arınma Gecesi" tvg-logo="http://logo1010.com/lg/arinmagecesi.jpg" group-title="TR • Sinema boxset",[Boxset] Arınma Gecesi
+http://spy17.eu:80/live/selentv/17.01.2022/247437.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Batman" tvg-logo="http://logo1010.com/lg/batman.png" group-title="TR • Sinema boxset",[Boxset] Batman
+http://spy17.eu:80/live/selentv/17.01.2022/247438.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Bitirim İkili" tvg-logo="http://logo1010.com/lg/bitirimikili.jpg" group-title="TR • Sinema boxset",[Boxset] Bitirim İkili
+http://spy17.eu:80/live/selentv/17.01.2022/247440.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Blade" tvg-logo="http://logo1010.com/lg/bladerunner.png" group-title="TR • Sinema boxset",[Boxset] Blade
+http://spy17.eu:80/live/selentv/17.01.2022/247441.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kaptan Amerika" tvg-logo="http://logo1010.com/lg/kaptanamerika.jfif" group-title="TR • Sinema boxset",[Boxset] Kaptan Amerika
+http://spy17.eu:80/live/selentv/17.01.2022/247442.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cehennem Melekleri" tvg-logo="http://logo1010.com/lg/cehennemmelekleri.jpg" group-title="TR • Sinema boxset",[Boxset] Cehennem Melekleri
+http://spy17.eu:80/live/selentv/17.01.2022/247443.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Conan" tvg-logo="http://logo1010.com/lg/conan.jpg" group-title="TR • Sinema boxset",[Boxset] Conan
+http://spy17.eu:80/live/selentv/17.01.2022/247444.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Deadpool" tvg-logo="http://logo1010.com/lg/Deadpool.png" group-title="TR • Sinema boxset",[Boxset] Deadpool
+http://spy17.eu:80/live/selentv/17.01.2022/247445.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Demir Adam" tvg-logo="http://logo1010.com/lg/demiradam.png" group-title="TR • Sinema boxset",[Boxset] Demir Adam
+http://spy17.eu:80/live/selentv/17.01.2022/247446.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ejderha Dövmeli Kız" tvg-logo="http://logo1010.com/lg/ejderhadovmelikiz.jpg" group-title="TR • Sinema boxset",[Boxset] Ejderha Dövmeli Kız
+http://spy17.eu:80/live/selentv/17.01.2022/247447.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Elm Sokağı Kabusu" tvg-logo="http://logo1010.com/lg/elmsokagindakabus.jpg" group-title="TR • Sinema boxset",[Boxset] Elm Sokağı Kabusu
+http://spy17.eu:80/live/selentv/17.01.2022/247448.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Fantastik Canavarlar" tvg-logo="http://logo1010.com/lg/fantastikcanavarlar.jpg" group-title="TR • Sinema boxset",[Boxset] Fantastik Canavarlar
+http://spy17.eu:80/live/selentv/17.01.2022/247449.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Fantastik Dörtlü" tvg-logo="http://logo1010.com/lg/fantastikdortlu.jpg" group-title="TR • Sinema boxset",[Boxset] Fantastik Dörtlü
+http://spy17.eu:80/live/selentv/17.01.2022/247450.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Felekten Bir Gece" tvg-logo="http://logo1010.com/lg/felektenbirgece.jpg" group-title="TR • Sinema boxset",[Boxset] Felekten Bir Gece
+http://spy17.eu:80/live/selentv/17.01.2022/247451.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Geçmişi Olmayan Adam" tvg-logo="http://logo1010.com/lg/gecmisiolmayanadam.jpg" group-title="TR • Sinema boxset",[Boxset] Geçmişi Olmayan Adam
+http://spy17.eu:80/live/selentv/17.01.2022/247452.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Geleceğe Dönüş" tvg-logo="http://logo1010.com/lg/gelecegedonus.jpg" group-title="TR • Sinema boxset",[Boxset] Geleceğe Dönüş
+http://spy17.eu:80/live/selentv/17.01.2022/247453.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Görevimiz Tehlike" tvg-logo="http://logo1010.com/lg/gorevimiztehlike.jpg" group-title="TR • Sinema boxset",[Boxset] Görevimiz Tehlike
+http://spy17.eu:80/live/selentv/17.01.2022/247454.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hayalet Avcıları" tvg-logo="http://logo1010.com/lg/hayaletavcilari.jpg" group-title="TR • Sinema boxset",[Boxset] Hayalet Avcıları
+http://spy17.eu:80/live/selentv/17.01.2022/247455.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hayalet Sürücü" tvg-logo="http://logo1010.com/lg/hayaletsurucu.jpg" group-title="TR • Sinema boxset",[Boxset] Hayalet Sürücü
+http://spy17.eu:80/live/selentv/17.01.2022/247456.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hobbit" tvg-logo="http://logo1010.com/lg/hobbit.jpg" group-title="TR • Sinema boxset",[Boxset] Hobbit
+http://spy17.eu:80/live/selentv/17.01.2022/247457.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Indiana Jones HD" tvg-logo="http://logo1010.com/lg/indianajones.jpg" group-title="TR • Sinema boxset",[Boxset] Indiana Jones HD
+http://spy17.eu:80/live/selentv/17.01.2022/247458.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] James Bond" tvg-logo="http://logo1010.com/lg/jamesbond.png" group-title="TR • Sinema boxset",[Boxset] James Bond
+http://spy17.eu:80/live/selentv/17.01.2022/247459.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jhon Wick" tvg-logo="http://logo1010.com/lg/johnwick.jpg" group-title="TR • Sinema boxset",[Boxset] Jhon Wick
+http://spy17.eu:80/live/selentv/17.01.2022/247460.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jumanji" tvg-logo="http://logo1010.com/lg/jumanji.jpg" group-title="TR • Sinema boxset",[Boxset] Jumanji
+http://spy17.eu:80/live/selentv/17.01.2022/247461.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jurassic Park" tvg-logo="http://logo1010.com/lg/JurassicPark.jpg" group-title="TR • Sinema boxset",[Boxset] Jurassic Park
+http://spy17.eu:80/live/selentv/17.01.2022/247462.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Karanlıklar Ulkesi" tvg-logo="http://logo1010.com/lg/karanliklarulkesi.jpg" group-title="TR • Sinema boxset",[Boxset] Karanlıklar Ulkesi
+http://spy17.eu:80/live/selentv/17.01.2022/247463.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Karayip Korsanları" tvg-logo="http://logo1010.com/lg/karayipkorsanlari.png" group-title="TR • Sinema boxset",[Boxset] Karayip Korsanları
+http://spy17.eu:80/live/selentv/17.01.2022/247464.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kelebek etkisi" tvg-logo="http://logo1010.com/lg/kelebeketkisi.jpg" group-title="TR • Sinema boxset",[Boxset] Kelebek etkisi
+http://spy17.eu:80/live/selentv/17.01.2022/247465.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kill Bill" tvg-logo="http://logo1010.com/lg/killbill.png" group-title="TR • Sinema boxset",[Boxset] Kill Bill
+http://spy17.eu:80/live/selentv/17.01.2022/247466.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Korku Kapanı" tvg-logo="http://logo1010.com/lg/korkukapani.jpg" group-title="TR • Sinema boxset",[Boxset] Korku Kapanı
+http://spy17.eu:80/live/selentv/17.01.2022/247467.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Korkunç Bir Film" tvg-logo="http://logo1010.com/lg/korkuncbirfilm.jp" group-title="TR • Sinema boxset",[Boxset] Korkunç Bir Film
+http://spy17.eu:80/live/selentv/17.01.2022/247468.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtuluş Günü" tvg-logo="http://logo1010.com/lg/kurtulusgunu.jpg" group-title="TR • Sinema boxset",[Boxset] Kurtuluş Günü
+http://spy17.eu:80/live/selentv/17.01.2022/247469.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Labirent" tvg-logo="http://logo1010.com/lg/labirent.jpg" group-title="TR • Sinema boxset",[Boxset] Labirent
+http://spy17.eu:80/live/selentv/17.01.2022/247470.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Mavi Korku" tvg-logo="http://logo1010.com/lg/mavikorku.jpg" group-title="TR • Sinema boxset",[Boxset] Mavi Korku
+http://spy17.eu:80/live/selentv/17.01.2022/247471.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Maymunlar Cehennemi" tvg-logo="https://1.bp.blogspot.com/--Ac8JwcgxMQ/XY22JjlqYlI/AAAAAAAAFBY/jwGMdc36Ugge-EQz7ee7UEjU30P-BVf8ACLcBGAsYHQ/s1600/Maymunlar%2BCehennemi%2B3%2BSava%25C5%259F%2B-%2BWar%2Bfor%2Bthe%2BPlanet%2Bof%2Bthe%2BApes%2B%25281%2529.jpg" group-title="TR • Sinema boxset",[Boxset] Maymunlar Cehennemi
+http://spy17.eu:80/live/selentv/17.01.2022/247472.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Mumya" tvg-logo="http://logo1010.com/lg/mumya.jpg" group-title="TR • Sinema boxset",[Boxset] Mumya
+http://spy17.eu:80/live/selentv/17.01.2022/247473.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Müzede Bir Gece" tvg-logo="http://logo1010.com/lg/muzedebirgece.jpg" group-title="TR • Sinema boxset",[Boxset] Müzede Bir Gece
+http://spy17.eu:80/live/selentv/17.01.2022/247474.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ölümcül Deney" tvg-logo="http://logo1010.com/lg/olumculdeney.jp" group-title="TR • Sinema boxset",[Boxset] Ölümcül Deney
+http://spy17.eu:80/live/selentv/17.01.2022/247475.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Örümcek Adam" tvg-logo="http://logo1010.com/lg/orumcekadam.png" group-title="TR • Sinema boxset",[Boxset] Örümcek Adam
+http://spy17.eu:80/live/selentv/17.01.2022/247476.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Polis Akademisi" tvg-logo="http://logo1010.com/lg/polisakademisi.jpg" group-title="TR • Sinema boxset",[Boxset] Polis Akademisi
+http://spy17.eu:80/live/selentv/17.01.2022/247477.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Rocky" tvg-logo="http://logo1010.com/lg/rocky.png" group-title="TR • Sinema boxset",[Boxset] Rocky
+http://spy17.eu:80/live/selentv/17.01.2022/247478.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Salak ile Avanak" tvg-logo="http://logo1010.com/lg/salakileavanak.jpg" group-title="TR • Sinema boxset",[Boxset] Salak ile Avanak
+http://spy17.eu:80/live/selentv/17.01.2022/247479.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Şeytan Oteli" tvg-logo="http://logo1010.com/lg/seytanoteli.jpg" group-title="TR • Sinema boxset",[Boxset] Şeytan Oteli
+http://spy17.eu:80/live/selentv/17.01.2022/247480.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Siyah Giyen Adamlar" tvg-logo="http://logo1010.com/lg/siyahgiyenadamlar.jpg" group-title="TR • Sinema boxset",[Boxset] Siyah Giyen Adamlar
+http://spy17.eu:80/live/selentv/17.01.2022/247481.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Son Durak" tvg-logo="http://logo1010.com/lg/sondurak.jpg" group-title="TR • Sinema boxset",[Boxset] Son Durak
+http://spy17.eu:80/live/selentv/17.01.2022/247482.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Star Wars" tvg-logo="http://logo1010.com/lg/starwars.png" group-title="TR • Sinema boxset",[Boxset] Star Wars
+http://spy17.eu:80/live/selentv/17.01.2022/247483.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Süperman" tvg-logo="http://logo1010.com/lg/superman.png" group-title="TR • Sinema boxset",[Boxset] Süperman
+http://spy17.eu:80/live/selentv/17.01.2022/247484.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Terminator" tvg-logo="http://logo1010.com/lg/terminator.png" group-title="TR • Sinema boxset",[Boxset] Terminator
+http://spy17.eu:80/live/selentv/17.01.2022/247485.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Testere" tvg-logo="http://logo1010.com/lg/testere.jpg" group-title="TR • Sinema boxset",[Boxset] Testere
+http://spy17.eu:80/live/selentv/17.01.2022/247486.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Uyumsuz" tvg-logo="http://logo1010.com/lg/uyumsuz.jpg" group-title="TR • Sinema boxset",[Boxset] Uyumsuz
+http://spy17.eu:80/live/selentv/17.01.2022/247487.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Uzay Yolu" tvg-logo="http://logo1010.com/lg/uzayyolu.jpg" group-title="TR • Sinema boxset",[Boxset] Uzay Yolu
+http://spy17.eu:80/live/selentv/17.01.2022/247488.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] X-Man" tvg-logo="http://162.19.169.196:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUMACwAoB0Wz736yxPffDPnRdD1Sq91WH7pDCmRTmQlhule3f_94eHRyKVBbsU0KXZvUo_yjmPKPGZKU5rW-FHu.jpg" group-title="TR • Sinema boxset",[Boxset] X-Man
+http://spy17.eu:80/live/selentv/17.01.2022/247489.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yenilmezler" tvg-logo="http://logo1010.com/lg/yenilmezler.jpg" group-title="TR • Sinema boxset",[Boxset] Yenilmezler
+http://spy17.eu:80/live/selentv/17.01.2022/247490.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yüzüklerin Efendisi" tvg-logo="http://logo1010.com/lg/yuzuklerinefendisi.jpg" group-title="TR • Sinema boxset",[Boxset] Yüzüklerin Efendisi
+http://spy17.eu:80/live/selentv/17.01.2022/247491.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jackie Chan" tvg-logo="http://logo1010.com/lg/jackiechan.jpg" group-title="TR • Sinema boxset",[Boxset] Jackie Chan
+http://spy17.eu:80/live/selentv/17.01.2022/247493.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Matrix" tvg-logo="http://logo1010.com/lg/Matrix.png" group-title="TR • Sinema boxset",[Boxset] Matrix
+http://spy17.eu:80/live/selentv/17.01.2022/247494.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hızlı ve Öfkeli" tvg-logo="http://logo1010.com/lg/hizliveofkeli.jpg" group-title="TR • Sinema boxset",[Boxset] Hızlı ve Öfkeli
+http://spy17.eu:80/live/selentv/17.01.2022/247495.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Harry Potter" tvg-logo="http://logo1010.com/lg/harrypotter.png" group-title="TR • Sinema boxset",[Boxset] Harry Potter
+http://spy17.eu:80/live/selentv/17.01.2022/247496.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Recep ivedik" tvg-logo="http://logo1010.com/lg/recepivedik.jpg" group-title="TR • Sinema boxset",[Boxset] Recep ivedik
+http://spy17.eu:80/live/selentv/17.01.2022/247497.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Oflu Hoca'nın Şifresi" tvg-logo="http://logo1010.com/lg/ofluhocaninsifresi.png" group-title="TR • Sinema boxset",[Boxset] Oflu Hoca'nın Şifresi
+http://spy17.eu:80/live/selentv/17.01.2022/247498.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çakallarla Dans" tvg-logo="http://logo1010.com/lg/cakallarladans.png" group-title="TR • Sinema boxset",[Boxset] Çakallarla Dans
+http://spy17.eu:80/live/selentv/17.01.2022/247499.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hababam Sınıfı" tvg-logo="http://logo1010.com/lg/hababamsinifi.jpg" group-title="TR • Sinema boxset",[Boxset] Hababam Sınıfı
+http://spy17.eu:80/live/selentv/17.01.2022/247500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hep Yek" tvg-logo="" group-title="TR • Sinema boxset",Hep Yek
+http://spy17.eu:80/live/selentv/17.01.2022/312376.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kolpaçino" tvg-logo="" group-title="TR • Sinema boxset",Kolpaçino
+http://spy17.eu:80/live/selentv/17.01.2022/312377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kutsal Damacana" tvg-logo="" group-title="TR • Sinema boxset",Kutsal Damacana
+http://spy17.eu:80/live/selentv/17.01.2022/312378.ts
+
+
+
 #EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="jpg" group-title="Azərbaycan",Mega GəncəTV
 #EXTGRP:Azərbaycan
 http://195.9.195.3:8080/hls/215207.m3u8

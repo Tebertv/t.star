@@ -118,3 +118,159 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10156
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10260
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT 2 HD" tvg-logo="http://islimsayinortaokulu.meb.k12.tr/meb_iys_dosyalar/27/05/701511/resimler/2017_06/k_18150639_2.jpg" group-title="BOUQUET TURC",|TR| TRT 2 HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10261
+#EXTINF:-1 tvg-id="" tvg-name="--------------TURK YEREL------------" tvg-logo="http://logo.cdnlop.com/logotv/plus.png" group-title="TR • Yerel Kanallar",--------------TURK YEREL------------
+http://spy17.eu:80/live/selentv/17.01.2022/185244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Güneydoğu TV" tvg-logo="http://logo1010.com/cdn/yoresel/guneydogu.png" group-title="TR • Yerel Kanallar",Güneydoğu TV
+http://spy17.eu:80/live/selentv/17.01.2022/150008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es TV" tvg-logo="http://logo1010.com/lg/estv.png" group-title="TR • Yerel Kanallar",Es TV
+http://spy17.eu:80/live/selentv/17.01.2022/150009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Edessa Tv" tvg-logo="http://logo1010.com/cdn/yoresel/edessa.png" group-title="TR • Yerel Kanallar",Edessa Tv
+http://spy17.eu:80/live/selentv/17.01.2022/55088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fm Tv" tvg-logo="http://logo1010.com/lg/fmtv.png" group-title="TR • Yerel Kanallar",Fm Tv
+http://spy17.eu:80/live/selentv/17.01.2022/55089.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal V" tvg-logo="http://logo1010.com/cdn/yoresel/kanalv.png" group-title="TR • Yerel Kanallar",Kanal V
+http://spy17.eu:80/live/selentv/17.01.2022/55090.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mavi Karadeniz Tv" tvg-logo="http://logo1010.com/cdn/yoresel/mavikaradeniz.png" group-title="TR • Yerel Kanallar",Mavi Karadeniz Tv
+http://spy17.eu:80/live/selentv/17.01.2022/56085.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 42 Sd" tvg-logo="http://logo1010.com/lg/kanal42.png" group-title="TR • Yerel Kanallar",Kanal 42 Sd
+http://spy17.eu:80/live/selentv/17.01.2022/88501.ts
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="Ulusal Tv HD" tvg-logo="http://logo1010.com/news/ulusal-hd.png" group-title="TR • Haber ",Ulusal Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/88873.ts
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-name="Benguturk" tvg-logo="http://logo1010.com/cdn/ulusal/benguturk.png" group-title="TR • Ulusal ",Benguturk
+http://spy17.eu:80/live/selentv/17.01.2022/802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cay TV" tvg-logo="http://logo1010.com/cdn/yoresel/Caytv.png" group-title="TR • Yerel Kanallar",Cay TV
+http://spy17.eu:80/live/selentv/17.01.2022/801.ts
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="EKOTURK HD" tvg-logo="http://logo1010.com/news/ekoturk-hd.png" group-title="TR • Haber ",EKOTURK HD
+http://spy17.eu:80/live/selentv/17.01.2022/691.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 264" tvg-logo="http://logo1010.com/cdn/yoresel/tv264.png" group-title="TR • Yerel Kanallar",TV 264
+http://spy17.eu:80/live/selentv/17.01.2022/163414.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORDU ALTAS TV" tvg-logo="http://logo1010.com/lg/ordualtastv.png" group-title="TR • Yerel Kanallar",ORDU ALTAS TV
+http://spy17.eu:80/live/selentv/17.01.2022/163417.ts
+#EXTINF:-1 tvg-id="" tvg-name="ER TV" tvg-logo="http://logo1010.com/cdn/yoresel/ertv.png" group-title="TR • Yerel Kanallar",ER TV
+http://spy17.eu:80/live/selentv/17.01.2022/163420.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV KAYSERI" tvg-logo="http://logo1010.com/cdn/yoresel/tvkayseri.png" group-title="TR • Yerel Kanallar",TV KAYSERI
+http://spy17.eu:80/live/selentv/17.01.2022/163423.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL FIRAT" tvg-logo="http://logo1010.com/cdn/yoresel/kanalfirat.png" group-title="TR • Yerel Kanallar",KANAL FIRAT
+http://spy17.eu:80/live/selentv/17.01.2022/163424.ts
+#EXTINF:-1 tvg-id="" tvg-name="YENİ KOCAELİ TV" tvg-logo="http://logo1010.com/lg/yenikocaelitv.jpg" group-title="TR • Yerel Kanallar",YENİ KOCAELİ TV
+http://spy17.eu:80/live/selentv/17.01.2022/163426.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aksu Tv SD" tvg-logo="http://logo1010.com/lg/aksutv.png" group-title="TR • Yerel Kanallar",Aksu Tv SD
+http://spy17.eu:80/live/selentv/17.01.2022/175890.ts
+#EXTINF:-1 tvg-id="" tvg-name="GURBET 24" tvg-logo="" group-title="TR • Yerel Kanallar",GURBET 24
+http://spy17.eu:80/live/selentv/17.01.2022/329190.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ekintürk Tv SD" tvg-logo="http://logo1010.com/lg/ekinturktv.jpg" group-title="TR • Yerel Kanallar",Ekintürk Tv SD
+http://spy17.eu:80/live/selentv/17.01.2022/175893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 15 SD" tvg-logo="http://logo1010.com/lg/kanal15.png" group-title="TR • Yerel Kanallar",Kanal 15 SD
+http://spy17.eu:80/live/selentv/17.01.2022/175897.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 32 SD" tvg-logo="http://logo1010.com/lg/kanal32.jpg" group-title="TR • Yerel Kanallar",Kanal 32 SD
+http://spy17.eu:80/live/selentv/17.01.2022/175898.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 33 SD" tvg-logo="http://logo1010.com/lg/kanal33.png" group-title="TR • Yerel Kanallar",Kanal 33 SD
+http://spy17.eu:80/live/selentv/17.01.2022/175899.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mercan Tv SD" tvg-logo="http://logo1010.com/lg/mercantv.png" group-title="TR • Yerel Kanallar",Mercan Tv SD
+http://spy17.eu:80/live/selentv/17.01.2022/175902.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Avrupa" tvg-logo="http://logo1010.com/cdn/yoresel/kanalavrupa.png" group-title="TR • Yerel Kanallar",Kanal Avrupa
+http://spy17.eu:80/live/selentv/17.01.2022/163429.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEMPO TV" tvg-logo="http://logo1010.com/cdn/yoresel/tempotv.png" group-title="TR • Yerel Kanallar",TEMPO TV
+http://spy17.eu:80/live/selentv/17.01.2022/163431.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 52" tvg-logo="http://logo1010.com/cdn/yoresel/tv52-yeni.png" group-title="TR • Yerel Kanallar",TV 52
+http://spy17.eu:80/live/selentv/17.01.2022/163433.ts
+#EXTINF:-1 tvg-id="liderhaber.tv" tvg-name="Lider Haber SD" tvg-logo="http://logo1010.com/lg/liderhaber.png" group-title="TR • Haber ",Lider Haber SD
+http://spy17.eu:80/live/selentv/17.01.2022/263619.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Den" tvg-logo="http://logo1010.com/lg/tvden.png" group-title="TR • Yerel Kanallar",Tv Den
+http://spy17.eu:80/live/selentv/17.01.2022/263627.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 7 Türk" tvg-logo="http://logo1010.com/lg/sat7turk.png" group-title="TR • Yerel Kanallar",Sat 7 Türk
+http://spy17.eu:80/live/selentv/17.01.2022/263628.ts
+#EXTINF:-1 tvg-id="" tvg-name="Malatya Vuslat Tv SD" tvg-logo="http://logo1010.com/lg/malatyavuslat.png" group-title="TR • Yerel Kanallar",Malatya Vuslat Tv SD
+http://spy17.eu:80/live/selentv/17.01.2022/263629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br Tv Anadolu SD" tvg-logo="http://logo1010.com/lg/brtv.jpg" group-title="TR • Yerel Kanallar",Br Tv Anadolu SD
+http://spy17.eu:80/live/selentv/17.01.2022/263630.ts
+#EXTINF:-1 tvg-id="" tvg-name="Van TV" tvg-logo="http://logo1010.com/lg/vantv.png" group-title="TR • Yerel Kanallar",Van TV
+http://spy17.eu:80/live/selentv/17.01.2022/296052.ts
+#EXTINF:-1 tvg-id="" tvg-name="1 Ordu TV" tvg-logo="http://logo1010.com/lg/ordutv.png" group-title="TR • Yerel Kanallar",1 Ordu TV
+http://spy17.eu:80/live/selentv/17.01.2022/296089.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL URFA" tvg-logo="http://logo1010.com/cdn/yoresel/kanalurfa.png" group-title="TR • Yerel Kanallar",KANAL URFA
+http://spy17.eu:80/live/selentv/17.01.2022/163434.ts
+#EXTINF:-1 tvg-id="" tvg-name="LINE TV" tvg-logo="http://logo1010.com/cdn/yoresel/linetv.png" group-title="TR • Yerel Kanallar",LINE TV
+http://spy17.eu:80/live/selentv/17.01.2022/163436.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="KANAL 3" tvg-logo="http://logo1010.com/lg/kanal3.jpg" group-title="TR • Yerel Kanallar",KANAL 3
+http://spy17.eu:80/live/selentv/17.01.2022/163437.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOY TV" tvg-logo="http://logo1010.com/lg/koytv.png" group-title="TR • Yerel Kanallar",KOY TV
+http://spy17.eu:80/live/selentv/17.01.2022/163438.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rumeli TV" tvg-logo="http://logo1010.com/lg/rumelitv.png" group-title="TR • Yerel Kanallar",Rumeli TV
+http://spy17.eu:80/live/selentv/17.01.2022/126815.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anadolu Dernek TV" tvg-logo="http://logo1010.com/lg/anadoludernektv.jpg" group-title="TR • Yerel Kanallar",Anadolu Dernek TV
+http://spy17.eu:80/live/selentv/17.01.2022/126817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Meltem tv SD+" tvg-logo="http://logo1010.com/lg/meltemtv.jpg" group-title="TR • Yerel Kanallar",Meltem tv SD+
+http://spy17.eu:80/live/selentv/17.01.2022/175990.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trakya Türk Tv SD" tvg-logo="https://canlitv.center/channels/trakya-turk-tv.png" group-title="TR • Ulusal ",Trakya Türk Tv SD
+http://spy17.eu:80/live/selentv/17.01.2022/273129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gözde Tv HD" tvg-logo="https://i.ytimg.com/vi/xIr-eGzMogo/hqdefault.jpg" group-title="TR • Ulusal ",Gözde Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/273136.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hrt Akdeniz Tv SD" tvg-logo="http://logo1010.com/lg/hrtakdeniztv.png" group-title="TR • Yerel Kanallar",Hrt Akdeniz Tv SD
+http://spy17.eu:80/live/selentv/17.01.2022/273137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Akıllı TV" tvg-logo="" group-title="TR • Yerel Kanallar",Akıllı TV
+http://spy17.eu:80/live/selentv/17.01.2022/333622.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT Avaz" tvg-logo="http://logo1010.com/cdn/yoresel/trtavaz.png" group-title="TR • Yerel Kanallar",TRT Avaz
+http://spy17.eu:80/live/selentv/17.01.2022/126818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kardelen TV" tvg-logo="http://logo1010.com/cdn/yoresel/kardelentv.png" group-title="TR • Yerel Kanallar",Kardelen TV
+http://spy17.eu:80/live/selentv/17.01.2022/126816.ts
+#EXTINF:-1 tvg-id="kontv.tr" tvg-name="Kon Tv" tvg-logo="http://logo1010.com/lg/kontv.png" group-title="TR • Yerel Kanallar",Kon Tv
+http://spy17.eu:80/live/selentv/17.01.2022/4938.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 HD" tvg-logo="http://logo1010.com/news/360-hd.png" group-title="TR • Ulusal ",360 HD
+http://spy17.eu:80/live/selentv/17.01.2022/7107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Haber 61" tvg-logo="http://logo1010.com/lg/haber61.jpg" group-title="TR • Yerel Kanallar",Haber 61
+http://spy17.eu:80/live/selentv/17.01.2022/35330.ts
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="Krt Tv HD" tvg-logo="http://logo1010.com/news/krt-hd.png" group-title="TR • Haber ",Krt Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/38461.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grt Tv HD" tvg-logo="http://logo1010.com/lg/grttv.png" group-title="TR • Yerel Kanallar",Grt Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/236957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zarok Tv HD" tvg-logo="http://logo1010.com/lg/zarok.jpg" group-title="TR • Yerel Kanallar",Zarok Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/236962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal B HD" tvg-logo="http://logo1010.com/lg/kanalb.png" group-title="TR • Yerel Kanallar",Kanal B HD
+http://spy17.eu:80/live/selentv/17.01.2022/236969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv A HD" tvg-logo="http://logo1010.com/lg/tva.jpg" group-title="TR • Yerel Kanallar",Tv A HD
+http://spy17.eu:80/live/selentv/17.01.2022/236971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivi 6 HD" tvg-logo="http://logo1010.com/lg/tivi6.png" group-title="TR • Yerel Kanallar",Tivi 6 HD
+http://spy17.eu:80/live/selentv/17.01.2022/236972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv 1 HD" tvg-logo="http://logo1010.com/lg/tv1.png" group-title="TR • Yerel Kanallar",Tv 1 HD
+http://spy17.eu:80/live/selentv/17.01.2022/236974.ts
+#EXTINF:-1 tvg-id="" tvg-name="Freedom" tvg-logo="" group-title="TR • Yerel Kanallar",Freedom
+http://spy17.eu:80/live/selentv/17.01.2022/333569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bir TV" tvg-logo="" group-title="TR • Yerel Kanallar",Bir TV
+http://spy17.eu:80/live/selentv/17.01.2022/333570.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ege TV" tvg-logo="" group-title="TR • Yerel Kanallar",Ege TV
+http://spy17.eu:80/live/selentv/17.01.2022/333571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Koza TV" tvg-logo="" group-title="TR • Yerel Kanallar",Koza TV
+http://spy17.eu:80/live/selentv/17.01.2022/333572.ts
+#EXTINF:-1 tvg-id="" tvg-name="Engelsiz TV" tvg-logo="" group-title="TR • Yerel Kanallar",Engelsiz TV
+http://spy17.eu:80/live/selentv/17.01.2022/333573.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL EGE" tvg-logo="" group-title="TR • Yerel Kanallar",KANAL EGE
+http://spy17.eu:80/live/selentv/17.01.2022/333576.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serhat TV" tvg-logo="" group-title="TR • Yerel Kanallar",Serhat TV
+http://spy17.eu:80/live/selentv/17.01.2022/333642.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brtv Karadeniz HD" tvg-logo="http://logo1010.com/lg/brtv.jpg" group-title="TR • Yerel Kanallar",Brtv Karadeniz HD
+http://spy17.eu:80/live/selentv/17.01.2022/236976.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 58 HD" tvg-logo="http://logo1010.com/lg/kanal58.jpg" group-title="TR • Yerel Kanallar",Kanal 58 HD
+http://spy17.eu:80/live/selentv/17.01.2022/236979.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sunr Tv HD" tvg-logo="http://logo1010.com/lg/sunrtv.png" group-title="TR • Yerel Kanallar",Sunr Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/236980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yıldız Tv HD" tvg-logo="http://logo1010.com/lg/yildiztv.png" group-title="TR • Yerel Kanallar",Yıldız Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/236981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yol TV" tvg-logo="" group-title="TR • Haber ",Yol TV
+http://spy17.eu:80/live/selentv/17.01.2022/312666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Drt Denizli TV" tvg-logo="" group-title="TR • Ulusal ",Drt Denizli TV
+http://spy17.eu:80/live/selentv/17.01.2022/312884.ts
+#EXTINF:-1 tvg-id="" tvg-name="Diyar Tv HD" tvg-logo="http://logo1010.com/lg/diyartv.png" group-title="TR • Yerel Kanallar",Diyar Tv HD
+http://spy17.eu:80/live/selentv/17.01.2022/236983.ts
+#EXTINF:-1 tvg-id="" tvg-name="TARIM ORMAN EKRANI HD" tvg-logo="" group-title="TR • Yerel Kanallar",TARIM ORMAN EKRANI HD
+http://spy17.eu:80/live/selentv/17.01.2022/332942.ts
+#EXTINF:-1 tvg-id="" tvg-name="EMAX" tvg-logo="" group-title="TR • Yerel Kanallar",EMAX
+http://spy17.eu:80/live/selentv/17.01.2022/332943.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS TV BURSA" tvg-logo="" group-title="TR • Yerel Kanallar",AS TV BURSA
+http://spy17.eu:80/live/selentv/17.01.2022/332944.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEK RUMELI TV" tvg-logo="" group-title="TR • Yerel Kanallar",TEK RUMELI TV
+http://spy17.eu:80/live/selentv/17.01.2022/332945.ts
+#EXTINF:-1 tvg-id="" tvg-name="GZT HD" tvg-logo="" group-title="TR • Yerel Kanallar",GZT HD
+http://spy17.eu:80/live/selentv/17.01.2022/332946.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="" group-title="TR • Yerel Kanallar",AGRO TV
+http://spy17.eu:80/live/selentv/17.01.2022/332947.ts
