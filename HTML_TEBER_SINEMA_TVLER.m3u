@@ -79,11 +79,17 @@ https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",🅰️TV alanya 
-https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w784946490.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="AZERBAYCAN",|TR| CTV
+https://ip38.avrupatelekom.com:3766/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KIBRIS TV
-https://play.kibristv.com/stream/hls/stream.m3u8
+#EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="jpg" group-title="Azərbaycan",Mega GəncəTV
+#EXTGRP:Azərbaycan
+http://195.9.195.3:8080/hls/215207.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MOVİE NOW
+https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
@@ -214,18 +220,6 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10083
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10080
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AKSIYON" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AKSIYON
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AILE
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10082
-
-#EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="jpg" group-title="Azərbaycan",Mega GəncəTV
-#EXTGRP:Azərbaycan
-http://195.9.195.3:8080/hls/215207.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
-https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MOVİE NOW
-https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART TURK HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| MOVIES TURK HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
 
