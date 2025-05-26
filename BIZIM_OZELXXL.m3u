@@ -6,6 +6,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TELE 19
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL 6
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
 
@@ -32,30 +35,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",KANAL10 HD
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
-
-#EXTINF:-1 tvg-id="CNTMAHTV.tr" tvg-logo="" group-title="⚡️Haber",CENETMAHALLESİ TV
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=lf1NxAexRAE
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",zeki&metin tv
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=9ZMh3wSverE
-
-#EXTINF:-1 tvg-id="YEŞİLÇAM.tr" tvg-logo="" group-title="⚡️Haber",YEŞİLÇAM TV1
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=HWPlCP9k3ho
-
-#EXTINF:-1 tvg-id="YEŞİLÇAM.tr" tvg-logo="" group-title="⚡️Haber",YEŞİLÇAM TV2
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=u62XApSFaz8
-
-#EXTINF:-1 tvg-id="YEŞİLÇAM.tr" tvg-logo="" group-title="⚡️Haber",YEŞİLÇAM TV3
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=9ZMh3wSverE
-
-#EXTINF:-1 tvg-id="YEŞİLÇAM.tr" tvg-logo="" group-title="⚡️Haber",YEŞİLÇAM TV4
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=zSk7bEdFEnQ
-
-#EXTINF:-1 tvg-id="YEŞİLÇAM.tr" tvg-logo="" group-title="⚡️Haber",YEŞİLÇAM TV5
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=9ZMh3wSverE
-
-#EXTINF:-1 tvg-id="YEŞİLÇAM.tr" tvg-logo="" group-title="⚡️Haber",YEŞİLÇAM TV6
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=hfx8H7YrmTw
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Torba Tv
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
@@ -107,9 +86,6 @@ http://89.187.191.41/A2-HD-TR/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",BİR TV
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
-https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8

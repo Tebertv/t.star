@@ -5,6 +5,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TELE 19
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL 6
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
 
@@ -45,9 +48,6 @@ https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TELE ON
-https://al.flv.nimo.tv/live/su2139512740036rcc6e9e02ff3aac4949edfc4134d816a4.flv
 
 #EXTINF:-1 tvg-chno="10",SİNEMA TV
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10063.ts
@@ -90,9 +90,6 @@ https://videotest-sand.vercel.app/api/proxy?url=https://live.artidijitalmedya.co
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
-https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TYT Türk 
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
