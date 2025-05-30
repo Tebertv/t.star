@@ -82,7 +82,7 @@ http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SHOW MAX
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shmax.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
