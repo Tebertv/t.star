@@ -12,6 +12,12 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SÜPER SPORT TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
+#EXTINF:-0,SPOR1
+https://deneme123.parisiptv1.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,SPOR2
+https://deneme123.parisiptv1.workers.dev/Bein-Sport-2-FHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| A SPOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="BOUQUET SPORT TURC",|TR| A SPOR HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| N SPORT HD" tvg-logo="https://i.pinimg.com/736x/c4/93/cd/c493cdcb961099d689d23d930c5adf88.jpg" group-title="BOUQUET SPORT TURC",|TR| N SPORT HD
