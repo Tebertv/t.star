@@ -12,6 +12,9 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SÜPER SPORT TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
+#EXTINF:-0,SPOR1 VAVOO
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/300113394/index.m3u8
+
 #EXTINF:-0,SPOR1
 https://deneme123.parisiptv1.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
 
