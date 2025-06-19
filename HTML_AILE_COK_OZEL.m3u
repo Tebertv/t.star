@@ -32,26 +32,29 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
-#EXTINF:-1 tvg-id="KRTTV.tr" tvg-logo="" group-title="⚡️Haber",KRT TV  
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,KRT TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/535260022/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (yedek)
-http://185.234.111.229:8000/play/a00y
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: SOZCU TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: SOZCU TV (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/960578312/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",NOW HD
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,NOW TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/161305206/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MK TV 
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",EKOL TV HD
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Yetenek Sizsiniz" tvg-logo="" group-title="TR • Eğlence",Yetenek Sizsiniz
-http://spy17.eu:80/live/selentv/17.01.2022/331116.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
