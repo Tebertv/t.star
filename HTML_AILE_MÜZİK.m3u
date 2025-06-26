@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT TEZENE
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kuzeyin Oğlu Volkan Konak" tvg-logo="http://logo1010.com/lg/kuzeyinoglu.jpg" group-title="TR • Eğlence",[Boxset] Kuzeyin Oğlu Volkan Konak
-http://spy17.eu:80/live/selentv/17.01.2022/247655.ts
+#EXTINF:-1 tvg-id="" KARA DENİZ TV" tvg-logo="Eğlence",KARA DENİZ TV
+https://cdn4.yayin.com.tr/karadeniztv/video.m3u8
 
 **************Müzik tv*********************
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_icohome.png?ts=1746469171.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
