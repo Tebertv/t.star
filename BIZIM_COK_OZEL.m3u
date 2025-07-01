@@ -51,26 +51,20 @@ https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/htnDXBkP/In-Shot-20250428-070125172.png",HOÇWAN TV ᵏᵃᵑᵏᵃ
 https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KAD7 TV 
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
 #EXTINF:-1 tvg-chno="7",DENİZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="10",SİNEMA TV
-http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10063.ts
-#EXTINF:-1 tvg-chno="11",SİNEMA AKSİYON
-http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10117.ts
-#EXTINF:-1 tvg-chno="11",SİNEMA YERLİ
-http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10114.ts
-#EXTINF:-1 tvg-chno="13",SİNEMA AİLE
-http://lb.wisp.cat/lb0/TR_SINEMAAILE/video.m3u8?token=9bmCmR7
-#EXTINF:-1 tvg-chno="14",SİNEMA 1001
-http://lb.wisp.cat/lb0/TR_SINEMA1001/video.m3u8?token=9bmCmR7
-#EXTINF:-1 tvg-chno="15",SİNEMA KOMEDİ
-http://lb.wisp.cat/lb0/TR_SINEMAKOMEDI/video.m3u8?token=9bmCmR7
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KAD7 TV 
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ÖNDE tv 
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",NOW HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
