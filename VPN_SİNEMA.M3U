@@ -36,6 +36,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",360 TV 
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FILMA24 TURK (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Albania" group-title="VavooTO Albania"  ,FILMA 24 TURK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
