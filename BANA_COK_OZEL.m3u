@@ -39,6 +39,9 @@ https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",SKY HABER
 https://cdn4.yayin.com.tr/skyhabertv/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",KAD 7 TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745810650.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 
