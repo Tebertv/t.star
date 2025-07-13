@@ -42,6 +42,9 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Bİ KANAL
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: EXXEN TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TELEON
+https://tx.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv?wsSecret=b126894ca9f4772802b9b63fb8db59ca&wsTime=68741121&seqid=2065869482156&ctype=nimo_media_web&ver=1&appid=81&tp=1752437025867&needwm=1&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=309367222522&t=100&sv=2507031523&sdk_sid=1752437026666&a_block=0
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",360 TV 
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 
@@ -221,11 +224,6 @@ https://vavoo.to/play/306993094/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2484805699/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: EXXEN TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: EXXEN TV
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/194469526/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DINAMIK KORKU (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DINAMIK KORKU
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
