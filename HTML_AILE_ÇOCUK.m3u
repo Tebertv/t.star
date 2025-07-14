@@ -1,6 +1,8 @@
 ﻿#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
-https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar10/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Dini Çizgi Film" tvg-logo="" group-title="TR • Dini",Dini Çizgi Film
 http://spy17.eu:80/live/selentv/17.01.2022/312317.ts
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| JUNIOR TURK" tvg-logo="http://f.pure-redirect.com/TR/nickjr.png" group-title="BOUQUET TURC",|TR| JUNIOR TURK
