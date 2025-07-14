@@ -1,31 +1,34 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR1
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR 2
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER ON
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv 
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL 6
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",FLASH PRM TV
-https://stream-cdn-iad3.vaughnsoft.net/play/live_sungurlar.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER_HBB
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT
-https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT_SAFARİ
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT TEZENE
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Cine 1 
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -33,8 +36,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Bİ KANAL
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
-https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 

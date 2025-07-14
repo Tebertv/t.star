@@ -100,6 +100,10 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10147
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10148
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL D" tvg-logo="http://x.pure-redirect.com/TR/kanald.png" group-title="BOUQUET TURC",|TR| KANAL D
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10129
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Bİ KANAL
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8?nimblesessionid=401944947
+
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| FOX FHD" tvg-logo="ttp://x.pure-redirect.com/TR/fox.png" group-title="BOUQUET TURC",|TR| FOX FHD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10155
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| CNN TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png" group-title="BOUQUET TURC",|TR| CNN TURK HD
