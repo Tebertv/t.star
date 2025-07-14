@@ -1,34 +1,34 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR1
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR 2
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TELE 19
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER ON
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL 6
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",FLASH PRM TV
-https://stream-cdn-iad3.vaughnsoft.net/play/live_sungurlar.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER_HBB
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT
-https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT_SAFARİ
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT TEZENE
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
-https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",YANSIMA SİNEMA HD
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
@@ -85,8 +85,8 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE5  
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w500655317.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CHANNEL 6  
-https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL 6 HD
+https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE6  
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
