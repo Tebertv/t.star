@@ -9,14 +9,16 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER HBB TV flv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER ON TV flv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER SHOX TV flv
-https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv                                                       #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL6
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv                                                     #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL6 flv
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv          
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",SHOX TV
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv  
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT TV
 https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar7/playlist.m3u8                                
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MAXİ TV
