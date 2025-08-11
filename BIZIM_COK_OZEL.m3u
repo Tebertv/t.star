@@ -38,6 +38,18 @@ http://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TİVİ 6 HD 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="58",TELE1
+http://185.234.111.229:8000/play/a01y
+
+#EXTINF:-1 tvg-chno="55",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-chno="56",KRT TV
+https://kbl-chnls-m3u.tecostream.workers.dev/Krt_Tv.php
+
+#EXTINF:-1 tvg-chno="57",SZC
+http://185.234.111.229:8000/play/a00y
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Cine 1 
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
@@ -49,21 +61,6 @@ https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANALG
 http://145.239.58.133:28008/kanalg/kanalg/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV1
-https://goldvod.org/tv/uyanik?id=10
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV2
-https://goldvod.org/tv/uyanik?id=11
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV3
-https://tv.arectv34.sbs/live/sinema1002.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV4
-https://goldvod.org/tv/uyanik?id=94
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON BELGEL TV5
-https://goldvod.org/tv/uyanik?id=96
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Cine 1 
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -80,11 +77,23 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title=",Anadolu Dost
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
 
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINEMAX 6 
+https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_MAX 
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",isviçre Tv
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Rize Türk TV
-https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/htnDXBkP/In-Shot-20250428-070125172.png",HOÇWAN TV ᵏᵃᵑᵏᵃ
 https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
@@ -98,14 +107,58 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi Turk
 https://canlitvulusal.xyz/live/tiviturk/index.m3u8
 
-#EXTINF:-1 tvg-chno="55",HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-chno="56",KRT TV
-https://kbl-chnls-m3u.tecostream.workers.dev/Krt_Tv.php
-#EXTINF:-1 tvg-chno="57",SZC
-http://185.234.111.229:8000/play/a00y
-#EXTINF:-1 tvg-chno="58",TELE1
-http://185.234.111.229:8000/play/a01y
+#EXTINF:-1 tvg-chno="10",SİNEMA TV
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Tv.php
+
+#EXTINF:-1 tvg-chno="11",SİNEMA AKSİYON
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aksiyon.php
+
+#EXTINF:-1 tvg-chno="11",SİNEMA YERLİ
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Yerli.php
+
+#EXTINF:-1 tvg-chno="13",SİNEMA AİLE
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.php
+
+#EXTINF:-1 tvg-chno="14",SİNEMA 1001
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.php
+
+#EXTINF:-1 tvg-chno="15",SİNEMA KOMEDİ
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.php
+
+#EXTINF:-1 tvg-chno="211",FILMBOX PREMIER
+http://spy17.eu:80/ozkanshmx/06.02.22/317203
+
+#EXTINF:-1 tvg-chno="212",FILMBOX ACTION
+http://spy17.eu:80/ozkanshmx/06.02.22/317204
+
+#EXTINF:-1 tvg-chno="213",FILMBOX DRAMA
+http://spy17.eu:80/ozkanshmx/06.02.22/317207
+
+#EXTINF:-1 tvg-chno="214",FILMBOX KOMEDI
+http://spy17.eu:80/ozkanshmx/06.02.22/317209
+
+#EXTINF:-1 tvg-chno="215",FILMBOX FAMILY
+http://spy17.eu:80/ozkanshmx/06.02.22/317211
+#EXTINF:-1 tvg-chno="216",FILMBOX YERLİ
+http://spy17.eu:80/ozkanshmx/06.02.22/317212
+
+#EXTINF:-1 tvg-chno="215",FILMBOX YEŞİLÇAM
+http://spy17.eu:80/ozkanshmx/06.02.22/317213
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV1
+https://goldvod.org/tv/uyanik?id=10
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV2
+https://goldvod.org/tv/uyanik?id=11
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV3
+https://tv.arectv34.sbs/live/sinema1002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV4
+https://goldvod.org/tv/uyanik?id=94
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON BELGEL TV5
+https://goldvod.org/tv/uyanik?id=96
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KAD7 TV 
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
@@ -115,15 +168,6 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w500655317.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL 6 HD
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_TV
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_MAX 
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SHOW MAX
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
@@ -141,47 +185,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTGRP:Türkiyə
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TEVE 6 HD 
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
-http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
-
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Life Tv
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="AZERBAYCAN",|TR| CTV
-https://ip38.avrupatelekom.com:3766/stream/play.m3u8
-
-#EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="jpg" group-title="Azərbaycan",Mega GəncəTV
-#EXTGRP:Azərbaycan
-http://195.9.195.3:8080/hls/215207.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
-https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MOVİE NOW
-https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRAKYA TÜRK TV
-https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| TEVE 2 HD" tvg-logo="http://x.pure-redirect.com/TR/teve2.png" group-title="BOUQUET TURC",|TR| TEVE 2 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10143
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| 360 TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" group-title="BOUQUET TURC",|TR| 360 TV
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10131
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| A2 HD" tvg-logo="http://x.pure-redirect.com/TR/a2tr.png" group-title="BOUQUET TURC",|TR| A2 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10124
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SHOW MAX" tvg-logo="http://x.pure-redirect.com/TR/showmax.png" group-title="BOUQUET TURC",|TR| SHOW MAX
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10247
-
-#EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KNY.OLAY TV
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TV25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
@@ -198,9 +203,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",YOL TV
-https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",🅰️TV alanya 
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w784946490.m3u8
 
@@ -214,14 +216,8 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRAKYA TÜRK TV
-https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TV41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
-http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -247,100 +243,71 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR TV HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",EURO STAR TV
-http://spy17.eu:80/live/selentv/17.01.2022/4942.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Euro Star TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ATV HD
-http://spy17.eu:80/live/selentv/17.01.2022/703.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ATV avrupa
-http://spy17.eu:80/live/selentv/17.01.2022/4939.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",A2 TV
-https://c.fulltvizle.com/a2/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TGRT EU
 http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Show Türk
-http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SHOW MAX
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Meltem TV
-http://stream.tvcdn.net/dini/meltem-tv.m3u8
+***********BELGESEL*************
 
-#EXTINF:-1 tvg-chno="10",SİNEMA TV
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Tv.php
-#EXTINF:-1 tvg-chno="11",SİNEMA AKSİYON
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aksiyon.php
-#EXTINF:-1 tvg-chno="11",SİNEMA YERLİ
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Yerli.php
-#EXTINF:-1 tvg-chno="13",SİNEMA AİLE
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.php
-#EXTINF:-1 tvg-chno="14",SİNEMA 1001
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.php
-#EXTINF:-1 tvg-chno="15",SİNEMA KOMEDİ
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.php
+#EXTINF:-1 tvg-chno="100",NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-chno="101",LOVE NATURE
+http://95.67.12.82:9098
+#EXTINF:-1 tvg-chno="102",TRT BELGESEL
+http://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-chno="103",NATIONAL GEOGRAPHIC
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-chno="104",NAT GEO WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-chno="105",DISCOVERY CHANNEL
+https://kbl-chnls-m3u.tecostream.workers.dev/Discovery_Channel.php
+#EXTINF:-1 tvg-chno="106",ID
+https://kbl-chnls-m3u.tecostream.workers.dev/ID.php
+#EXTINF:-1 tvg-chno="107",BBC EARTH
+https://metvmetvmetv7.serv00.net/vavame.php?id=2228496856&e=.ts
+#EXTINF:-1 tvg-chno="108",YABAN TV
+http://116.202.238.88/YABANTV_TR/index.m3u8
+#EXTINF:-1 tvg-chno="109",CGTN DOCUMENTARY
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+#EXTINF:-1 tvg-chno="110",TRAVEL XP
+https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-chno="111",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-chno="112",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-chno="113",HISTORY CHANNEL
+https://metvmetvmetv7.serv00.net/vavame.php?id=461893028&e=.ts
+#EXTINF:-1 tvg-chno="114",TARİH TV
+https://kbl-chnls-m3u.tecostream.workers.dev/Tarih_Tv.php
+#EXTINF:-1 tvg-chno="115",VIASAT EXPLORE
+https://kbl-chnls-m3u.tecostream.workers.dev/Viasat_Explore.php
+#EXTINF:-1 tvg-chno="116",VIASAT HISTORY
+https://kbl-chnls-m3u.tecostream.workers.dev/Viasat_History.php
+#EXTINF:-1 tvg-chno="117",DOCUSCREEN
+https://kbl-chnls-m3u.tecostream.workers.dev/Docu_Screen.php
+#EXTINF:-1 tvg-chno="118",HABİTAT TV
+https://metvmetvmetv7.serv00.net/vavame.php?id=1281270568&e=.ts
 
-
-#EXTINF:-1 tvg-chno="161",FİL TV
-http://spy17.eu:80/ozkanshmx/06.02.22/317303
-#EXTINF:-1 tvg-chno="162",FİLMAX
-http://spy17.eu:80/ozkanshmx/06.02.22/317302
-#EXTINF:-1 tvg-chno="163",FİLMCLUB 
-http://spy17.eu:80/ozkanshmx/06.02.22/317301
-#EXTINF:-1 tvg-chno="164",FİLMCLUB AKSİYON
-http://spy17.eu:80/ozkanshmx/06.02.22/317300
-#EXTINF:-1 tvg-chno="165",FİLMCLUB FAMILY
-http://spy17.eu:80/ozkanshmx/06.02.22/317299
-#EXTINF:-1 tvg-chno="166",FİLMCLUB KOMEDİ
-http://spy17.eu:80/ozkanshmx/06.02.22/317298
 #EXTINF:-1 tvg-chno="171",BBC FIRST
 http://vip.nuaktv.xyz:2095/mhmt9949/Thr5R8NvGcU5/84699
 #EXTINF:-1 tvg-chno="172",EPIC DRAMA
 https://kbl-chnls-m3u.tecostream.workers.dev/Epic_Drama.php
-#EXTINF:-1 tvg-chno="173",BLUTV PLAY 1
-http://spy17.eu:80/ozkanshmx/06.02.22/317297
-#EXTINF:-1 tvg-chno="174",BLUTV PLAY 2
-http://spy17.eu:80/ozkanshmx/06.02.22/317296
-#EXTINF:-1 tvg-chno="175",CINE5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="176",YEŞİLÇAM 1
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=hfx8H7YrmTw
-#EXTINF:-1 tvg-chno="177",YEŞİLÇAM 2
-https://yotubesakuapi.global.ssl.fastly.net/playlist/20.m3u8
-#EXTINF:-1 tvg-chno="178",YEŞİLÇAM 3
-https://yotubesakuapi.global.ssl.fastly.net/playlist/78.m3u8
-#EXTINF:-1 tvg-chno="179",YEŞİLÇAM 4
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=8GyfV8qhpIs.m3u8
-#EXTINF:-1 tvg-chno="211",FILMBOX PREMIER
-http://spy17.eu:80/ozkanshmx/06.02.22/317203
-#EXTINF:-1 tvg-chno="212",FILMBOX ACTION
-http://spy17.eu:80/ozkanshmx/06.02.22/317204
-#EXTINF:-1 tvg-chno="213",FILMBOX DRAMA
-http://spy17.eu:80/ozkanshmx/06.02.22/317207
-#EXTINF:-1 tvg-chno="214",FILMBOX KOMEDI
-http://spy17.eu:80/ozkanshmx/06.02.22/317209
-#EXTINF:-1 tvg-chno="215",FILMBOX FAMILY
-http://spy17.eu:80/ozkanshmx/06.02.22/317211
-#EXTINF:-1 tvg-chno="216",FILMBOX YERLİ
-http://spy17.eu:80/ozkanshmx/06.02.22/317212
-#EXTINF:-1 tvg-chno="215",FILMBOX YEŞİLÇAM
-http://spy17.eu:80/ozkanshmx/06.02.22/317213
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
+http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
+http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 *********SPOR***************
 
 #EXTINF:-1 tvg-chno="71",SPORSMART
@@ -402,52 +369,12 @@ http://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-chno="99",TRT SPOR YILDIZ
 http://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
-***********BELGESEL*************
 
-#EXTINF:-1 tvg-chno="100",NATURE TIME
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-chno="101",LOVE NATURE
-http://95.67.12.82:9098
-#EXTINF:-1 tvg-chno="102",TRT BELGESEL
-http://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-chno="103",NATIONAL GEOGRAPHIC
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-chno="104",NAT GEO WILD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-chno="105",DISCOVERY CHANNEL
-https://kbl-chnls-m3u.tecostream.workers.dev/Discovery_Channel.php
-#EXTINF:-1 tvg-chno="106",ID
-https://kbl-chnls-m3u.tecostream.workers.dev/ID.php
-#EXTINF:-1 tvg-chno="107",BBC EARTH
-https://metvmetvmetv7.serv00.net/vavame.php?id=2228496856&e=.ts
-#EXTINF:-1 tvg-chno="108",YABAN TV
-http://116.202.238.88/YABANTV_TR/index.m3u8
-#EXTINF:-1 tvg-chno="109",CGTN DOCUMENTARY
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
-#EXTINF:-1 tvg-chno="110",TRAVEL XP
-https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
-#EXTINF:-1 tvg-chno="111",TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 tvg-chno="112",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1 tvg-chno="113",HISTORY CHANNEL
-https://metvmetvmetv7.serv00.net/vavame.php?id=461893028&e=.ts
-#EXTINF:-1 tvg-chno="114",TARİH TV
-https://kbl-chnls-m3u.tecostream.workers.dev/Tarih_Tv.php
-#EXTINF:-1 tvg-chno="115",VIASAT EXPLORE
-https://kbl-chnls-m3u.tecostream.workers.dev/Viasat_Explore.php
-#EXTINF:-1 tvg-chno="116",VIASAT HISTORY
-https://kbl-chnls-m3u.tecostream.workers.dev/Viasat_History.php
-#EXTINF:-1 tvg-chno="117",DOCUSCREEN
-https://kbl-chnls-m3u.tecostream.workers.dev/Docu_Screen.php
-#EXTINF:-1 tvg-chno="118",HABİTAT TV
-https://metvmetvmetv7.serv00.net/vavame.php?id=1281270568&e=.ts
 #EXTINF:-1 tvg-chno="121",KITCHEN TV
 https://kbl-chnls-m3u.tecostream.workers.dev/Kitchen_TV.php
 #EXTINF:-1 tvg-chno="122",MYZEN TV
 https://kbl-chnls-m3u.tecostream.workers.dev/Myzen_Tv.php
-#EXTINF:-1 tvg-chno="129",CHANNEL6 TV
-https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.ts.m3u8
+
 
 **********MÜZİKTV***************
 
@@ -17660,160 +17587,162 @@ http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-090117_002/index.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="XXL HARAKİRİSİ" logo="/XXL HARAKİRİSİ_-logo-2.png", Caribbeancompr-090217_001 月刊 水谷あおい
 http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-090217_001/index.m3u8
 
-#EXTINF:-1 ,Черная хроника 1: Порочный профессор
-https://video1.tizam.cc/vk/PlanteContre1.mp4
-#EXTINF:-1 ,Черная хроника 2: Порочный министр
-https://video1.tizam.cc/vk/PlanteContre2.mp4
-#EXTINF:-1 ,Черные кружева и Белая Ложь
-https://video2.tizam.cc/files/1197924/tv_hhh_perevod_na_russkiy...mp4
-#EXTINF:-1 ,Шаловливая Няня
-https://video1.tizam.cc/old_films/AuPair.mp4
-#EXTINF:-1 ,Шальные деньги
-https://video1.tizam.cc/files/2555488/easy_money__s_russkim_perevodom.mp4
-#EXTINF:-1 ,Шах и мат: Непристойное предложение
-https://video1.tizam.cc/films/Checkmate-Obscene-Propo.mp4
-#EXTINF:-1 ,Шелковые Чулки: Чёрная Вдова
-https://video2.tizam.cc/files/2221090/shelkovye_chulki__chernaya_vdova__1.mp4
-#EXTINF:-1 ,Шестой элемент
-https://video2.tizam.cc/files/2311914/sex_th_element.mp4
-#EXTINF:-1 ,Шлюхи Новой Волны 03
-https://video1.tizam.cc/films/shlyuhi_novoj_volny_03.mp4
-#EXTINF:-1 ,Шлюхи и бриллианты
-https://video2.tizam.cc/files/2331810/shlyuhi_i_brillianty___lyubov_v_arendu.mp4
-#EXTINF:-1 ,Эдем
-https://video1.tizam.cc/old_films/Eden1.mp4
-#EXTINF:-1 ,Экзотические Иллюзии
-https://video1.tizam.cc/old_films/ExoticIllusions.mp4
-#EXTINF:-1 ,Экзотические Эллюзии 2
-https://video1.tizam.cc/old_films/ExoticIllusions2.mp4
-#EXTINF:-1 ,Экстаз Фламенко
-https://video1.tizam.cc/films/FlamencoEcstasy.mp4
-#EXTINF:-1 ,Элли становится Дикой
-https://video2.tizam.cc/files/1669459/ally_goes_on_the_wild_side.mp4
-#EXTINF:-1 ,Эмоции
-https://video1.tizam.cc/films/Emotions.mp4
-#EXTINF:-1 ,Эпизод 2
-https://video1.tizam.cc/old_films/PornWarsEpisode2.mp4
-#EXTINF:-1 ,Эротические Приключения Трех Мушкетеров 1
-https://video2.tizam.cc/files/1206378/eroticheskie_priklyucheniya_treh_mushketerov___the_erotic_adventures_of_the_three_musketeers__1992.mp4
-#EXTINF:-1 ,Эротические Сны Аладдина
-https://video2.tizam.cc/films/Aladdin.mp4
-#EXTINF:-1 ,Это Жизнь
-https://video1.tizam.cc/old_films/Life-1.mp4
-#EXTINF:-1 ,Это не Охотники За Привидениями
-https://video2.tizam.cc/files/2215178/eto_ne_ohotniki_za_privideniyami_hhh___2011__rus.mp4
-#EXTINF:-1 ,Nubile1
-http://images.nubilefilms.com/films/passionate_awakening_with_emily_grey/videos/nubilefilms_passionate_awakening_long_640.mp4
-#EXTINF:-1 ,Nubile2
-http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucking_her_right_long_640.mp4
-#EXTINF:-1 ,Nubile3
-http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
-#EXTINF:-1 ,Nubile4
-http://images.nubiles-casting.com/videos/maryjane_johnson_cast_kacy_lane_ep1/videos/nubilescasting_maryjane_johnson_cast_kacy_lane_ep1_long_640.mp4
-#EXTINF:-1 ,Nubile5
-http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
-#EXTINF:-1 ,5 ключей к наслаждению
-https://video2.tizam.cc/files/1570634/5_klyuchey_k_naslazhdeniyu_1_cd.mp4
-#EXTINF:-1 ,В объятиях тьмы
-https://video1.tizam.cc/old_films/TheArmsOfEvilRUS.mp4
-#EXTINF:-1 ,Визит в попу
-https://video2.tizam.cc/files/2102604/vizit_v_popu.mp4
-#EXTINF:-1 ,Вспоминая закаты
-https://video1.tizam.cc/old_films/PrivateTropical14SunsetMemories.mp4
-#EXTINF:-1 ,Второе причастие
-https://video2.tizam.cc/files/1666801/vtoroe_prichastie.mp4
-#EXTINF:-1 ,Девушки Байкеров
-https://video1.tizam.cc/old_films/RidersThrobbingChoppers.mp4
-#EXTINF:-1 ,Долгая ночь
-https://video1.tizam.cc/old_films/WholeNight.mp4
-#EXTINF:-1 ,Дон Сальваторе
-https://video2.tizam.cc/files/1587676/don_salvatore_1995.mp4
-#EXTINF:-1 ,Живой секс
-https://video1.tizam.cc/old_films/RealityDerReizerwischtzuwerden.mp4
+*************YENİ*XXL*********************************
 
 #EXTM3U
-#EXTINF:-1 ,Рыдание Страсти / Le Cri Du Dеsir (1976)
-https://video1.tizam.cc/files/2555828/le_cri_du_desir__1976.mp4
-#EXTINF:-1 ,Одиссея: Конечная Поездка
-https://video2.tizam.cc/files/2552163/odyssey_the_ultimate_trip__1977.mp4
-#EXTINF:-1 ,Запретные Сексуальные Игры
-https://video1.tizam.cc/files/2552165/verbotene_sex_spiele.mp4
-#EXTINF:-1 ,Я и Марла Стрейнджлав
-https://video2.tizam.cc/files/2552162/little_me_and_marla_strangelove.mp4
-#EXTINF:-1 ,Как Насчет Джейн?
-https://video1.tizam.cc/files/2552166/what_about_jane.mp4
-#EXTINF:-1 ,Порочный Замок / Le Chateau Du Vice (1985)
-https://video1.tizam.cc/files/2552161/le_chateau_du_vice__1985.mp4
-#EXTINF:-1 ,Сексуальные сцены 70ых
-https://video2.tizam.cc/files/2549598/bv_57____peepshow_loops_57.mp4
-#EXTINF:-1 ,Горячая штанга Стейси
-https://video2.tizam.cc/files/2549632/stacey_s_hot_rod.mp4
-#EXTINF:-1 ,Автобиография Флеи
-https://video1.tizam.cc/files/2549614/the_autobiography_of_a_flea.mp4
-#EXTINF:-1 ,Графиня / La Comtesse Ixe
-https://video2.tizam.cc/files/2549601/la_comtesse_ixe__1976____encore.mp4
-#EXTINF:-1 ,Большие Сиськи И Черные Члены (1970
-https://video2.tizam.cc/files/2549597/big_tits_and_black_dicks.mp4
-#EXTINF:-1 ,Незабываемый Вкус (1978)
-https://video1.tizam.cc/files/2549600/expensive_tastes.mp4
-#EXTINF:-1 ,Сочные / Luscious (1982)
-https://video2.tizam.cc/files/2549587/luscious__1982.mp4
-#EXTINF:-1 ,Эротическая аэробика / Erotic Aerobics (1984)
+#EXTINF:-1 group-title="XXX_RUS",Чёрное И Белое 12
+https://video1.tizam.cc/files/2528831/black_and_white_12.mp4
+#EXTINF:-1 group-title="XXX_RUS",Чёрное И Белое 14
+https://video2.tizam.cc/films/Black-and-White-14.mp4
+#EXTINF:-1 group-title="XXX_RUS",Чёрное с Белым 0.13
+https://video2.tizam.cc/files/2557880/black__and__white_vol._13.mp4
+#EXTINF:-1 group-title="XXX_RUS",Чёрное Сырье В11
+https://video2.tizam.cc/films/Blacked-Raw-V11.mp4
+#EXTINF:-1 group-title="XXX_RUS",Черные Болты 10
+https://video2.tizam.cc/films/Blacked-Raw-10.mp4
+#EXTINF:-1 group-title="XXX_RUS",Черные кружева и Белая Ложь
+https://video2.tizam.cc/files/1197924/tv_hhh_perevod_na_russkiy...mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Черный запрет / Black Taboo
+https://video2.tizam.cc/files/1474827/chernyy_zapret__black_taboo__1984.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Черный рыцарь Коричневой дырочки
+https://video2.tizam.cc/files/2113041/erin_s_erotic_nigts.mp4
+#EXTINF:-1 group-title="XXX_RUS",Черный самец и его белая подружка трахаются перед камерой
+https://video1.tizam.cc/roliki/BlackedRaw142019.mp4
+#EXTINF:-1 group-title="XXX_RUS",Черный червь
+https://video1.tizam.cc/films/BlackWorm.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Черт Побери!
+https://video1.tizam.cc/files/2474112/hellhole___where_the_fuck_am_i.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Чертовски горячая невеста
+https://video2.tizam.cc/files/2095375/staroe_nemetskoe_kachestvo.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Чина и Шелк
+https://video1.tizam.cc/files/2438833/china_and_silk_1984.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Член Угодника
+https://video2.tizam.cc/files/2386096/zadiry_petuha___cock_teasers__1970.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Чтобы Сказать Нет
+https://video1.tizam.cc/films/too_naughty_to_say_no.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Чувственный Детектив
+https://video1.tizam.cc/files/2445115/the_sensuous_detective.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Чувственный огонь (1979)
+https://video1.tizam.cc/films/chuvstvennyj_ogon.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Чувственный Половой Акт (1983)
+https://video1.tizam.cc/films/chuvstvennyj_polovoj_akt.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Чувствительные места
+https://video1.tizam.cc/films/Soft-Places.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Чужой дневник / Strange Diary
+https://video2.tizam.cc/vk/Strange-Diary.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шалава / The Slut
+https://video2.tizam.cc/files/1536867/the_slut__1988.mp4
+#EXTINF:-1 group-title="XXX_RUS",Шаловливая Няня
+https://video1.tizam.cc/old_films/AuPair.mp4
+#EXTINF:-1 group-title="XXX_RUS",Шалуньи из средней школы
+https://video1.tizam.cc/films/DasMadcheninternat.mp4
+#EXTINF:-1 group-title="XXX_RUS",Шальные деньги
+https://video1.tizam.cc/files/2555488/easy_money__s_russkim_perevodom.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шарлин в действии / Charlene in Action
+https://video2.tizam.cc/files/1407336/charlene_in_action.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шауна: Фантазия каждого мужчины
+https://video2.tizam.cc/files/1399205/xxx___shauna_fantaziya_kazhdogo_muzhchiny.mp4
+#EXTINF:-1 group-title="XXX_RUS",Шах и мат: Непристойное предложение
+https://video1.tizam.cc/films/Checkmate-Obscene-Propo.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шведская эротика / Swedish Erotica
+https://video1.tizam.cc/files/2483408/swedish_erotica.mp4
+#EXTINF:-1 group-title="XXX_RUS",Шелковые Чулки: Чёрная Вдова
+https://video2.tizam.cc/files/2221090/shelkovye_chulki__chernaya_vdova__1.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шелковый атлас и секс
+https://video2.tizam.cc/files/2411975/silk_satin_and_sex.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шерлик Холмс
+https://video1.tizam.cc/files/2435685/sherlok_holms___porno_parodiya.mp4
+#EXTINF:-1 group-title="XXX_RUS",Шестой элемент
+https://video2.tizam.cc/files/2311914/sex_th_element.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Школа утех / Play School
+https://video2.tizam.cc/files/2278735/play_school__1990.mp4
+#EXTINF:-1 group-title="XXX_RUS",Школьный Экстрим
+https://video1.tizam.cc/old_films/SexteenyXtremeRus.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шлюха / LA PUTAIN (1981
+https://video2.tizam.cc/files/2288453/shlyuha___la_putain.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шлюха Хиппи
+https://video2.tizam.cc/files/2418924/hippi_prostitutka__1974.mp4
+#EXTINF:-1 group-title="XXX_RUS",Шлюхи и бриллианты
+https://video2.tizam.cc/files/2331810/shlyuhi_i_brillianty___lyubov_v_arendu.mp4
+#EXTINF:-1 group-title="XXX_RUS",Шлюхи Новой Волны 03
+https://video1.tizam.cc/films/shlyuhi_novoj_volny_03.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шлюхи сзади
+https://video1.tizam.cc/new_films/Bourgeoises_par_devant_Putains_par_derriere_19800.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Шприц похоти для медсестры Инги
+https://video2.tizam.cc/files/2105127/shprits_pohoti_dlya_medsestry_ingi.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Щелка Миссис Харрис / Mrs.Harris Cavity
+https://video1.tizam.cc/old_films/MrsHarrisCavity.mp4
+#EXTINF:-1 group-title="XXX_RUS",Эдем
+https://video1.tizam.cc/old_films/Eden1.mp4
+#EXTINF:-1 group-title="XXX_RUS",Экзотические Иллюзии
+https://video1.tizam.cc/old_films/ExoticIllusions.mp4
+#EXTINF:-1 group-title="XXX_RUS",Экзотические Эллюзии 2
+https://video1.tizam.cc/old_films/ExoticIllusions2.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Экстаз Втроем 14/Ekstase zu Dritt 14
+https://video2.tizam.cc/files/2105104/ekstaz_vtroem_14.mp4
+#EXTINF:-1 group-title="XXX_RUS",Экстаз Фламенко
+https://video1.tizam.cc/films/FlamencoEcstasy.mp4
+#EXTINF:-1 group-title="XXX_RUS",Экстра груди лесбиянок 8
+https://video1.tizam.cc/old_films/BusenextralesbenNr8.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Экстремальные цыпочки 5/Chick extreme 5
+https://video2.tizam.cc/files/2105059/ekstremalnye_tsypochki.mp4
+#EXTINF:-1 group-title="XXX_RUS",Экстремальный разврат
+https://video1.tizam.cc/old_films/MaximumPerversum40Extrem%20Pervers.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Элитные Девушки по Вызову
+https://video2.tizam.cc/files/2147281/call_girls_de_luxe___devushki_po_vyzovu.mp4
+#EXTINF:-1 group-title="XXX_RUS",Элли становится Дикой
+https://video2.tizam.cc/files/1669459/ally_goes_on_the_wild_side.mp4
+#EXTINF:-1 group-title="XXX_RUS",Эмоции
+https://video1.tizam.cc/films/Emotions.mp4
+#EXTINF:-1 group-title="XXX_RUS",Эпизод 2
+https://video1.tizam.cc/old_films/PornWarsEpisode2.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Эротическая аэробика / Erotic Aerobics (1984)
 https://video2.tizam.cc/files/2549627/erotic_aerobics.mp4
-#EXTINF:-1 ,Начинающая пара ищет пару
-https://video1.tizam.cc/files/2549625/couple_debutant_cherche_couple_initie__1976.mp4
-#EXTINF:-1 ,Грудастые 70ых / Big Tit Loopland (1970)
-https://video2.tizam.cc/files/2546321/big_tit_loopland___busty_and_pregnant.mp4
-#EXTINF:-1 ,Табу 7: Дикое и Невинное
-https://video1.tizam.cc/old_films/Taboo-7.mp4
-#EXTINF:-1 ,Табу 6: Навязчивая идея
-https://video1.tizam.cc/old_films/Taboo-6.mp4
-#EXTINF:-1 ,Табу 5: Секрет
-https://video1.tizam.cc/old_films/Taboo-5.mp4
-#EXTINF:-1 ,Внутри Дезире Кусто
-https://video1.tizam.cc/files/2546323/inside_desiree_cousteau__1979____wild_side.mp4
-#EXTINF:-1 ,Губы / Lips (1981)
-https://video1.tizam.cc/files/2546318/lips__1981.mp4
-#EXTINF:-1 ,Бэйби / Baby doll (1975) Arrow
-https://video1.tizam.cc/files/2546320/baby_doll.mp4
-#EXTINF:-1 ,Елена / Helena (1974) Classic
-https://video1.tizam.cc/files/2546322/helena__1975____impulse_pictures.mp4
-#EXTINF:-1 ,Супружеская Измена Во Имя Забавы И Прибыли
-https://video1.tizam.cc/files/2544258/adultery_for_fun_and_profit__1971.mp4
-#EXTINF:-1 ,Палата Удовольствий. VCX
-https://video2.tizam.cc/files/2544263/lollipop_palace__1976.mp4
-#EXTINF:-1 ,Секреты Послушной Жены
-https://video1.tizam.cc/files/2544264/secrets_of_a_willing_wife__1979.mp4
-#EXTINF:-1 ,Порочные. 1987
-https://video1.tizam.cc/files/2544259/entremetteuses_perverses__aka_entremetteuses_accu.mp4
-#EXTINF:-1 ,Блуд с Зависимыми / Unzucht mit Abhangigen. 1980
-https://video1.tizam.cc/films/Unzucht-mit-Abhangigen.mp4
-#EXTINF:-1 ,Отражения / Reflections. 1977
-https://video1.tizam.cc/films/Reflections_1977.mp4
-#EXTINF:-1 ,Секс из 70х: Дикий мир мадам X
-https://video1.tizam.cc/files/2532469/the_brutal_world_of_madane_x.mp4
-#EXTINF:-1 ,1980: Принятие В Общество Пансионата
-https://video1.tizam.cc/files/2532462/initiation_au_pensionnat__aka_le_secret_des_ecoli.mp4
-#EXTINF:-1 ,Голубой воздушный шар / The Blue Balloon. 1973
-https://video2.tizam.cc/files/2531603/the_blue_balloon__1973.mp4
-#EXTINF:-1 ,Секс курсы / School For Sex. 1972
-https://video1.tizam.cc/files/2531596/school_for_sex.mp4
-#EXTINF:-1 ,Горячий цикл / Hot Circuit. 1971
-https://video1.tizam.cc/files/2531594/hot_circuit__1971____acorn_films__arrow.mp4
-#EXTINF:-1 ,Секс По Гавайски / Hawaii Sex-O. 1971
-https://video1.tizam.cc/files/2531593/hawaii_sex_o__aka_hawaiian_sex_o__1971.mp4
-#EXTINF:-1 ,Хочешь? Возьми / Bang Bang You Got It. 1976
-https://video1.tizam.cc/files/2531592/bang_bang_you_got_it.mp4
-#EXTINF:-1 ,Дуэйн / Dyane. Итальянское ретро
-https://video1.tizam.cc/files/2531070/dyane.mp4
-#EXTINF:-1 ,Безжалостные Женщины / Ruthless Women
-https://video1.tizam.cc/new_films/RuthlessWomen.mp4
-#EXTINF:-1 ,Сочные сиськи / Milchmadchen. 1980
-https://video1.tizam.cc/new_films/Milchmadchen.mp4
-#EXTINF:-1 ,Хохмэнн 7
-https://video1.tizam.cc/new_films/Hohmann7.mp4
-#EXTINF:-1 ,Золотой Век Порнографии Дании 2
-https://video1.tizam.cc/files/2529576/the_golden_age_of_danish_pornography_2.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Эротические Олимпийские Игры
+https://video1.tizam.cc/files/2555817/joint_venture__1977.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Эротические приключения Лолиты
+https://video2.tizam.cc/files/2123914/the_erotic_adventures.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Эротические приключения Нилли
+https://video2.tizam.cc/files/2113226/the_erotic_adventures_of_nilli_____the_nilli_special__1995.mp4
+#EXTINF:-1 group-title="XXX_RUS",Эротические Приключения Трех Мушкетеров 1
+https://video2.tizam.cc/files/1206378/eroticheskie_priklyucheniya_treh_mushketerov___the_erotic_adventures_of_the_three_musketeers__1992.mp4
+#EXTINF:-1 group-title="XXX_RUS",Эротические Сны Аладдина
+https://video2.tizam.cc/films/Aladdin.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Эротический блюз
+https://video1.tizam.cc/files/2445140/erotico_blues__1982.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Эротический мир Линды Вонг
+https://video1.tizam.cc/films/eroticheskij_mir_lindy_vong.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Эротическое радио wsex
+https://video2.tizam.cc/files/1039873/eroticheskoe_radio.mp4
+#EXTINF:-1 group-title="XXX_RUS",Это Жизнь
+https://video1.tizam.cc/old_films/Life-1.mp4
+#EXTINF:-1 group-title="XXX_RUS",Это не Охотники За Привидениями
+https://video2.tizam.cc/files/2215178/eto_ne_ohotniki_za_privideniyami_hhh___2011__rus.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Это случилось в Голливуде. 1973
+https://video1.tizam.cc/films/eto_sluchilos_v_gollivude.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Это Тело Мое
+https://video1.tizam.cc/files/2450777/it_s_my_body__1985.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Эффект Имбиря / The Ginger Effect
+https://video2.tizam.cc/files/1645216/the_ginger_effect.mp4
+#EXTINF:-1 group-title="XXX_RUS",Юные Дебютантки для Рокко
+https://video2.tizam.cc/files/2395650/molodaya_shlyuha_rokki.mp4
+#EXTINF:-1 group-title="XXX_RUS",Юные Толстушки
+https://video2.tizam.cc/files/1823152/fat_teennagers.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Я Заставила Его Сделать Это
+https://video1.tizam.cc/vk/IMadeDaddyDoIt.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Я и Марла Стрейнджлав
+https://video2.tizam.cc/files/2552162/little_me_and_marla_strangelove.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Я красивая шлюха
+https://video1.tizam.cc/films/Je-suis-une-belle-Salope.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Я люблю Лос-Анджелес / I Love L.A (1986)
+https://video1.tizam.cc/films/ILoveLA1.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",я люблю тебя / Traci I Love you
+https://video2.tizam.cc/files/2167116/treysi__ya_lyublyu_tebya__1987.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Я очень Хочу / J`ai tres envie
+https://video2.tizam.cc/files/1716918/ya_ochen_hochu.mp4
+#EXTINF:-1 group-title="XXX_movies_OLD",Язык / Tongue
+https://video1.tizam.cc/vk/Tongue1976.mp4
+
 
 ********************RADYO***************************
 
@@ -17990,4 +17919,3 @@ https://live.sinirsizhost.com:8080/;
 
 #EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", RADYO SPACE 
 https://live.sinirsizhost.com:8888/;
-
