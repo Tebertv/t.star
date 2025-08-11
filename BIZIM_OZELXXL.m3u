@@ -821,15 +821,6 @@ https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CINE 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CINE 6 
-https://tivi44.ozelip.com:3614/hybrid/play.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CINE 6 MAX
-https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", CANKIRI TV
-http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
-
 #EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 
