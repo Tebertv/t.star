@@ -80,9 +80,6 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINEMAX 6 
-https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
