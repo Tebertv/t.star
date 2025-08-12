@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR1
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR1 çalışan bildirsin
+http://208.79.153.42/akamaissh101/ssh101/hcrtstar1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR 2 
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
@@ -70,6 +70,187 @@ https://vavoo.to/play/161305206/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MK TV 
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 channel-id="78" tvg-name="CINE 1" tvg-id="CINE1",CINE 1
+https://goldvod.org/tv/uyanik?id=99
+#EXTINF:-1 channel-id="82" tvg-name="SİNEMA" tvg-id="VIZISINEMA",SİNEMA TV
+https://goldvod.org/tv/uyanik?id=94
+#EXTINF:-1 channel-id="10" tvg-name="TÜRK KOMEDİ" tvg-id="VIZITURKKOMEDI",TÜRK KOMEDİ
+https://goldvod.org/tv/uyanik?id=10
+#EXTINF:-1 channel-id="11" tvg-name="TÜRK KLASİK" tvg-id="VIZITURKKLASIK",TÜRK KLASİK
+https://goldvod.org/tv/uyanik?id=11
+#EXTINF:-1 channel-id="4" tvg-name="NOW TV" tvg-id="NOWTURK",NOW TV
+https://goldvod.org/tv/uyanik?id=4
+#EXTINF:-1 channel-id="84" tvg-name="MELTEM TV" tvg-id="MELTEMTV",MELTEM TV
+https://goldvod.org/tv/uyanik?id=98
+#EXTINF:-1 channel-id="86" tvg-name="TYT TÜRK" tvg-id="TYTTURK",TYT TüRK
+https://goldvod.org/tv/uyanik?id=100
+#EXTINF:-1 channel-id="35" tvg-name="TELE 1" tvg-id="TELE1",TELE 1
+https://goldvod.org/tv/uyanik?id=35
+#EXTINF:-1 channel-id="16" tvg-name="HALK TV" tvg-id="HALKTV",HALK TV
+https://goldvod.org/tv/uyanik?id=16
+#EXTINF:-1 channel-id="18" tvg-name="SZC TV" tvg-id="SZCTV",SZC TV
+https://goldvod.org/tv/uyanik?id=18
+#EXTINF:-1 channel-id="41" tvg-name="KRT" tvg-id="KRT",KRT
+https://goldvod.org/tv/uyanik?id=41
+#EXTINF:-1 channel-id="81" tvg-name="EKOL TV" tvg-id="EKOLTV",EKOL TV
+https://goldvod.org/tv/uyanik?id=82
+
+#EXTINF:-1 channel-id="69" tvg-name="TV 4" tvg-id="TV4",TV 4
+https://goldvod.org/tv/uyanik?id=72
+#EXTINF:-1 channel-id="83" tvg-name="BELGESEL" tvg-id="VIZIBELGESEL",BELGESEL TV
+https://goldvod.org/tv/uyanik?id=96
+#EXTINF:-1 channel-id="28" tvg-name="TV8,5" tvg-id="TV85",TV8,5
+https://goldvod.org/tv/uyanik?id=28
+#EXTINF:-1 channel-id="66" tvg-name="TGRT EU" tvg-id="TGRTEU",TGRT EU
+https://goldvod.org/tv/uyanik?id=69
+#EXTINF:-1 channel-id="32" tvg-name="TLC" tvg-id="TLC",TLC
+https://goldvod.org/tv/uyanik?id=32
+#EXTINF:-1 channel-id="33" tvg-name="DMAX" tvg-id="DMAX",DMAX
+https://goldvod.org/tv/uyanik?id=33
+#EXTINF:-1 channel-id="31" tvg-name="TRT BELGESEL" tvg-id="TRTBELGESEL",TRT BELGESEL
+https://goldvod.org/tv/uyanik?id=31
+#EXTINF:-1 channel-id="21" tvg-name="TRT ÇOCUK" tvg-id="TRTCOCUK",TRT ÇOCUK
+https://goldvod.org/tv/uyanik?id=21
+#EXTINF:-1 channel-id="22" tvg-name="MİNİKA ÇOCUK" tvg-id="MINIKACUCUK",MİNİKA ÇOCUK
+https://goldvod.org/tv/uyanik?id=22
+#EXTINF:-1 channel-id="23" tvg-name="MİNİKA GO" tvg-id="MINIKAGO",MİNİKA GO
+https://goldvod.org/tv/uyanik?id=23
+#EXTINF:-1 channel-id="24" tvg-name="TRT DİYANET ÇOCUK" tvg-id="PLANETCOCUK",TRT DİYANET ÇOCUK
+https://goldvod.org/tv/uyanik?id=24
+#EXTINF:-1 channel-id="25" tvg-name="CARTOON NETWORK" tvg-id="CARTOONNETWORK",CARTOON NETWORK
+https://goldvod.org/tv/uyanik?id=25
+
+#EXTINF:-1 channel-id="1" tvg-name="TRT 1" tvg-id="TRT1",TRT 1
+https://goldvod.org/tv/uyanik?id=1
+#EXTINF:-1 channel-id="34" tvg-name="TRT 2" tvg-id="TRT2",TRT 2
+https://goldvod.org/tv/uyanik?id=34
+#EXTINF:-1 channel-id="71" tvg-name="TRT TÜRK" tvg-id="TRTTURK",TRT TÜRK
+https://goldvod.org/tv/uyanik?id=78
+#EXTINF:-1 channel-id="72" tvg-name="TRT AVAZ" tvg-id="TRTAVAZ",TRT AVAZ
+https://goldvod.org/tv/uyanik?id=86
+#EXTINF:-1 channel-id="2" tvg-name="ATV" tvg-id="ATV",ATV
+https://goldvod.org/tv/uyanik?id=2
+#EXTINF:-1 channel-id="48" tvg-name="A PARA" tvg-id="APARA",A PARA
+https://goldvod.org/tv/uyanik?id=48
+#EXTINF:-1 channel-id="29" tvg-name="360" tvg-id="360",360
+https://goldvod.org/tv/uyanik?id=29
+#EXTINF:-1 channel-id="3" tvg-name="SHOW TV" tvg-id="SHOWTV",SHOW TV
+https://goldvod.org/tv/uyanik?id=3
+#EXTINF:-1 channel-id="30" tvg-name="SHOW MAX" tvg-id="SHOWMAX",SHOW MAX
+https://goldvod.org/tv/uyanik?id=30
+#EXTINF:-1 channel-id="5" tvg-name="STAR TV" tvg-id="STARTV",STAR TV
+https://goldvod.org/tv/uyanik?id=5   
+#EXTINF:-1 channel-id="26" tvg-name="KANAL D" tvg-id="KANALD",KANAL D
+https://goldvod.org/tv/uyanik?id=26
+#EXTINF:-1 channel-id="6" tvg-name="EURO D" tvg-id="EUROD",EURO D
+https://goldvod.org/tv/uyanik?id=6
+#EXTINF:-1 channel-id="27" tvg-name="TV 2" tvg-id="TV2",TEVE 2
+https://goldvod.org/tv/uyanik?id=27
+#EXTINF:-1 channel-id="9" tvg-name="BEYAZ TV" tvg-id="BEYAZTV",BEYAZ TV
+https://goldvod.org/tv/uyanik?id=9
+#EXTINF:-1 channel-id="7" tvg-name="7AVRUPA TV" tvg-id="AVRUPATV",KANAL7 AVRUPA 
+https://goldvod.org/tv/uyanik?id=7
+#EXTINF:-1 channel-id="8" tvg-name="TV8" tvg-id="TV8",TV8
+https://goldvod.org/tv/uyanik?id=8
+#EXTINF:-1 channel-id="67" tvg-name="KANAL AVRUPA" tvg-id="KANALAVRUPA",KANAL AVRUPA
+https://goldvod.org/tv/uyanik?id=70
+#EXTINF:-1 channel-id="68" tvg-name="KÖY TV" tvg-id="KOYTV",KÖY TV
+https://goldvod.org/tv/uyanik?id=71
+
+#EXTINF:-1 channel-id="44" tvg-name="TRT MÜZÜK" tvg-id="TRTMUZIK",TRT MÜZÜK
+https://goldvod.org/tv/uyanik?id=44
+#EXTINF:-1 channel-id="45" tvg-name="POWER TÜRK TV" tvg-id="POWERTURKTV",POWER TÜRK TV
+https://goldvod.org/tv/uyanik?id=45
+#EXTINF:-1 channel-id="46" tvg-name="NUMBER 1 TÜRK" tvg-id="NUMBER1TURK",NUMBER 1 TÜRK
+https://goldvod.org/tv/uyanik?id=46
+#EXTINF:-1 channel-id="47" tvg-name="DREAM TÜRK" tvg-id="DREAMTURK",DREAM TÜRK
+https://goldvod.org/tv/uyanik?id=47
+
+#EXTINF:-1 channel-id="12" tvg-name="CNN TÜRK" tvg-id="CNNTURK",CNN TÜRK
+https://goldvod.org/tv/uyanik?id=12
+#EXTINF:-1 channel-id="13" tvg-name="HABER TÃœRK" tvg-id="HABERTURK",HABER TÜRK
+https://goldvod.org/tv/uyanik?id=13
+#EXTINF:-1 channel-id="14" tvg-name="A HABER" tvg-id="AHABER",A HABER
+https://goldvod.org/tv/uyanik?id=14
+#EXTINF:-1 channel-id="15" tvg-name="TRT HABER" tvg-id="TRTHABER",TRT HABER
+https://goldvod.org/tv/uyanik?id=15
+
+#EXTINF:-1 channel-id="19" tvg-name="A SPOR" tvg-id="ASPOR",A SPOR
+https://goldvod.org/tv/uyanik?id=19
+
+#EXTINF:-1 channel-id="36" tvg-name="TV 100" tvg-id="TV100",TV 100
+https://goldvod.org/tv/uyanik?id=36
+#EXTINF:-1 channel-id="37" tvg-name="24" tvg-id="24",TV24
+https://goldvod.org/tv/uyanik?id=37
+#EXTINF:-1 channel-id="38" tvg-name="HABER GLOBAL" tvg-id="HABERGLOBAL",HABER GLOBAL
+https://goldvod.org/tv/uyanik?id=38
+#EXTINF:-1 channel-id="39" tvg-name="TGRT HABER" tvg-id="TGRTHABER",TGRT HABER
+https://goldvod.org/tv/uyanik?id=39
+#EXTINF:-1 channel-id="40" tvg-name="FLASH HABER" tvg-id="FLASHHABER",FLASH HABER
+https://goldvod.org/tv/uyanik?id=40
+#EXTINF:-1 channel-id="42" tvg-name="ÜLKE TV" tvg-id="ULKETV",ÜLKE TV
+https://goldvod.org/tv/uyanik?id=42
+#EXTINF:-1 channel-id="43" tvg-name="TVNET" tvg-id="TVNET",TVNET
+https://goldvod.org/tv/uyanik?id=43
+
+#EXTINF:-1 channel-id="20" tvg-name="TRTSPOR" tvg-id="TRTSPOR",TRTSPOR
+https://goldvod.org/tv/uyanik?id=20
+#EXTINF:-1 channel-id="51" tvg-name="CBC SPORT" tvg-id="CBCSPORT",CBC SPORT
+https://goldvod.org/tv/uyanik?id=52
+#EXTINF:-1 channel-id="52" tvg-name="IDMAN TV" tvg-id="IDMANTV",IDMAN TV
+https://goldvod.org/tv/uyanik?id=53
+#EXTINF:-1 channel-id="53" tvg-name="TRTSPOR" tvg-id="TRTSPOR2",TRTSPOR
+https://goldvod.org/tv/uyanik?id=54
+#EXTINF:-1 channel-id="54" tvg-name="AKİT TV" tvg-id="AKITTV",AKİT TV
+https://goldvod.org/tv/uyanik?id=56
+#EXTINF:-1 channel-id="55" tvg-name="5" tvg-id="5",TV5
+https://goldvod.org/tv/uyanik?id=57
+#EXTINF:-1 channel-id="56" tvg-name="ULUSAL" tvg-id="ULUSAL",ULUSAL
+https://goldvod.org/tv/uyanik?id=58
+#EXTINF:-1 channel-id="57" tvg-name="A KANAL" tvg-id="AKANAL",Kanal B
+https://goldvod.org/tv/uyanik?id=59
+#EXTINF:-1 channel-id="58" tvg-name="BENGÜ TÜRK" tvg-id="BENGUTURK",BENGÜ TÜRK
+https://goldvod.org/tv/uyanik?id=60
+#EXTINF:-1 channel-id="59" tvg-name="DİYANET TV" tvg-id="DIYANETTV",DİYANET TV
+https://goldvod.org/tv/uyanik?id=62
+#EXTINF:-1 channel-id="60" tvg-name="VAV TV" tvg-id="VVTV",VAV TV
+https://goldvod.org/tv/uyanik?id=63
+#EXTINF:-1 channel-id="61" tvg-name="ULUSAL TV" tvg-id="ULUSALTV",ULUSAL TV
+https://goldvod.org/tv/uyanik?id=64
+#EXTINF:-1 channel-id="62" tvg-name="SEMERKANT TV" tvg-id="YENICIZGITV",SEMERKANT TV
+https://goldvod.org/tv/uyanik?id=65
+#EXTINF:-1 channel-id="63" tvg-name="EL ARABÄ°YA" tvg-id="ELARABIYA",TRT EL ARABİA
+https://goldvod.org/tv/uyanik?id=66
+#EXTINF:-1 channel-id="64" tvg-name="DOST TV" tvg-id="DTV",DOST TV
+https://goldvod.org/tv/uyanik?id=67
+#EXTINF:-1 channel-id="65" tvg-name="TGRT BELGESEL" tvg-id="TGRTBELGESEL",TGRT BELGESEL
+https://goldvod.org/tv/uyanik?id=68
+
+#EXTINF:-1 channel-id="70" tvg-name="BRT 1" tvg-id="BRT1",BRT 1
+https://goldvod.org/tv/uyanik?id=73
+
+#EXTINF:-1 channel-id="75" tvg-name="TRT ÇOCUK" tvg-id="COCUKTRT",TRT ÇOCUK 
+https://goldvod.org/tv/uyanik?id=94
+
+#EXTINF:-1 channel-id="77" tvg-name="TBMM TV" tvg-id="TBMMTV",TBMM TV
+https://goldvod.org/tv/uyanik?id=98
+
+#EXTINF:-1 channel-id="17" tvg-name="NTV" tvg-id="ENTV",NTV
+https://goldvod.org/tv/uyanik?id=17
+#EXTINF:-1 channel-id="85" tvg-name="GZT TV" tvg-id="GOZTV",GZT TV
+https://goldvod.org/tv/uyanik?id=99
+#EXTINF:-1 channel-id="79" tvg-name="TRT EBA" tvg-id="TRTEBA",TRT EBA
+https://goldvod.org/tv/uyanik?id=100
+#EXTINF:-1 channel-id="80" tvg-name="CNBC-E" tvg-id="CNBCE",CNBC-E
+https://goldvod.org/tv/uyanik?id=81
+#EXTINF:-1 channel-id="73" tvg-name="TRT KURDİ" tvg-id="TRTKURDI",TRT KURDİ
+https://goldvod.org/tv/uyanik?id=89
+#EXTINF:-1 channel-id="76" tvg-name="TRT WORLD" tvg-id="TRTWORLD",TRT WORLD
+https://goldvod.org/tv/uyanik?id=96
+#EXTINF:-1 channel-id="74" tvg-name="CINE 5" tvg-id="CINE5",CINE 5
+https://goldvod.org/tv/uyanik?id=91
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",EKOL TV HD
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
