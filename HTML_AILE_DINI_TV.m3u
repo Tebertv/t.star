@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT
-https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT TV
+http://208.79.153.42/akamaissh101/ssh101/EHLİBEYT/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="Lalegül Tv" tvg-logo="http://logo1010.com/lg/lalegultv.png" group-title="TR • Dini",Lalegül Tv
 http://spy17.eu:80/live/denizaltin.39/01102022.tr/35325.ts
