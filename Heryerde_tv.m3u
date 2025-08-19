@@ -28,3 +28,12 @@ http://208.79.153.42/akamaissh101/ssh101/SAFARİ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MEDYA MTV
 http://208.79.153.42/akamaissh101/ssh101/TEBER_MEDYA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",GALA ADRALİN TV
+http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",YS SİNEMA HD
+http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",YM MÜZÜK HD
+http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
