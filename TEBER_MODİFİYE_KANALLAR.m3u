@@ -54,10 +54,11 @@ http://104.238.23.215/iptv_panel/get.php?channel=Channel186&token=token123
 #EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
 http://104.238.23.215/iptv_panel/get.php?channel=Channel187&token=token123
 #EXTINF:-1 group-title="⚡7/24 Yerli Film", UFKUM TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel188&token=token123
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", Lebih TV
+https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", İSVİÇRE TV
 http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
 #EXTINF:-1 group-title="⚡7/24 Yerli Film", TV 48
+http://104.238.23.215/iptv_panel/get.php?channel=Channel190&token=token123
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
