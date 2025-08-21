@@ -10,7 +10,7 @@ http://208.79.153.42/akamaissh101/ssh101/tbrt_star2/playlist.m3u8
 http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA_TÜRK_TV
-http://208.79.153.42/akamaissh101/ssh101/GALA_TÜRK_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/GALA_TURK_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA KORKU TV
 http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
@@ -104,14 +104,102 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi Turk
-https://canlitvulusal.xyz/live/tiviturk/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_MAX 
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+
+#EXTINF:-1 group-title="⚡Sinevizyon", FX
+http://104.238.23.215/iptv_panel/get.php?channel=Channel159&token=token123
+#EXTINF:-1 group-title="⚡Sinevizyon", CINE6 max
+http://104.238.23.215/iptv_panel/get.php?channel=Channel160&token=token123
+
+UFKUM TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel188&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", Lebih TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
+
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", TV 48
+http://104.238.23.215/iptv_panel/get.php?channel=Channel190&token=token123
+
+
+#EXTINF:-1 group-title="⚡Sinevizyon", 5 OCAK TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel168&token=token123
+#EXTINF:-1 group-title="⚡7/24 Talk Show", Çok Ğüzel Hareketler
+http://104.238.23.215/iptv_panel/get.php?channel=Channel85&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Cennet Mahallesi
+http://104.238.23.215/iptv_panel/get.php?channel=Channel86&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Yalan Dünya
+http://104.238.23.215/iptv_panel/get.php?channel=Channel87&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Avrupa Yakası
+http://104.238.23.215/iptv_panel/get.php?channel=Channel88&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Eşkiya Dünyaya Hükümdar Olmaz
+http://104.238.23.215/iptv_panel/get.php?channel=Channel89&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Kiralık Aşk
+http://104.238.23.215/iptv_panel/get.php?channel=Channel90&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Kurtlar Vadisi Pusu
+http://104.238.23.215/iptv_panel/get.php?channel=Channel91&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Medcezir
+http://104.238.23.215/iptv_panel/get.php?channel=Channel92&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Çicek Taksi
+http://104.238.23.215/iptv_panel/get.php?channel=Channel93&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Leyla ile Mecnun
+http://104.238.23.215/iptv_panel/get.php?channel=Channel94&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Söz
+http://104.238.23.215/iptv_panel/get.php?channel=Channel95&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Sihirli Annem
+http://104.238.23.215/iptv_panel/get.php?channel=Channel96&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Kızıl Goncalar
+http://104.238.23.215/iptv_panel/get.php?channel=Channel97&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Emret Komutanım
+http://104.238.23.215/iptv_panel/get.php?channel=Channel98&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Kuzey Yıldızı ilk Aşk
+http://104.238.23.215/iptv_panel/get.php?channel=Channel99&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Fatma Gülün Sucu Ne
+http://104.238.23.215/iptv_panel/get.php?channel=Channel100&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Yeni Gelin
+http://104.238.23.215/iptv_panel/get.php?channel=Channel101&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Adanalı
+http://104.238.23.215/iptv_panel/get.php?channel=Channel102&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Yasak Elma
+http://104.238.23.215/iptv_panel/get.php?channel=Channel103&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Senden Daha Ğüzel
+http://104.238.23.215/iptv_panel/get.php?channel=Channel104&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Kuzey Güney
+http://104.238.23.215/iptv_panel/get.php?channel=Channel105&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Muhteşem Yüzyıl Kosem
+http://104.238.23.215/iptv_panel/get.php?channel=Channel106&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Muhteşem Yüzyıl
+http://104.238.23.215/iptv_panel/get.php?channel=Channel107&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Yeşil Deniz
+http://104.238.23.215/iptv_panel/get.php?channel=Channel108&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Gönul Dağı
+http://104.238.23.215/iptv_panel/get.php?channel=Channel109&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Zengin Kız Fakir Oglan
+http://104.238.23.215/iptv_panel/get.php?channel=Channel110&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Yaprak Dökümü
+http://104.238.23.215/iptv_panel/get.php?channel=Channel111&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Cocuklar Duymasın
+http://104.238.23.215/iptv_panel/get.php?channel=Channel112&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Kızılcık Şerbeti
+http://104.238.23.215/iptv_panel/get.php?channel=Channel113&token=token123
+#EXTINF:-1 group-title="⚡Youtube", Antik Mısır Tv
+http://104.238.23.215/iptv_panel/get.php?channel=Channel114&token=token123
+#EXTINF:-1 group-title="⚡Belgesel", Belgesel Tv
+http://104.238.23.215/iptv_panel/get.php?channel=Channel115&token=token123
+#EXTINF:-1 group-title="⚡Belgesel", Nation
+http://104.238.23.215/iptv_panel/get.php?channel=Channel116&token=token123
+#EXTINF:-1 group-title="⚡Belgesel", Nation wild
+http://104.238.23.215/iptv_panel/get.php?channel=Channel117&token=token123
+#EXTINF:-1 group-title="⚡Belgesel", DISCOVERY CHANNEL
+http://104.238.23.215/iptv_panel/get.php?channel=Channel118&token=token123
+#EXTINF:-1 group-title="⚡Belgesel", Viasat_History
+http://104.238.23.215/iptv_panel/get.php?channel=Channel119&token=token123
+#EXTINF:-1 group-title="⚡Belgesel", Love_Nature
+http://104.238.23.215/iptv_panel/get.php?channel=Channel120&token=token123
+#EXTINF:-1 group-title="⚡Belgesel", Viasat_Explore
+http://104.238.23.215/iptv_panel/get.php?channel=Channel121&token=token123
 
 #EXTINF:-1 tvg-id="" tvg-name="DINAMIK TV" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DINAMIK TÜRK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -811,9 +899,7 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART TURK HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| MOVIES TURK HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
 
-************************************************************
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",PAZARCIK SİNEMA TV
-https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+***********************************************
 
 
 

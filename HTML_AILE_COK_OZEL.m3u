@@ -10,7 +10,7 @@ http://208.79.153.42/akamaissh101/ssh101/tbrt_star2/playlist.m3u8
 http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA_TÜRK_TV
-http://208.79.153.42/akamaissh101/ssh101/GALA_TÜRK_TV/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/GALA_TURK_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",GALA KORKU TV
 http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
@@ -50,6 +50,16 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Bİ KANAL
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
+http://104.238.23.215/iptv_panel/get.php?channel=Channel186&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
+http://104.238.23.215/iptv_panel/get.php?channel=Channel187&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", UFKUM TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel188&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", Lebih TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", TV 48
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
@@ -158,6 +168,74 @@ https://goldvod.org/tv/uyanik?id=9
 https://goldvod.org/tv/uyanik?id=7
 #EXTINF:-1 channel-id="8" tvg-name="TV8" tvg-id="TV8",TV8
 https://goldvod.org/tv/uyanik?id=8
+
+#EXTINF:-1 group-title="⚡Ulusal", Star Tv
+http://104.238.23.215/iptv_panel/get.php?channel=Channel5&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Kanal D
+http://104.238.23.215/iptv_panel/get.php?channel=Channel6&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Euro D
+http://104.238.23.215/iptv_panel/get.php?channel=Channel7&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Now
+http://104.238.23.215/iptv_panel/get.php?channel=Channel8&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Show Tv
+http://104.238.23.215/iptv_panel/get.php?channel=Channel9&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Show Turk
+http://104.238.23.215/iptv_panel/get.php?channel=Channel10&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Show Max
+http://104.238.23.215/iptv_panel/get.php?channel=Channel11&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Tv 8
+http://104.238.23.215/iptv_panel/get.php?channel=Channel12&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Tv 8,5
+http://104.238.23.215/iptv_panel/get.php?channel=Channel13&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Tv 8 int
+http://104.238.23.215/iptv_panel/get.php?channel=Channel14&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Beyaz Tv
+http://104.238.23.215/iptv_panel/get.php?channel=Channel15&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", 360
+http://104.238.23.215/iptv_panel/get.php?channel=Channel16&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Teve 2
+http://104.238.23.215/iptv_panel/get.php?channel=Channel17&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Kanal 7
+http://104.238.23.215/iptv_panel/get.php?channel=Channel18&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Kanal 7 Europa
+http://104.238.23.215/iptv_panel/get.php?channel=Channel19&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", A2
+http://104.238.23.215/iptv_panel/get.php?channel=Channel20&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", TYT TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel21&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Ekol Tv
+http://104.238.23.215/iptv_panel/get.php?channel=Channel22&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Ton Tv
+http://104.238.23.215/iptv_panel/get.php?channel=Channel23&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Fortuna Tv
+http://104.238.23.215/iptv_panel/get.php?channel=Channel24&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", ONS TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel25&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", CNBC-E
+http://104.238.23.215/iptv_panel/get.php?channel=Channel26&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", The Pet Mnou
+http://104.238.23.215/iptv_panel/get.php?channel=Channel27&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", The Pet Collective
+http://104.238.23.215/iptv_panel/get.php?channel=Channel28&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", The Pet Collective
+http://104.238.23.215/iptv_panel/get.php?channel=Channel29&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", MyLittlePet
+http://104.238.23.215/iptv_panel/get.php?channel=Channel30&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Girls Planet
+http://104.238.23.215/iptv_panel/get.php?channel=Channel31&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", FailArmy
+http://104.238.23.215/iptv_panel/get.php?channel=Channel32&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", TABİİ TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel33&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", TABİİ TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel34&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", TABİİ TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel35&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", M Türk
+http://104.238.23.215/iptv_panel/get.php?channel=Channel36&token=token123
+#EXTINF:-1 group-title="⚡Ulusal", Bi Kanal
+http://104.238.23.215/iptv_panel/get.php?channel=Channel37&token=token123
+
 #EXTINF:-1 channel-id="67" tvg-name="KANAL AVRUPA" tvg-id="KANALAVRUPA",KANAL AVRUPA
 https://goldvod.org/tv/uyanik?id=70
 #EXTINF:-1 channel-id="68" tvg-name="KÖY TV" tvg-id="KOYTV",KÖY TV
