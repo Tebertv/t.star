@@ -1,5 +1,93 @@
 #EXTM3U
+#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR1 
+http://208.79.153.42/akamaissh101/ssh101/tbrt_star1/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR 2
+http://208.79.153.42/akamaissh101/ssh101/tbrt_star2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL6 TV 
+http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA_TÜRK_TV
+http://208.79.153.42/akamaissh101/ssh101/GALA_TURK_TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA KORKU TV
+http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HBB TV
+http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER ON
+http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8         
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT TV
+http://208.79.153.42/akamaissh101/ssh101/EHLİBEYT/playlist.m3u8                               
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MAXİ TV
+http://208.79.153.42/akamaissh101/ssh101/MAXİTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER SAFARİ TV
+http://208.79.153.42/akamaissh101/ssh101/SAFARİ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MEDYA MTV
+http://208.79.153.42/akamaissh101/ssh101/TEBER_MEDYA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YS SİNEMA HD
+http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YM MÜZÜK HD
+http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TİVİ 6 HD 
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Cine 1 
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
+http://104.238.23.215/iptv_panel/get.php?channel=Channel186&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
+http://104.238.23.215/iptv_panel/get.php?channel=Channel187&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", UFKUM TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel188&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", Lebih TV
+http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", TV 48
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",PLAY TV
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Bİ KANAL
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANALG
+http://145.239.58.133:28008/kanalg/kanalg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV1
+https://goldvod.org/tv/uyanik?id=10
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV2
+https://goldvod.org/tv/uyanik?id=11
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV3
+https://tv.arectv34.sbs/live/sinema1002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV4
+https://goldvod.org/tv/uyanik?id=94
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON BELGEL TV5
+https://goldvod.org/tv/uyanik?id=96
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",360 TV 
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="6. |TR|🇹🇷 ULUSAL GENEL",TRT 1
