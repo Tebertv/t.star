@@ -171,7 +171,8 @@ https://goldvod.org/tv/uyanik?id=9
 https://goldvod.org/tv/uyanik?id=7
 #EXTINF:-1 channel-id="8" tvg-name="TV8" tvg-id="TV8",TV8
 https://goldvod.org/tv/uyanik?id=8
-
+#EXTINF:-1,FLUX TV MUZİK AZ
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 #EXTINF:-1 group-title="⚡Ulusal", Star Tv
 http://104.238.23.215/iptv_panel/get.php?channel=Channel5&token=token123
 #EXTINF:-1 group-title="⚡Ulusal", Kanal D

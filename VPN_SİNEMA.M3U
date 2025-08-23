@@ -766,15 +766,6 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="AZERBAYCAN",|TR| CTV
 https://ip38.avrupatelekom.com:3766/stream/play.m3u8
 
-#EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="jpg" group-title="Azərbaycan",Mega GəncəTV
-#EXTGRP:Azərbaycan
-http://195.9.195.3:8080/hls/215207.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
-https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MOVİE NOW
-https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 
