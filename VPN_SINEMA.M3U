@@ -51,28 +51,16 @@ http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TİVİ 6 HD 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",1_KANAL 6 HD
-https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",2_KANAL 6 HD
-http://208.79.153.42/akamaissh101/ssh101/kanal6sliven/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TVB HD
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/htnDXBkP/In-Shot-20250428-070125172.png",HOÇWAN TV 
 https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Cine 1 
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
-http://104.238.23.215/iptv_panel/get.php?channel=Channel186&token=token123
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
-http://104.238.23.215/iptv_panel/get.php?channel=Channel187&token=token123
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", UFKUM TV
-https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", İSVİÇRE TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", TV 48
-http://104.238.23.215/iptv_panel/get.php?channel=Channel190&token=token123
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -133,6 +121,8 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_MAX 
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL 6 HD
+https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DINAMIK TV" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DINAMIK TÜRK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0

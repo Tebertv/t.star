@@ -33,6 +33,12 @@ http://208.79.153.42/akamaissh101/ssh101/SAFARİ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MEDYA MTV
 http://208.79.153.42/akamaissh101/ssh101/TEBER_MEDYA/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YS SİNEMA HD
+http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YM MÜZÜK HD
+http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",i play CINEMATV
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
@@ -45,28 +51,16 @@ http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TİVİ 6 HD 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",1_KANAL 6 HD
-https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",2_KANAL 6 HD
-http://208.79.153.42/akamaissh101/ssh101/kanal6sliven/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TVB HD
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/htnDXBkP/In-Shot-20250428-070125172.png",HOÇWAN TV 
 https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Cine 1 
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
-http://104.238.23.215/iptv_panel/get.php?channel=Channel186&token=token123
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", Tv 4
-http://104.238.23.215/iptv_panel/get.php?channel=Channel187&token=token123
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", UFKUM TV
-https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", İSVİÇRE TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", TV 48
-http://104.238.23.215/iptv_panel/get.php?channel=Channel190&token=token123
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -79,6 +73,56 @@ https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANALG
 http://145.239.58.133:28008/kanalg/kanalg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV1
+https://goldvod.org/tv/uyanik?id=10
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV2
+https://goldvod.org/tv/uyanik?id=11
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV3
+https://tv.arectv34.sbs/live/sinema1002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV4
+https://goldvod.org/tv/uyanik?id=94
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON BELGEL TV5
+https://goldvod.org/tv/uyanik?id=96
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",360 TV 
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMA24 TURK (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Albania" group-title="VavooTO Albania"  ,FILM A 24 TURK
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1773607879/index.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Torba Tv
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title=",Anadolu Dost
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",isviçre Tv
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-chno="7",DENİZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_MAX 
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL 6 HD
+https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV1
 https://goldvod.org/tv/uyanik?id=10
