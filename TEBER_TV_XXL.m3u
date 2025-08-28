@@ -30,24 +30,17 @@ https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YS SİNEMA HD
 http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA ADRALİN TV
-http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
+http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER SAFARİ TV
 http://208.79.153.42/akamaissh101/ssh101/SAFARİ/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MEDYA MTV
-http://208.79.153.42/akamaissh101/ssh101/TEBER_MEDYA/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YM MÜZÜK HD
-http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İ PLAY MÜZÜK
-https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TİVİ 6 HD 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TVB HD
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
@@ -63,6 +56,9 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Bİ KANAL
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TİVİ TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
@@ -82,16 +78,39 @@ https://tv.arectv34.sbs/live/sinema1002.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV4
 https://goldvod.org/tv/uyanik?id=94
 
+******************FILMBOX*************
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DİZİ TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",FİL TV
+https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
+
+#EXTINF:-1 tvg-chno="211",FILMBOX PREMIER
+http://spy17.eu:80/ozkanshmx/06.02.22/317203
+
+#EXTINF:-1 tvg-chno="212",FILMBOX ACTION
+http://spy17.eu:80/ozkanshmx/06.02.22/317204
+
+#EXTINF:-1 tvg-chno="213",FILMBOX DRAMA
+http://spy17.eu:80/ozkanshmx/06.02.22/317207
+
+#EXTINF:-1 tvg-chno="214",FILMBOX KOMEDI
+http://spy17.eu:80/ozkanshmx/06.02.22/317209
+
+#EXTINF:-1 tvg-chno="215",FILMBOX FAMILY
+http://spy17.eu:80/ozkanshmx/06.02.22/317211
+#EXTINF:-1 tvg-chno="216",FILMBOX YERLİ
+http://spy17.eu:80/ozkanshmx/06.02.22/317212
+
+#EXTINF:-1 tvg-chno="215",FILMBOX YEŞİLÇAM
+http://spy17.eu:80/ozkanshmx/06.02.22/317213
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON BELGEL TV5
 https://goldvod.org/tv/uyanik?id=96
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",360 TV 
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FILMA24 TURK (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Albania" group-title="VavooTO Albania"  ,FILM A 24 TURK
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1773607879/index.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Torba Tv
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
@@ -108,9 +127,6 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="7",DENİZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
@@ -119,21 +135,6 @@ http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL 6 HD
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV1
-https://goldvod.org/tv/uyanik?id=10
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV2
-https://goldvod.org/tv/uyanik?id=11
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV3
-https://tv.arectv34.sbs/live/sinema1002.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV4
-https://goldvod.org/tv/uyanik?id=94
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON BELGEL TV5
-https://goldvod.org/tv/uyanik?id=96
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",360 TV 
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
@@ -208,9 +209,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KAD7 TV 
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE5  
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w500655317.m3u8
-
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
 
@@ -250,747 +248,12 @@ https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w784946490.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KIBRIS TV
 https://play.kibristv.com/stream/hls/stream.m3u8
-#EXTINF:-1 group-title="⚡Ulusal", ATV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel4&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Star Tv
-http://104.238.23.215/iptv_panel/get.php?channel=Channel5&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Kanal D
-http://104.238.23.215/iptv_panel/get.php?channel=Channel6&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Euro D
-http://104.238.23.215/iptv_panel/get.php?channel=Channel7&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Now
-http://104.238.23.215/iptv_panel/get.php?channel=Channel8&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Show Tv
-http://104.238.23.215/iptv_panel/get.php?channel=Channel9&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Show Turk
-http://104.238.23.215/iptv_panel/get.php?channel=Channel10&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Show Max
-http://104.238.23.215/iptv_panel/get.php?channel=Channel11&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Tv 8
-http://104.238.23.215/iptv_panel/get.php?channel=Channel12&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Tv 8,5
-http://104.238.23.215/iptv_panel/get.php?channel=Channel13&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Tv 8 int
-http://104.238.23.215/iptv_panel/get.php?channel=Channel14&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Beyaz Tv
-http://104.238.23.215/iptv_panel/get.php?channel=Channel15&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", 360
-http://104.238.23.215/iptv_panel/get.php?channel=Channel16&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Teve 2
-http://104.238.23.215/iptv_panel/get.php?channel=Channel17&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Kanal 7
-http://104.238.23.215/iptv_panel/get.php?channel=Channel18&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Kanal 7 Europa
-http://104.238.23.215/iptv_panel/get.php?channel=Channel19&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", A2
-http://104.238.23.215/iptv_panel/get.php?channel=Channel20&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", TYT TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel21&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Ekol Tv
-http://104.238.23.215/iptv_panel/get.php?channel=Channel22&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Ton Tv
-http://104.238.23.215/iptv_panel/get.php?channel=Channel23&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Fortuna Tv
-http://104.238.23.215/iptv_panel/get.php?channel=Channel24&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", ONS TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel25&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", CNBC-E
-http://104.238.23.215/iptv_panel/get.php?channel=Channel26&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", The Pet Mnou
-http://104.238.23.215/iptv_panel/get.php?channel=Channel27&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", The Pet Collective
-http://104.238.23.215/iptv_panel/get.php?channel=Channel28&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", The Pet Collective
-http://104.238.23.215/iptv_panel/get.php?channel=Channel29&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", MyLittlePet
-http://104.238.23.215/iptv_panel/get.php?channel=Channel30&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Girls Planet
-http://104.238.23.215/iptv_panel/get.php?channel=Channel31&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", FailArmy
-http://104.238.23.215/iptv_panel/get.php?channel=Channel32&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", TABİİ TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel33&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", TABİİ TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel34&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", TABİİ TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel35&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", M Türk
-http://104.238.23.215/iptv_panel/get.php?channel=Channel36&token=token123
-#EXTINF:-1 group-title="⚡Ulusal", Bi Kanal
-http://104.238.23.215/iptv_panel/get.php?channel=Channel37&token=token123
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLk6RCmv/onde-small-thumbnail.png",ÖNDE TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
-https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Life Tv
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TV25
-https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",T.ON TV tracks
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",M Türk
-https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FILMA24 TURK (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Albania" group-title="VavooTO Albania"  ,FILM A 24 TURK
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1773607879/index.m3u8
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Torba Tv
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
-
-#EXTINF:-1 tvg-logo="tv logo" group-title=",Anadolu Dost
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",isviçre Tv
-https://i41.ozelip.com:3269/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Rize Türk TV
-https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/htnDXBkP/In-Shot-20250428-070125172.png",HOÇWAN TV ᵏᵃᵑᵏᵃ
-https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
-
-#EXTINF:-1 tvg-chno="7",DENİZ POSTASI
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_TV
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_MAX 
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-
-#EXTINF:-1 group-title="⚡Sinevizyon", FX
-http://104.238.23.215/iptv_panel/get.php?channel=Channel159&token=token123
-#EXTINF:-1 group-title="⚡Sinevizyon", CINE6 max
-http://104.238.23.215/iptv_panel/get.php?channel=Channel160&token=token123
-
-UFKUM TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel188&token=token123
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", Lebih TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
-
-#EXTINF:-1 group-title="⚡7/24 Yerli Film", TV 48
-http://104.238.23.215/iptv_panel/get.php?channel=Channel190&token=token123
-
-
-#EXTINF:-1 group-title="⚡Sinevizyon", 5 OCAK TV
-http://104.238.23.215/iptv_panel/get.php?channel=Channel168&token=token123
-#EXTINF:-1 group-title="⚡7/24 Talk Show", Çok Ğüzel Hareketler
-http://104.238.23.215/iptv_panel/get.php?channel=Channel85&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Cennet Mahallesi
-http://104.238.23.215/iptv_panel/get.php?channel=Channel86&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Yalan Dünya
-http://104.238.23.215/iptv_panel/get.php?channel=Channel87&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Avrupa Yakası
-http://104.238.23.215/iptv_panel/get.php?channel=Channel88&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Eşkiya Dünyaya Hükümdar Olmaz
-http://104.238.23.215/iptv_panel/get.php?channel=Channel89&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Kiralık Aşk
-http://104.238.23.215/iptv_panel/get.php?channel=Channel90&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Kurtlar Vadisi Pusu
-http://104.238.23.215/iptv_panel/get.php?channel=Channel91&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Medcezir
-http://104.238.23.215/iptv_panel/get.php?channel=Channel92&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Çicek Taksi
-http://104.238.23.215/iptv_panel/get.php?channel=Channel93&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Leyla ile Mecnun
-http://104.238.23.215/iptv_panel/get.php?channel=Channel94&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Söz
-http://104.238.23.215/iptv_panel/get.php?channel=Channel95&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Sihirli Annem
-http://104.238.23.215/iptv_panel/get.php?channel=Channel96&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Kızıl Goncalar
-http://104.238.23.215/iptv_panel/get.php?channel=Channel97&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Emret Komutanım
-http://104.238.23.215/iptv_panel/get.php?channel=Channel98&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Kuzey Yıldızı ilk Aşk
-http://104.238.23.215/iptv_panel/get.php?channel=Channel99&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Fatma Gülün Sucu Ne
-http://104.238.23.215/iptv_panel/get.php?channel=Channel100&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Yeni Gelin
-http://104.238.23.215/iptv_panel/get.php?channel=Channel101&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Adanalı
-http://104.238.23.215/iptv_panel/get.php?channel=Channel102&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Yasak Elma
-http://104.238.23.215/iptv_panel/get.php?channel=Channel103&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Senden Daha Ğüzel
-http://104.238.23.215/iptv_panel/get.php?channel=Channel104&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Kuzey Güney
-http://104.238.23.215/iptv_panel/get.php?channel=Channel105&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Muhteşem Yüzyıl Kosem
-http://104.238.23.215/iptv_panel/get.php?channel=Channel106&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Muhteşem Yüzyıl
-http://104.238.23.215/iptv_panel/get.php?channel=Channel107&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Yeşil Deniz
-http://104.238.23.215/iptv_panel/get.php?channel=Channel108&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Gönul Dağı
-http://104.238.23.215/iptv_panel/get.php?channel=Channel109&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Zengin Kız Fakir Oglan
-http://104.238.23.215/iptv_panel/get.php?channel=Channel110&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Yaprak Dökümü
-http://104.238.23.215/iptv_panel/get.php?channel=Channel111&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Cocuklar Duymasın
-http://104.238.23.215/iptv_panel/get.php?channel=Channel112&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Kızılcık Şerbeti
-http://104.238.23.215/iptv_panel/get.php?channel=Channel113&token=token123
-#EXTINF:-1 group-title="⚡Youtube", Antik Mısır Tv
-http://104.238.23.215/iptv_panel/get.php?channel=Channel114&token=token123
-#EXTINF:-1 group-title="⚡Belgesel", Belgesel Tv
-http://104.238.23.215/iptv_panel/get.php?channel=Channel115&token=token123
-#EXTINF:-1 group-title="⚡Belgesel", Nation
-http://104.238.23.215/iptv_panel/get.php?channel=Channel116&token=token123
-#EXTINF:-1 group-title="⚡Belgesel", Nation wild
-http://104.238.23.215/iptv_panel/get.php?channel=Channel117&token=token123
-#EXTINF:-1 group-title="⚡Belgesel", DISCOVERY CHANNEL
-http://104.238.23.215/iptv_panel/get.php?channel=Channel118&token=token123
-#EXTINF:-1 group-title="⚡Belgesel", Viasat_History
-http://104.238.23.215/iptv_panel/get.php?channel=Channel119&token=token123
-#EXTINF:-1 group-title="⚡Belgesel", Love_Nature
-http://104.238.23.215/iptv_panel/get.php?channel=Channel120&token=token123
-#EXTINF:-1 group-title="⚡Belgesel", Viasat_Explore
-http://104.238.23.215/iptv_panel/get.php?channel=Channel121&token=token123
-
-#EXTINF:-1 tvg-id="" tvg-name="DINAMIK TV" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DINAMIK TÜRK
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/884766068/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMAX TURK (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMAX TURK (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4201568953/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMAX KOMEDI (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMAX KOMEDI 
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/565813762/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SALON 3 SINEMAX tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SALON 3 SINEMAX 
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/915717266/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMAX DRAMA (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMAX DRAMA 
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2789249461/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMAX FAMILY (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMAX FAMILY
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1469484475/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DIGI MAX 2 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DIGI MAX 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1104559360/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 1001 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMA 1001
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3117683628/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA YERLI 1 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMA YERLI 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2484805699/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DINAMIK KORKU (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DINAMIK KORKU
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/432913286/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX+ (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FILMBOX+
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2600387615/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BBC EARTH
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2613731614/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: SİNEMA TV AKS YON HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA TV AKS YON HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2246993811/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX AKSIYON (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FILMBOX AKSIYON (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1130352730/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON TURK 2 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEVIZYON TURK 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1233464949/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DINAMIK WESTERN (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DINAMIK WESTERN (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/726915072/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: SİNEMA YERL HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA YERL HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1897159473/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BOX YERLI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,GLOBAL BOX YERLI (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2322262210/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: S NEMA 1002 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: SİNEMA 1002 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1076643856/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: SİNEMA TV 2 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA TV 2 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/295060524/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ENO WESTERN (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ENO WESTERN (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1134525301/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA AKSIYON 1 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMA AKSIYON 1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1293127897/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON TURK 8 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEVIZYON TURK 8 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/53819092/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX TURK (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MAX TURK (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1222272481/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON TURK 6 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEVIZYON TURK 6 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3154479285/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: S NEMA YERL 2 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA YERL 2 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3971603427/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: S NEMA A LE 2 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA A LE 2 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3000594763/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BARBIE ANIMATION 2 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BARBIE ANIMATION 2 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/280573123/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA BILM KURGU (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FIX CINEMA BILM KURGU (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2480231926/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MOVIE SMART PREMIUM 2 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MOVIE SMART PREMIUM 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1194009782/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: S NEMA TV HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA TV HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2780830033/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON TURK 7 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEVIZYON TURK 7 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2170921221/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA KOMEDI (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMA KOMEDI (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/257449668/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 11 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ENO VIZYON 11 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1545196944/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FX (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FX (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3821433649/index.m3u8
-
-EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1739393340/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X NOSTALJI T RK E KLASIK (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,X NOSTALJI T RK E KLASIK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1767757052/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: S NEMA A LE HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA A LE HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/698495811/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SERIES 2 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEIN SERIES 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3308693738/index.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA NETFLIX (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FIX CINEMA NETFLIX (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3216985800/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: FX HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: FX HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1561495319/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: S NEMA TV 1001 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA TV 1001 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2761385166/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX VIZYON 1 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MAX VIZYON 1 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3792548191/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA DRAM (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FIX CINEMA DRAM (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2830763591/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX VIZYON 4 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MAX VIZYON 4 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/720191023/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: EPIC DRAMA (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: EPIC DRAMA (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/678261693/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BOX DRAM (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,GLOBAL BOX DRAM (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1040144724/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 14 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ENO VIZYON 14 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2499369696/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="JURASSIC WORLD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,JURASSIC WORLD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2142969236/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ENO AKSIYON 1 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ENO AKSIYON 1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/633768195/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA FANTASTIC (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FIX CINEMA FANTASTIC (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2459747332/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA AILE 1 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMA AILE 1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4245508443/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DIZI SMART MAX (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DIZI SMART MAX (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4079530614/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTIC (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FILMBOX FANTASTIC (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2267707661/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YESILCAM (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FILMBOX YESILCAM (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/649037744/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX GOLD (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MAX GOLD (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3268174995/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KINGBOX ACTION (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,KINGBOX ACTION (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3186688793/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 3 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ENO VIZYON 3 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/251061611/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 1 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ENO VIZYON 1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1949742603/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX VIZYON 2 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MAX VIZYON 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2779630479/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BOX COMEDY (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,GLOBAL BOX COMEDY (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1828059735/index.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="DINAMIK KEMAL SUNAL (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DINAMIK KEMAL SUNAL (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3571625991/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DREAM KEMAL SUNAL (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DREAM KEMAL SUNAL (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/95010505/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BEST SALON 1 (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEST SALON 1 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2585357317/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BEST YESILCAM (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEST YESILCAM (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3652347263/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 15 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ENO VIZYON 15 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2845406032/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ANKA TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ANKA TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1570235694/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SALON 1 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SALON 1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2217333005/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA AILE 2 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMA AILE 2 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3131911051/index.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX VIZYON 3 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MAX VIZYON 3 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2563629631/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: S NEMA KOMED HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: S NEMA KOMED HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/440774949/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BEST KORKU (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEST KORKU (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2298271695/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA KOMEDI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ULTRA KOMEDI (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3537946048/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEMA TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1617719941/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BEST LOCA 1 (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEST LOCA 1 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1063857052/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FILMBOX COMEDY (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2089556265/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 4 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ENO VIZYON 4 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3168156027/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ADIBESA MASALLARI (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ADIBESA MASALLARI (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/832790897/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DIGI MAX (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DIGI MAX (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1278447576/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FIBERBOX KORKU (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FIBERBOX KORKU (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/380062362/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BEST LOCA 3 (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEST LOCA 3 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1168734460/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FIX CINEMA MACERA (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FIX CINEMA MACERA (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2958075443/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BEST AKSIYON (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEST AKSIYON (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4008602928/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CANIM KARDESIM TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,CANIM KARDESIM TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3737037158/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DINAMIK DRAM (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,DINAMIK DRAM (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2706562550/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA KORKU (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ULTRA KORKU (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3563562547/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KS PREMIER 1 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Albania" group-title="VavooTO Albania"  ,KS PREMIER 1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/58627140/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="United Kingdom" group-title="VavooTO United Kingdom"  ,FIGHT BOX (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3184592879/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 5 (7)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SINEVIZYON 5 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/567459984/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BEST TURK (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEST TURK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1196198280/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA AKSIYON (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ULTRA AKSIYON (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1910890160/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SPIDERMAN TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SPIDERMAN TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2478813774/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KELOGLAN TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,KELOGLAN TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/464447693/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SIRINLER TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,SIRINLER TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/383348303/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TOM & JERRY (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4100185659/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMATION 1 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ANIMATION 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/727427437/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX ANIMASYON 2 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MAX ANIMASYON 2 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2163073175/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,POKEMON HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1169103597/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: CARTOON NETWORK (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: CARTOON NETWORK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3278185898/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,NICKELODEON (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3029254675/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: NICKTOONS (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: NICKTOONS (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/988691374/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX ANIMASYON 1 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MAX ANIMASYON 1 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3343751751/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ANGRY BIRDS (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ANGRY BIRDS (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4063596417/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 TV (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEN 10 TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3270480503/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shmax.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",BİR TV
-https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -999,8 +262,14 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTGRP:Türkiyə
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
-http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MEDYA MTV
+http://208.79.153.42/akamaissh101/ssh101/TEBER_MEDYA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YM MÜZÜK HD
+http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İ PLAY MÜZÜK
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Life Tv
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
@@ -1035,165 +304,7 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",M Türk
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
-********ÖZEL*SINEMA TV*********
-
-#EXTINF:-1,|TR| SINEMA TV 2 HD
-http://hdlocal.de:8080/1228086/PFSI282TF3/10062
-#EXTINF:-1,|TR| SINEMA TV AKSIYON 1
-http://hdlocal.de:8080/1228086/PFSI282TF3/10117
-#EXTINF:-1,|TR| SINEMA TV HD
-http://hdlocal.de:8080/1228086/PFSI282TF3/10063
-#EXTINF:-1,|TR| SINEMATV 1001
-http://hdlocal.de:8080/1228086/PFSI282TF3/10120
-#EXTINF:-1,|TR| SINEMATV AILE 1
-http://hdlocal.de:8080/1228086/PFSI282TF3/10119
-#EXTINF:-1,|TR| SINEMATV AILE 2
-http://hdlocal.de:8080/1228086/PFSI282TF3/10118
-#EXTINF:-1,|TR| SINEMATV AKSIYON 2
-http://hdlocal.de:8080/1228086/PFSI282TF3/10116
-#EXTINF:-1,|TR| SINEMATV KOMEDI
-http://hdlocal.de:8080/1228086/PFSI282TF3/10115
-#EXTINF:-1,|TR| SINEMATV YERLI
-http://hdlocal.de:8080/1228086/PFSI282TF3/10114
-#EXTINF:-1,|TR| BYZ BOX 1 AKSIYON HD
-http://hdlocal.de:8080/1228086/PFSI282TF3/10083
-#EXTINF:-1,|TR| BYZ BOX KOMEDI HD
-http://hdlocal.de:8080/1228086/PFSI282TF3/10080
-#EXTINF:-1,|TR| NET VIZYON 1 HD
-http://hdlocal.de:8080/1228086/PFSI282TF3/10306
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARFEST" tvg-logo="" group-title="BOUQUET TURC",|TR| CINESTARFEST
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10055
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTAR COCUK FHD" tvg-logo="" group-title="BOUQUET TURC",|TR| CINESTAR COCUK FHD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9998
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARACTION FHD" tvg-logo="https://ulango.tv/uploads/channels/10911/movie_smart_action.png" group-title="BOUQUET TURC",|TR| CINESTARACTION FHD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10066
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARCLASSIC HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartclassic.png" group-title="BOUQUET TURC",|TR| CINESTARCLASSIC HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10174
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARFAMILY HD" tvg-logo="" group-title="BOUQUET TURC",|TR| CINESTARFAMILY HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10175
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARFEST" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d40f1a4aa41d0dcd3ff.jpg" group-title="BOUQUET TURC",|TR| CINESTARFEST
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10073
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARTURK HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| CINESTARTURK HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARPLATIN" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d30f1a4aa41d0dcd3fb.jpg" group-title="BOUQUET TURC",|TR| CINESTARPLATIN
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10071
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARPLATIN 2 HD" tvg-logo="https://tvmannen.es/iptv_channels/2258132_files/moviesmartplatin2.png" group-title="BOUQUET TURC",|TR| CINESTARPLATIN 2 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10069
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARPLATIN HD" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d30f1a4aa41d0dcd3fb.jpg" group-title="BOUQUET TURC",|TR| CINESTARPLATIN HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10070
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARPREMIUM 2 HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartpremium2.png" group-title="BOUQUET TURC",|TR| CINESTARPREMIUM 2 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10074
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARPREMIUM HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartpremium.png" group-title="BOUQUET TURC",|TR| CINESTARPREMIUM HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10076
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| CINESTARTURK FHD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| CINESTARTURK FHD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10064
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d30f1a4aa41d0dcd3fb.jpg" group-title="BOUQUET TURC",|TR|ELIT SMART 
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10071
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN 2 HD" tvg-logo="https://tvmannen.es/iptv_channels/2258132_files/moviesmartplatin2.png" group-title="BOUQUET TURC",|TR|ELIT SMART 2 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10069
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART PLATIN HD" tvg-logo="http://mï¿½?terihizmetleri.net/images/58ec7d30f1a4aa41d0dcd3fb.jpg" group-title="BOUQUET TURC",|TR| ELIT SMART3 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10070
-#EXTINF:-1 tvg-id="" tvg-logo="8.png" group-title="TEBER_MEDYA",NİMO TV HD
-https://tx.flv.nimo.tv/live/su1599519794528rd200c3d19d9576c60d3833c7502f0501.flv?wsSecret=04bec7371780bcdf10c6e178b5b5753b&wsTime=681a1add&seqid=3447999250879&ctype=nimo_media_web&ver=1&appid=81&tp=1746541277710&needwm=1&ratio=1000&dMod=mseh-0&sdkPcdn=1_1&u=1704232386598&t=100&sv=2412091148&sdk_sid=1746541287225&a_block=0
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="BOUQUET TURC",|TR| FX HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10085
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| FOX CRIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png" group-title="BOUQUET TURC",|TR| FOX CRIME HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10086
-
-#EXTINF:-1 tvg-id="vipchannel.tr" tvg-name="Vip Channel" tvg-logo="https://i.hizliresim.com/f3fh3wf.png" group-title="TR • Sinema ",Vip Channel
-http://spy17.eu:80/live/selentv/17.01.2022/1688.ts
-#EXTINF:-1 tvg-id="vipcanel2.tr" tvg-name="Vip Channel 2" tvg-logo="https://i.hizliresim.com/f3fh3wf.png" group-title="TR • Sinema ",Vip Channel 2
-http://spy17.eu:80/live/selentv/17.01.2022/1707.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV YERLI" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMATV YERLI
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10114
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMA TV HD" tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png?v=1.0.0.68" group-title="BOUQUET TURC",|TR| SINEMA TV1 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10063
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMA TV2 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMA TV 2 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10062
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMA TV AKSIYON 1" tvg-logo="http://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png?v=1.0.0.68" group-title="BOUQUET TURC",|TR| SINEMA TV AKSIYON 1
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10117
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV AKSIYON 2" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMATV AKSIYON 2
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10116
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV 1001" tvg-logo="http://1001.sinematv.com.tr/content/logo/SINEMATV-1001.png?v=1.0.0.68" group-title="BOUQUET TURC",|TR| SINEMATV 1001
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10120
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV AILE 1" tvg-logo="http://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png?v=1.0.0.68" group-title="BOUQUET TURC",|TR| SINEMATV AILE 1
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10119
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV AILE 2" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMATV AILE 2
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10118
-
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMATV KOMEDI" tvg-logo="" group-title="BOUQUET TURC",|TR| SINEMATV KOMEDI
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10115
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA 1 HD" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA 1 HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10083
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA KOMEDI HD" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA KOMEDI HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10080
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AKSIYON" tvg-logo="" group-title="BOUQUET TURC",|TR| LOCA AKSIYON
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
-#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIESMART TURK HD" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="BOUQUET TURC",|TR| MOVIES TURK HD
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
-
-***********************************************
-
-#EXTINF:-1 tvg-chno="10",SİNEMA TV
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Tv.php
-
-#EXTINF:-1 tvg-chno="11",SİNEMA AKSİYON
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aksiyon.php
-
-#EXTINF:-1 tvg-chno="11",SİNEMA YERLİ
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Yerli.php
-
-#EXTINF:-1 tvg-chno="13",SİNEMA AİLE
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.php
-
-#EXTINF:-1 tvg-chno="14",SİNEMA 1001
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.php
-
-#EXTINF:-1 tvg-chno="15",SİNEMA KOMEDİ
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.php
-
-#EXTINF:-1 tvg-chno="211",FILMBOX PREMIER
-http://spy17.eu:80/ozkanshmx/06.02.22/317203
-
-#EXTINF:-1 tvg-chno="212",FILMBOX ACTION
-http://spy17.eu:80/ozkanshmx/06.02.22/317204
-
-#EXTINF:-1 tvg-chno="213",FILMBOX DRAMA
-http://spy17.eu:80/ozkanshmx/06.02.22/317207
-
-#EXTINF:-1 tvg-chno="214",FILMBOX KOMEDI
-http://spy17.eu:80/ozkanshmx/06.02.22/317209
-
-#EXTINF:-1 tvg-chno="215",FILMBOX FAMILY
-http://spy17.eu:80/ozkanshmx/06.02.22/317211
-#EXTINF:-1 tvg-chno="216",FILMBOX YERLİ
-http://spy17.eu:80/ozkanshmx/06.02.22/317212
-
-#EXTINF:-1 tvg-chno="215",FILMBOX YEŞİLÇAM
-http://spy17.eu:80/ozkanshmx/06.02.22/317213
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV1
-https://goldvod.org/tv/uyanik?id=10
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV2
-https://goldvod.org/tv/uyanik?id=11
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV3
-https://tv.arectv34.sbs/live/sinema1002.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON TV4
-https://goldvod.org/tv/uyanik?id=94
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VİZYON BELGEL TV5
-https://goldvod.org/tv/uyanik?id=96
+**************artidijitalmedya********
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KAD7 TV 
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
@@ -1500,11 +611,6 @@ http://vip.nuaktv.xyz:2095/mhmt9949/Thr5R8NvGcU5/84699
 #EXTINF:-1 tvg-chno="172",EPIC DRAMA
 https://kbl-chnls-m3u.tecostream.workers.dev/Epic_Drama.php
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
-http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
-http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
 *********SPOR***************
 
 #EXTINF:-1 tvg-chno="71",SPORSMART
@@ -1572,7 +678,6 @@ https://kbl-chnls-m3u.tecostream.workers.dev/Kitchen_TV.php
 #EXTINF:-1 tvg-chno="122",MYZEN TV
 https://kbl-chnls-m3u.tecostream.workers.dev/Myzen_Tv.php
 
-
 **********MÜZİKTV***************
 
 #EXTINF:-1 tvg-chno="130",4TÜRK POP
@@ -1634,12 +739,6 @@ https://kbl-chnls-m3u.tecostream.workers.dev/Da_Vinci.php
 https://kbl-chnls-m3u.tecostream.workers.dev/English_Club.php
 
 *********YEREL************
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TELE ON
-https://al.flv.nimo.tv/live/su2139512740036rcc6e9e02ff3aac4949edfc4134d816a4.flv
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", TVA 
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
