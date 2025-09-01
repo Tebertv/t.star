@@ -10,12 +10,6 @@ http://208.79.153.42/akamaissh101/ssh101/tbrt_star2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL6 TV 
 http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA_TÜRK_TV
-http://208.79.153.42/akamaissh101/ssh101/GALA_TURK_TV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA KORKU TV
-http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HBB TV
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
@@ -5230,3 +5224,4 @@ http://
 http://
 #EXTINF:-1 group-title="29. |📡|👨‍💻👉GITHUB.COM/IPSTREET312",TEST 01
 http://
+
