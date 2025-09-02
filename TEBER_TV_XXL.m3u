@@ -30,11 +30,20 @@ http://208.79.153.42/akamaissh101/ssh101/MAXİTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER SAFARİ TV
 http://208.79.153.42/akamaissh101/ssh101/SAFARİ/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İ PLAY CINEMA TV
-https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MEDYA MTV
+http://208.79.153.42/akamaissh101/ssh101/TEBER_MEDYA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YM MÜZÜK HD
+http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YS SİNEMA HD
 http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İ PLAY CINEMA TV
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İ PLAY MÜZÜK
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
@@ -309,20 +318,15 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTGRP:Türkiyə
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MEDYA MTV
-http://208.79.153.42/akamaissh101/ssh101/TEBER_MEDYA/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YM MÜZÜK HD
-http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İ PLAY MÜZÜK
-https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Life Tv
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| LOCA AILE" tvg-logo="" group-title="AZERBAYCAN",|TR| CTV
 https://ip38.avrupatelekom.com:3766/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",DÜZGÜN TV
+http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="|TR| TEVE 2 HD" tvg-logo="http://x.pure-redirect.com/TR/teve2.png" group-title="BOUQUET TURC",|TR| TEVE 2 HD
 http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10143
