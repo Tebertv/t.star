@@ -1,39 +1,38 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR1 
-http://208.79.153.42/akamaissh101/ssh101/tbrt_star1/playlist.m3u8 
+http://208.79.153.42/akamaissh101/ssh101/teber_star1/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR 2
-http://208.79.153.42/akamaissh101/ssh101/tbrt_star2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL6 TV 
-http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE5_TURK_TV
-http://208.79.153.42/akamaissh101/ssh101/CINE5_TURK_TV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",GALA ADRALİN TV
-http://208.79.153.42/akamaissh101/ssh101/galatv/playlist.m3u8
+http://208.79.153.42/akamaissh101/ssh101/teber_star2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HBB TV
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE4 EHLİBEYT
+http://208.79.153.42/akamaissh101/ssh101/CINE4_EHLİBEYT/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE5_TURK_TV
+http://208.79.153.42/akamaissh101/ssh101/CINE5_TÜRK_TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL6 TV 
+kral6
+http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8v
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE7 SAFARİ
+http://208.79.153.42/akamaissh101/ssh101/CINE7_SAFARİ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE8 MAXİ TV
+http://208.79.153.42/akamaissh101/ssh101/CINE8_MAXİTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE9 MTV
+http://208.79.153.42/akamaissh101/ssh101/CINE9_MTV
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER ON
-http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8         
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT TV
-http://208.79.153.42/akamaissh101/ssh101/EHLİBEYT/playlist.m3u8                               
+http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MAXİ TV
-http://208.79.153.42/akamaissh101/ssh101/MAXİTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER SAFARİ TV
-http://208.79.153.42/akamaissh101/ssh101/SAFARİ/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER MEDYA MTV
-http://208.79.153.42/akamaissh101/ssh101/TEBER_MEDYA/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İ PLAY CINEMA TV
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YS SİNEMA HD
@@ -41,3 +40,6 @@ http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YM MÜZÜK HD
 http://208.79.153.42/akamaissh101/ssh101/ymmusictv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İ PLAY MÜZÜK
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
