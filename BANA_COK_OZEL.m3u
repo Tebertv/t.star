@@ -9,7 +9,6 @@ http://208.79.153.42/akamaissh101/ssh101/teber_star2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HBB TV
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE4 EHLİBEYT
 http://208.79.153.42/akamaissh101/ssh101/CINE4_EHLİBEYT/playlist.m3u8 
 
@@ -18,7 +17,7 @@ http://208.79.153.42/akamaissh101/ssh101/CINE5_TÜRK_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL6 TV 
 kral6
-http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8v
+http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE7 SAFARİ
 http://208.79.153.42/akamaissh101/ssh101/CINE7_SAFARİ/playlist.m3u8
@@ -27,10 +26,10 @@ http://208.79.153.42/akamaissh101/ssh101/CINE7_SAFARİ/playlist.m3u8
 http://208.79.153.42/akamaissh101/ssh101/CINE8_MAXİTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",CINE9 MTV
-http://208.79.153.42/akamaissh101/ssh101/CINE9_MTV
+http://208.79.153.42/akamaissh101/ssh101/CINE9_MTV/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER ON
-http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8         
+http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8          
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",YS SİNEMA HD
 http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
